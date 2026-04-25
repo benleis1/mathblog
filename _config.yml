@@ -18,41 +18,92 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MathBlog on Jenkyll
-email: benleis1@gmail.com
+title: MathBlog on Jekyll
+tagline: Mathematics and Problem Solving
 description: >- # this means to ignore newlines until "baseurl:"
-  Test of jekyll for blogging
+  A blog exploring mathematical concepts and problem-solving techniques
 baseurl: "/mathblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  benleis1
+
+# Author information
+author:
+  name: Ben Leis
+  email: benleis1@gmail.com
+  links:
+    - https://github.com/benleis1
+
+# Social media
+github:
+  username: benleis1
 
 # Build settings
-theme: minima
+theme: jekyll-theme-chirpy
+
+# Collections
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+# Pagination
+paginate: 10
+paginate_path: "/posts/page:num/"
+
+# Plugins
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Search
+search:
+  enabled: true
 
+# Archives
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+# Default settings
 defaults:
   - scope:
-      path: "_posts"
+      path: ""
+      type: posts
     values:
-      layout: "posts"
+      layout: post
+      comments: false
+      toc: true
+      math: true
+      mermaid: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+  - scope:
+      path: assets/img/favicons
+    values:
+      swcache: true
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Timezone
+timezone: America/New_York
