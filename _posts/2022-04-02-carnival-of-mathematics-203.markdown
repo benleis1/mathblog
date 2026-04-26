@@ -1,7 +1,7 @@
 ---
 title: "Carnival of Mathematics 203"
 date: 2022-04-02 12:45:00 -0700
-author: Benjamin Leis
+author: me
 image:
   path: /assets/img/blogger_8df3e4ba.png
 ---

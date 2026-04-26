@@ -4,7 +4,7 @@ date: 2022-02-05 20:49:00 -0800
 categories:
   - cyclic quadrilateral
   - geometry
-author: Benjamin Leis
+author: me
 image:
   path: /assets/img/blogger_5f588c0e.png
 ---

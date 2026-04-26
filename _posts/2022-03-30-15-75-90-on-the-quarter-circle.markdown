@@ -4,7 +4,7 @@ date: 2022-03-30 08:44:00 -0700
 categories:
   - 15-75-90
   - geometry
-author: Benjamin Leis
+author: me
 image:
   path: /assets/img/blogger_8bb6a461.png
 ---

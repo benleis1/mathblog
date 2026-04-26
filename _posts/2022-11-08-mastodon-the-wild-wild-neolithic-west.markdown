@@ -4,7 +4,7 @@ date: 2022-11-08 09:20:00 -0800
 categories:
   - mastodon
   - twitter
-author: Benjamin Leis
+author: me
 image:
   path: /assets/img/blogger_2ff09a2b.png
 ---

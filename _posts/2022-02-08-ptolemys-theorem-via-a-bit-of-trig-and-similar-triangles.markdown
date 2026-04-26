@@ -5,7 +5,7 @@ categories:
   - law of cosines
   - ptolemy
   - trigonometry
-author: Benjamin Leis
+author: me
 image:
   path: /assets/img/blogger_be92a745.png
 ---

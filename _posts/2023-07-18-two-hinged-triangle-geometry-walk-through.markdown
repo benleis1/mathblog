@@ -3,6 +3,7 @@ title: Two Hinged Triangle Geometry Walk Through
 date: 2023-07-18
 categories: [Math Club, Geometry]
 tags: [geometry, triangles, complex-numbers]
+author: me
 math: true
 image:
   path: /assets/img/posts/two-hinged-triangle/orig.png

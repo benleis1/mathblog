@@ -4,6 +4,7 @@ title: "Trig identity Three Ways (at least)"
 date: 2023-02-04 01:43:00 +0000
 categories: [Mathematics, Trigonometry]
 tags: [trigonometry, identities, proofs]
+author: me
 math: true
 image:
   path: /assets/img/2023-02-04/trig-identity-triangle.png

@@ -1,7 +1,7 @@
 ---
 title: "Linear Algebra Retrospective"
 date: 2021-09-07 17:08:00 -0700
-author: Benjamin Leis
+author: me
 image:
   path: /assets/img/blogger_6320627b.png
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Binomial Theorem Connection"
 date: 2022-09-03 11:32:00 -0700
-author: Benjamin Leis
+author: me
 image:
   path: /assets/img/blogger_8b675d03.png
 ---

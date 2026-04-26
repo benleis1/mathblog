@@ -5,7 +5,7 @@ categories:
   - cyclic quadrilateral
   - geometry
   - walkthrough
-author: Benjamin Leis
+author: me
 image:
   path: /assets/img/blogger_cc5cf0c4.png
 ---

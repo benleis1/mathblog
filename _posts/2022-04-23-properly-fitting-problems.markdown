@@ -1,7 +1,7 @@
 ---
 title: "Properly fitting Problems"
 date: 2022-04-23 18:07:00 -0700
-author: Benjamin Leis
+author: me
 image:
   path: /assets/img/blogger_a086d804.png
 ---

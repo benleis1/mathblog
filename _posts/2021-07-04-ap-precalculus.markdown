@@ -4,7 +4,7 @@ date: 2021-07-04 12:50:00 -0700
 categories:
   - high school
   - precalc
-author: Benjamin Leis
+author: me
 image:
   path: /assets/img/blogger_6320627b.png
 ---
