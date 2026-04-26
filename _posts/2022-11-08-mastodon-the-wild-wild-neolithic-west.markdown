@@ -1,7 +1,7 @@
 ---
 title: "Mastodon:  The Wild Wild Neolithic West"
 date: 2022-11-08 09:20:00 -0800
-categories:
+tags:
   - mastodon
   - twitter
 author: me

@@ -1,7 +1,7 @@
 ---
 title: "Cyclic Quad Area Problem"
 date: 2022-02-05 20:49:00 -0800
-categories:
+tags:
   - cyclic quadrilateral
   - geometry
 author: me

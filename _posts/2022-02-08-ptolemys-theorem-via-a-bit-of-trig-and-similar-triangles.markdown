@@ -1,7 +1,7 @@
 ---
 title: "Ptolemy's Theorem via a bit of Trig and similar triangles"
 date: 2022-02-08 17:53:00 -0800
-categories:
+tags:
   - law of cosines
   - ptolemy
   - trigonometry

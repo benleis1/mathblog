@@ -1,7 +1,7 @@
 ---
 title: "AP PreCalculus?"
 date: 2021-07-04 12:50:00 -0700
-categories:
+tags:
   - high school
   - precalc
 author: me

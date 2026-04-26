@@ -1,8 +1,7 @@
 ---
 title: Two Hinged Triangle Geometry Walk Through
 date: 2023-07-18
-categories: [Math Club, Geometry]
-tags: [geometry, triangles, complex-numbers]
+tags: [geometry, triangles, complex-numbers, math club]
 author: me
 math: true
 image:

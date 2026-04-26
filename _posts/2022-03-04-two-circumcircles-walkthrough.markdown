@@ -1,7 +1,7 @@
 ---
 title: "Two Circumcircles Walkthrough"
 date: 2022-03-04 12:45:00 -0800
-categories:
+tags:
   - cyclic quadrilateral
   - geometry
   - walkthrough

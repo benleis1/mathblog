@@ -1,7 +1,7 @@
 ---
 title: "15-75-90 on the quarter circle"
 date: 2022-03-30 08:44:00 -0700
-categories:
+tags:
   - 15-75-90
   - geometry
 author: me
