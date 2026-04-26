@@ -79,7 +79,7 @@ defaults:
     values:
       layout: post
       author: me
-      comments: false
+      comments: true
       toc: true
       math: true
       mermaid: false
@@ -108,3 +108,10 @@ exclude:
 
 # Timezone
 timezone: America/New_York
+
+# Comments
+comments:
+  provider: utterances
+  utterances:
+    repo: benleis1/mathblog  # Update with your actual repo name if different
+    issue_term: pathname  # Maps comments to blog post URL path

@@ -11,7 +11,7 @@ math: true
 
 1. metrics - are the builtin ones in github enough?
 2. comments
-3. can I scale images?
+3. add a header image to the home page
 
 
 ## Test MathJax
