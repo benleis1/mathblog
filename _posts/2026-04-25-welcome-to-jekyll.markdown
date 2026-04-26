@@ -5,9 +5,14 @@ categories: [Tutorial, Jekyll]
 tags: [jekyll, mathjax, math]
 math: true
 ---
+# Trying out a reconstruction of my blogspot blog
 
-## Simple test
-* A bullet point
+**TODO**
+
+1. metrics
+2. comments
+3. can I scale images?
+
 
 ## Test MathJax
 
