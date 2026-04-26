@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author information
 author:
-  name: Ben Leis
+  name: Benjamin Leis
   email: benleis1@gmail.com
   links:
     - https://github.com/benleis1
@@ -78,6 +78,7 @@ defaults:
       type: posts
     values:
       layout: post
+      author: me
       comments: false
       toc: true
       math: true

@@ -9,7 +9,7 @@ math: true
 
 **TODO**
 
-1. metrics
+1. metrics - are the builtin ones in github enough?
 2. comments
 3. can I scale images?
 
