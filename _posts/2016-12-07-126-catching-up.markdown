@@ -1,0 +1,27 @@
+---
+title: "12/6 Catching Up"
+date: 2016-12-07 19:41:00 +0000
+author: me
+---
+
+As I alluded to in my [last post](http://mymathclub.blogspot.com/2016/12/grab-bag-of-problems.html) I had to miss last week's Math club meeting. This was one of those times when expanding to two instructors really paid off. Thanks to the other parent, I was able to have the kids do a joint session and didn't have to cancel the day.  This was also made a bit easier by the fact that we were scheduled to do the first MOEMs Olympiad. So for the most part the kids were working by themselves on the problems in a proctored setting.
+
+Nevertheless, that meant  I had a lot of items to catch up on when I rejoined everyone this week. To start off I had all the kids talk about their recent experiences with the AMC 8 test and with the first Olympiad.  The general consensus was that the first Olympiad was pretty hard. This was our first time trying out the middle school division so I was unsure what to expect. I always do the contests myself before hand to gauge their difficulty and form ideas about what I expect the kids to have trouble with. I also thought this was going to present a high degree of challenge. Interestingly, I've now looked at the second in the series and its doesn't appear as hard. So I'm going to continue on with the experiment and not switch back to the elementary division for now.
+
+Because they hadn't gone over the solutions as a group I decided we would do so now even though they had been handed out. My general observation is that most kids don't reflect on problems unless you setup the structure to encourage it (even with a solution set).  The drawback was that this was a week later and so there was less excitement than there would have been in the moment but I think it was critical to draw out the discussion and have everyone think more about the problems they hadn't been able to solve.  
+
+I'm unable to directly discuss the problems but several observations I did have were:
+
+- Comprehension is a bit of a problem. For instance there was one problem that asked the kids to find only cubed numbers. Many of them totally misunderstood and just looked for all the numbers. I'm going to have a discussion about careful reading before the next version and see if that's enough otherwise we may need to do some group practice parsing.
+- Many of the kids are unfamiliar with cubes and exponents in general. That's not completely unexpected given the scope and sequence for the year and I don't usually pick problems that hinge on them. But I may need to make an exception to facilitate with the contest and plan a day around exponents to give the kids the tools they need. The key idea I'd like them to understand is how an exponent is just notation that can always be expanded out into multiplication.
+
+By this point we had used up more than half of the time and I wanted to switch tacks and do some group work. So I went with the factoring puzzle I had previously found:
+
+![]({{ site.baseurl }}/assets/img/126-catching-up/blogger_1fc51a0f.jpg)
+
+As I expected this was compelling and accessible.  As I worked my way around the groups, most of my discussion were around which numbers can you see most immediately i.e. the 5 sticks out first for most kids (and then the 2's) and how do you go forward from there.  I needed to ask a series of leading questions to get some of the kids to think about factoring and structure. I.e. since all these numbers share factors once you've factored one you're only missing one factor in any of the other ones. So it also makes a lot of sense to factor the easiest one 6160 first.  My favorite observation, was one students noticing that once you did have the factors and ordered them, the smallest factor belonged behind the largest value, the second smallest factor belonged behind the second largest value and so on.
+
+By this point I ran a few minutes over schedule. That meant I ended up skipping past the previous problem of the week and the other items I had assembled for the day.  If only we could have kept going for another 30 minutes ... On the bright side, we're well setup for our normal routine next week which will be the last session for this quarter.
+
+P.O.T.W
+[http://furthermaths.org.uk/docs/FMSP%20Problem%20Poster%203.pdf](http://furthermaths.org.uk/docs/FMSP%20Problem%20Poster%203.pdf)

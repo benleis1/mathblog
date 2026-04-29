@@ -2,8 +2,6 @@
 title: "Linear Algebra Retrospective"
 date: 2021-09-07 17:08:00 -0700
 author: me
-image:
-  path: "{{ site.baseurl }}/assets/img/blogger_6320627b.png"
 ---
 
 Everything I discovered after doing the linear algebra section of PreCalc last year
@@ -19,4 +17,4 @@ Everything I discovered after doing the linear algebra section of PreCalc last y
 
  
 
- ![]({{ site.baseurl }}/assets/img/blogger_6320627b.png)
+ 

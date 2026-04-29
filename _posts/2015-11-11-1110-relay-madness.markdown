@@ -1,0 +1,35 @@
+---
+title: "11/10 Relay Madness!"
+date: 2015-11-11 04:48:00 +0000
+tags:
+  - knights of pi
+  - varignon
+  - statistics
+author: me
+---
+
+After my bad activity complexity estimation last week it was a relief to properly size the planned exercises for math club this time around.  We started by going over the problem of the week:
+
+The number 1,525,354,555,657,585,950 is, as it happens, evenly divisible by 99. Fix all the 5s digits where they are in the number, and rearrange the other digits randomly. What is the chance that a rearrangement of this form is still evenly divisible by 99?
+
+As I posted earlier, I sent home links to divisibility rules to help everyone out. In practice, most of the kids found the solution based on this help even without covering it in club. This time while checking kids in I tried something new.  I scanned everyone's sheets and encouraged a boy who hadn't done so before to do the demo on the board.  The rules themselves seem to be fairly easy to master (compared to applying the distributive law for instance). I even sneaked in a quick demo of why the divisibility rule for 9's worked using the standard regrouping technique because the student proof went so quickly. I'm continuing with my theme of emphasizing the distributive law during such examples.  [AoPS standard proof](http://www.artofproblemsolving.com/wiki/index.php/Divisibility_rules/Rule_for_3_and_9_proof)
+
+So for the main task we practiced doing math relays using some old ones from the Knights of Pi competition: [old contests](http://www.newportmathclub.org/kpmt/archive.aspx)   The way these works is you group the kids into teams of 4 and then they work on the four part problems one kid at time. After the first kid finishes, their result plugs into become part of the second problem and so on. This means an early error will invalidate the entire team's work. My main goal was to practice the format for those that are going to do the contest later and hopefully have it be a different and fun way to try out problems for everyone else. I originally had planned to stop after each round and correct the problems as a group but I quickly changed my mind.
+
+1. Relays leave 3 kids without problems to work on. So I quickly changed tacks and had multiple rounds going simultaneously. That meant less down time for everyone.
+
+2.  Secondly, I and my assistant ended up individually helping on problems rather than doing the group corrections since everyone was going at a different pace.
+
+Overall watching the kids work I found a few areas to focus on at a future time.
+
+1. There was a smattering of kids who were unable to easily do operation inverses .i.e if the average is 1.5 and there are 6 items, what is the total? 
+
+2.  One of the problem sets I chose happened to use basic statistics which I don't think anyone has covered much.  In this case, this is exactly what might happen at the contest so I wanted the kids to have that experience. But having just gone over the stats chapter in AoPS pre-algebra I could also definitely plan a themed day around it.
+
+3. Another similar triangles problem came up. I really want to do a day doing an inquiy based investigation of how this works i.e drawing triangle and measuring to watch dilation / expansion in action.
+
+Finally based on some twitter traffic I picked  a problem based on Varignon's theorem for the problem of the week: [https://drive.google.com/open?id=0B6oYedIeLTUKMU8weEZEZ3NNSmM](https://drive.google.com/open?id=0B6oYedIeLTUKMU8weEZEZ3NNSmM)
+
+I've added on some open ended experiments for the kids after they finish the concrete example.
+
+!![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Varignon_parallelogram_convex.svg/300px-Varignon_parallelogram_convex.svg.png)

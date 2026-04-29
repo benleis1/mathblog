@@ -1,0 +1,51 @@
+---
+title: "15-75-90 Alternate Forms"
+date: 2019-08-29 18:48:00 +0000
+tags:
+  - 15-75-90
+  - geometry
+author: me
+---
+
+Its been a while since I've talked about one of my favorite triangles the 15-75-90. So here's a short post on a new detail  thatI realized about them the other day:
+
+ 
+
+Via an angle chase or perhaps from experience: [Previous Discussion](http://mymathclub.blogspot.com/2017/06/15-75-triangle-redux.html)  you find the triangle CDE is a 15-75-90.    We conveniently know the ratios:
+
+!![]({{ site.baseurl }}/assets/img/15-75-90-alternate-forms/blogger_09eb66f8.PNG)
+
+But in this case the long base is \( \sqrt{6}+ \sqrt{2} \) .    We could scale directly:
+
+\( EC =  (\sqrt{6}+ \sqrt{2}) \cdot 2 \sqrt{2 - \sqrt{3}} \)  but that's pretty messy looking.
+
+So instead we'll go in stages:
+
+- The short side  ED scales to : \( (2 - \sqrt{3})(\sqrt{6} + \sqrt{2}) =  \sqrt{6} - \sqrt{2} \)   That's interestingly the conjugate of the CD
+- Then we can use the Pythagorean theorem and the conjugates conveniently mostly cancel out:  \( EC^2 = (\sqrt{6} - \sqrt{2})^2 + (\sqrt{6} + \sqrt{2})^2 = 16 \).
+- So EC = 4.
+
+The whole problem is intriguingly demonstrating the following alternate ratios for 15-75-90:
+
+![]({{ site.baseurl }}/assets/img/15-75-90-alternate-forms/blogger_fd97bbaa.png)
+
+All of which still begs the question: how do we convert directly between the two forms?  To do so we look for 2 number a and b such that:  \( (a + b)^2 =  (2 \sqrt{2 - \sqrt{3}})^2 = 8 - 4 \sqrt{3} \)  After expanding that leads to:
+
+- \( a^2 + b^2 = 8\)
+- \( a \cdot b = -2 \sqrt{3} \)
+- We can substitute for b and arrive at :    \( a^2 + \frac{12}{a^2} = 8 \)
+- Simplifying we get: \( (a^4 - 8a^2 + 12) = (a^2 - 6)(a^2 - 2) =  0 \)
+- These two solutions are symmetric if \(  a = \sqrt{2}\) then \( b = \sqrt{6} \) and vice versa. So accounting for the sign of \( a \cdot b \) we've shown \(   \sqrt{6} - \sqrt{2}  =   2 \sqrt{2 - \sqrt{3}} \)
+
+Note:  both forms demonstrate the following defining  constraint: the area of the triangle \( \frac{1}{2} ab \) is \( \frac{1}{8}  \) of the area of the hypotenuse squared.  (See: [Prev discussion](https://mymathclub.blogspot.com/2017/07/and-yet-more-15-75-90-fun.html))
+
+![]({{ site.baseurl }}/assets/img/15-75-90-alternate-forms/blogger_1ddc32a2.png)
+
+And as seen before this is highly consistent with the trigonometry. (Let s be the hypotenuse of the triangle) 
+
+- \(  A = \frac{1}{2} ab  =  \frac{1}{2} s \cdot \cos{15} \cdot  s \cdot \sin{15} =    s^2 \frac{1}{4} \sin{30} = \frac{1}{8} s^2 \)
+
+Bonus addon: Colin Beveridge told me about Aille's  rectange which gives another nice construction for deriving these ratios:  (See: [http://www.flyingcoloursmaths.co.uk/the-mathematical-ninja-and-ailles-rectangle/](http://www.flyingcoloursmaths.co.uk/the-mathematical-ninja-and-ailles-rectangle/) for his version)
+
+![]({{ site.baseurl }}/assets/img/15-75-90-alternate-forms/blogger_2d5b43e9.PNG)
+

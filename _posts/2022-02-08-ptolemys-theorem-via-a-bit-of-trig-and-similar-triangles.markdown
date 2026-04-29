@@ -7,10 +7,10 @@ tags:
   - trigonometry
 author: me
 image:
-  path: "{{ site.baseurl }}/assets/img/blogger_be92a745.png"
+  path: "{{ site.baseurl }}/assets/img/ptolemys-theorem-via-a-bit-of-trig-and-similar-triangles/blogger_be92a745.png"
 ---
 
-![]({{ site.baseurl }}/assets/img/blogger_be92a745.png)
+![]({{ site.baseurl }}/assets/img/ptolemys-theorem-via-a-bit-of-trig-and-similar-triangles/blogger_be92a745.png)
 
 Here's a straightforward trigonometric proof of Ptolemy's Theorem using scale factors and the Law of Cosines.
 First we start with a cyclic quadrilateral and assign it segment lengths:
@@ -30,4 +30,3 @@ Finally we substitute these expression into the original one  which leads to a h
 
 $$ AD \cdot BC + CD \cdot AB  = (k^2 + 1 + 2k\cos{\theta}) \cdot xy + k \cdot (x^2 + y^2 - 2xy\cos{\theta})$$$$ AD \cdot BC + CD \cdot AB  = k^2xy + xy + kx^2 + ky^2$$$$ AD \cdot BC + CD \cdot AB  = (ky + x)\cdot(kx + y)$$$$ AD \cdot BC + CD \cdot AB  = AC \cdot BD$$
 
-![]({{ site.baseurl }}/assets/img/blogger_6320627b.png)

@@ -1,0 +1,61 @@
+---
+title: "1/9 Olympiad #2"
+date: 2018-01-10 22:35:00 +0000
+author: me
+---
+
+Recruitment
+
+By today, I was up to 11 boys and 6 girls. So I'm beyond my target size of 15. I also had a bit of a challenge in that 2 kids hadn't shown up the previous week when I focused on introductions and I was primed to do an Olympiad today.  My main strategy here was to be honest with the newcomers via email and send them a practice Olympiad ahead of time as well as stressing that we'd be more "math circle" oriented in future weeks.
+
+New Largest Prime
+
+To start up, I decided to start this session with a quick mention of the recent discovery of a new largest prime:  277,232,917-1 which has 23,249,425 digits. My main point was to reinforce that new mathematical discoveries are occurring all the time and the field is evolving.  But in the ensuing discussion one student brought up the  factoring in public / private key [encryption.](https://en.wikipedia.org/wiki/Public-key_cryptography)  (As an aside, someday I'd love to do a numerical computing activity like implement some of the RSA algorithm.) This was a great coincidence since I had been planning to talk about that anyway.
+
+Stealthy Skills Practice
+
+Thinking about the new prime and the connection between factoring and encryption beforehand I came up with the following quick activity.
+
+1. Breakout into pairs. I had everyone choose someone they didn't know well as a partner.
+
+2. One person is the encoder and picks two numbers less than 200 and multiplies them together.
+
+3. He or she then gives the result to their partner.
+
+3. The second person then is "the hacker" and has 5 minutes to see if they could find a way to non-trivially factor this product.
+
+This was meant to serve several purposes. One I wanted the kids to build relationships especially with the two new students. Secondly, it was a great quick demo of the difficulty of factoring and why its so useful for encryption (I had I think only 3 pairs crack the code out of the group).  This led to a few interesting followup conversations.  But also equally important just like last week with some of the 2018 problems this was a chance to practice factoring/multiplication/division in disguise.   Watching kids work through basic computations, I'm always looking for more chances to practice skills which in theory they know but in practice could use a little reinforcement. If I were running a real class I might buckle down and use a review worksheet like those on [https://www.kutasoftware.com](https://www.kutasoftware.com/).  But in this context I worry about keeping the kids engaged and maintaining the separation between recreation and school.
+
+The main activity for today was the 2nd round of the MOEMS Olympiads. If you've been following along, you'll remember I've been moving these around quite a bit to fit our schedule and am about one test behind the official schedule.  Overall on first glance, I believe the kids did a bit better than the first time even though most of them took longer to complete.  My only disappointment was that after going through a speech about reading the directions and making sure to answer the question that was asked I still had a few kids still answer a question asking for a whole number less than 1000 with values that were (much) larger than it.  On the bright side when I had everyone demo answers on the board, I had tons of volunteers and was able to have almost everyone of the new students come up to the whiteboard.  So we're already on a great start.
+
+As usual, I'm not allowed to directly discuss the problems but I by coincidence saw a very similar problem in AMC10 to my favorite one from the set today that I'm going to discuss instead.
+
+2016 AMC10B problem 18:
+
+**"In how many ways can 345 be written as the sum of an increasing sequence of two or more consecutive positive integers?"**
+
+What I find interesting in these problems is the different behaviors for odd and even numbers.
+
+First for odd series with 2n + 1 members, if you write the  sum as:
+
+(x - n)  +  (x - (n + 1)) +  ...  + (x - 1) +  x   + (x + 1) .... (x + n) its easy to see the sum is just (2n+1)x
+
+That implies for all the odds (2n+1) saying that such a sum exists is equivalent to saying that number is  a multiple of 2n+1.
+
+What's also fun is that looking at the series another way you get:
+
+x + (x + 1) + (x + 2) ....   (x + n - 1) which is equivalent  to   nx + T(n -1) where T is the  triangle number function. So putting that together you have an informal proof that all the odd triangle numbers are also divisible by their index.
+
+Then looking at the evens  (2n) which are bit more tricky:
+
+(x - (n - 1)) +  ...  + (x - 1) +  x   + (x + 1) .... + (x + (n - 1)) +  (x + n)   you get  2nx + n or  n(2x +1)
+
+In other words the even series (2n) are always a multiple of n and some odd number.
+
+Returning to the original question, this all means its really at heart a question of factoring!
+
+P.O.T.W
+
+I saw a similar problem online somewhere in the last few weeks and although I couldn't find the original, I decided to construct my own version.  This is actually a fairly straightforward linear system once you deal with the fact the lines continue on beyond the page so I'm hoping for a lot of participation.
+
+![]({{ site.baseurl }}/assets/img/19-olympiad-2/blogger_12f176fa.png)

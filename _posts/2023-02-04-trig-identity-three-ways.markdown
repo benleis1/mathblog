@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trig identity Three Ways (at least)"
 date: 2023-02-04 01:43:00 +0000
 tags: [trigonometry, identities, proofs]

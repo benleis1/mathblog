@@ -81,6 +81,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
 
+# Tag archive pages
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+
 # Social Sharing
 social:
   type: Person

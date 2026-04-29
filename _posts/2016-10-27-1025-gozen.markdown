@@ -1,0 +1,38 @@
+---
+title: "10/25 Gozen"
+date: 2016-10-27 17:53:00 +0000
+tags:
+  - games
+  - math club ideas
+author: me
+---
+
+It was an interesting week from a planning perspective.  I'm  almost finished emphasizing divisibility and trying to decide what area I'd like to turn to next. One possibility was to return to some math relays from Math Counts. We'd tried that last year and it was mentioned as being fun by several kids in the wrap ups for the quarter.   My friend Dan had mentioned the relays again and they would fit with my aim at finding delivery methods that excite the kids while working through problem sets. In particular, there are also some thematically unified sets which I prefer.
+
+At the same time I saw an interesting set of topology projects that Mike Lawler did:
+
+I tried them out myself and I think they would be hit based on my experience with fold and cut activities last year. Finally, there was a comment from Joshua Green that had me relooking at resources at mathpickle.com after a fairly long absence.
+
+In the end I decided to focus on one of the games from there: [http://mathpickle.com/project/gozen-factorization-game/](http://mathpickle.com/project/gozen-factorization-game/)   (See: [https://en.wikipedia.org/wiki/Tomoe_Gozen](https://en.wikipedia.org/wiki/Tomoe_Gozen) for the inspiration) I thought and this turned out to be true that the tower-defense structrure would appeal to my kids.  The one problem with this game is the fairly complex instructions. So going in, I planned to play a sample game as  a class to help everyone catch on.  This worked pretty well.   There was still some initial confusion and questions but after the group play was over, I only needed to walk around and answer about 1 question per group to have everyone on track. And once that was done, most of the kids really got into it.
+
+![]({{ site.baseurl }}/assets/img/1025-gozen/blogger_3ebe02ec.jpg)
+
+![]({{ site.baseurl }}/assets/img/1025-gozen/blogger_f9aca8c5.jpg)
+
+![]({{ site.baseurl }}/assets/img/1025-gozen/blogger_438fcbe1.jpg)
+
+![]({{ site.baseurl }}/assets/img/1025-gozen/blogger_f11fda05.jpg)
+
+As you can see I brought an assortment of colored pencils and the final boards are actually quite pretty. If I were to repeat I might tinker with the rules a bit. The defensive block shots don't really fit well with the permanent archers defending their squares. Perhaps you should be able to choose between two types of moves.
+
+I ended up reserving about 10 minutes at the end to demonstrate the divisibility rule for 7's since I had promised I would do so last week.
+
+That left just enough time to hand out the problem of the week. This time I turned to a fun geometry exercise.  I didn't include any drawings so hopefully everyone interprets squares as geometric figures rather than square numbers (although its certainly approachable that way as well.) I'll probably stress that point in my weekly mail to the group.
+
+"Find a way for any
+number n greater than 5 to divide a square into n parts each of which
+is also a square. Note: the subsquares
+do not have to all be the
+same size."
+
+Looking forward, our first MOEMS contest is coming up as well AMC 8. I'm also feeling a strong urge to break out a grid logic puzzle.

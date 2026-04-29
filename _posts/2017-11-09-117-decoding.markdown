@@ -1,0 +1,80 @@
+---
+title: "11/7  Decoding"
+date: 2017-11-09 22:55:00 +0000
+author: me
+---
+
+I decided to do a second smaller sampler of AMC 8 problems for Math Club this week.  Unlike last week (see: [http://mymathclub.blogspot.com/2017/10/1031-put-bird-on-it.html](http://mymathclub.blogspot.com/2017/10/1031-put-bird-on-it.html))  this time I wanted to approach them as a group and only do 5-6 max but concentrate on the hard ones and have the group demo solutions.
+
+So I picked the last 6 problems from AMC 2014: [link to partial set](https://drive.google.com/open?id=1ZoLgBb3wTQBrqsqPcBymgGED-wG-ffTtI5ffm0w1FFc)  and had the kids divide up and work them in groups. My goal was to only spend 15 minutes but because the work looked productive we ended using about half the time again. 
+
+Overall:
+
+- focus was less good today especially during the demos. I'm going to need to work on improving the classroom norms here or be more mindful to limit this to fewer problems.
+- There was one really interesting argument about the solution to the 2nd problem in one group. One girl had a general solution and her partner didn't understand how it worked. I intervened to try to get the two students to slow down and listen to each more carefully.  
+- I noticed a general hole in modular arithmetic that would make a good topic for one of the upcoming sessions.
+- One other student has a weakness for linear systems. I really like his thinking but he almost always tries to setup a system regardless of the problem. My personal goal here is to work to get him to expand his tool set.
+
+At this point we switched to my main focus, encoding problems which ran better than the first half. I've done these in the past but this time I switched my sequence of problems up a bit which I think worked really well.
+
+Encoding Problems:
+
+First  I started with a general open-middle type problem: Using the digits 1-9 form  a valid addition
+
+equation with the form below:
+
+   _  _  _
+
++ _  _  _
+
+=======
+
+   _  _  _
+
+This was great for a low barrier to entry and due to the many/many possible solutions. After the group had found 3 or so we move on to a class decoding problem.
+
+Each letter stands for a distinct digit
+
+  DOG
+
++GOD
+
+======
+
+ DEEP
+
+Interestingly, my best solver in the first part also cracked this one first.
+
+Finally we finished with this multiplication problem which was not solved before time ran out:
+
+A B C D E F               A B C
+
+x                6   and    + D E F
+
+-----------------            ---------
+
+  D E F A B C                9  9 9
+
+Spare problem we didn't reach:
+
+                         _ 5 3  
+
+            -----------------
+
+_  _ 9  |  6 _  8 _ _  _
+
+             _  _  _ _
+
+                ======
+
+                 _ 9 _  _
+
+                 _ _ 4  _
+
+                    =======
+
+                     _ _  4 _
+
+                     _ _  _  _
+
+Overall, I would have preferred to have only done my main activities but I think again for AMC 8 it was worth one more session of prep. I also had a few issue with a few students rough housing today that I'm working hard to nip in the bud.  I'm going to go over behavioral standards and pull one student aside before we start next time.   Looking forward, I'm super excited to see the kids take the test next week. I have a small scheduling issue with MOEMS which is on the same date. I really don't want 2 contest in a row so my plan is to to slide the MOEMS tests around fairly aggressively to free up time for more focused math circle sessions.

@@ -1,0 +1,31 @@
+---
+title: "12/1 The power of 37"
+date: 2015-12-02 23:57:00 +0000
+tags:
+  - pair and share
+  - number theory
+author: me
+---
+
+This week I led math club by myself. I decided I would focus on a pair and share exercise where we'd work through 3 problems and spend time explaining answers to the other math club members.  The experience definitely reminded me why I appreciate other volunteers so much.  There seems to often be a 30 minute focus that many kids can sustain on a problem without external reinforcement and this is especially true the less mechanical the process is. With lower rations of students to instructors, you can check in more frequently and unblock kids / encourage them to try new approaches and keep working.  This is also a style of working that I'm trying to improve as a facilitator of.
+
+Because we were coming back from a two week break over Thanksgiving, I had less participation in this week's [problem of the week](http://www.cemc.uwaterloo.ca/resources/potw/2015-16/POTWD-15-NA-09-P.pdf).  This one depends on noticing how you transform computationally from a 3 digit number to a six number.   If you think about this in parts if you multiply XYZ by 1000 you shift the digits over 3 places and end up with XYZ000. You can then add XYZ to end up with XYZXYZ and use the distributive property to realize that the magic number you're looking for is 1001.
+
+XYZ * 1000 + XYZ = XYZ( 1000 + 1) = 1001 * XYZ.
+
+Those who did try the problem either found this relationship after thinking about it for a while or found part of the answer (11 was a common response if the full result wasn't found.) That one's a good answer by itself since it notices all numbers of the form XYZXYZ satisfy the divisibility rule for 11.
+
+We then broke into group, after I encouraged folks to pair with someone different than their normal partners.  Here's the set I wrote up: [https://drive.google.com/open?id=0B6oYedIeLTUKeUdWdDdCUHJ6dXM](https://drive.google.com/open?id=0B6oYedIeLTUKeUdWdDdCUHJ6dXM)
+
+I'm going to mostly talk about the first one which I found via MathForLove.com.   This asks the students to try adding a digit to itself 3 times i.e. 6 + 6 + 6  and then multiplying it by 37. The goal is to observe the pattern and come up with a reason why its true.  To start I wasn't certain how easy or hard this would be but I suspected it would at least be a good warm up. It turns out, this was quite challenging for the kids.  Assuming they multiplied correctly and there was a few times I pointed out some careless errors, everyone noticed the pattern right away.  (D + D + D)  * 37 = DDD.  But it was really hard without scaffolding for lots of the room to come up with reasons.  I ended up prompting a bit to take a look at the 37 and think about using the commutative and associate properties for those who were stuck for longer periods of time.  Eventually everyone found the key 3 * 37 = 111 but once again there is need here for more practice/play with regrouping. Like the MOEMS problems I really want everyone to sit back and consider a simple computation and how it can be rearranged.  I'm going to keep looking for exercises that require the same principal and see if I can introduce them in future weeks. Also because I was stretched thin, I didn't have as much time as I wanted to observe the kids sharing results back and forth. So I'm looking forward to trying this again with some more help and focusing more narrowly on this aspect.
+
+For the next problem of the week, inspired by mikesmathblog I gave out an old AMC problem (although minus the multiple choices):
+
+Three
+runners start running simultaneously from the same point on a
+500-meter circular track. They each run clockwise around the course
+maintaining constant speeds of 4.4, 4.8, and 5.0 meters per second.
+The runners stop once they are all together again somewhere on the
+circular course. How many seconds do the runners run?
+
+This should pair really well with the fourth graders' current rate and ratios unit.

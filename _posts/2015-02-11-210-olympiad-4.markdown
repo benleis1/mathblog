@@ -1,0 +1,29 @@
+---
+title: "2/10 Olympiad #4"
+date: 2015-02-11 05:26:00 +0000
+tags:
+  - algebra
+author: me
+---
+
+Olympiad days usually go well and this one was no different. (Perhaps this means I should introduce more competitive tasks on regular days despite my instincts)  To start I gave out my first worksheet. After a math session with my son, I decided  that the curriculum is neglecting how to convert repeating decimals back into fractions and that would make a fun warm-up exercise. I started by asking how many already knew how to do this. The most amusing answer: "I've memorized all the conversions".   So I made up a sheet that walked the kids through some examples and then made the transition to transforming some geometric series into a simple fraction i.e.
+
+1/K + 1/K^2 + 1/K^3 ...   = 1 / K - 1  for K > 1
+
+This worked out really well. After  short bit of lecturing at the start where I demoed converting .11111...,  Many of the kids had a bunch of aha moments.
+
+We then did the Olympiad. I haven't graded the results yet but from glancing at the sheets as they were working it looks like they did fairly well overall.
+
+Once again, on review as a group I was struck by the spectrum of algebraic thinking.  
+
+Given a problem:  A group of dimes and nickels add up to X and there are Y more dimes than nickels. The most common technique was to create a chart and effectively brute force test the first few possible combinations.  This works fine in a MOEMS test because they create problems that  are very amenable to this and other guess and check strategies.
+
+**Addendum: I tried this out on my son and it was very interesting. He spent about 30 seconds and guessed the correct answer. I then asked him if he could do it algebraically and he proceeded to setup the equation and solve it. So maybe I'm underestimating the kids. The problems are structured so that the guess and check alternative is so easy that it might not pay to setup an equation. I'd have to give them some problems that require fractional answers to know for sure. Moral: structure your problems carefully. Provide an easy guessable answer only if you want to encourage that.**
+
+One other note, I had an extra parent volunteer at the club today and that was tremendously helpful. I'm hoping to have more volunteers in future weeks. In general I'm finding my bandwidth starts to max out at 10:1 and extra adults are extremely useful.
+
+Brainstorming:
+
+Pi day is coming up soon and I definitely want to do something themed for it near that day. Maybe we'll explore alternating series to derive pi/4 a bit.
+
+Also I've been fiddling with the idea of doing an algebra readiness assessment at the end of the year. The district doesn't do anything officially that I find interesting and I wonder if the parents would appreciate it.

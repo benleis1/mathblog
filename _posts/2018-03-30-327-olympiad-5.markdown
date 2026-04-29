@@ -1,0 +1,69 @@
+---
+title: "3/27 Olympiad #5"
+date: 2018-03-30 15:35:00 +0000
+author: me
+---
+
+As is our routine, I started by going over the problem of the week:
+
+Find six distinct natural numbers A,B,C,D,E,F  such that
+
+A + B + C = D + E + F
+
+And
+
+[](https://www.codecogs.com/eqnedit.php?latex=A%5E2%20%2B%20B%5E2%20%2B%20C%5E2%20%3D%20D%5E2%20%2B%20E%5E2%20%2B%20F%5E2%0)
+
+Once again, I had a girl write a python program to find the solution. I love all the computational computing that is occurring. I need a better way to harness this energy. This time I had her talk about the structure of the loops she used to search the problem space.  In this case, it was a straightforward brute force attack loop over all 6 variables up to a limit and just check for each permutation if the two conditions were met.
+
+This is relatively slow and it produced lots of duplicate solutions as she pointed out that had to be manually disambiguated. I didn't go into it because not enough of the kids have a programming background but there are a few easy improvements that can be made on this approach:
+
+limit = 100
+
+for total in range (6,limit):
+
+    results = dict()
+
+    solns = 0
+
+    for a in range (1,total - 3):
+
+        for b in range (a+1, total - (3 + a)):
+
+            c = total - (a+b)
+
+            if c 
+
+                break
+
+            sum = a*a + b*b + c*c
+
+            if sum in results:
+
+                solns += 1
+
+                print "Found %d %d %d and %s total:%d" %(a, b, c, results[sum], total)
+
+                break
+
+            results[sum] = (a, b, c)
+
+    ratio = float(solns) / total
+
+    print "%d solutions for %d ratio=%f" % (solns, total, ratio)
+
+Looping over the sum and then over the 3 digits in increasing order eliminates duplicates and cuts the number of comparisons down significantly.  Note: the key observation is that you only have 2 degrees of a freedom once you've picked a sum for a + b + c.
+
+After this point, we did the final MOEMS olympiad for the year. I delayed this round to fit better with the other activities I wanted to do.  So technically we only had this week to finish and submit the scores.  Two things stood out at me. There was a fraction question that dovetailed with the 2 weeks we've worked on Farey Sequences and Wilf-Calkin trees. Also yet again there was another combinatorics problem that most kids enumerated over rather than calculating a true combination.  Overall, I think the kids scored the highest average of all the rounds. This afforded me the opportunity to have to cold call a few kids that usually are more reticent to demo on the board.  One highlight for me was  a girl proudly getting all the problems right and telling me that she thought this one was easy.  I know she meant relative to the other ones for her but I still had to make a comment to avoid language like "this is easy."  Nevertheless that was  a huge victory. 
+
+I chose a page from the "This is not a math book" for the early finishers with a fun rectangle dividing project. (I brought my box of crayons in for this.)
+
+![]({{ site.baseurl }}/assets/img/327-olympiad-5/blogger_f8a60821.jpg)
+
+This was popular but didn't occupy as much time as I expected and I ended up giving out the P.O.T.W early to some kids as well as breaking out my game of 24 cards.
+
+P.O.T.W:
+
+This one comes from Ed Southall and is a fraction  talk activity:
+
+[https://drive.google.com/open?id=1enhyxB4sBONd1AefGa8ieeuuWOrUggEi8xUq3ksdUsE](https://drive.google.com/open?id=1enhyxB4sBONd1AefGa8ieeuuWOrUggEi8xUq3ksdUsE)

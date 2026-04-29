@@ -1,0 +1,27 @@
+---
+title: "2017 AMC 8  Questions"
+date: 2017-12-20 06:23:00 +0000
+tags:
+  - amc 8
+author: me
+---
+
+We finally received our scores. Overall I always have to remind myself that "comparison is the death of joy".  But really I think the kids did very well and when the final stats come out most will be at or above average. I also hope that I get a chance to see some of the same students take it next year and that I'll have evidence how much everyone has grown.
+
+Art of Problem Solving has posted the 2017 AMC 8 problems and solutions at: [https://artofproblemsolving.com/wiki/index.php?title=2017_AMC_8_Problems](https://artofproblemsolving.com/wiki/index.php?title=2017_AMC_8_Problems)
+
+To get a feel for this year's set, I tried them out and timed myself. It took me about 50 minutes to complete them carefully.  Since I don't find it as interesting, I didn't use guess and check to speed things up or look at the multiple choice answers unless the question required it. The kids however only had 40 minutes which made it fairly difficult in my mind.  You had to work really quickly and do some intelligent strategic guess work from time to time to finish everything.  I definitely will mention my own timing when we talk about it.  From what I can gather the test was a bit harder this year than 2016 with overall cut scores about 2 points lower for the top 1 and 5 percent overall.
+
+Favorite Parts:
+
+22) In the right triangle , , , and angle  is a right angle. A semicircle is inscribed in the triangle as shown. What is the radius of the semicircle?
+
+[My personal preference is always for the geometry ones plus this had a 5-12-13 in it.]   The 3 different ways to solve listed on the site are part of why I like this. Note: its always simpler to look for similar triangles rather than jumping straight to the Pythagorean theorem.
+
+24) Mrs. Sanders has three grandchildren, who call her regularly. One calls her every three days, one calls her every four days, and one calls her every five days. All three called her on December 31, 2016. On how many days during the next year did she not receive a phone call from any of her grandchildren?
+
+A stealthy number theory problem.  Its actually fun to make out a chart for the first 60 days after which it repeats anyways.   And as often is the case its easier to find the inverse than the positive case i.e. 2/3 * 3/4 * 4/5 = 1 - (1/3 + 1/4 + 1/5 - (1/12 + 1/15 + 1/20) + 1/60)
+
+11) A square-shaped floor is covered with congruent square tiles. If the total number of tiles that lie on the two diagonals is 37, how many tiles cover the floor?
+
+I just  enjoyed visualizing this one.

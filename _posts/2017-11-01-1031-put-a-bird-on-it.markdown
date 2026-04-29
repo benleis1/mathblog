@@ -1,0 +1,43 @@
+---
+title: "10/31 Put a bird on it."
+date: 2017-11-01 04:47:00 +0000
+author: me
+---
+
+Its the math worksheet version of "Just put a bird on it." [https://t.co/lNP3fs0wA2](https://t.co/lNP3fs0wA2)
+— Benjamin Leis (@benjamin_leis) [October 31, 2017](https://twitter.com/benjamin_leis/status/925378626190581760?ref_src=twsrc%5Etfw)
+
+![]({{ site.baseurl }}/assets/img/1031-put-a-bird-on-it/blogger_77c1fc3d.PNG)
+
+My surprisingly well read retweet from today.
+
+I joke (or recycle Ed's joke) above but that's essentially what I did today in Math Club.  It's about 2 weeks until AMC8  and I really felt the need to have the kids do one sample test before hand so they are familiar with the format. At the same time, I also know from experience handing kids a multi-page set of problems doesn't work that well and the group tends to get unfocused.  So I went through several options beforehand:
+
+- Select 3-5 representative questions. 
+- Do a few problems over several weeks.
+- Create some kind of competitive relay.
+- Slog through a larger selection and just work really hard at keeping everyone focused.
+
+There are drawbacks to all of these ideas. What I finally went with was a 30 minute practice. I printed out the entire 2011 test from [https://artofproblemsolving.com/wiki/index.php?title=2011_AMC_8](https://artofproblemsolving.com/wiki/index.php?title=2011_AMC_8) 
+
+but stripped away the multiple choice answers.  I also slapped a Halloween pumpkin on the sheet. 
+
+I then had all the kids put their names on the whiteboard and had them work through every third problem individually.  After each problem was done I told everyone to put the problem number on the board under their name and find someone else who had finished the same problem to compare answers with.
+
+![]({{ site.baseurl }}/assets/img/1031-put-a-bird-on-it/blogger_a4448dfb.jpg)
+
+This structure worked out surprisingly well. A lot of the kids got into running up to the board to write down what they finished but it didn't feel super competitive.  At the same time, this farmed out the answer checking so I didn't need to act like a living answer key while there was still feedback for everyone. I was also able to keep the process going with a bit of nudging over multiple problems and circulate to help out with questions. Further by skip counting questions the kids were able to try  the range of problems from the easier ones in the beginning to the more difficult ones at the end.  I didn't really need it but by not condensing the questions there were enough to not worry about running out.
+
+To keep things interesting, I interrupted several times during this process to tell some corny Halloween Jokes:
+
+"Why do mathematicians mix up Halloween and Christmas. Because Oct. 31 = Dec. 25" and to take a field trip to my brand new Math Club Poster Board:
+
+![]({{ site.baseurl }}/assets/img/1031-put-a-bird-on-it/blogger_ae7a817a.jpg)
+
+After the 30 minute mark I did a cool down / party. First I handed out candy to celebrate Halloween. This was strategically delayed until after the serious practice was done and then I found a lovely set of Halloween themed logic puzzles from here [http://geekfamilies.co/halloween-math-and-logic-puzzles-for-kids/](http://geekfamilies.co/halloween-math-and-logic-puzzles-for-kids/)   Today confirms these are still irresistible even to older students.
+
+P.O.T.W.
+
+A final holiday themed geometry problem, I found from @five_triangles:
+
+[https://drive.google.com/open?id=1gJmBkiPcJtq-XYBct6tDCHR6oP7b7D5Q4-mMoA1whaA](https://drive.google.com/open?id=1gJmBkiPcJtq-XYBct6tDCHR6oP7b7D5Q4-mMoA1whaA)

@@ -3,10 +3,10 @@ title: "Carnival of Mathematics 203"
 date: 2022-04-02 12:45:00 -0700
 author: me
 image:
-  path: "{{ site.baseurl }}/assets/img/blogger_8df3e4ba.png"
+  path: "{{ site.baseurl }}/assets/img/carnival-of-mathematics-203/blogger_8df3e4ba.png"
 ---
 
-![]({{ site.baseurl }}/assets/img/blogger_8df3e4ba.png){:width="120%"}
+![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-203/blogger_8df3e4ba.png){:width="120%"}
 *Graphic scores by John De Cesare (1890–1972).*
 
 Welcome to the 203rd Carnival. For all the other carnivals future and past,
@@ -41,7 +41,7 @@ digit reciting contests. (If you're in the other camp I found this 
  All things π
 
  
- ![]({{ site.baseurl }}/assets/img/blogger_ea2cc391.gif)
+ ![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-203/blogger_ea2cc391.gif)
  
  
  **David Berardo - Pi Digit Distribution**
@@ -90,15 +90,15 @@ digit reciting contests. (If you're in the other camp I found this 
  also found the   Talking Numbers blog a welcome bit of light humor:
 
  
- ![]({{ site.baseurl }}/assets/img/blogger_bacc4b97.png)
+ ![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-203/blogger_bacc4b97.png)
  
 
  [https://talkingnumbers.tumblr.com/post/677995936069320704/pi-me-a-river](https://talkingnumbers.tumblr.com/post/677995936069320704/pi-me-a-river)
 
  
  We have another blog up next  from  Gianluigi Filippelli on the various infinite series that lead to pi . This
- time it examines the historical development of expressions for \(
- \dfrac{\pi}{2}$  and $\dfrac{2}{\pi} \)  Not surprisingly
+ time it examines the historical development of expressions for $
+ \dfrac{\pi}{2}$  and $\dfrac{2}{\pi} $  Not surprisingly
  infinite series again are at the heart of all this.  (Series are
  fundamental would be my personal take away this year)
  
@@ -158,7 +158,7 @@ digit reciting contests. (If you're in the other camp I found this 
 
  
  
- ![]({{ site.baseurl }}/assets/img/blogger_3094f043.png)
+ ![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-203/blogger_3094f043.png)
  
  
  **Prime Number of the Day -
@@ -175,7 +175,7 @@ digit reciting contests. (If you're in the other camp I found this 
 ## All the Rest Of Mathematics
 
  
- ![]({{ site.baseurl }}/assets/img/blogger_869f595b.jpg)
+ ![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-203/blogger_869f595b.jpg)
  
  
 
@@ -186,7 +186,7 @@ on Noether's Therorem by  Gianluigi Filippelli:  [http://docmadhattan.fieldof
 groups.
 
  
- ![]({{ site.baseurl }}/assets/img/blogger_15ed87f9.png)
+ ![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-203/blogger_15ed87f9.png)
  
  
 
@@ -197,7 +197,7 @@ Patrick Honner has a new article up on Quanta Magazine:
  Exploring the hand shaking problem and graph theory.  This is one is
  accessible and comes with some great exercises at the end to play around with.
 
- ![]({{ site.baseurl }}/assets/img/blogger_52590148.gif)
+ ![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-203/blogger_52590148.gif)
 
 **Daniel Piker - Cubes**
 
@@ -244,7 +244,7 @@ Link: [https://www.youtube.com/watch?v=OYp-HXEFsdg](https://www.youtube.com/wat
  
 
  
- ![]({{ site.baseurl }}/assets/img/blogger_b39e8462.gif)
+ ![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-203/blogger_b39e8462.gif)
  
  
  **Matt Henderson - Mandelbrot Set**
@@ -306,7 +306,7 @@ with the intuitive
 
  
  
- ![]({{ site.baseurl }}/assets/img/blogger_4134a633.png)
+ ![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-203/blogger_4134a633.png)
  
  
   
@@ -321,4 +321,4 @@ with the intuitive
 
  
  
- ![]({{ site.baseurl }}/assets/img/blogger_6320627b.png)
+ 

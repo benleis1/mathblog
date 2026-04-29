@@ -1,0 +1,33 @@
+---
+title: "12/12 End of Quarter"
+date: 2017-12-13 22:30:00 +0000
+author: me
+---
+
+The end of this quarter really snuck up on me.  In my planning process I decided to finally use the video below on  Schumann's enumerative Geometry. What I particularly liked was the triangle puzzles discussed in the video and the fact they linked to a modern discovery.  But on looking through the video for a last time I became a little worried. The end part gets quite complex and I wasn't sure if the kids would be able to follow it. So I started to look back at old Julia Robinson Festival questions and assemble a min-festival we could do in Math Club. Then I remembered that it was the last session and I wanted to do game day to celebrate. So in the end I decided to go with video, take the problems with me in case it looked like a dud as well as the games.
+
+What's especially nice is that there are several natural breaks in the video for pausing and trying the math out yourself. I took advantage of the ones in the beginning and had the kids try out assembling triangles and looking for patterns:
+
+Base shapes:
+
+![]({{ site.baseurl }}/assets/img/1212-end-of-quarter/blogger_2ecda880.PNG)
+
+I brought lots of colored pencils and had the kids draw versions on their own paper. If I had more time I might have precut out base triangles out instead. 
+
+Examples:
+
+![]({{ site.baseurl }}/assets/img/1212-end-of-quarter/blogger_f9ed649a.PNG)
+
+Overall this went pretty well after all. The kids wanted to see the end of the video when I offered them the chance to move on so we did watch the whole thing.  The only other mistake  I made was pausing a hair early the first time and having to explain the rules more than I expected.
+
+In the back half of the day I brought in my usual assortment of board and card games:
+
+- pente
+- set
+- prime climb
+- terzetto
+- rush hour
+
+These are still popular with the middle schoolers although I really need to pick up a new one before next time. My favorite moment here was one student pulled out last week's skyscraper puzzle to finish working on it today. I really like this display of persistence.
+
+Finally, we also had a club discussion about recruiting. The kids decided to talk to their friends and in front of their math classes as well as one is going to make a PA announcement. We'll see how this effort works. I like that I'm offloading some of this to the kids and hopefully I'll find some 7th graders next quarter.

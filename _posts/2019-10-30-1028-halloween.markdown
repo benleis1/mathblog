@@ -1,0 +1,35 @@
+---
+title: "10/28 Halloween "
+date: 2019-10-30 17:52:00 +0000
+author: me
+---
+
+Planning-wise my weekend was busier than expected so I decided to go with an easier to setup problem carnival structure for this week: roughly themed around Halloween.
+
+Before really diving in I started with the problem of the week:
+
+!![]({{ site.baseurl }}/assets/img/1028-halloween/blogger_0aa04f1b.PNG)
+
+Rather than start with observations with the room, I decided to give everyone 5 minutes to work on it together some more.  Then I went around asking each table for one thing they observed.  This was semi successful. Most of the groups who haven't volunteered before came up with something. But I had one table of boys that didn't really focus enough (which I missed when going around) and it still felt a bit tentative. I think this is going to be my routine for the next few weeks and I'm going to watch to see if we can generate more ideas. I may need to randomize the kids after all too despite my usual misgivings about this.
+
+Interestingly, no one in the room had the exact right answer although several key ideas about the graph theory structure were uncovered. I decided to wait another week before going over a full solution to let things percolate a bit more. (**I wonder if I should have groups think about this a second time next week?)**
+
+I leaned heavily on the document camera again this week for the main task: 3 different problems. 
+
+One thing I noticed is that the text can be a bit small and hard to read. I may need to cut this back a bit in the future.  Perhaps I'm better off getting 3 oversize easel sketch pad pages and pre-writing things out. Then I could tape them around the room for good visibility.
+
+![]({{ site.baseurl }}/assets/img/1028-halloween/blogger_48f1ddd5.PNG)
+
+Side note: I'm kind of proud of the first one which I totally reworded into a Halloween pseudo-context.
+
+I also gave out  a Haloowen grid logic puzzle, a perennial favorite:
+
+[http://logicgridpuzzles.com/puzzles/show_logic.php?ID=30](http://logicgridpuzzles.com/puzzles/show_logic.php?ID=30)
+
+What happened next was very predictable. Most tables went straight for the extremely appealing grid puzzle.  That was fine but it took most of the remaining time and most kids only tried one further puzzle usually the first one.  I think next time, I would hold back the grid logic puzzle for about 10 minutes to allow some time on the rest of the puzzles.
+
+P.O.T.W:
+
+I went with one of the UWaterloo ones this week:
+
+[https://www.cemc.uwaterloo.ca/resources/potw/2019-20/English/POTWE-19-AE-GM-07-P.pdf](https://www.cemc.uwaterloo.ca/resources/potw/2019-20/English/POTWE-19-AE-GM-07-P.pdf)

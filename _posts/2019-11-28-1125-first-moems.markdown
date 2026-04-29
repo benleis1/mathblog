@@ -1,0 +1,35 @@
+---
+title: "11/25  First MOEMS "
+date: 2019-11-28 00:37:00 +0000
+tags:
+  - moems
+author: me
+---
+
+![]({{ site.baseurl }}/assets/img/1125-first-moems/blogger_af0f9332.jpg)
+
+**(Half of the room that fit in my camera focus hard at work)**
+
+**Randomization  (VRG)**
+
+I once again moved the kids around into semi-random seating. Partly for MOEMS testing purposes but also partly to separate everyone into new groups in the interest of increasing attention and focus.  There was a bit of resistance from a few kids but the effect today was good. I did have a few boundary-pushers try to switch seats when I wasn't  looking. (Newsflash: I notice these things :) )  Despite my own trepidations, I'm planning to do this regularly for a little while at least and observe how it plays out.  There are a convenient set of numbered Popsicle sticks available I can use to manage this process in the future.
+
+**New Kids **
+
+I also had one girl return to the group after junior varsity soccer was over.  Her mother had contacted me and I decided that there was enough space to manage one more student. To my surprise, another girl also showed up (from last year as well).  I rolled with it, thankfully I had printed an extra copy of the materials for the day but I told her to have her parents email me before she came back.  I had both of them introduce themselves which was great because both mentioned how they liked doing Math which reinforces the norms I'm going for,
+
+**POTW**
+
+After getting everyone situated I had the kids demo solutions to the problem of the week. This was the first of the Math Counts ones I tried out.  See: [https://www.mathcounts.org/resources/problem-archive](https://www.mathcounts.org/resources/problem-archive)  Overall I find the problem to be sturdy but not exciting. It did generate good work from the kids on the whiteboard but it feels really close to a school type problem to me. Nevertheless, I'm probably going to use them a bit more unless I find other more exciting things.  Planning wise these sheets and the math counts trainer [https://artofproblemsolving.com/mathcounts_trainer](https://artofproblemsolving.com/mathcounts_trainer) will serve for the majority of the preparation I will explicitly focus on for Math Counts freeing up time for other more free form activities during the sessions.
+
+**MOEMS**
+
+**See: [moems.org](http://moems.org/) **
+
+Today was the first set of the Math Olympiad for Elmentary and Middle School that I've used now 6 years.  As I've mentioned each year, I really like the format of 5 problems over 30 minutes 5 times a year.  I can't comment on the problems unfortunately due to moem's policy but they are still very effective as a tool to draw kids in and set at a good level of difficulty for most of the students.  We took more time on introductions and going over the POTW than expected so we only had about 15 minutes at the end to review them as a group.  But as usual, kids were keen to volunteer their answers and wanted to know if they had found the correct solutions. I think I'm starting to build up wider participation on the whiteboard demos. This is still a work in progress that I will keep pushing on.
+
+After grading all the tests I have my first quantitative data that confirms what I could already tell from the in club sessions: there is a distinct split among the kids. There is a group who could answer most or all of the questions and another group who could only answer 1 out of the five and not many kids in the middle.  Ideally, I would split  the group and target my tasks more specifically towards what each set would benefit the most from.   Since that's not practical, I'm reminded again how important it is to keep everyone in mind when planning. I really need ideas that are both accessible and stretch kids at the same time.  Looking forward, there are a few geometry problems I had been brainstorming about using next week. I'm thinking about them more and how to have hooks that work for everyone. My longstanding desire to do day developing Heron's Formula seems like a bad fit for now for example.
+
+P.O.T.W:
+
+[https://www.mathcounts.org/resources/problem-of-the-week/thanksgiving-dinner-preparation](https://www.mathcounts.org/resources/problem-of-the-week/thanksgiving-dinner-preparation)

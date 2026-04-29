@@ -1,0 +1,25 @@
+---
+title: "12/5 Olympiad  #1"
+date: 2017-12-06 02:54:00 +0000
+author: me
+---
+
+Today was the very delayed first [MOEMS](http://moems.org/) middle school contest day.  As I mentioned before this contest was supposed to be on the same day as AMC 8 so we had to push it out and then I needed some buffer. Fortunately, MOEMS is a low key organization and as long as you get all the contests into the system at the very end in March you can move individual dates around.  I was really curious going in how the kids would do and react to the contest. In looking at the questions before hand I thought this was slightly easier than any of the ones from last year.  My great worry was actually that it would be too easy for everyone.
+
+That turned out to not be the case. When I polled at the end although the kids thought it was easier than AMC 8, they also generally all enjoyed it. That's great since I think its a good format: 5 questions over a half hour gives enough time for most kids to solve what they are capable of solving. And the split over 5 different weeks allows you to parcel the questions out and discuss them in manageable chunks as a group.
+
+Which brings me to the other win for the day. This was probably the best whiteboarding session I've done yet this year. Almost everyone volunteered and there were multiple solutions presented for each of the 5 problems. There was just a ton of enthusiasm. Sadly, I'm not allowed to discuss any of the details of the problems but the kids came up with a lot of good problem solving solutions and really listened to each other.  I'm hoping to extend this streak to next week's whiteboarding and have some more interesting details to record here.
+
+As usual to occupy everyone who finished early I brought a low-key puzzle. In this case I went back to the skyscraper puzzles from [https://www.brainbashers.com/skyscrapers.asp](https://www.brainbashers.com/skyscrapers.asp)  and printed  an easy and hard 6x6 one.
+
+P.O.T.W
+
+This is my absolute favorite linear systems problem:
+
+Assume that [](https://www.codecogs.com/eqnedit.php?latex=x_1%20%2C%2C%2C%20x_7%0) are real numbers such that
+
+[](https://www.codecogs.com/eqnedit.php?latex=x_1%20%2B%204x_2%20%2B%209x_3%20%2B%2016x_4%20%2B%2025x_5%20%2B%2036x_6%20%20%2B%2049x_7%3D%201%0)[](https://www.codecogs.com/eqnedit.php?latex=4x_1%20%2B%209x_2%20%2B%2016x_3%20%2B%2025x_4%20%2B%2036x_5%20%2B%2049x_6%20%2B%2064x_7%20%3D%2012%0)
+
+[](https://www.codecogs.com/eqnedit.php?latex=9x_1%20%2B%2016x_2%20%2B%2025x_3%20%2B%2036x_4%20%2B%2049x_5%20%2B%2064x_6%20%2B%2081x_7%20%3D%20123%0)
+
+Find the value of [](https://www.codecogs.com/eqnedit.php?latex=16x_1%20%2B%2025x_2%20%2B%2036x_3%20%2B%2049x_4%20%2B%2064x_5%20%2B%2081x_6%20%20%2B%20100x_7%0)

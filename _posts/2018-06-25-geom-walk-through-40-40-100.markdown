@@ -1,0 +1,43 @@
+---
+title: "geom walk through 40-40-100"
+date: 2018-06-25 15:32:00 +0000
+author: me
+---
+
+1. Thought process - subdivision creates more interesting angles 2 possibilities 3x/4x or 4x/3x
+
+2. First didn't pan out despite isosceles and angle bisector.
+
+3. Second created more ability to break everything down into combinations of two lengths.
+
+4. Calc as many values as possible to prove the main triangle is isosceles
+
+5. Went down the path of making a parallelogram on the right. Wasn't useful but interesting.
+
+6. Eventually found enough similar triangles to make an isosclese in the center and simplified a bit.
+
+Alt:
+
+* Per trig is possibility.
+
+* You can translate the left hand subtriangle underneath the right hand one to make an isoscelese parallelogram! That makes its easy since it creates new parallel lines.
+
+![]({{ site.baseurl }}/assets/img/geom-walk-through-40-40-100/blogger_4ac73c7e.png)
+
+**Constructions**
+
+1. Subdivide \(\angle{BCD}\)  such that \(\angle{BCE} = 3x \)   That makes \(\triangle{ACE}\) an isosceles and AC = AE = BD.  This implies AD = BE.   
+
+Let a = AD and BE  and  b = DE
+
+2. Add a parallel segment DF to CE.  \(\triangle{AFD}\) is similar to \(\triangle{ACE} \)  and also isosceles so  AF = a  and CF = b.
+
+**Similar Ratios**
+
+3. By similarity of \(\triangle{ADF}\) and \( \triangle{ACE}\) , \( DF = CE \cdot \frac{a}{a+b} \)  but triangles CFD and CEF are also similar implying  \( \frac{b}{DF}  = \frac{CE}{a} \)
+
+This simplifies to CE = \( \sqrt{(a +b)\cdot b} \)
+
+4. Now consider triangles CDE and CBD which are also similar.    So \( \frac{BD}{CD} = \frac{CD}{DE} \)  or \( CD = \sqrt{BD \cdot DE} = \sqrt{(a+b) \cdot b}  \) which is the same as CE above.
+
+So CDE is an isoscleses triangle and  and triangle ADC and BCE are congruent.   That means 4x = 180 - 14x  or x = 10 and    \( \angle{CAB} = 40\)

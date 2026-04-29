@@ -1,0 +1,30 @@
+---
+title: "2016 AMC 8 Results"
+date: 2016-12-16 18:15:00 +0000
+tags:
+  - amc
+author: me
+---
+
+The wait is finally over. We received the results for the 2016 AMC 8.  Now comes my least favorite part sending them out to the parents.  This is the message I ended up with this year:
+
+The results for the AMC 8 contest finally arrived.  First thanks for participating. I'm proud of how everyone did and this is just the beginning, hopefully, of AMC contests for everyone. I want to stress again also to treat this like a baseline on an above-level test. The contest is meant for Middle Schoolers. Since its nationally normed, keep these scores for future years. I'm hoping everyone will generally see growth over time. 
+
+Some Resources:
+
+https://www.artofproblemsolving.com/wiki/index.php/2016_AMC_8
+
+This has all the problems and solutions for them. If your child is still interested, it can be valuable to go over the problems. Feel free to email me if you have any questions about the questions. 
+
+MAA will eventually publish national statistics when they're done scoring all of the entries. These will be found here: https://amc-reg.maa.org/reports/generalreports.aspx  I don't
+
+generally think these are too useful in our case since the data is normed for 6-8th grade.
+  
+
+Overall I'm very happy we participated.  Hopefully most of the kids will take this again  in future years. As an aside, the opportunity to participate is very site dependent here. I wish there was a more district wide policy so that all middle schools always offered the chance.
+
+Moving forward I'm feeling like some encoded message fun over the break:
+
+[http://mymathclub.blogspot.com/2016/12/virtual-math-club-for-winter.html](http://mymathclub.blogspot.com/2016/12/virtual-math-club-for-winter.html)
+
+[Update]: the overall statistics were just published. One thing  that stuck out at me was WA state is a bit of a math powerhouse although sadly not much of this is coming from our district. Overall the state had highest mean score, median score and was the only one where you needed a perfect score to be in the top 1%.

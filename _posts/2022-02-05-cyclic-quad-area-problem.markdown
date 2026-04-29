@@ -6,10 +6,10 @@ tags:
   - geometry
 author: me
 image:
-  path: "{{ site.baseurl }}/assets/img/blogger_5f588c0e.png"
+  path: "{{ site.baseurl }}/assets/img/cyclic-quad-area-problem/blogger_5f588c0e.png"
 ---
 
-![]({{ site.baseurl }}/assets/img/blogger_5f588c0e.png)
+![]({{ site.baseurl }}/assets/img/cyclic-quad-area-problem/blogger_5f588c0e.png)
  
  
 
@@ -29,7 +29,7 @@ image:
 #### Basic Triangle
 
  
- ![]({{ site.baseurl }}/assets/img/blogger_5be2a701.png)
+ ![]({{ site.baseurl }}/assets/img/cyclic-quad-area-problem/blogger_5be2a701.png)
  
  
 Because of the cycle quadrilateral ACBD and the fact that AC is is the
@@ -51,7 +51,7 @@ Because of the cycle quadrilateral ACBD and the fact that AC is is the
 
  
  
- ![]({{ site.baseurl }}/assets/img/blogger_4783de1d.png)
+ ![]({{ site.baseurl }}/assets/img/cyclic-quad-area-problem/blogger_4783de1d.png)
  
  
 
@@ -66,7 +66,7 @@ Because of the cycle quadrilateral ACBD and the fact that AC is is the
  
 
  
- ![]({{ site.baseurl }}/assets/img/blogger_21111997.png)
+ ![]({{ site.baseurl }}/assets/img/cyclic-quad-area-problem/blogger_21111997.png)
  
  
 
@@ -92,7 +92,7 @@ $$  [ADE] = \dfrac{(1-x)^2}{y^2}  \cdot [BCE] $$ 
 
  
  
- ![]({{ site.baseurl }}/assets/img/blogger_4bcab390.png)
+ ![]({{ site.baseurl }}/assets/img/cyclic-quad-area-problem/blogger_4bcab390.png)
  
  
 
@@ -129,7 +129,7 @@ Looking back at quadratic via the vieta formulas its apparent that the two roots
  $
 
  
- ![]({{ site.baseurl }}/assets/img/blogger_a0e99b23.png)
+ ![]({{ site.baseurl }}/assets/img/cyclic-quad-area-problem/blogger_a0e99b23.png)
  
  
 
@@ -158,7 +158,7 @@ $$ A = 3 + Ax $$ $$  A = \frac{3}{1-x} $$
 
  
  
- ![]({{ site.baseurl }}/assets/img/blogger_8846f040.png)
+ ![]({{ site.baseurl }}/assets/img/cyclic-quad-area-problem/blogger_8846f040.png)
  
  
 
@@ -194,4 +194,4 @@ $$ A = 3 + Ax $$ $$  A = \frac{3}{1-x} $$
  
  
 
- ![]({{ site.baseurl }}/assets/img/blogger_6320627b.png)
+ 

@@ -1,0 +1,46 @@
+---
+title: "5/12 Dog + God "
+date: 2015-05-13 04:18:00 +0000
+tags:
+  - triangle numbers
+  - puzzles ciphers
+author: me
+---
+
+I have a lot of interesting observations from math club today. First up, for the warm up I went with some decoding problems:
+
+    D O G                   
+
++  G O D           
+
+-----------
+
+  D E E P
+
+This one we mostly solved together on the whiteboard in order to give everyone a sense for how to do this class of puzzles. I asked everyone to raise their hands if they had an idea what to do next. First came the suggestion that D must be 1 since that's the only value you can get from a carry. Next someone noticed that means G can only be 8 or 9 or there won't be a carry at all. A few moments later there was the idea that either E was 1 or 0 with those values but we had used up the 1 so only zero was left.  Things went fairly quickly from there. 
+
+One lesson for me: My handwriting is messy and I should be careful to always read the problem aloud slowly to avoid kids thinking my G's are 6's.
+
+Then I went for the slightly harder one courtesy of fivetriangles:
+
+   A B C D E F               A B C
+
+x                6   and    + D E F
+
+-----------------            ---------
+
+  D E F A B C                9  9 9
+
+The group exercise was very helpful here. Everyone solved the problem within 15 minutes with only a little prompting for some of the later kids on my part. Better yet: I had hit my internal time budget for this section.
+
+I then proceeded to give out the triangle number worksheet I wrote a week ago:
+
+[http://mymathclub.blogspot.com/2015/05/triangle-number-worksheet.html](http://mymathclub.blogspot.com/2015/05/triangle-number-worksheet.html)
+
+Second lesson for the day: I should have reviewed this one more closely or written some of the answers down originally. As a result I was a bit rusty and had to do more off the cuff recalculations like what is 1 + 2 ... + 685?  than I would have if I had done it last week as intended.
+
+Most kids derived the basic triangle sum number on their own. About a third needed a hint to try regrouping the sums to make them easier. 
+
+Another consistent observation I saw was a weakness in notation. I noticed a lot of  samples that looked like : N + 1 x N / 2  missing the parentheses. This didn't seem worth correcting today since my main goal was to walk them through the derivation of the formula.
+
+Also because I started the kids at different times I never regrouped everyone to do the proof without words I had originally intended. That's still pretty neat and worthy of a mention next week.From there most kids made it to 2 or 3 of the problems. If I repeat this next year it could probably be done as the entire activity for the hour.

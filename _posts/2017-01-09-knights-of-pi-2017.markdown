@@ -1,0 +1,61 @@
+---
+title: "Knight's of Pi 2017"
+date: 2017-01-09 04:12:00 +0000
+tags:
+  - knights of pi
+author: me
+---
+
+![]({{ site.baseurl }}/assets/img/knights-of-pi-2017/blogger_2caedebb.jpg)
+
+High School full of mathy kids assembling for a Math competition.
+
+This weekend was my third time back at the Knight's of Pi math competition and I brought 2 teams of fifth graders this year. I've written about my complex relationship with this one before: [http://mymathclub.blogspot.com/2014/12/knights-of-pi-math-competion.html](http://mymathclub.blogspot.com/2014/12/knights-of-pi-math-competion.html). 
+
+How I handle this now:
+
+1. I'm upfront with the parents about expectations and leveling.
+
+2. I stress focusing on the problems with the kids. This year I gave everyone the task to remember their favorite one so we could talk about it over the dinner pizza.
+
+3. I try to encourage everyone to bring games and books so the waiting periods are more fun. I think this part was really successful this year. The kids always like pizza and a minecraft design book was the surprise hit. We also had some good rounds of pente and smashup.
+
+4. I also tend to encourage everyone to skip the awards ceremony. This year it ran especially late and we endured 40 minutes of kids reciting digits of pi before the awards were handed out.
+
+5. I'm making a more concerted effort to scan the questions and answers so I can email them out. I'm hoping some of the kids will be motivated to go over problems they missed and dig into them at home.
+
+![]({{ site.baseurl }}/assets/img/knights-of-pi-2017/blogger_341adfa3.jpg)
+
+![]({{ site.baseurl }}/assets/img/knights-of-pi-2017/blogger_4bbac100.jpg)
+
+The ceremony at the end.
+
+Overall looking through the questions, the quality varied quite a bit.
+
+The good:
+
+Some classic algebraic age problems. "In 3 years John's father will be 3 times as aold as John but 2 years earlier John's father was 4 times as old. How old is John now?"  While solvable with algebra this can also be attacked via various intelligent guess and check strategies, bar charts etc. Given as a group problem with (barely) enough time I think this worked pretty well.
+
+"What is 2017 base 8 expressed in base 5?" Several kids thought this was their favorite one from the individual section.
+
+The bad:
+
+Calculate the probability of drawing 4 of kind from a deck of cards.   Too far out of scope for this age level. A rather large hand calculated fraction anyway.
+
+The ugly:
+
+Find all the zeroes of y = x^2 - 7x + 10.  Definitely out of scope for 5th grade (maybe even the vocabulary) and solving it via a guess and check strategy seems too expensive given the time limits per question.   Full disclosure: at least one of my teams figured this out anyway.
+
+Final Irony:
+
+The first winter session of Math Club is coming up this week. One of the fun topics I was planning to talk about were number facts about 2017. I was toying with having the kids factorize it to discover that its prime (and practice factoring)  Of course, this was one of the questions. So I may modify my plans a bit now. Fortunately there are 3 or 4 fun observations that I still have in my back pocket. I love that its part of a Pythagorean triple.
+
+**OK so what would you do to improve things?**
+
+I've thought about this a lot in the last few days. For a start there a few practical changes that would be helpful.
+
+- Pair schools and seat them together in the beginning to encourage interactions between students. Keep them in the same room for the entire contest.
+- Build in a social math oriented activity in the middle ala a Julia Robinson Festival type question.
+- Use extra time to talk about solutions rather than pi. Kids are never as excited to talk about how they solved problems than right after doing a contest. If this was formalized I think you could do a lot of learning and shift the focus back towards the problems.
+- Standards based awards. Define a threshold for "honors" and give everyone who reaches it a recognition.
+- Less problems that take more time.  A typical MOEMS contest will have 5 complex problems in 30 minutes vs. 40 problems in 45 minutes here.

@@ -1,0 +1,44 @@
+---
+title: "Revisiting the 15-75-90 "
+date: 2018-11-12 23:31:00 +0000
+tags:
+  - 15-75-90
+  - geometry
+author: me
+---
+
+[This is an old post I kept around which seems appropriate to publish today before AMC 8 (which unfortunately makes for poor blogging fodder)]
+
+I saw a post from Mike Lawler this morning that touched on one of my favorite constructions:
+
+![]({{ site.baseurl }}/assets/img/revisiting-the-15-75-90/blogger_05fca1f4.png)
+
+When I glanced at it, my first thought was to go back to my  original thinking about the 15-75-90 triangle, two years ago:
+[http://mymathclub.blogspot.com/2016/01/sometimes-its-harder-other-way-part-2.html](http://mymathclub.blogspot.com/2016/01/sometimes-its-harder-other-way-part-2.html)
+
+Some followup extensions:
+
+[http://mymathclub.blogspot.com/2017/07/and-yet-more-15-75-90-fun.html](http://mymathclub.blogspot.com/2017/07/and-yet-more-15-75-90-fun.html)
+
+I generally always draw the figure above to derive the exact side ratios rather than remembering them (unless I've recently had to use them anyway)
+
+!![]({{ site.baseurl }}/assets/img/revisiting-the-15-75-90/blogger_09eb66f8.PNG)
+
+In this case as soon as I started doing so, it occurred to me: "Wait this is the same problem. We're given half of a square, if we just reflect it we end up with my original construction and I already know from that problem, that the square has the same side length as the equilateral triangle whose edge we were implicitly asked to find so the answer is 20."
+
+In a way this shows the power of experience when tackling more complex problems.  As I remember, I spent several summer evenings thinking about the figure before I could see path forward the first time.  This time around it was merely a case of recognizing the picture.  I also felt it would be fairly unlikely a student would follow that chain of thought.   So  I also ended up thinking about what other solutions might occur to someone.
+
+In the ensuing two years since I first saw this, another strategy I've found that's very helpful with the 15-75's is to find the hidden 30-60-90.   This time around, I was very tempted to draw in a diagonal from B to D and subdivide to see what was there.
+
+![]({{ site.baseurl }}/assets/img/revisiting-the-15-75-90/blogger_8d07c2b1.png)
+
+What I found instead was a bunch of 1:2's like DEH and ABD but I couldn't quite get a useful expression for triangle BHE to complete this approach. So in another attempt to find the 30-60-90 I reflected the triangle EBC  across EB and dropped a perpendicular down from C' to F.
+
+![]({{ site.baseurl }}/assets/img/revisiting-the-15-75-90/blogger_61a1112b.png)
+
+This creates a 30-60-90 at C'BF  whose hypotenuse is congruent to BC and has a length of 10 so its base FB is 5 and its other side C'F is \( 5 \sqrt{3} \)
+
+Now looking at AC'F next to it we have a right triangle with 2 sides in a \( \sqrt{3} \) ratio  so it also is  a 30-60-90. That means doing the angle addition that the 3 angle at C' add up to 180 and indeed C' is on the line AE.
+
+Triangle AEB is then a 30-75-75 and AE is congruent to AB and of length 20.
+

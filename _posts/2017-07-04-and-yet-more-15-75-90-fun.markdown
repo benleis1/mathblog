@@ -1,0 +1,52 @@
+---
+title: "And yet more 15-75-90 fun"
+date: 2017-07-04 22:36:00 +0000
+tags:
+  - 15-75-90
+  - geometry
+  - digression
+author: me
+---
+
+Continuing on the theme of 15-75-90 triangles (See: [Last time](http://mymathclub.blogspot.com/2017/06/15-75-triangle-redux.html) and [First Time](http://mymathclub.blogspot.com/2015/07/sometimes-one-direction-is-lot-tricker.html)) several interesting riffs on 15-75-90's in a box have come up recently.
+
+Example dividing a square with four 15-75-90 triangles:
+
+![]({{ site.baseurl }}/assets/img/and-yet-more-15-75-90-fun/blogger_bc1cd584.PNG)
+
+As is often the case, finding the relative area of the  triangles and square is straight forward using trigonometry:
+
+*Let s be the length of the  sides of the square:*
+
+The area of each triangle = \(\frac{1}{2} s^2 cos(15)sin(15) \) and using the double angle formulas
+
+\(sin(30)=2sin(15)cos(15)\) so  after substitution and knowing sin(30) = \(\frac{1}{2}\) out pops the area = \(\frac{1}{8}s^2\)
+
+But why is this happening? As usual a 30-60-90 triangle is usually lurking around that allows a Euclidean explanation.
+
+![]({{ site.baseurl }}/assets/img/and-yet-more-15-75-90-fun/blogger_3516a378.PNG)
+
+What's particularly interesting about this is that it hints that dissections exist to transform a 1/4 or 1/8 of the larger square into the triangles and sure enough you slide the 1/4 triangle ABO until it becomes 2 15-75-90'!
+
+!!![](https://pbs.twimg.com/media/DDUBKroU0AEdyU8.jpg)
+
+But let's return to the original problem. There's another easy explanation of what's occurring that just uses the ratios of the triangle:
+
+![]({{ site.baseurl }}/assets/img/and-yet-more-15-75-90-fun/blogger_1f1987c3.PNG)
+
+1. Note the  area of this triangle is \(\frac{1}{2}(2 - \sqrt{3})\)
+
+2. Squaring the hypotenuse you get \(4(2 - \sqrt{3})\) which is 8 times the triangle area.
+
+3. Or in other words each triangle is 1/8 of the square made on the hypotenuse.
+
+And we've refound our original result.
+
+**Further questions: Are there other common triangles that divide the square into a unit or "simple" fraction.**
+
+I'll leave it to the reader to decide which problem based on this property is more fun (from @eylem and @sansu-seijin):
+
+!![](https://pbs.twimg.com/media/DDnzdlpUIAAq046.jpg)
+
+!![](https://i2.wp.com/sansu-seijin.jp/wp-content/uploads/2015/04/152m-01.jpg?resize=568%2C423)
+Given the square of length 6cm, how large is the shaded region?

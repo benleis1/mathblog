@@ -1,0 +1,35 @@
+---
+title: "12/10 MOEMS Olympiad #2"
+date: 2018-12-13 19:41:00 +0000
+author: me
+---
+
+![]({{ site.baseurl }}/assets/img/1210-moems-olympiad-2/blogger_49c3d165.jpg)
+
+I always enjoy Olympiad days even if I'm not allowed to explicitly discuss the problems because of the white boarding opportunities they afford.   There are only 5 problems in each set which is short enough that we can go over all of them and consistently everyone is keen to find out if they solved the problem and often to demo as well. 
+
+Today's session was quite a bit harder than the first one. Almost everyone consistently missed 2 of the problems.  The one I'm more interested in was a variant of a combinatorics problem concerning seating around a circle.   So I'm gather some more problems to put together a day about it.  What I like about this idea is I'll be able to in theory include  some basics like a review of permutation/combinations
+
+Circle Seating Permutation  Problems:
+
+- [https://aperiodical.com/2018/09/a-puzzle-for-another-day/](https://aperiodical.com/2018/09/a-puzzle-for-another-day/)  I still have to digest this one.
+- I already did the Josephus problem previously: [https://mymathclub.blogspot.com/2018/10/1029-stick-figure-cricle-of-death.html](https://mymathclub.blogspot.com/2018/10/1029-stick-figure-cricle-of-death.html)
+- [http://mathcentral.uregina.ca/QQ/database/qq.09.96/varjassy1.html](http://mathcentral.uregina.ca/QQ/database/qq.09.96/varjassy1.html)  Some variants.
+- https://www.coursehero.com/file/p2k3gin/11-In-how-many-ways-can-the-twelve-knights-sit-at-the-Round-Table-with-King/
+
+Structure:
+
+- Review permutations and Combinations.
+- Conceptual model for combinations.
+- Simple group problems
+- Breakout into groups to tackle the more complex variants.
+
+In other general planning news:
+
+Switching from a pdf to a google form for signup is a big improvement.  I have just about filled back up again for winter and all the data is sitting in a very usable spreadsheet without any work.
+
+I almost in the end planning stages to get another guest speaker from UW in February.  I always really enjoy when this works outs.
+
+I was contacted by the PTSA about setting up a table at the STEAM fair in May and enough kids were excited about the idea. So we're going to do something. My plan is to leave this mostly up to the kids to run and design and focus on it over several weeks in March/April.
+
+Finally, I've decided to give a short presentation at the school math department meeting. I think that might be useful long run.
