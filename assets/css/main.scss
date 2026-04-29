@@ -10,10 +10,10 @@
 
 // Custom CSS overrides can go here
 
-// Make post pages full width
-.layout--single .page {
-  float: left;
-  width: 100%;
+// Make post pages full width (but not wide pages like index)
+.layout--single:not(.wide) .page {
+    float: left !important;
+    width: 100% !important;
 }
 
 // Ribbon date badge styling
