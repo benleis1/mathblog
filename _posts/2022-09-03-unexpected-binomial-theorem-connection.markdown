@@ -3,10 +3,10 @@ title: "Unexpected Binomial Theorem Connection"
 date: 2022-09-03 11:32:00 -0700
 author: me
 image:
-  path: /assets/img/blogger_8b675d03.png
+  path: "{{ site.baseurl }}/assets/img/blogger_8b675d03.png"
 ---
 
-![](/assets/img/blogger_8b675d03.png)
+![]({{ site.baseurl }}/assets/img/blogger_8b675d03.png)
  
  Source: @ElyemGercek
 
@@ -34,20 +34,20 @@ image:
 
 For example:
 
- ![](/assets/img/blogger_8b718289.PNG)
+ ![]({{ site.baseurl }}/assets/img/blogger_8b718289.PNG)
 
-From the left hand triangle we get \( a^2 - 2b^2 + c^2 = 2m^2 \). Then we can do
+From the left hand triangle we get $a^2 - 2b^2 + c^2 = 2m^2$. Then we can do
 the same on the right hand side:
 
  
 
- ![](/assets/img/blogger_b60bce46.PNG)
+ ![]({{ site.baseurl }}/assets/img/blogger_b60bce46.PNG)
 
  
 
  
- The right hand triangle gives us \(b^2 - 2c^2 + d^2 = 2m^2 \).   
- Since both equations are equal to \(2m^2 \) we can then form the following
+ The right hand triangle gives us \(b^2 - 2c^2 + d^2 = 2m^2$.   
+ Since both equations are equal to \(2m^2$ we can then form the following
  new equality:
  
 
@@ -68,4 +68,4 @@ This same pattern can be now repeated each time we divide into a left and right 
 
  
  
- ![](/assets/img/blogger_6320627b.png)
+ ![]({{ site.baseurl }}/assets/img/blogger_6320627b.png)

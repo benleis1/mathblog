@@ -6,10 +6,10 @@ tags: [trigonometry, identities, proofs]
 author: me
 math: true
 image:
-  path: /assets/img/2023-02-04/trig-identity-triangle.png
+  path: "{{ site.baseurl }}/assets/img/2023-02-04/trig-identity-triangle.png"
 ---
 
-![Trig Identity Triangle](/assets/img/2023-02-04/trig-identity-triangle.png){: width="640" }
+![Trig Identity Triangle]({{ site.baseurl }}/assets/img/2023-02-04/trig-identity-triangle.png){: width="640" }
 
 This post starts with reading elsewhere about someone struggling with the following trig identity given a triangle with three angles x, y, z show:
 
@@ -21,8 +21,8 @@ The first way I ended up doing this which was colored by some similar problems w
 
 Before getting going though its useful to examine the relationship between x, y, and z and how that plays out with the basic trig functions
 
-1. \( \sin{z} = \sin{(\pi - (x + y))} = \sin{(x + y)} \)
-2. \( \cos{z} = \cos{(\pi - (x + y))} = -\cos{(x + y)} \)
+1. $\sin{z} = \sin{(\pi - (x + y))} = \sin{(x + y)}$
+2. $\cos{z} = \cos{(\pi - (x + y))} = -\cos{(x + y)}$
 
 First looking at the first two terms restate in terms of sine and cosine:
 
@@ -40,11 +40,11 @@ That feels like progress since we've converted everything into products and we h
 
 $$ \tan{x} + \tan{y} + \tan{z} = \frac{\sin{z}}{\cos{x}\cdot\cos{y}} + \tan{z} = \frac{\sin(z)\cdot\cos{z} + \sin{z}\cdot\cos{x}\cdot\cos{y}}{\cos{x}\cdot\cos{y}\cdot\cos{z}} $$
 
-I'm going to factor out \( \sin{z} \)
+I'm going to factor out $\sin{z}$
 
 $$ \tan{x} + \tan{y} + \tan{z} = \sin{z} \cdot \frac{\cos{z} + \cos{x}\cdot\cos{y}}{\cos{x}\cdot\cos{y}\cdot\cos{z}} $$
 
-And now we'll once again replace \( \cos{z} \) with its equivalent in terms of x and y (after all we only want x and y now in the remaining expression)
+And now we'll once again replace $\cos{z}$ with its equivalent in terms of x and y (after all we only want x and y now in the remaining expression)
 
 $$ \tan{x} + \tan{y} + \tan{z} = \sin{z} \cdot \frac{-\cos{(x + y)} + \cos{x}\cdot\cos{y}}{\cos{x}\cdot\cos{y}\cdot\cos{z}} $$
 
@@ -60,7 +60,7 @@ I translated to sine and cosine reflexively when starting before because it usua
 
 To start I'm going to add the a third equivalence relation
 
-3. \( \tan{z} = \tan{(\pi - (x + y))} = -\tan{(x + y)} \)
+3. $\tan{z} = \tan{(\pi - (x + y))} = -\tan{(x + y)}$
 
 Lets substitute that in
 

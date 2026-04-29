@@ -6,7 +6,7 @@ tags:
   - precalc
 author: me
 image:
-  path: /assets/img/blogger_6320627b.png
+  path: "{{ site.baseurl }}/assets/img/blogger_6320627b.png"
 ---
 
 I read a really interesting post by David Bressound  on joining the advisory board for AP PreCalculus: [link](https://www.mathvalues.org/masterblog/thoughts-on-advanced-placement-precalculus).  The gist of which was despite misgivings he thought setting up the course would do more good than harm by providing an opportunity to standardize the curriculum.  And in general I think this part of his analysis is probably true.  Given an AP Pre-Calculus test, a lot of high schools that already teach AP Calculus are likely to switch over and replace their own course with one aligned to the AP standard.  I'm much less sure if it will prove attractive to schools that don't already do AP Calculus or AP Statistics as he asserts.  Anecdotally watching trends around Seattle, it feels like dual enrollment classes at the community colleges are gaining traction for upper level high school math classes.  For those out of the state this is partly because [Running Start](https://en.wikipedia.org/wiki/Running_Start)  makes it particularly easy for students to access this option.
@@ -22,4 +22,4 @@ Due to these shortcomings, I ended up home schooling the AoPS textbook through t
 
 Ultimately that's what I'm seeking out of precalculus.   Discuss trigonometry which must be covered before Calculus and topics that directly relate to the notion of change, limits and series.  Tie that all together by discussing a little more why this material was investigated in the first place. And have problems that reuse previous material like exponents without actually doing a unit on exponents.  Most importantly, make a course that you want to take and is completely distinct from Algebra 2.
 
- ![](/assets/img/blogger_6320627b.png)
+ ![]({{ site.baseurl }}/assets/img/blogger_6320627b.png)

@@ -24,75 +24,111 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog exploring mathematical concepts and problem-solving techniques for math circles aimed at middle school and highschool
 baseurl: "/mathblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+locale: "en-US"
 
-# Avatar (logo) - displayed above the blog title in the sidebar
-avatar: /assets/img/icos1.jpg
+# Site logo
+logo: "/assets/img/icos1.jpg"
 
 # Author information
 author:
   name: Benjamin Leis
+  bio: "My mathematical reflections"
+  location: "Seattle"
   email: benleis1@gmail.com
   links:
-    - https://github.com/benleis1
-
-# Social media
-github:
-  username: benleis1
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mathstodon.xyz/@benleis"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/benleis1"
 
 # Build settings
-theme: jekyll-theme-chirpy
+theme: minimal-mistakes-jekyll
 
-# Collections
-collections:
-  tabs:
-    output: true
-    sort_by: order
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Reading Files
+include:
+  - _pages
 
 # Pagination
 paginate: 10
-paginate_path: "/posts/page:num/"
+paginate_path: /page:num/
+show_excerpts: true
+
+# Excerpt settings
+# excerpt_separator: "\n\n"
 
 # Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-include-cache
 
 # Search
-search:
-  enabled: true
+search: true
+search_full_content: true
 
 jekyll-archives:
-#   enabled: [categories, tags]
-   enabled: [tags]
-   layouts:
-     category: category
-     tag: tag
-   permalinks:
-     category: /categories/:name/
-     tag: /tags/:name/
+  enabled:
+    - tags
+  layouts:
+    tag: archive-taxonomy
+  permalinks:
+    tag: /tags/:name/
+
+# Social Sharing
+social:
+  type: Person
+  name: Benjamin Leis
+  links:
+    - "https://github.com/benleis1"
+    - "https://mathstodon.xyz/@benleis"
+
+# Social share buttons (only Mastodon and Bluesky)
+social_share:
+  - mastodon
+  - bluesky
+
+# Site Footer
+footer:
+  links:
+    - label: "RSS Feed"
+      icon: "fas fa-fw fa-rss-square"
+      url: "/mathblog/feed.xml"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mathstodon.xyz/@benleis"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/benleis1"
 
 # Default settings
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: post
-      author: me
+      layout: single
+      author_profile: true
+      read_time: true
       comments: true
+      share: true
+      related: true
       toc: true
-      math: true
-      mermaid: false
+      toc_sticky: true
+  # _pages
   - scope:
-      path: ""
-      type: tabs
+      path: "_pages"
+      type: pages
     values:
-      layout: page
-  - scope:
-      path: assets/img/favicons
-    values:
-      swcache: true
+      layout: single
+      author_profile: true
 
 # Exclude from processing
 exclude:
@@ -109,6 +145,12 @@ exclude:
 
 # Timezone
 timezone: America/New_York
+
+# Kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter_opts:
+    disable: true
 
 # Comments
 comments:

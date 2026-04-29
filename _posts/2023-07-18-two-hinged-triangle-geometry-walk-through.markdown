@@ -5,7 +5,7 @@ tags: [geometry, triangles, complex-numbers, math club]
 author: me
 math: true
 image:
-  path: /assets/img/posts/two-hinged-triangle/orig.png
+  path: "{{ site.baseurl }}/assets/img/posts/two-hinged-triangle/orig.png"
   alt: Two isosceles right triangles hinged at corners
 ---
 
@@ -13,7 +13,7 @@ image:
 
 It's time for another geometry walkthrough motivated this week by this interesting problem from James Tanton.
 
-![Problem diagram](/assets/img/posts/two-hinged-triangle/orig.png){:width="75%"}
+![Problem diagram]({{ site.baseurl }}/assets/img/posts/two-hinged-triangle/orig.png){:width="75%"}
 
 "Two isosceles right triangles are hinged at corners as shown. Line segment connecting midpoints of their hypotenuses is used as the hypotenuse of yet another isosceles right triangle.
 
@@ -28,7 +28,7 @@ Secondly I wondered if it could be as easy as an angle chase. Sadly after workin
 
 The third observation I had is midpoints tend to generate similar triangles:
 
-![Similar triangles observation](/assets/img/posts/two-hinged-triangle/screenshot-1.png){:width="75%"}
+![Similar triangles observation]({{ site.baseurl }}/assets/img/posts/two-hinged-triangle/screenshot-1.png){:width="75%"}
 
 And if you draw in the extra line BD that is indeed the case here. Triangle BCD is similar to triangle BCG. BD is parallel to FG and the scale factor is 2:1.
 
@@ -38,7 +38,7 @@ But I wasn't quite sure yet what to do with all of that. Colinearity is one of t
 
 So out of ideas I started going down an analytic path.
 
-![Analytic setup](/assets/img/posts/two-hinged-triangle/screenshot-2.png){:width="75%"}
+![Analytic setup]({{ site.baseurl }}/assets/img/posts/two-hinged-triangle/screenshot-2.png){:width="75%"}
 
 First I set C, the hinge point, to (0,0) and oriented one triangle ABC on the X and Y axes and assigned it length p. Then I squared off the second triangle and assigned those triangles length q and r. From there I eventually derived an expression for H that showed it was indeed on the line AE. This was a bit complicated and I don't tend to find the analytic solutions to be quite as explanatory as the synthetic ones.
 
@@ -61,11 +61,11 @@ Back during my own investigation I still wanted a synthetic approach. Two more t
 
 The two parallel lines BD and FG meant I could make a second right triangle oriented at exactly the same way as FGH as so:
 
-![Second right triangle construction](/assets/img/posts/two-hinged-triangle/screenshot-3.png){:width="75%"}
+![Second right triangle construction]({{ site.baseurl }}/assets/img/posts/two-hinged-triangle/screenshot-3.png){:width="75%"}
 
 After staring a while (probably over an hour or two in between other activities) it sure looked like H was the midpoint of CJ and J looked like it was exactly at the same vertical coordinate as E. A bit later after experimenting with variations of hinged triangles and seeing that these seemed to be invariants I added some more lines and came up with this lemma:
 
-![Parallelogram lemma](/assets/img/posts/two-hinged-triangle/screenshot-4.png){:width="75%"}
+![Parallelogram lemma]({{ site.baseurl }}/assets/img/posts/two-hinged-triangle/screenshot-4.png){:width="75%"}
 
 Given the same original hinged triangle ABC and CDE the big right isosceles triangle off of BD, BDJ forms the orange parallelogram ACEJ.
 
@@ -80,7 +80,7 @@ Note: the similarities to the other problem I mentioned with the hinged squares.
 
 With that in hand and remembering that H the intersection of the parallelogram's diagonals bisects both diagonals we can see:
 
-![Final proof](/assets/img/posts/two-hinged-triangle/screenshot-5.png){:width="75%"}
+![Final proof]({{ site.baseurl }}/assets/img/posts/two-hinged-triangle/screenshot-5.png){:width="75%"}
 
 Triangle FGH is surrounded by three similar triangles all in a 1:2 ratio. Or in other words FGH is a dilation of BDJ around point C scaling by a factor of 1:2.
 
