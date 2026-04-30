@@ -17,16 +17,18 @@
 }
 
 // Fix author sidebar stacking on wide pages
-.layout--single.wide .sidebar {
-    float: left !important;
-    width: 300px !important;
-    margin-right: 2rem !important;
-}
+@media (min-width: 64em) {
+  .layout--single.wide .sidebar {
+      float: left !important;
+      width: 300px !important;
+      margin-right: 2rem !important;
+  }
 
-.layout--single.wide .page {
-    float: left !important;
-    width: calc(100% - 300px - 2rem) !important;
-    clear: none !important;
+  .layout--single.wide .page {
+      float: left !important;
+      width: calc(100% - 300px - 2rem) !important;
+      clear: none !important;
+  }
 }
 
 // Ribbon date badge styling
