@@ -175,5 +175,5 @@ comments:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-K1MRM95KVB" 
+    tracking_id: "G-FPS94V5QG0" 
     anonymize_ip: true           # Optional: for better privacy compliance
