@@ -16,21 +16,6 @@
     width: 100% !important;
 }
 
-// 3-column grid for home page
-.wide .page__content {
-    display: grid !important;
-    grid-template-columns: repeat(3, 1fr) !important;
-    gap: 2rem !important;
-}
-
-.wide .page__content article {
-    margin-bottom: 0 !important;
-}
-
-.wide .page__content hr {
-    display: none !important;
-}
-
 // Ribbon date badge styling
 .page__meta-date {
   display: inline-block;
