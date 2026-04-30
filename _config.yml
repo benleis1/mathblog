@@ -135,6 +135,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      wide: true
 
 
 # Exclude from processing
