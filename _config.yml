@@ -170,3 +170,10 @@ comments:
     repo: "benleis1/mathblog"
     issue-term: "pathname"
     theme: "github-light"
+
+# hookup google analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-K1MRM95KVB" 
+    anonymize_ip: true           # Optional: for better privacy compliance
