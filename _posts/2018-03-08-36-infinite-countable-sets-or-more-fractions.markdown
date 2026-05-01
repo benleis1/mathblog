@@ -16,7 +16,7 @@ After this talk,  we briefly went over the old problem of the week. I only had 
 
 For the main task of the day I chose a  topic from the recent Math Teacher's Circle magazine
 
-[https://www.mathteacherscircle.org/news/mtc-magazine/s2018/touching-infinity/](https://www.mathteacherscircle.org/news/mtc-magazine/s2018/touching-infinity/),  counting the set of rationals. In addition to looking interesting, this tied in well with 2 weeks ago on Farey Sequences:  [http://mymathclub.blogspot.com/2018/02/213-farey-sequences.html](http://mymathclub.blogspot.com/2018/02/213-farey-sequences.html)
+[https://www.mathteacherscircle.org/news/mtc-magazine/s2018/touching-infinity/](https://www.mathteacherscircle.org/news/mtc-magazine/s2018/touching-infinity/),  counting the set of rationals. In addition to looking interesting, this tied in well with 2 weeks ago on Farey Sequences:  [213-farey-sequences]({% post_url 2018-02-16-213-farey-sequences %})
 
 Before starting though I wanted to warm up a bit with a small problem I'd seen on twitter. So I had all the kids work on the whiteboard with a number line to find where to place 1/4 between 1/3 and 1/5. I didn't supply any hash marks or much more than a simple explanation of the problem.  I was gratified this time that almost everyone came up with an accurate answer.  Universally kids chose to convert the fractions into the GCD denominator of 60 and place 1/4 = 15/60 between 20/60 and 12/60.  On review as  a group, I also asked since 1/4 is not there what is the number in the  exact middle which was a good followup question.   Note: for some reason when  I did it myself beforehand I chose to calculate the difference between each endpoint and 1/4 and then find the ratio of the two distances which no one else did.
 

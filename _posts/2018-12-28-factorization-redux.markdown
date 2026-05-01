@@ -18,7 +18,7 @@ and was surprised yet again with something new to consider about factorization.Â
 
 That brought to mind an earlier post about factorizing non-monic quadratics which was a larger and more unexpected revelation:
 
-[https://mymathclub.blogspot.com/2018/11/everything-old-is-new-again.html](https://mymathclub.blogspot.com/2018/11/everything-old-is-new-again.html)
+[everything-old-is-new-again]({% post_url 2018-11-02-everything-old-is-new-again %})
 
 And then on top of it I noticed another simple but interesting angle on the process:
 

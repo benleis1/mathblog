@@ -10,7 +10,7 @@ author: me
 
 Turtles - [Martin Holtham](https://twitter.com/GHSMaths) 
 
-Welcome to the 168th Carnival of Mathematics. For all the other carnivals future and past, visit [The Aperiodical ](https://aperiodical.com/carnival-of-mathematics/)where you can also submit future posts.  Its been about  a year since I last hosted  [Carnival 155](https://blog.mathoffthegrid.com/2018/03/carnival-of-mathematics-155.html) and let's face it - when it came to the number 155 I went through the motions and researched various connections on the wikipedia. Being a multiple of 5 is nice but it had no personal resonance for me.  So I was pleasantly excited to find out that the next one in my queue was instead 168 which is a bit of an old friend. Quite instinctively my first thought on seeing it was KenKen number (7x4x6 or 7x3x8 ...)!  I haven't been doing these as religiously of late (currently I've been on more of a [Skyscraper puzzle](https://www.brainbashers.com/skyscrapers.asp?error=Y) binge) but the factoring and fitting of said factors into shapes is engraved on my brain.
+Welcome to the 168th Carnival of Mathematics. For all the other carnivals future and past, visit [The Aperiodical ](https://aperiodical.com/carnival-of-mathematics/)where you can also submit future posts.  Its been about  a year since I last hosted  [Carnival 155]({% post_url 2018-03-01-carnival-of-mathematics-155 %}) and let's face it - when it came to the number 155 I went through the motions and researched various connections on the wikipedia. Being a multiple of 5 is nice but it had no personal resonance for me.  So I was pleasantly excited to find out that the next one in my queue was instead 168 which is a bit of an old friend. Quite instinctively my first thought on seeing it was KenKen number (7x4x6 or 7x3x8 ...)!  I haven't been doing these as religiously of late (currently I've been on more of a [Skyscraper puzzle](https://www.brainbashers.com/skyscrapers.asp?error=Y) binge) but the factoring and fitting of said factors into shapes is engraved on my brain.
 
 ![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-168/blogger_cf51560c.png)
 
@@ -83,4 +83,4 @@ Final Puzzle:
 
 Colin has a fun exponent problem this month: [http://www.flyingcoloursmaths.co.uk/powers](http://www.flyingcoloursmaths.co.uk/powers/)
 
-Finally (I promise) if you're a research mathematician I always appreciate more responses to my post here:  [Questions For Mathematicians](https://blog.mathoffthegrid.com/2017/05/questions-for-mathematicians.html)
+Finally (I promise) if you're a research mathematician I always appreciate more responses to my post here:  [Questions For Mathematicians]({% post_url 2017-05-08-questions-for-mathematicians %})

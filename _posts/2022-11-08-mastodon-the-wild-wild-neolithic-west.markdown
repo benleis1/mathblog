@@ -8,7 +8,7 @@ author: me
 image:
   path: "{{ site.baseurl }}/assets/img/mastodon-the-wild-wild-neolithic-west/blogger_2ff09a2b.png"
 ---
-Its been a long while since my last social media post: [https://blog.mathoffthegrid.com/2017/08/how-i-use-twitter.html](https://blog.mathoffthegrid.com/2017/08/how-i-use-twitter.html)  and everything is all of a sudden in huge flux.  With all the turmoil on Twitter I've been exploring Mastodon on the math focused server a friend runs: [mathstodon.xyz](http://mathstodon.xyz).   However, a new platform means starting over again
+Its been a long while since my last social media post: [how-i-use-twitter]({% post_url 2017-08-08-how-i-use-twitter %})  and everything is all of a sudden in huge flux.  With all the turmoil on Twitter I've been exploring Mastodon on the math focused server a friend runs: [mathstodon.xyz](http://mathstodon.xyz).   However, a new platform means starting over again
 
 - **You have to rebuild your network of follows and followers**.  This is huge and discovering people has made my previous two attempts at using Mastodon unsatisfying.   But this time is different due to the chaos at Twitter. Large enough groups of people I know have migrated that I could start with a core group of folks and participate in enough conversations to have fun while finding new people.
 

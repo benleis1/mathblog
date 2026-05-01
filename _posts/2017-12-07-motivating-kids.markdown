@@ -27,7 +27,7 @@ There are several general strategies I'm currently following that are working re
 
 - Games and Puzzles are always great as long as they are mathematically relevant.  Often they can be repeated multiple times and kids will develop more insightful strategies.
 - Leverage media. I'm super careful not to show a video most days. But sometimes after working really hard one week, a numberphile video is just the right change in tempo to keep everyone going. 
-- Have the kids use the whiteboard as much as possible. I've written about VNPS before: [http://mymathclub.blogspot.com/2017/03/328-vnps.html](http://mymathclub.blogspot.com/2017/03/328-vnps.html)  This remains an excellent strategy.    
+- Have the kids use the whiteboard as much as possible. I've written about VNPS before: [328-vnps]({% post_url 2017-03-29-328-vnps %})  This remains an excellent strategy.    
 - I utilize a very minimal  common  routine to get everyone into a Math frame of mind. Mostly this consists of an introduction and talk about what we're planning to do for the day and a group review of the problem of the week.
 - If things don't go as well as I want one week - move on and change things up next time. 
 - Use competition from time to time. I'm also super cagey about this but official contests bring out a lot of energy and focus in most kids. 

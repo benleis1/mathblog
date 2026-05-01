@@ -4,7 +4,7 @@ date: 2017-11-09 22:55:00 +0000
 author: me
 ---
 
-I decided to do a second smaller sampler of AMC 8 problems for Math Club this week.  Unlike last week (see: [http://mymathclub.blogspot.com/2017/10/1031-put-bird-on-it.html](http://mymathclub.blogspot.com/2017/10/1031-put-bird-on-it.html))  this time I wanted to approach them as a group and only do 5-6 max but concentrate on the hard ones and have the group demo solutions.
+I decided to do a second smaller sampler of AMC 8 problems for Math Club this week.  Unlike last week (see: [1031-put-a-bird-on-it]({% post_url 2017-11-01-1031-put-a-bird-on-it %}))  this time I wanted to approach them as a group and only do 5-6 max but concentrate on the hard ones and have the group demo solutions.
 
 So I picked the last 6 problems from AMC 2014: [link to partial set](https://drive.google.com/open?id=1ZoLgBb3wTQBrqsqPcBymgGED-wG-ffTtI5ffm0w1FFc)  and had the kids divide up and work them in groups. My goal was to only spend 15 minutes but because the work looked productive we ended using about half the time again. 
 

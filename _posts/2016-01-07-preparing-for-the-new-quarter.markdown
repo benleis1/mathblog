@@ -14,7 +14,7 @@ Problems
 
 There have a lot of interesting puzzles I've seen go by in the few weeks. @Five_triangles has been tweeting a few.  Then @CmonMattTHINK  had this cool  worksheet: https://twitter.com/CmonMattTHINK/status/677481510602186752.   
 
-@daveinstpaul uploaded this amazing sketch recently. This shows the relationship between a 30-60-90 triangle and a hexagon. I hadn't seen/thought of this connection before and I find it really beautiful. I almost have enough extensions on this theme for a day now see (http://mymathclub.blogspot.com/2015/06/random-geometry-recursion.html)
+@daveinstpaul uploaded this amazing sketch recently. This shows the relationship between a 30-60-90 triangle and a hexagon. I hadn't seen/thought of this connection before and I find it really beautiful. I almost have enough extensions on this theme for a day now see ({% post_url 2015-06-24-random-geometry-recursion %})
 
 !![](https://pbs.twimg.com/media/CYK2KUPUkAA1MBi.png)
 
@@ -26,7 +26,7 @@ I'm waiting to see if anyone solves it or not. [**Update: One student so far has
 
 Volunteering
 
-One of the ways I'm trying to scale up is by being more organized about volunteers. So in my intro letter which resembles the one I sent last time: [http://mymathclub.blogspot.com/2015/09/procedural-updates.html](http://mymathclub.blogspot.com/2015/09/procedural-updates.html) I'm using a shared google doc spreadsheet for volunteers. This seems like the easiest way to encourage people to commit to a particular date and to cover all the dates. Hopefully, everyone who pre-committed will actually signup and I will find enough people to round everything out.
+One of the ways I'm trying to scale up is by being more organized about volunteers. So in my intro letter which resembles the one I sent last time: [procedural-updates]({% post_url 2015-09-24-procedural-updates %}) I'm using a shared google doc spreadsheet for volunteers. This seems like the easiest way to encourage people to commit to a particular date and to cover all the dates. Hopefully, everyone who pre-committed will actually signup and I will find enough people to round everything out.
 
 First Session
 

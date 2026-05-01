@@ -6,7 +6,7 @@ tags:
 author: me
 ---
 
-Three years ago I discovered the Purple Comet contest @ [purplecomet.org](http://purplecomet.org/).  It has close links to the AwesomeMath  and I really liked the problems in the old tests. So I tried it out with my fifth graders at the time.  That [2015 Experience](http://blog.mathoffthegrid.com/2015/04/421-purple-comet-online-meet.html) discouraged me from doing it again.  Despite the kids theoretically having up to Math7 knowledge the contest was too hard and I needed material that was better levelled for them to be most productive.
+Three years ago I discovered the Purple Comet contest @ [purplecomet.org](http://purplecomet.org/).  It has close links to the AwesomeMath  and I really liked the problems in the old tests. So I tried it out with my fifth graders at the time.  That [2015 Experience]({% post_url 2015-04-24-421-purple-comet-online-meet %}) discouraged me from doing it again.  Despite the kids theoretically having up to Math7 knowledge the contest was too hard and I needed material that was better levelled for them to be most productive.
 
 Cut to this year when I have actual 6th and 8th graders and I decided to participate again.  My current motivation was less the problems themselves than the timing. We don't have any real contests to participate in during the Spring and I wanted to do one meaningful one for the kids who like doing them.  Since you have a testing window when you can administer the contest and it just needs a few computers, the overall experience is very low barrier (much easier than an AMC test).
 

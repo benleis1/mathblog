@@ -8,7 +8,7 @@ author: me
 
 Find the area of the big triangle.  [Matt Enlow]
 
-  In the beginning there was [https://blog.mathoffthegrid.com/2015/05/cool-geometry-problem.html](https://blog.mathoffthegrid.com/2015/05/cool-geometry-problem.html).  And there are some particularly interesting facts about the triangles
+  In the beginning there was [cool-geometry-problem]({% post_url 2015-05-20-cool-geometry-problem %}).  And there are some particularly interesting facts about the triangles
   that I enjoyed when seeing this problem for the first time.In fact, I've come
   back to it several times over the years.  Most recently, this Spring Matt
   posted a few variations on the classic problem and I liked the first one

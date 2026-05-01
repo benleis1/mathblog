@@ -65,7 +65,7 @@ There will be some parallelism / differences of squares here but this actually a
 
 **[This is a note from the future]**
 
-Nowadays: I have a handy formula for this: [https://mymathclub.blogspot.com/2019/01/theres-more-to-angle-bisector-theorem.html](https://mymathclub.blogspot.com/2019/01/theres-more-to-angle-bisector-theorem.html)   that while basically the same as the first 2 approaches is simpler to compute due to pre-simplification.
+Nowadays: I have a handy formula for this: [theres-more-to-the-angle-bisector-theorem]({% post_url 2019-01-30-theres-more-to-the-angle-bisector-theorem %})   that while basically the same as the first 2 approaches is simpler to compute due to pre-simplification.
 
 \( CD^2 = AC \cdot BC - AD \cdot BD \) So after using the angle bisector theorem. We merely have to do:
 

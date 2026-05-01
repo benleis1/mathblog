@@ -8,7 +8,7 @@ Its crunch time this week getting ready for STEAM night, basically the Science F
 
 - Dots and Boxes game. [https://en.wikipedia.org/wiki/Dots_and_Boxes](https://en.wikipedia.org/wiki/Dots_and_Boxes)
 - Travelling Salesman Problem:  [https://en.wikipedia.org/wiki/Travelling_salesman_problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
-- Present the 3 related problems from a few weeks ago:  [Link to writeup](https://mymathclub.blogspot.com/2019/04/415-weve-found-correlation.html)
+- Present the 3 related problems from a few weeks ago:  [Link to writeup]({% post_url 2019-04-16-415-weve-found-a-correlation %})
 
 So my plan for today was to go over how we would handle each of these activities and create posters and handouts for all of them.
 

@@ -21,7 +21,7 @@ An elegant solution to this would be as follows:
 
 But there are other *shadier* options for solving the problem:
 
-Instead, we can take advantage of patterns in the values of the lengths and the then use knowledge about 3-4-5 triangles (see: [http://mymathclub.blogspot.com/2016/10/12-triangles-and-their-link-to.html](http://mymathclub.blogspot.com/2016/10/12-triangles-and-their-link-to.html)) to crack the problem.
+Instead, we can take advantage of patterns in the values of the lengths and the then use knowledge about 3-4-5 triangles (see: [12-triangles-and-their-link-to-pythagorean-triples]({% post_url 2016-10-28-12-triangles-and-their-link-to-pythagorean-triples %})) to crack the problem.
 
 ![]({{ site.baseurl }}/assets/img/elegant-solutions-vs-hacking/blogger_2944ef6f.jpg)
 

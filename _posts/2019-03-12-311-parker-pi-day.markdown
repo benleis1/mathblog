@@ -8,10 +8,10 @@ author: me
 
 I've been using Matt Parker's videos on Pi day for several years now:
 
-- [2018 pi-day-1](https://blog.mathoffthegrid.com/2018/03/313-pi-day-1.html)
-- [2017 pi-day](http://blog.mathoffthegrid.com/2017/03/314-pi-day.html) 
-- [2016 pi day more-or-less](http://blog.mathoffthegrid.com/2016/03/315-pi-day-2016-more-or-less.html) 
-- [2015 pi-day-approximately](http://blog.mathoffthegrid.com/2015/03/310-pi-day-approximately.html)
+- [2018 pi-day-1]({% post_url 2018-03-14-313-pi-day-1 %})
+- [2017 pi-day]({% post_url 2017-03-15-314-pi-day %}) 
+- [2016 pi day more-or-less]({% post_url 2016-03-21-315-pi-day-2016-more-or-less %}) 
+- [2015 pi-day-approximately]({% post_url 2015-03-11-310-pi-day-approximately %})
 
 But I was especially amused that this year that his approximation arrived at 3.11... which turns out to line up with exactly when we celebrated in Math club
 

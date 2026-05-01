@@ -25,6 +25,6 @@ Overall I'm very happy we participated.  Hopefully most of the kids will take t
 
 Moving forward I'm feeling like some encoded message fun over the break:
 
-[http://mymathclub.blogspot.com/2016/12/virtual-math-club-for-winter.html](http://mymathclub.blogspot.com/2016/12/virtual-math-club-for-winter.html)
+[virtual-math-club-for-winter]({% post_url 2016-12-21-virtual-math-club-for-winter %})
 
 [Update]: the overall statistics were just published. One thing  that stuck out at me was WA state is a bit of a math powerhouse although sadly not much of this is coming from our district. Overall the state had highest mean score, median score and was the only one where you needed a perfect score to be in the top 1%.

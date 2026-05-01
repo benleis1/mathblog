@@ -15,11 +15,11 @@ What I've been up to Recently
 
 Sometimes sessions have a rhythm of their own. This fall seems to be ending up to be about various number theory exercises and centrally the distributive law. I'm working as always hardest to level the days correctly, figure out how to help the kids through the humps and how to bring out their best thinking. 
 
-I think my favorite recent activity was the Pascal's Triangle filler exercise I used after the first Olymiad: [first Olympiad](http://mymathclub.blogspot.com/2015/11/1117-first-olympiad.html). I'm, also fairly please with my first [distributive law worksheet](http://mymathclub.blogspot.com/2015/10/distributive-law-worksheet.html). More generally, I've had a lot of success with my problem of the week [strategy](http://mymathclub.blogspot.com/2015/07/how-to-make-homework-work.html). I'm looking forward to doing a bit more geometry in the winter session.
+I think my favorite recent activity was the Pascal's Triangle filler exercise I used after the first Olymiad: [first Olympiad]({% post_url 2015-11-18-1117-first-olympiad %}). I'm, also fairly please with my first [distributive law worksheet]({% post_url 2015-10-13-distributive-law-worksheet %}). More generally, I've had a lot of success with my problem of the week [strategy]({% post_url 2015-07-01-how-to-make-homework-work %}). I'm looking forward to doing a bit more geometry in the winter session.
 
 Practices
 
 - I was reminded last week of the importance of thinking about how kids might get blocked to prep responsive questions. This was a practice I worked on last spring, that I'm returning to, 
 - I'm always on the lookout for new game, activities to intersperse between problem sets.
 - I'm still developing my ability to foster good mathematical conversations among the students. This is probably my top goal for right now. 
-- As always I want to develop each kids problem solving ability and curiusity about why various mathematical principles work. To paraphrase [Arthur Benjamin](http://mymathclub.blogspot.com/2015/09/benjamin-arthurs-talk-exploring-hidden.html)  the reaction I'm looking for is "Ooh now Why?"
+- As always I want to develop each kids problem solving ability and curiusity about why various mathematical principles work. To paraphrase [Arthur Benjamin]({% post_url 2015-09-15-arthur-benjamins-talk-exploring-the-hidden-magic-of-math %})  the reaction I'm looking for is "Ooh now Why?"

@@ -11,7 +11,7 @@ Its been a while since I've talked about one of my favorite triangles the 15-75-
 
  
 
-Via an angle chase or perhaps from experience: [Previous Discussion](http://mymathclub.blogspot.com/2017/06/15-75-triangle-redux.html)  you find the triangle CDE is a 15-75-90.    We conveniently know the ratios:
+Via an angle chase or perhaps from experience: [Previous Discussion]({% post_url 2017-06-05-15-75-triangle-redux %})  you find the triangle CDE is a 15-75-90.    We conveniently know the ratios:
 
 !![]({{ site.baseurl }}/assets/img/15-75-90-alternate-forms/blogger_09eb66f8.PNG)
 
@@ -37,7 +37,7 @@ All of which still begs the question: how do we convert directly between the two
 - Simplifying we get: \( (a^4 - 8a^2 + 12) = (a^2 - 6)(a^2 - 2) =  0 \)
 - These two solutions are symmetric if \(  a = \sqrt{2}\) then \( b = \sqrt{6} \) and vice versa. So accounting for the sign of \( a \cdot b \) we've shown \(   \sqrt{6} - \sqrt{2}  =   2 \sqrt{2 - \sqrt{3}} \)
 
-Note:  both forms demonstrate the following defining  constraint: the area of the triangle \( \frac{1}{2} ab \) is \( \frac{1}{8}  \) of the area of the hypotenuse squared.  (See: [Prev discussion](https://mymathclub.blogspot.com/2017/07/and-yet-more-15-75-90-fun.html))
+Note:  both forms demonstrate the following defining  constraint: the area of the triangle \( \frac{1}{2} ab \) is \( \frac{1}{8}  \) of the area of the hypotenuse squared.  (See: [Prev discussion]({% post_url 2017-07-04-and-yet-more-15-75-90-fun %}))
 
 ![]({{ site.baseurl }}/assets/img/15-75-90-alternate-forms/blogger_1ddc32a2.png)
 

@@ -52,7 +52,7 @@ It was this final form that reminded me to substitute back in for S since it was
 
 Also from @solvemymaths.  Prove the area of the square is equal to the triangle.
 
-This one was is closely related to [http://mymathclub.blogspot.com/2015/05/cool-geometry-1problem.html](http://mymathclub.blogspot.com/2015/05/cool-geometry-problem.html) and both rely on the  fact that the triangles formed between touching squares have equal areas.   See the previous link for the proof. 
+This one was is closely related to [cool-geometry-problem]({% post_url 2015-05-20-cool-geometry-problem %}) and both rely on the  fact that the triangles formed between touching squares have equal areas.   See the previous link for the proof. 
 
 The 4 key observations here are the
 

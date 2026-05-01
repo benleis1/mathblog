@@ -34,7 +34,7 @@ And here's where it gets cool: out pops the *3-4-5 Pythagorean triple.  *(Its a
 
 This meshes well with another 1:2 triangle exploration that led to a
 
- 3-4-5 triangle:  [http://mymathclub.blogspot.com/2016/08/another-fundamental-square-construction.html](http://mymathclub.blogspot.com/2016/08/another-fundamental-square-construction.html)
+ 3-4-5 triangle:  [another-fundamental-square-construction]({% post_url 2016-08-27-another-fundamental-square-construction %})
 
 Field Guide to spotting 3:4:5's (examples)
 Example:

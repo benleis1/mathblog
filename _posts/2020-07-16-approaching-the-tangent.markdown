@@ -13,7 +13,7 @@ The Covid pandemic has disrupted my writing habits and I've not been nearly as r
 
 Tangents!
 
-I've been thinking about tangent lines a bit for the last few months.  What started the process was working out  how to prove that polynomial division can be used to find the equation of tangent lines without directly using calculus.  Passing reference  to this: [here](https://blog.mathoffthegrid.com/2019/10/nwmc-19-post-conference-thoughts.html).  I was doing fairly well and then came to the inflection point case and realized my internal definitions were fuzzy and I had to return to first principles to get my handle around them.
+I've been thinking about tangent lines a bit for the last few months.  What started the process was working out  how to prove that polynomial division can be used to find the equation of tangent lines without directly using calculus.  Passing reference  to this: [here]({% post_url 2019-10-12-nwmc-19-post-conference-thoughts %}).  I was doing fairly well and then came to the inflection point case and realized my internal definitions were fuzzy and I had to return to first principles to get my handle around them.
 
 Then I had another moment a day ago, in a discussion about beginning calculus students having difficulties with the concept that tangent lines can intersect a curve "sufficiently" far away from the point of tangency.  My theory is that tangents are not taught very deeply nowadays. For one unit probably around a few weeks in geometry tangent lines show up.
 

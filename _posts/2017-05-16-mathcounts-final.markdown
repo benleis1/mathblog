@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-Since it was fun [Last Year](http://mymathclub.blogspot.com/2016/05/httpq13fox.html) to think about the Math Counts final question, here is the 2017 version:
+Since it was fun [Last Year]({% post_url 2016-05-19-517-battleship %}) to think about the Math Counts final question, here is the 2017 version:
 
 Oddly enough when I saw this year's final question, I almost immediately said out loud 25% of the total number or 25. Somewhere very recently I'd seen this problem (I can't remember exactly where), I didn't recall the reasoning offhand but the answer came to mind instantly.  Math Counts at the national level works a bit like that. Seeing lots of problems and being able to quickly either recall the entire answer or the efficient means to solve it is critical to win where kids are answering questions like above in a few seconds. In fact, I couldn't even "borrow" some of the questions since they were answered before being fully read out or printed on the screen.
 

@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-This is a continuation to my last post: [https://blog.mathoffthegrid.com/2020/03/dot-in-box.html](https://blog.mathoffthegrid.com/2020/03/dot-in-box.html)
+This is a continuation to my last post: [dot-in-a-box]({% post_url 2020-03-23-dot-in-a-box %})
 
 After I posted on twitter, @diegorattagg posted back some further variants on this problem that he had tweeted a few months ago. (I knew I had seen it before even if I couldn't remember the specifics.)  This was propitious because his version has a super pleasing result.
 

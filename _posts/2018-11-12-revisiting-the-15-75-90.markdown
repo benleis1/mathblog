@@ -14,11 +14,11 @@ I saw a post from Mike Lawler this morning that touched on one of my favorite co
 ![]({{ site.baseurl }}/assets/img/revisiting-the-15-75-90/blogger_05fca1f4.png)
 
 When I glanced at it, my first thought was to go back to my  original thinking about the 15-75-90 triangle, two years ago:
-[http://mymathclub.blogspot.com/2016/01/sometimes-its-harder-other-way-part-2.html](http://mymathclub.blogspot.com/2016/01/sometimes-its-harder-other-way-part-2.html)
+[sometimes-its-harder-the-other-way-part-2]({% post_url 2016-01-15-sometimes-its-harder-the-other-way-part-2 %})
 
 Some followup extensions:
 
-[http://mymathclub.blogspot.com/2017/07/and-yet-more-15-75-90-fun.html](http://mymathclub.blogspot.com/2017/07/and-yet-more-15-75-90-fun.html)
+[and-yet-more-15-75-90-fun]({% post_url 2017-07-04-and-yet-more-15-75-90-fun %})
 
 I generally always draw the figure above to derive the exact side ratios rather than remembering them (unless I've recently had to use them anyway)
 

@@ -6,11 +6,11 @@ author: me
 
 !![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Farey_diagram_square_9.svg/220px-Farey_diagram_square_9.svg.png)
 
-Today was a special occasion for Math Club. Instead of just me or a vicarious video, we once [again](http://mymathclub.blogspot.com/2017/05/59-dating-for-elementary-students.html) had a guest lecture from the UW Applied Math department. 
+Today was a special occasion for Math Club. Instead of just me or a vicarious video, we once [again]({% post_url 2017-05-10-59-dating-for-elementary-students %}) had a guest lecture from the UW Applied Math department. 
 
 ![]({{ site.baseurl }}/assets/img/213-farey-sequences/blogger_f338557b.jpg)
 
-This time, [Professor Jayadev Athreya](https://faculty.washington.edu/jathreya/) came out to the middle school to give a talk on Farey Sequences. That was fairly propitious, since I had meant to get to this subject during this session: [http://mymathclub.blogspot.com/2017/11/1128-egyptian-fractions.html](http://mymathclub.blogspot.com/2017/11/1128-egyptian-fractions.html)  but quickly realized I didn't have enough time to cover even Egyptian Fractions.  So there was a good thematic fit with some of the other things we've done.
+This time, [Professor Jayadev Athreya](https://faculty.washington.edu/jathreya/) came out to the middle school to give a talk on Farey Sequences. That was fairly propitious, since I had meant to get to this subject during this session: [1128-egyptian-fractions]({% post_url 2017-11-29-1128-egyptian-fractions %})  but quickly realized I didn't have enough time to cover even Egyptian Fractions.  So there was a good thematic fit with some of the other things we've done.
 
 My favorite moment of the day came early on when Jayadev had each of the kids talk about why they came to math club. (I usually do this on the first session too) There were a smattering of "I like competitive math" responses but then we reached a girl who roughly said "I don't know why I came originally but I like it so I keep coming." That's victory in my book!
 

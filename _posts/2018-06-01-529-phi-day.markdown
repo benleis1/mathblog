@@ -6,7 +6,7 @@ tags:
 author: me
 ---
 
-This week I wanted to extend some of our talk about the [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio). For the last reference see:  [http://mymathclub.blogspot.com/2018/05/522-chaos-mod-arithmetic.html](http://mymathclub.blogspot.com/2018/05/522-chaos-mod-arithmetic.html)   I'm also not quite done testing out the weaving activity so this was easier to schedule right after a busy Memorial Day weekend.
+This week I wanted to extend some of our talk about the [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio). For the last reference see:  [515-chaos-mod-arithmetic]({% post_url 2018-05-16-515-chaos-mod-arithmetic %})   I'm also not quite done testing out the weaving activity so this was easier to schedule right after a busy Memorial Day weekend.
 
 I had two videos in mind that I recently saw:
 

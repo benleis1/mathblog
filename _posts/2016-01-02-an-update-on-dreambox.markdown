@@ -6,7 +6,7 @@ tags:
 author: me
 ---
 
-I've now watched about a month more of my son's play with DreamBox. So this constitutes an update to my prev. post: [http://mymathclub.blogspot.com/2015/11/a-review-of-dreambox.html](http://mymathclub.blogspot.com/2015/11/a-review-of-dreambox.html)
+I've now watched about a month more of my son's play with DreamBox. So this constitutes an update to my prev. post: [a-review-of-dreambox]({% post_url 2015-11-25-a-review-of-dreambox %})
 
 New Interface
 

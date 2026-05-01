@@ -8,7 +8,7 @@ tags:
 author: me
 ---
 
-Background: This piece all started with my last [post](https://mymathclub.blogspot.com/2019/05/trigonometry-walk-through-three-ways.html) thinking about equalities of the form \( \cos (nx) = \cos(mx) \)
+Background: This piece all started with my last [post]({% post_url 2019-05-03-trigonometry-walk-through-three-ways %}) thinking about equalities of the form \( \cos (nx) = \cos(mx) \)
 
 For a given denominator p (especially when p is odd) its evident graphically that there is a vertical symmetry between the roots:
 

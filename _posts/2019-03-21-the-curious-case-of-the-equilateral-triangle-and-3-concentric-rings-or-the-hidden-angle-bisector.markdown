@@ -28,7 +28,7 @@ Or alternatively extend OC to make a right triangle with BC and the extra triang
 
 [Note: looking at things the other way via Ptolemy's theorem its also true that \( BC \cdot OA = BO \cdot AC + AB \cdot OC   \rightarrow   AO = BO + CO  \)]
 
-But  the cyclic quad gives more than just that angle.  From it you can also see \( \angle{BOA} = \angle{BCA} = 60 \) and \( \angle{COA} = \angle{CBA} = 60 \) or in other words OA is the angle bisector of \( \triangle{OBC} \) .  **(For other posts on this theme see: [last post on the subject](https://mymathclub.blogspot.com/2019/03/lets-use-angle-bisector-theorem.html))**
+But  the cyclic quad gives more than just that angle.  From it you can also see \( \angle{BOA} = \angle{BCA} = 60 \) and \( \angle{COA} = \angle{CBA} = 60 \) or in other words OA is the angle bisector of \( \triangle{OBC} \) .  **(For other posts on this theme see: [last post on the subject]({% post_url 2019-03-10-lets-use-the-angle-bisector-theorem-extensions %}))**
 
 ![]({{ site.baseurl }}/assets/img/the-curious-case-of-the-equilateral-triangle-and-3-concentric-rings-or-the-hidden-angle-bisector/blogger_ed0b4b87.PNG)
 

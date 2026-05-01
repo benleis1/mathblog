@@ -16,7 +16,7 @@ Here's another lovely variant on the piled up squares problems from Japan:
 
 ***Prove A B C are collinear in the figure above.    ***
 
-I was interested because I just finished thinking about the interior triangles in this case: [https://blog.mathoffthegrid.com/2015/05/cool-geometry-problem.html](https://blog.mathoffthegrid.com/2015/05/cool-geometry-problem.html) and how its particularly easy to prove they are all equal in area via the law of cosines. So I decided to go down a trigonometric route at first. But there are several fundamental observations about this construction that dropped out that I haven't discussed before that especially make it worthwhile.
+I was interested because I just finished thinking about the interior triangles in this case: [cool-geometry-problem]({% post_url 2015-05-20-cool-geometry-problem %}) and how its particularly easy to prove they are all equal in area via the law of cosines. So I decided to go down a trigonometric route at first. But there are several fundamental observations about this construction that dropped out that I haven't discussed before that especially make it worthwhile.
 
 **Note**: there's almost an embarrassment of  riches here. I fooled around with the Law of Sines before deciding the Law of Cosines was more fundamental as well as squaring off the entire figure before again discarding it as unnecessary,
 

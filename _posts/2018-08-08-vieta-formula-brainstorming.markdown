@@ -55,7 +55,7 @@ Entry Problems:
 - What is \( \frac{1}{x} + \frac{1}{y} \)  if you only know \(xy = k_1 \) and \(x + y = k_2 \)
 - let a and b  denote the roots of \( 18x^2 + 3x - 28 = 0 \) Find the value of \( (a - 1)(b - 1) \)
 - Some basic i.e. the root sum is x and the root's product is y. What is the polynomial?
-- Problem from [http://mymathclub.blogspot.com/2018/02/in-praise-of-rational-roots-theorem.html#VietaEx](http://mymathclub.blogspot.com/2018/02/in-praise-of-rational-roots-theorem.html#VietaEx)
+- Problem from [in-praise-of-the-rational-roots-theorem]({% post_url 2018-04-02-in-praise-of-the-rational-roots-theorem %})
 - If m an n are nonzero roots of x^2 + mx + n = 0 What does m+n  equal?
 
 Explorations:

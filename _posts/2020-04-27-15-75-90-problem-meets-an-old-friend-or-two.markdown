@@ -25,7 +25,7 @@ I tried a few different alternatives for what to solve for and none made the res
 
 First Connection
 
-One problem this reminded me of from the past was from this [Post](https://blog.mathoffthegrid.com/2019/03/the-curious-case-of-equilateral.html).
+One problem this reminded me of from the past was from this [Post]({% post_url 2019-03-21-the-curious-case-of-the-equilateral-triangle-and-3-concentric-rings-or-the-hidden-angle-bisector %}).
 
 !![]({{ site.baseurl }}/assets/img/15-75-90-problem-meets-an-old-friend-or-two/blogger_489c09ea.PNG)
 
@@ -45,7 +45,7 @@ I went down another tangent at this point trying to relate the side two sides of
 
 Second Connection
 
-Again this was an interesting avenue but nothing was immediately popping out at me. But it did push me in the direction I finally took. I was already starting to look at the squares of the side lengths above while forming right triangles and that made think of the classic construction from here:  [Post](https://blog.mathoffthegrid.com/2015/05/cool-geometry-problem.html)
+Again this was an interesting avenue but nothing was immediately popping out at me. But it did push me in the direction I finally took. I was already starting to look at the squares of the side lengths above while forming right triangles and that made think of the classic construction from here:  [Post]({% post_url 2015-05-20-cool-geometry-problem %})
 
 Several nifty invariants exist in this construction:
 
@@ -105,7 +105,7 @@ Rationalizing the denominator we get:
 
 - \( \cos (\alpha) = \dfrac{ 3 \sqrt{6}  + 3 \sqrt{2}}{12} = \dfrac{\sqrt{6} + \sqrt{2}}{4} \)
 
-And this ratio should look familiar if you've followed some older posts: [Post](https://blog.mathoffthegrid.com/2019/08/15-75-90-alternate-forms.html)
+And this ratio should look familiar if you've followed some older posts: [Post]({% post_url 2019-08-29-15-75-90-alternate-forms %})
 
 !![]({{ site.baseurl }}/assets/img/15-75-90-problem-meets-an-old-friend-or-two/blogger_20be7fac.png)
 

@@ -4,13 +4,13 @@ date: 2018-11-05 05:43:00 +0000
 author: me
 ---
 
-To continue why I  think emphasizing substitution early is a good idea see: [Previous Post](https://mymathclub.blogspot.com/2018/11/everything-old-is-new-again.html)
+To continue why I  think emphasizing substitution early is a good idea see: [Previous Post]({% post_url 2018-11-02-everything-old-is-new-again %})
 
 Here's a recent more complicated algebraic problem from @_eylem_99:
 
 \(x^2 - 16 \sqrt{x} = 12\).  What is \(x - 2\sqrt{x}\)?
 
-[**And I just realized I've talked about this one before: [http://mymathclub.blogspot.com/2017/03/not-so-innocuous-quartic.html](http://mymathclub.blogspot.com/2017/03/not-so-innocuous-quartic.html)] **
+[**And I just realized I've talked about this one before: [not-so-innocuous-quartic]({% post_url 2017-03-31-not-so-innocuous-quartic %})] **
 
 As usual I do a quick substitution  let \( y =  \sqrt{x} \) to get a better picture of the equation (and make it easier to manipulate) and get \( y^4  - 16y - 12 = 0 \)  So this is really a quartic in disguise where you want to find \(y^2 - 2y \).
 

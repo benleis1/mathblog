@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-For this session of Math Club I wanted to revisit one of the ideas from the "free the clones" games: (See: [http://mymathclub.blogspot.com/2017/01/131-chessboard-problems-or.html](http://mymathclub.blogspot.com/2017/01/131-chessboard-problems-or.html))
+For this session of Math Club I wanted to revisit one of the ideas from the "free the clones" games: (See: [131-chessboard-problems-or-manipulatives-on-the-cheap]({% post_url 2017-02-01-131-chessboard-problems-or-manipulatives-on-the-cheap %}))
 
 What is the sum of the infinite series  1 + 1/2 + 1/4 + 1/8 ...
 

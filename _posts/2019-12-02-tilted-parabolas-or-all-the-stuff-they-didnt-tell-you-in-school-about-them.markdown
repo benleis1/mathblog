@@ -11,7 +11,7 @@ author: me
 
 "A rose by any other name would smell as sweet"  W. Shakespeare
 
-I'm returning to parabolas, the subject of much of high school Algebra. As I remarked last time: [Post on Parabola Coordinates](https://blog.mathoffthegrid.com/2018/08/parabola-coordinates.html), quadratic equations are so familiar and mainstream its always shocking to realize there is another layer of detail below the surface.
+I'm returning to parabolas, the subject of much of high school Algebra. As I remarked last time: [Post on Parabola Coordinates]({% post_url 2018-08-28-parabola-equations-and-the-related-coordinates %}), quadratic equations are so familiar and mainstream its always shocking to realize there is another layer of detail below the surface.
 
 In this case: I was looking at a problem:  ***Find an equation whose graph is a parabola with a vertex (1,1) and a focus (2,2).***   After wondering why it was starred as a challenge problem. I realized this was a tilted parabola and the students had to solve this without using rotation.
 

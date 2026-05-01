@@ -18,7 +18,7 @@ So I picked 3 of them included the now infamous pink triangle.  In each the goa
 
 I put each of these up on different sections of the whiteboards and let the kids circulate among them forming organic groups. (Occasionally I'll nudge kids to work together) They then spent about 15-20 minutes attempting to find solutions while I circulated and interacted with individual groupings.  My particular focus this time was to emphasize thinking about the problems and coming up with ideas.  I used the "What do you notice/wonder?" prompt quite a bit.  There was a lot of good thinking but I definitely still see room for encouraging more experimentation.  At the end of the process I had everyone regroup for a discussion of what various people had found. Interestingly, the first pink triangle solution was analytic i.e. the student setup to equations for the lines and found the intersection.  I think this reflects the emphasis the curriculum places on these type approaches over pure synthetic reasoning.  Students don't see similar triangles quite as quickly. As an aside I had to explain the expression "broke the internet" to one of the boys as in "this puzzle just broke the internet this week."
 
-For the second half, I switched over to looking at the patterns within polynomial deltas. See: [http://mymathclub.blogspot.com/2018/05/polynomial-deltas.html](http://mymathclub.blogspot.com/2018/05/polynomial-deltas.html)  for my motivation.
+For the second half, I switched over to looking at the patterns within polynomial deltas. See: [polynomial-differences]({% post_url 2018-05-01-polynomial-differences %})  for my motivation.
 
 Example:
 

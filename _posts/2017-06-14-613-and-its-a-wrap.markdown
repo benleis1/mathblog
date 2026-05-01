@@ -18,9 +18,9 @@ Today I brought the projector in so I could show the following video:
 
 Its incredibly cool and  I've been waiting to show this since by happy coincidence this tied into 3 of the topics we explored this quarter:
 
-- Pascal's Triangle - [http://mymathclub.blogspot.com/2017/05/529-combinations-and-pascals-triangle.html](http://mymathclub.blogspot.com/2017/05/529-combinations-and-pascals-triangle.html)
-- Platonic Solids - [http://mymathclub.blogspot.com/2017/04/425-platonic-solids.html](http://mymathclub.blogspot.com/2017/04/425-platonic-solids.html)
-- HyperSpace - [http://mymathclub.blogspot.com/2017/03/228-infinite-series.html](http://mymathclub.blogspot.com/2017/03/228-infinite-series.html)
+- Pascal's Triangle - [529-combinations-and-pascals-triangle]({% post_url 2017-05-31-529-combinations-and-pascals-triangle %})
+- Platonic Solids - [425-platonic-solids]({% post_url 2017-04-26-425-platonic-solids %})
+- HyperSpace - [228-infinite-series]({% post_url 2017-03-02-228-infinite-series %})
 
 After that was done we finished with a game day as is traditional. I brought in my normal assortment of board games as well as one printed grid logic puzzle since these have been a great hit.
 

@@ -4,7 +4,7 @@ date: 2019-01-29 19:07:00 +0000
 author: me
 ---
 
-Scheduling has been tight very tight this winter.  Because last Monday was off for MLK day, this is only our third session so far. The last two weeks were both oriented around Math Circle type activities to  get everyone into the flow of the Club.  However that meant  I'm a bit behind schedule administering MOEMS tests and I felt that we had to do the third one today.  At the same time, despite Mathcounts being on this Saturday, we couldn't do any kind of prep session this year.   (See last  year's version: [here](https://mymathclub.blogspot.com/2018/01/130-math-counts-prep-day.html))   I'm  not terribly upset by that, since I don't really focus on training for it all Fall (which is an option many follow) and  I don't think it has a huge impact.  But I do wish as usual that the this time of year flowed more slowly.
+Scheduling has been tight very tight this winter.  Because last Monday was off for MLK day, this is only our third session so far. The last two weeks were both oriented around Math Circle type activities to  get everyone into the flow of the Club.  However that meant  I'm a bit behind schedule administering MOEMS tests and I felt that we had to do the third one today.  At the same time, despite Mathcounts being on this Saturday, we couldn't do any kind of prep session this year.   (See last  year's version: [here]({% post_url 2018-01-31-130-math-counts-prep-day %}))   I'm  not terribly upset by that, since I don't really focus on training for it all Fall (which is an option many follow) and  I don't think it has a huge impact.  But I do wish as usual that the this time of year flowed more slowly.
 
 At any rate, this months' MOEMS  test was interesting for several reasons.   
 

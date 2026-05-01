@@ -18,7 +18,7 @@ According to fuzzy math, this is a terrible way to teach the theorem. Students�
 
 "Constructivism" is the term for this kind of learning. It may take a group several days to "construct" the Pythagorean theorem. Even worse, the paper game may bore a group of students more than hearing a good teacher explain the theorem on the blackboard
 
-This is topical since I'm thinking about doing a Pythagorean Theorem day again this year. My attempt last year: [http://mymathclub.blogspot.com/2015/01/16-winter-session-starts-pythagorean.html](http://mymathclub.blogspot.com/2015/01/16-winter-session-starts-pythagorean.html) somewhat followed the design Gardner derides. Among other ways, I had the kids cut out triangles and try to find two squares with equivalent area that would then reduce into one of the easier proofs.
+This is topical since I'm thinking about doing a Pythagorean Theorem day again this year. My attempt last year: [16-winter-session-starts-pythagorean-theorem]({% post_url 2015-01-09-16-winter-session-starts-pythagorean-theorem %}) somewhat followed the design Gardner derides. Among other ways, I had the kids cut out triangles and try to find two squares with equivalent area that would then reduce into one of the easier proofs.
 
 Generally, I don't think it worked as well I wanted it to either. Only a few kids found the necessary equivalent squares and even then it took some guiding to reach any insights.
 

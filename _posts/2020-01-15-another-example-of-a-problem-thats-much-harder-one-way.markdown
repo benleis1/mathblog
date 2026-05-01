@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-We had a snow day this Monday and so there was no Math Club. Instead, I've written a continuation in my series of posts on the curious way geometry problems can be very asymmetrical. ([Last Entry](https://blog.mathoffthegrid.com/2019/07/sometimes-one-way-is-trickier-than.html))  The problem shown below comes from @Caner_KMZ . This walk through is interesting both in how it demonstrates the difficulty of proving things in this direction vs. given the construction of the shape how easy it is to show it must have the given angle measures  and also in  how it shows the many ways you can play with the setup.
+We had a snow day this Monday and so there was no Math Club. Instead, I've written a continuation in my series of posts on the curious way geometry problems can be very asymmetrical. ([Last Entry]({% post_url 2019-07-08-sometimes-one-way-is-trickier-than-the-other-angle-bisectors %}))  The problem shown below comes from @Caner_KMZ . This walk through is interesting both in how it demonstrates the difficulty of proving things in this direction vs. given the construction of the shape how easy it is to show it must have the given angle measures  and also in  how it shows the many ways you can play with the setup.
 
 1. Angle Chase
 

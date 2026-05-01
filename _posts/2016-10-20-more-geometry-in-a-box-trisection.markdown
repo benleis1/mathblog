@@ -9,7 +9,7 @@ author: me
 
 Continuing an occasional topic, I saw another great simple box construction.
 
-[Prev post in this series: [http://mymathclub.blogspot.com/2016/08/another-fundamental-square-construction.html](http://mymathclub.blogspot.com/2016/08/another-fundamental-square-construction.html)]
+[Prev post in this series: [another-fundamental-square-construction]({% post_url 2016-08-27-another-fundamental-square-construction %})]
 
 As always what  I like about these is both the complexity hidden in relatively simple constructions and the interesting, often surprising relationships that fall out.
 

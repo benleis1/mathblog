@@ -8,7 +8,7 @@ tags:
 author: me
 ---
 
-I put this together partly because I've been thinking about: [Vieta Formula Brainstorming](http://mymathclub.blogspot.com/2018/08/vieta-formula-brainstorming.html) but mostly because I haven't seen it elsewhere.  The symmetry is more obvious when everything is on one diagram as well as the interesting correspondences once everything is in terms of roots. 
+I put this together partly because I've been thinking about: [Vieta Formula Brainstorming]({% post_url 2018-08-08-vieta-formula-brainstorming %}) but mostly because I haven't seen it elsewhere.  The symmetry is more obvious when everything is on one diagram as well as the interesting correspondences once everything is in terms of roots. 
 
 Background: from the Vieta formulas we already have the correspondence between coefficients in the standard form and the root:   **b = - (p+q)** and **c = pq**.  
 

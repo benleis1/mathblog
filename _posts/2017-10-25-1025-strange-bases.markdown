@@ -12,7 +12,7 @@ My main inspiration was an article by @RobJLow on  [balanced ternary](https:/
 
 ![]({{ site.baseurl }}/assets/img/1025-strange-bases/blogger_2f6257e1.jpg)
 
-Then last Friday, our official MathCounts team packet arrived with the lovely poster from my [last post](http://mymathclub.blogspot.com/2017/10/this-years-math-count-poster.html).    My own son found the poster intriguing and I was fairly sure everyone else would too. So I started with a group whiteboard attempt at the problem.
+Then last Friday, our official MathCounts team packet arrived with the lovely poster from my [last post]({% post_url 2017-10-23-this-years-math-count-poster %}).    My own son found the poster intriguing and I was fairly sure everyone else would too. So I started with a group whiteboard attempt at the problem.
 
 With closer to 9 kids,  I could have everyone work in to two groups up at the board. I brought in some magnets and tacked the poster in the middle.  We worked on the problem for about 10 minutes and  I circulated making sure to keep stragglers at the board working.   What was nice was the first group to solve was fairly collaborative so I could have the kids take turns explaining their thinking to the other half of the group. (This was a theme for today: making lots of opportunities for kids to demo to each other.)
 

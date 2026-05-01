@@ -27,12 +27,12 @@ Not only that, it's not too hard to prove:
 
 [ Example with all the triangles between ABCD and its neighbors]
 
-The diagram above shows all the triangles based off of  \( \square{ABCD} \) have the same area.   To start with they all the have the same base on the square BC = AD  = AB.  In each case I've extended the lines to find the altitudes.
+The diagram above shows all the triangles based off of  $ \square{ABCD} $ have the same area.   To start with they all the have the same base on the square BC = AD  = AB.  In each case I've extended the lines to find the altitudes.
 
 For example:  altitudes GK and EJ belong to the triangles BGK and BEJ.
 
 - The triangles are right triangles by construction. 
-- Because \( \angle{EBG} \) and  \( \angle{CBA} \) are right angles a quick angle chase shows \( \angle{EBJ} \cong \angle{GBK} \)
+- Because $ \angle{EBG} $ and  $ \angle{CBA} $ are right angles a quick angle chase shows $ \angle{EBJ} \cong \angle{GBK} $
 - They both share the same length hypotenuses since those lie on the square BEFG.
 - Therefore the two triangles are congruent ASA and the altitudes in particular are the same.
 
@@ -56,20 +56,20 @@ Secondly there's some easy algebra for finding the area of the inner triangle wi
 
 Lets let the blue segment be x, the red segment y and the green segment z.
 
-- \( x^2 + y^2  = 26 \)
-- \(x^2 + z^2 = 20 \)
--  \( y + z  = \sqrt{18} \)
+- $ x^2 + y^2  = 26 $
+- $x^2 + z^2 = 20 $
+-  $ y + z  = \sqrt{18} $
 
 This set of equations is not too hard to solve via substitution:
 
-- \( z = \sqrt{18} - y  \rightarrow   z^2 = 18 - 6 \sqrt{2} y  + y^2 \)
-- The second equation becomes: \(x^2  - 6 \sqrt{2} y + y^2  = 2 \)
-- You can then subtract the two equations to solve for y: \(  6 \sqrt{2}{y} =  24 \rightarrow  y = 2 \sqrt{2} \)
-- From there  you find \( z = \sqrt{18} - 2\sqrt{2}  = \sqrt{2} \) and \( x = 3 \sqrt{2} \)
+- $ z = \sqrt{18} - y  \rightarrow   z^2 = 18 - 6 \sqrt{2} y  + y^2 $
+- The second equation becomes: $x^2  - 6 \sqrt{2} y + y^2  = 2 $
+- You can then subtract the two equations to solve for y: $  6 \sqrt{2}{y} =  24 \rightarrow  y = 2 \sqrt{2} $
+- From there  you find $ z = \sqrt{18} - 2\sqrt{2}  = \sqrt{2} $ and $ x = 3 \sqrt{2} $
 
 Interestingly:  y + z = x.   At this point we can quickly calculate the inner triangle's area is 9.  The decomposition above can be used in conjunction with these values to solve the rest of the problem.
 
-- The 2 lower triangles have a base of  \(  \sqrt{18}  \)  and  a height of x which is the same base and height as the inner triangle.  So they have the same area. (In fact you can then rotate the drawing and show that the top triangle also has the same area as one of the lower ones so transitively they are all the same.
+- The 2 lower triangles have a base of  $  \sqrt{18}  $  and  a height of x which is the same base and height as the inner triangle.  So they have the same area. (In fact you can then rotate the drawing and show that the top triangle also has the same area as one of the lower ones so transitively they are all the same.
 
 ![]({{ site.baseurl }}/assets/img/cool-geometry-problem/blogger_1f329bfe.PNG)
 (Rotation so that 26 is on the bottom and once again all the triangles still have the same base and altitude)
@@ -77,13 +77,13 @@ Interestingly:  y + z = x.   At this point we can quickly calculate the inner
 Enter the Law of Cosines
 I referred to it offhandedly 4 four years ago but the Law of Cosines makes showing the area of the triangles are all the same almost trivial:
 
-- For the inner one: \( 20 + 18 -  2 \sqrt{360} \cos \theta  = 26  \rightarrow \cos \theta = \frac{1}{\sqrt{10}} \). 
-- \( \sin \theta = \sqrt{1 - cos^2 \theta} = \frac{3}{\sqrt{10}}  \)
-- Then using the area formula \( A = \frac{1}{2} \sqrt{20} \cdot \sqrt{18} \sin \theta \rightarrow \frac{1}{2} 6 \sqrt{10} \cdot  \frac{3}{\sqrt{10}} = 9 \).  (Basically all the weirdness cancels out!)
-- But then look at the lower right triangle: it has the exact same side length and its inner angle is \( 360 - 2 * 90 - \theta \). Since the \( \sin(\theta) = \sin( 180 - \theta) \) the area formula is going to produce the same value as the inner triangle.
+- For the inner one: $ 20 + 18 -  2 \sqrt{360} \cos \theta  = 26  \rightarrow \cos \theta = \frac{1}{\sqrt{10}} $. 
+- $ \sin \theta = \sqrt{1 - cos^2 \theta} = \frac{3}{\sqrt{10}}  $
+- Then using the area formula $ A = \frac{1}{2} \sqrt{20} \cdot \sqrt{18} \sin \theta \rightarrow \frac{1}{2} 6 \sqrt{10} \cdot  \frac{3}{\sqrt{10}} = 9 $.  (Basically all the weirdness cancels out!)
+- But then look at the lower right triangle: it has the exact same side length and its inner angle is $ 360 - 2 * 90 - \theta $. Since the $ \sin(\theta) = \sin( 180 - \theta) $ the area formula is going to produce the same value as the inner triangle.
 - This process can be repeated symmetrically on the other two outer triangles.
 
-[Some more musing on this technique vs Heron's Law](https://blog.mathoffthegrid.com/2019/09/herons-formula-vs-trigonometry.html)
+[Some more musing on this technique vs Heron's Law]({% post_url 2019-09-26-herons-formula-vs-trigonometry %})
 
 A Related Problem:
 

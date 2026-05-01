@@ -19,7 +19,7 @@ I went with another battleship puzzle this week. I didn't check it as closely an
 
 Main Activities
 
-For comparison last year went like this: [http://mymathclub.blogspot.com/2015/04/428-magic-squares.html](http://mymathclub.blogspot.com/2015/04/428-magic-squares.html)
+For comparison last year went like this: [428-magic-squares]({% post_url 2015-04-29-428-magic-squares %})
 
 While the warm ups were ongoing I struggled in vain with a video projector. In the end I had everyone crowd around my laptop to show the above video and the followup one since they're short.
 

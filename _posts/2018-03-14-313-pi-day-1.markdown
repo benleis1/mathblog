@@ -10,9 +10,9 @@ This is my fourth experience with Pi Day or "Pi Day - 1" as I called it since we
 
 See:
 
-- [http://blog.mathoffthegrid.com/2017/03/314-pi-day.html](http://mymathclub.blogspot.com/2017/03/314-pi-day.html)
-- [http://blog.mathoffthegrid.com/2016/03/315-pi-day-2016-more-or-less.html](http://blog.mathoffthegrid.com/2016/03/315-pi-day-2016-more-or-less.html)
-- [http://blog.mathoffthegrid.com/2015/03/310-pi-day-approximately.html](http://blog.mathoffthegrid.com/2015/03/310-pi-day-approximately.html)
+- [314-pi-day]({% post_url 2017-03-15-314-pi-day %})
+- [315-pi-day-2016-more-or-less]({% post_url 2016-03-21-315-pi-day-2016-more-or-less %})
+- [310-pi-day-approximately]({% post_url 2015-03-11-310-pi-day-approximately %})
 
 In a nutshell, because there's pie to eat, the kids always have fun.  But I was reminded of another perspective today from @evelyn_lamb
 

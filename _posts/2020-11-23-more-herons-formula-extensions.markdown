@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-Continuing on the theme from the last post: [https://blog.mathoffthegrid.com/2020/11/going-one-step-beyond-herons-formula.html](https://blog.mathoffthegrid.com/2020/11/going-one-step-beyond-herons-formula.html)  here's another problem showing the power of the full conceptual
+Continuing on the theme from the last post: [going-one-step-beyond-herons-formula]({% post_url 2020-11-15-going-one-step-beyond-herons-formula %})  here's another problem showing the power of the full conceptual
   framework.  Heron's formula itself even makes an appearance again at the end.
 
   ![]({{ site.baseurl }}/assets/img/more-herons-formula-extensions/blogger_7edc73a0.png)

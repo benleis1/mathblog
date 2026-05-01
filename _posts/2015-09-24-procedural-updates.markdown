@@ -40,7 +40,7 @@ Fun Stuff: I've re-enclosed my original flyer. For those who are chomping at the
 
 See you soon
 
-I've also been updating the resource page: [Resources](http://mymathclub.blogspot.com/2014/12/resources.html) a bit recently. At some I'm going to reindex by category as well.
+I've also been updating the resource page: [Resources]({% post_url 2014-12-10-129-prime-climb %}) a bit recently. At some I'm going to reindex by category as well.
 
 Recent Interesting Problems:
 

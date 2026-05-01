@@ -11,8 +11,8 @@ I'm returning here to a perennial topic of mine: High School Curriculum Reform.
 
 If you want to catch up on the previous installments:
 
-- [https://blog.mathoffthegrid.com/2018/07/fantasy-high-school.html](https://blog.mathoffthegrid.com/2018/07/fantasy-high-school.html)
-- [https://blog.mathoffthegrid.com/2018/08/fantasy-high-school-part-2.html](https://blog.mathoffthegrid.com/2018/08/fantasy-high-school-part-2.html)
+- [fantasy-high-school]({% post_url 2018-07-17-fantasy-high-school %})
+- [fantasy-high-school-part-2]({% post_url 2018-08-02-fantasy-high-school-part-2 %})
 
 For some background,  I find if  you look at a typical criticisms of the status quo like NCTM's Catalyzing Change in High School Mathematics, there is  a ton  of writing within it devoted to chronicling all the problems we have currently, a lot of energy around attacking tracking, a cataloging of essential concepts that doesn't vary much from what is currently in the common core high school sections  (Geometry should focus around transformations etc.) and then some very vague and brief hand waving about what new curriculum or pathways might look like.  Maybe we should do Geometry first, or maybe we should go with an integrated 2.5 years!?! of math.  This lack of a detailed vision of what should replace the current sequence is very common.
 

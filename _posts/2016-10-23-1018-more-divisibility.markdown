@@ -4,7 +4,7 @@ date: 2016-10-23 05:26:00 +0000
 author: me
 ---
 
-After a slow start last week, this time almost all of the kids in the Math Club finished the problem of the week.  ([See the end of this post)](http://mymathclub.blogspot.com/2016/10/1011-dont-fence-me-in.html)  I had one of the boys demonstrate his solution on the board. He's one of the slower but more careful writers and almost always shows something interesting. So I tend to ask questions to the room to keep everyone involved while he gets his thoughts written down.
+After a slow start last week, this time almost all of the kids in the Math Club finished the problem of the week.  ([See the end of this post)]({% post_url 2016-10-13-1011-dont-fence-me-in %})  I had one of the boys demonstrate his solution on the board. He's one of the slower but more careful writers and almost always shows something interesting. So I tend to ask questions to the room to keep everyone involved while he gets his thoughts written down.
 
 In point of fact, I don't really have any kids that are good at talking simultaneously while they write on the board. That appears to be a learned skill. So in the beginning of almost all student work on the whiteboard I usually choose between narrating what's being written or asking background questions to prep the room.  One of these days I'd love to see what other people do.
 

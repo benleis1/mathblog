@@ -9,7 +9,7 @@ tags:
 author: me
 ---
 
-This random pedagogical thought occurred to me today: Both  [Heron's Formula](https://blog.mathoffthegrid.com/2017/10/herons-formula.html) and the Law of Cosines provide ways to find the area of a triangle with just its 3 sides. Does it makes sense to teach both and/or is there much efficiency difference in using them?
+This random pedagogical thought occurred to me today: Both  [Heron's Formula]({% post_url 2017-10-21-herons-formula %}) and the Law of Cosines provide ways to find the area of a triangle with just its 3 sides. Does it makes sense to teach both and/or is there much efficiency difference in using them?
 
 **Heron's Formula **
 

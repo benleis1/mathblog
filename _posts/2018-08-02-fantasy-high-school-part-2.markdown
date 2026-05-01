@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-[See: [http://mymathclub.blogspot.com/2018/07/fantasy-high-school.html](http://mymathclub.blogspot.com/2018/07/fantasy-high-school.html) for part 1]
+[See: [fantasy-high-school]({% post_url 2018-07-17-fantasy-high-school %}) for part 1]
 
 Recently I listened to a podcast  interview with Conrad Wolfram: [Link](https://modernlearners.com/modern-learners-podcast-28-rethinking-math-class-conrad-wolfram/).  I've been aware of some of his thinking especially his popular: [Ted Talk](https://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers). But in the past it seemed to hazy and unfleshed out to get my mind around and decide if I agree.  In the intervening 8 years, he's moved forward and there's a website: [http://computerbasedmath.org/](http://computerbasedmath.org/) and the beginnings of some concrete curricular ideas.
 

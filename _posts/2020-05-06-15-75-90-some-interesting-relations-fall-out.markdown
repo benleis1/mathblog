@@ -14,7 +14,7 @@ I'm going to do a small dive here on another 15-70-90 problem from @_eylem_99. 
 
 The part of this proof that I'm concerned with here is the nested radicals.  These look hopelessly awful at first but we can leverage familiarity with them to avoid having to square everything at step 6 which would just produce more nested radicals and a quadratic equation to boot.
 
-This flows from a previous post on the alternate ratios forms of the 15-75-90 triangle: [Link to Post](https://blog.mathoffthegrid.com/2019/08/15-75-90-alternate-forms.html)
+This flows from a previous post on the alternate ratios forms of the 15-75-90 triangle: [Link to Post]({% post_url 2019-08-29-15-75-90-alternate-forms %})
 
 **The 15-75-90 Triangle ratios looks like this:**
 
@@ -28,17 +28,17 @@ That means we also have some convenient nested radical conversion formulas via t
 
 I.e. you can express the equivalent triangle ratios from the two different representations as follows:
 
-$$ \frac{2 \sqrt{2 - \sqrt{3}}}{1} = \frac{4}{\sqrt{6}+\sqrt{2}} =  \sqrt{6} -  \sqrt{2} $$
+$$ \frac{2 \sqrt{2 - \sqrt{3%}{1} = \frac{4}{\sqrt{6}+\sqrt{2}} =  \sqrt{6} -  \sqrt{2} $$
 
 And out pops this conversion:  \(  \sqrt{2 - \sqrt{3}}  = \frac{\sqrt{6} -  \sqrt{2}}{2} \)
 
 Playing around further we can also find values for: \( \sqrt{2 + \sqrt{3}} \) as follows:
 
-$$ \sqrt{2 + \sqrt{3}} \cdot \frac{\sqrt{2 - \sqrt{3}}} {\sqrt{2 - \sqrt{3}}} = \frac{ \sqrt{4 - 3}} {\sqrt{2 - \sqrt{3}}}  $$
+$$ \sqrt{2 + \sqrt{3}} \cdot \frac{\sqrt{2 - \sqrt{3%} {\sqrt{2 - \sqrt{3%} = \frac{ \sqrt{4 - 3}} {\sqrt{2 - \sqrt{3%}  $$
 
-$$ \frac{ \sqrt{4 - 3}} {\sqrt{2 - \sqrt{3}}} = \frac{1}{\sqrt{2 - \sqrt{3}}} $$
+$$ \frac{ \sqrt{4 - 3}} {\sqrt{2 - \sqrt{3%} = \frac{1}{\sqrt{2 - \sqrt{3%} $$
 
-$$ \frac{1}{\sqrt{2 - \sqrt{3}}} = \frac{2}{\sqrt{6} -  \sqrt{2}} $$
+$$ \frac{1}{\sqrt{2 - \sqrt{3%} = \frac{2}{\sqrt{6} -  \sqrt{2}} $$
 
 $$ \frac{2}{\sqrt{6} -  \sqrt{2}} =  \frac{\sqrt{6} + \sqrt{2}}{2} $$
 

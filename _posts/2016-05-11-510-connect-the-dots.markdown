@@ -6,7 +6,7 @@ author: me
 
 Around the middle of last week I received a surprise phone call from the school office: "Your package arrived and we're holding it for you."  As expected, it was a small cardboard box containing the MOEMS bling for this year. I decided to hand out most of it as the students arrived to make the process a bit more private. Mostly, because not all of the kids in Math Club participated in all of the 5 tests, not all of them received anything. However, I did think it was important to recognize the top scoring student for the year whom was  given a trophy at the start of the session.
 
-This was a natural point to also recognize the team that went out the [WSMC Olympiad](http://mymathclub.blogspot.com/2016/05/wsmc-math-olympiad.html) last Saturday. I had all the kids who went give a short report on the contest and what they thought of it. As usual I'm hoping that this will encourage others to participate more next year.
+This was a natural point to also recognize the team that went out the [WSMC Olympiad]({% post_url 2016-05-09-wsmc-math-olympiad %}) last Saturday. I had all the kids who went give a short report on the contest and what they thought of it. As usual I'm hoping that this will encourage others to participate more next year.
 
 My main planning goal for this session was to do something less formal after the last two weeks. I found this awesome chair exercise from Lisa Winer: [http://eatplaymath.blogspot.com/2016/05/puzzle-day-human-jumping-puzzle-riddle.html](http://eatplaymath.blogspot.com/2016/05/puzzle-day-human-jumping-puzzle-riddle.html)
 

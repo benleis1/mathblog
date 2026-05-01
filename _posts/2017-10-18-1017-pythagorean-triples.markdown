@@ -6,7 +6,7 @@ tags:
 author: me
 ---
 
-[http://mymathclub.blogspot.com/2016/10/12-triangles-and-their-link-to.html](http://mymathclub.blogspot.com/2016/10/12-triangles-and-their-link-to.html) The inspiration for this week was a puzzle from the recent Pythagorize Seattle event thrown by MoMath that my friend Dan recommended.
+[12-triangles-and-their-link-to-pythagorean-triples]({% post_url 2016-10-28-12-triangles-and-their-link-to-pythagorean-triples %}) The inspiration for this week was a puzzle from the recent Pythagorize Seattle event thrown by MoMath that my friend Dan recommended.
 
 ![]({{ site.baseurl }}/assets/img/1017-pythagorean-triples/blogger_f0a2477c.PNG)
 
@@ -30,7 +30,7 @@ I then sent everyone back to finish working on the puzzle. From here the groups 
 
 See the first proof here:
 
-[http://mymathclub.blogspot.com/2016/10/12-triangles-and-their-link-to.html](http://mymathclub.blogspot.com/2016/10/12-triangles-and-their-link-to.html)
+[12-triangles-and-their-link-to-pythagorean-triples]({% post_url 2016-10-28-12-triangles-and-their-link-to-pythagorean-triples %})
 
 No one had fully solved this yet before we left for the day so I'm tempted to come back here. I'd also like to have the kids find some of the patterns in the triples i..e one of them is always a multiple of 3, 4, and 5. This might make a good bridge with a day on modular arithmetic as well.
 

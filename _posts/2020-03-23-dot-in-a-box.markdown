@@ -122,7 +122,7 @@ talk about some of  the general properties it has.
     to use a modified form
   
   
-    of  Heron's formula: (See [here](https://blog.mathoffthegrid.com/2019/09/herons-formula-vs-trigonometry.html) for a detailed dive on this) I'm going to process one of the single
+    of  Heron's formula: (See [here]({% post_url 2019-09-26-herons-formula-vs-trigonometry %}) for a detailed dive on this) I'm going to process one of the single
     small triangles that is a quarter of the total.
   
   

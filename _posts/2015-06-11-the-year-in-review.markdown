@@ -49,7 +49,7 @@ Misc.
 
 Todo:
 
-1. Pay attention to everyone in the room. I'm not really methodical about this yet and its something to work on. Likewise as I posted [elsewhere](http://mymathclub.blogspot.com/2015/06/on-hints.html) I'm musing about how much to hint and what kind of hints give.
+1. Pay attention to everyone in the room. I'm not really methodical about this yet and its something to work on. Likewise as I posted [elsewhere]({% post_url 2015-06-03-on-hints %}) I'm musing about how much to hint and what kind of hints give.
 
 2.  Find more games.
 

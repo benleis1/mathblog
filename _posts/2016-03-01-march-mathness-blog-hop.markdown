@@ -14,7 +14,7 @@ Welcome to everyone who's coming here via the Hoagie's "March Mathness" blog hop
 
 And in many ways what I found was that this is a golden age for mathematics education and enrichment.  One of the earliest discoveries I made was a local [Math Circle](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiti92BuJvLAhWFLmMKHUMkAUAQFggcMAA&url=https%3A%2F%2Fwww.mathcircles.org%2F&usg=AFQjCNFc2Iv9yDXmOjXiv6KrG4fjYqj0ew&sig2=Popfub2EQFENTR1yuWebzQ&bvm=bv.115339255,d.cGc) offering enrichment on the weekends, Then there was my introduction to [Numberphile videos](https://www.youtube.com/user/numberphile).  These were great hits with my sons. More formally, there's the innovative curriculum being developed by the [Art of Problem Solving](http://www.artofproblemsolving.com/). If you look around you can find amazing stories about what kids are experimenting with and discovering.  What summarizes the moment really well for me is a recent article in the Atlantic: [http://www.theatlantic.com/magazine/archive/2016/03/the-math-revolution/426855/](http://www.theatlantic.com/magazine/archive/2016/03/the-math-revolution/426855/)
 
-This is where  I was two years ago when I made the transition from a family oriented to group oriented focus.  What I realized then was that I could leverage my own passion and affect more kids. It was definitely a bit scary to step out of my comfort zone in front of 15 unknown fifth graders: [first impressions](http://mymathclub.blogspot.com/2014/12/classroom-management.html). However, I believe it was and still is ultimately very rewarding. As I've said elsewhere, its tremendously gratifying seeing kids get excited about a concept or making a breakthrough or even just engaging enthusiastically with an activity. There's power in creating a peer group of kids who all are interested in the same subject.  For me this goes full circle back to my own fourth and fifth grade experiences where a key teacher made me realize that I too loved to do Math. I'm hoping at least a few readers take a moment and ask themselves the question "Can I do this too?" You don't have to be perfect or an expert on everything. Just like Math itself, running a club is quite creative and can go many directions. It also doesn't have to start very large. But a small effort can have a huge impact on your community.
+This is where  I was two years ago when I made the transition from a family oriented to group oriented focus.  What I realized then was that I could leverage my own passion and affect more kids. It was definitely a bit scary to step out of my comfort zone in front of 15 unknown fifth graders: [first impressions]({% post_url 2014-12-11-classroom-management %}). However, I believe it was and still is ultimately very rewarding. As I've said elsewhere, its tremendously gratifying seeing kids get excited about a concept or making a breakthrough or even just engaging enthusiastically with an activity. There's power in creating a peer group of kids who all are interested in the same subject.  For me this goes full circle back to my own fourth and fifth grade experiences where a key teacher made me realize that I too loved to do Math. I'm hoping at least a few readers take a moment and ask themselves the question "Can I do this too?" You don't have to be perfect or an expert on everything. Just like Math itself, running a club is quite creative and can go many directions. It also doesn't have to start very large. But a small effort can have a huge impact on your community.
 
 Getting Started
 
@@ -30,15 +30,15 @@ In my mind, these are the actually the easy parts. Things become harder when you
 Here's a few pointers into some of my past writing:
 
 - Resource Page: This is where I collect other sites I've found useful: [Resources](http://mymathclub.blogspot.com/p/resources.html). At the bottom of the page I've embedded links to my activity maps for the year (which are *mostly* up to date)
-- My mega post on  what I learned over the first year: [http://mymathclub.blogspot.com/2015/06/the-year-in-review.html](http://mymathclub.blogspot.com/2015/06/the-year-in-review.html). I'm a big fan of improvement through reflection.
+- My mega post on  what I learned over the first year: [the-year-in-review]({% post_url 2015-06-11-the-year-in-review %}). I'm a big fan of improvement through reflection.
 - Looking back through the blog most of the posts with a date in the title reflect a log of what I did at that session and how it went. I try to focus on both mechanics. I.e. this took 20 minutes,  evaluation of how well the activities went and thoughts on what I could personally improve on. 
 
 Some goodies for everyone
 Finally here are three of my favorite discoveries from this year so far.
 
-- The no-rectangles problem: [here](http://mymathclub.blogspot.com/2016/01/126-recycler.html)  [and here](http://mymathclub.blogspot.com/2016/02/29-olympiad-4.html)
-- Match stick (tooth stick in our case) puzzles: [here](http://mymathclub.blogspot.com/2015/10/1027-first-practice-olympiad.html)
-- "This is not  a Maths book"   [here](http://mymathclub.blogspot.com/2015/11/1117-first-olympiad.html) and [here](http://mymathclub.blogspot.com/2015/10/1020-grids-and-graphs.html)
+- The no-rectangles problem: [here]({% post_url 2016-01-27-126-recycler %})  [and here]({% post_url 2016-02-11-29-olympiad-4 %})
+- Match stick (tooth stick in our case) puzzles: [here]({% post_url 2015-10-28-1027-first-practice-olympiad %})
+- "This is not  a Maths book"   [here]({% post_url 2015-11-18-1117-first-olympiad %}) and [here]({% post_url 2015-10-21-1020-grids-and-graphs %})
 
 [](http://www.hoagiesgifted.org/blog_hop_march_mathness.htm)
 

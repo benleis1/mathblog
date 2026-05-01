@@ -93,13 +93,13 @@ First case:
 
 So to find the cos value there's a refresher on the 15-75-90 ratios here:
 
-[https://mymathclub.blogspot.com/2018/11/revisiting-15-75-90.html](https://mymathclub.blogspot.com/2018/11/revisiting-15-75-90.html)
+[revisiting-the-15-75-90]({% post_url 2018-11-12-revisiting-the-15-75-90 %})
 
 But that's not really necessary because we can run the double angle formulas in reverse
 
 - \(\cos{2\theta} = \pm \frac{\sqrt{3}}{2} \)
-- Then  \( \pm \frac{\sqrt{3}}{2}  = 2\cos^2{\theta} - 1 \) to get \(x = \cos{\theta} = \frac{\sqrt{2 \pm \sqrt{3}}}{2} \)
-- After rechecking the potential solutions in the original equation only \( \frac{\sqrt{2 -\sqrt{3}}}{2} \) works.
+- Then  \( \pm \frac{\sqrt{3}}{2}  = 2\cos^2{\theta} - 1 \) to get \(x = \cos{\theta} = \frac{\sqrt{2 \pm \sqrt{3%}{2} \)
+- After rechecking the potential solutions in the original equation only \( \frac{\sqrt{2 -\sqrt{3%}{2} \) works.
 
 Second case:
 For the second easier quadratic root:   \( \sin{2\theta} = -1 \) implying \( \theta = \frac{3 \pi}{4} \) 

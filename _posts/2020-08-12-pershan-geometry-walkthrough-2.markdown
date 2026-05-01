@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-This is the continuation of a series from [First Post](https://blog.mathoffthegrid.com/2020/08/walkthrough-of-geometry-problem-from.html)  I'm following Michael along and capturing my problem solving process for comparison. To capture the process , I narrate as much as possible my thinking on the yellow pads I use, and just work down linearly without erasing anything,
+This is the continuation of a series from [First Post]({% post_url 2020-08-03-walkthrough-of-geometry-problem-from-michael-pershan %})  I'm following Michael along and capturing my problem solving process for comparison. To capture the process , I narrate as much as possible my thinking on the yellow pads I use, and just work down linearly without erasing anything,
 
 This time among the problems he chose this one:
 

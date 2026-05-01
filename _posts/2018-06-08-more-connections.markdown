@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-I've been thinking alot about polynomial deltas recently. See: [http://mymathclub.blogspot.com/2018/05/polynomial-deltas.html](http://mymathclub.blogspot.com/2018/05/polynomial-deltas.html).  It turns out, that there are a variety of problems where its fun to use them. Basically anywhere you think you have a polynomial function and you can curve fit is a good candidate.
+I've been thinking alot about polynomial deltas recently. See: [polynomial-differences]({% post_url 2018-05-01-polynomial-differences %}).  It turns out, that there are a variety of problems where its fun to use them. Basically anywhere you think you have a polynomial function and you can curve fit is a good candidate.
 
 For example:  Find a formula for \( \sqrt{n\cdot (n+1) \cdot (n + 2) \cdot (n+3) + 1} \)
 

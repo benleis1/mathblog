@@ -4,7 +4,7 @@ date: 2019-06-05 06:18:00 +0000
 author: me
 ---
 
-I skipped blogging last week given a hectic schedule and the fact I had outlined my plan already here: [https://mymathclub.blogspot.com/2019/05/513-checkers-redux.html](https://mymathclub.blogspot.com/2019/05/513-checkers-redux.html)  but I'm still thinking over one part of that session.   I have been doing group problem solving warm up with the purple comet problems.  2 weeks ago I chose this one:
+I skipped blogging last week given a hectic schedule and the fact I had outlined my plan already here: [513-checkers-redux]({% post_url 2019-05-14-513-checkers-redux %})  but I'm still thinking over one part of that session.   I have been doing group problem solving warm up with the purple comet problems.  2 weeks ago I chose this one:
 
 ![]({{ site.baseurl }}/assets/img/63-tesselations/blogger_7b8921ff.png)
 

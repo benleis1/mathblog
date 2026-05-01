@@ -6,7 +6,7 @@ tags:
 author: me
 ---
 
-Today I returned to a topic, square roots, I've done before with younger kids : [http://mymathclub.blogspot.com/2016/05/53-square-roots.html](http://mymathclub.blogspot.com/2016/05/53-square-roots.html).  My thinking was that I had a cool video I wanted to show that mentioned approximating the numeric value of a square root and doing it ourselves would motivate that part of the video and provide some embedded practice calculating with decimals. 
+Today I returned to a topic, square roots, I've done before with younger kids : [53-square-roots]({% post_url 2016-05-06-53-square-roots %}).  My thinking was that I had a cool video I wanted to show that mentioned approximating the numeric value of a square root and doing it ourselves would motivate that part of the video and provide some embedded practice calculating with decimals. 
 
 But before we could start in we needed to go over the old problem of the week.
 

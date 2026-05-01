@@ -8,7 +8,7 @@ tags:
 author: me
 ---
 
-I just found yet another combinatoric link with Pascal's Triangle that I never knew before and its both fairly intuitive and a source for something to do later on with the kids when school resumes.   In  the past I've done things like: [https://blog.mathoffthegrid.com/2017/05/529-combinations-and-pascals-triangle.html](https://blog.mathoffthegrid.com/2017/05/529-combinations-and-pascals-triangle.html)    What follows is the skeleton of what I think would make a great half an hour investigation. Each part probably should be done in groups and then shared together. I definitely would bring large hexagonal paper to draw on.
+I just found yet another combinatoric link with Pascal's Triangle that I never knew before and its both fairly intuitive and a source for something to do later on with the kids when school resumes.   In  the past I've done things like: [529-combinations-and-pascals-triangle]({% post_url 2017-05-31-529-combinations-and-pascals-triangle %})    What follows is the skeleton of what I think would make a great half an hour investigation. Each part probably should be done in groups and then shared together. I definitely would bring large hexagonal paper to draw on.
 
 First let's start with the basic triangle:
 

@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-Its amazing how much for want of a better word beauty is lurking in very simple constructions. I've talked about some square variants before: [http://mymathclub.blogspot.com/2015/07/sometimes-one-direction-is-lot-tricker.html](http://mymathclub.blogspot.com/2015/07/sometimes-one-direction-is-lot-tricker.html)
+Its amazing how much for want of a better word beauty is lurking in very simple constructions. I've talked about some square variants before: [sometimes-one-direction-is-a-lot-tricker-than-the-other]({% post_url 2015-07-30-sometimes-one-direction-is-a-lot-tricker-than-the-other %})
 
 I've been thinking about another one a lot this week: Take a square, draw the quarter circle arc from its two corners and then draw a line from its median M to the corner D. The original problem from @five_triangles was to find the length of MN but I'm more interested in the sub problem embedded within it and all the things I* noticed and wondered  *Sadly this is all a bit too advanced for the kids this year, although I could guide them through part of it through a combination of guess and check, exploration of samples etc. Its the spirit of what I want to happen though and how I interpret what mathematical questions we should be asking. 
 

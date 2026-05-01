@@ -11,8 +11,8 @@ author: me
 
 Last week, I saw this really fun parabola problem from @diegorattaggi and  I became interested for two reasons:
 
-- I've been playing a lot with parabolas recently see: [https://mymathclub.blogspot.com/2019/06/quadrature-of-parabola-proposition-2.html](https://mymathclub.blogspot.com/2019/06/quadrature-of-parabola-proposition-2.html)
-- I like pentagons for their embedded golden ratios:  Ex: [https://mymathclub.blogspot.com/2018/12/proof-of-pentagon-construction.html](https://mymathclub.blogspot.com/2018/12/proof-of-pentagon-construction.html)
+- I've been playing a lot with parabolas recently see: [quadrature-of-the-parabola-proposition-2]({% post_url 2019-06-08-quadrature-of-the-parabola-proposition-2 %})
+- I like pentagons for their embedded golden ratios:  Ex: [proof-of-pentagon-construction]({% post_url 2018-12-22-proof-of-pentagon-construction %})
 
 ![]({{ site.baseurl }}/assets/img/pentagon-quadrature-of-the-parabola/blogger_7f44d356.jpg)
 
@@ -23,7 +23,7 @@ set the distance between them equal to the base of the pentagon.
 
 ![]({{ site.baseurl }}/assets/img/pentagon-quadrature-of-the-parabola/blogger_beeaa027.PNG)
 
-- Above I set the x coordinate for C to a.  Then the x coordinate of B must be \( \phi \cdot a \) since EB is a \( \phi \cdot CD \). See: [[post on golden ratio]](https://mymathclub.blogspot.com/2018/09/golden-ratios-in-regular-polygons.html)
+- Above I set the x coordinate for C to a.  Then the x coordinate of B must be \( \phi \cdot a \) since EB is a \( \phi \cdot CD \). See: [[post on golden ratio]]({% post_url 2018-09-08-golden-ratios-in-regular-polygons %})
 -  We can compute the length of \( BC = \sqrt{ (\phi - 1)^2 \cdot a^2 + (\phi^2 - 1)^2 \cdot a^4}\) 
 - Setting that equal length of CD we get: \( 4\boldsymbol{a^2} =  (\phi - 1)^2 \cdot \boldsymbol{a^2} + (\phi^2 - 1)^2 \cdot \boldsymbol{a^4} \)
 -  \( 4 =  (\phi - 1)^2 + (\phi^2 - 1)^2 \cdot a^2 \)

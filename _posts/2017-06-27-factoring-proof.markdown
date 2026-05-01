@@ -33,7 +33,7 @@ $$n(n+2)(n+4)(n+6) + 16$$
 
 $$= n^4 + 12n^3 +44n^2 + 48n + 16$$
 
-This is harder (but not impossible see: [http://blog.mathoffthegrid.com/2017/03/not-so-innocuous-quartic.html](http://blog.mathoffthegrid.com/2017/03/not-so-innocuous-quartic.html) quartic to factor naively.
+This is harder (but not impossible see: [not-so-innocuous-quartic]({% post_url 2017-03-31-not-so-innocuous-quartic %}) quartic to factor naively.
 
 One immediate simplification is to assume that this the square of some quadratic \(ax^2 + bx + c\).  From there we get:
 

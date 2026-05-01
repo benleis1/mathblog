@@ -29,7 +29,7 @@ Once in the space it was great to see a full room out on a Monday night for a ma
 
 It turns out the talk was sponsored by my arch nemesis: [Xeno](http://xenomath.org/)  They still are totally whomping me on google showing up at least 2 pages earlier if you search for "math club blog" despite not even being a blog.  All kidding aside they're a great organization which I haven't had much of chance to interact with in person yet.
 
-The talk itself was a lot of fun. I brought my son and the material was very accessible. There was a bit of warm up mental math tricks for doing squares, two fairly length sections going into Triangle numbers (see my take from last year: [http://mymathclub.blogspot.com/2015/02/triangle-number-exercise.html](http://mymathclub.blogspot.com/2015/02/triangle-number-exercise.html)) and  Fibonacci sequences. None of the subjects were particularly new to me but Arthur Benjamin was very entertaining and some of the development paths look like fertile ground.. 
+The talk itself was a lot of fun. I brought my son and the material was very accessible. There was a bit of warm up mental math tricks for doing squares, two fairly length sections going into Triangle numbers (see my take from last year: [triangle-number-exercise]({% post_url 2015-02-19-triangle-number-exercise %})) and  Fibonacci sequences. None of the subjects were particularly new to me but Arthur Benjamin was very entertaining and some of the development paths look like fertile ground.. 
 
 ![]({{ site.baseurl }}/assets/img/arthur-benjamins-talk-exploring-the-hidden-magic-of-math/blogger_953be016.jpg)
 

@@ -36,7 +36,7 @@ logs (This is just me)
 
 graph coloring quanta article. https://t.co/sHm2Xz8ZJN
 
-Q8 group experiment: http://mymathclub.blogspot.com/2018/05/tangles-and-symmetry.html
+Q8 group experiment: {% post_url 2018-05-20-tangles-and-symmetry %}
 
 PCMI problem sets projects.ias.edu/pcmi/hstp/problemsets.html
 

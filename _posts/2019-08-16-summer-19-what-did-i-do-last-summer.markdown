@@ -17,7 +17,7 @@ Criteria:
 
 Topics:
 
-- Quadrature of the Parabola (and parabolas in general). This all started after reading Steven Strogatz's new book on Calculus. A surprising amount falls out of  a parabola beyond the quadratic formula. Here I wrote up some coalesced thinking around finding the area under a curve or more properly the geometry that builds up to it:    [https://mymathclub.blogspot.com/2019/06/quadrature-of-parabola-proposition-2.html](https://mymathclub.blogspot.com/2019/06/quadrature-of-parabola-proposition-2.html)   There were several followup parabola problems that I saw afterwards that built on this thinking.
+- Quadrature of the Parabola (and parabolas in general). This all started after reading Steven Strogatz's new book on Calculus. A surprising amount falls out of  a parabola beyond the quadratic formula. Here I wrote up some coalesced thinking around finding the area under a curve or more properly the geometry that builds up to it:    [quadrature-of-the-parabola-proposition-2]({% post_url 2019-06-08-quadrature-of-the-parabola-proposition-2 %})   There were several followup parabola problems that I saw afterwards that built on this thinking.
 
 - Morley's Triangle:  After a throwaway comment by Sam Shah I spent a week fooling around with this angle trisection:
 

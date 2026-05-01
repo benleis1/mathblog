@@ -8,7 +8,7 @@ This quarter began with a seamless transition the week after the old one ended �
 
 Intros
 
-To start off, I had all the kids gather on the rug in the front of row and introduce themselves. As usual I had everyone state their name, homeroom teacher and either their favorite activity from last quarter if they were returning or why they decided to join if they were new.  Interestingly, there was a strong consensus that [Pi Day](http://mymathclub.blogspot.com/2017/03/314-pi-day.html) was the favorite. I'm hoping that it wasn't just the literal pie I served that influenced everyone.
+To start off, I had all the kids gather on the rug in the front of row and introduce themselves. As usual I had everyone state their name, homeroom teacher and either their favorite activity from last quarter if they were returning or why they decided to join if they were new.  Interestingly, there was a strong consensus that [Pi Day]({% post_url 2017-03-15-314-pi-day %}) was the favorite. I'm hoping that it wasn't just the literal pie I served that influenced everyone.
 
 Human Knot
 

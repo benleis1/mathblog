@@ -67,7 +67,7 @@ Let's return to the middle drawing:
 
 ![]({{ site.baseurl }}/assets/img/everything-is-connected-yet-again/blogger_897369e1.JPG)
 
-I've posted before about the link between 1:2 triangles and 3:4:5 right triangles. See: [Older Post](https://blog.mathoffthegrid.com/2016/10/12-triangles-and-their-link-to.html) 
+I've posted before about the link between 1:2 triangles and 3:4:5 right triangles. See: [Older Post]({% post_url 2016-10-28-12-triangles-and-their-link-to-pythagorean-triples %}) 
 
 If you look closely above you'll see ADH is a 1:2 triangle and ADC is a right isosceles.  So what about the angle HAC in the middle?
 

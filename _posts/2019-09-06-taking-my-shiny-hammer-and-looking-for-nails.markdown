@@ -8,7 +8,7 @@ tags:
 author: me
 ---
 
-I was thinking some more about the Casus Irreducibilis and other weird forms of solutions derived from Cardano's Method for cubics last night. (See: [Last Post on the Topic](https://blog.mathoffthegrid.com/2019/08/cardanos-method.html))  and it occurred to me that you could generate some tricky looking algebra problems via this pathway. It also seemed like a fun way to solve a small class of problems.
+I was thinking some more about the Casus Irreducibilis and other weird forms of solutions derived from Cardano's Method for cubics last night. (See: [Last Post on the Topic]({% post_url 2019-08-26-cardanos-method %}))  and it occurred to me that you could generate some tricky looking algebra problems via this pathway. It also seemed like a fun way to solve a small class of problems.
 
 I was going to generate some examples and play with them myself but then I thought to look back through some archives over at [https://eylemmath.weebly.com/algebra/category/cubic-roots](https://eylemmath.weebly.com/algebra/category/cubic-roots)  and found exactly what I was looking for:
 

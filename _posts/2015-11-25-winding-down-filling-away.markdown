@@ -13,7 +13,7 @@ This shouldn't surprise me anymore but despite it feeling like I just started th
 
 Are they Retaining Knowledge?
 
-Every once in a while something happens that makes me take pause and worry how much the kids are remembering. Last week it was the RATS = 4 * STAR problem. Some of the kids had seen the problem at least 2 times previously over a year and yet looked oblivious when I mentioned that fact.  Then last night working on a fun problem with my son I had another similar episode.  During the summer we had visited the Field Museum: [http://mymathclub.blogspot.com/2015/07/voronoi-diagrams.html](http://mymathclub.blogspot.com/2015/07/voronoi-diagrams.html).  Besides the Voronoi diagrams there was also a mirror maze that had various problems in it posted on the walls. One of the problems was interesting enough that we talked about it for 10-15 minutes.
+Every once in a while something happens that makes me take pause and worry how much the kids are remembering. Last week it was the RATS = 4 * STAR problem. Some of the kids had seen the problem at least 2 times previously over a year and yet looked oblivious when I mentioned that fact.  Then last night working on a fun problem with my son I had another similar episode.  During the summer we had visited the Field Museum: [voronoi-diagrams]({% post_url 2015-07-20-voronoi-diagrams %}).  Besides the Voronoi diagrams there was also a mirror maze that had various problems in it posted on the walls. One of the problems was interesting enough that we talked about it for 10-15 minutes.
 
 !![](http://mathforum.org/alejandre/magic.square/4x4grid.gif)
 

@@ -7,13 +7,13 @@ tags:
 author: me
 ---
 
-Here's another example of one the most interesting parts of geometry for me. (courtesy of a mathjam participant last month) See: [earlier post](https://mymathclub.blogspot.com/2015/07/sometimes-one-direction-is-lot-tricker.html)  Given an isosceles triangle if you bisect both congruent angles its fairly straightforward to show the diagonals are congruent. But the other direction is considerably trickier.
+Here's another example of one the most interesting parts of geometry for me. (courtesy of a mathjam participant last month) See: [earlier post]({% post_url 2015-07-30-sometimes-one-direction-is-a-lot-tricker-than-the-other %})  Given an isosceles triangle if you bisect both congruent angles its fairly straightforward to show the diagonals are congruent. But the other direction is considerably trickier.
 
 ![]({{ site.baseurl }}/assets/img/sometimes-one-way-is-trickier-than-the-other-angle-bisectors/blogger_a015c4f3.PNG)
 
 **Problem: Given a triangle ABC with angle bisectors at A and B where the bisector segment BD = AE prove ABC is  isosceles.**
 
-This turns out to be all about the angle bisector theorem and its variants  Background: [Angle Bisector Theorem applications](https://mymathclub.blogspot.com/2019/01/theres-more-to-angle-bisector-theorem.html)
+This turns out to be all about the angle bisector theorem and its variants  Background: [Angle Bisector Theorem applications]({% post_url 2019-01-30-theres-more-to-the-angle-bisector-theorem %})
 
 And all of this was in mind prior to my starting but I still ended up taking quite a while to make it to a solution. At the night of the Mathjam I started by just applying the angle bisector theorem. By mistake I transposed a "d" and a "b" and thought I had immediately solved the problem by finding CD was congruent to CE.  Once this was realized, I ended up going back to the drawing board and looking for more interesting properties.
 
@@ -62,7 +62,7 @@ So after trying to start with different segments as base variables and getting s
 
 \( \dfrac{c}{s} = \dfrac{a}{b+d} \text{ or }  (b+d)\cdot c = a \cdot s \)
 
-- From the extensions for the diagonals: [(See here)](https://mymathclub.blogspot.com/2019/01/theres-more-to-angle-bisector-theorem.html)
+- From the extensions for the diagonals: [(See here)]({% post_url 2019-01-30-theres-more-to-the-angle-bisector-theorem %})
 
 \( (b + d) \cdot s  - a \cdot c = AE^2 = BD^2  = (a + c) \cdot s - b \cdot d  \)
 

@@ -6,7 +6,7 @@ tags:
 author: me
 ---
 
-Once they get started, the MOEMS Olympiads come quite frequently. This month's version surprised me because in my first glance I had thought we had only had one prior to winter break.  So despite it being the end of the quarter we did the contest today instead of just a wrap up celebration.  As I mentioned last week, I jiggled my scheduling and did the [Math Game Day](http://mymathclub.blogspot.com/2015/12/128-math-game-day.html) then to compensate for this.
+Once they get started, the MOEMS Olympiads come quite frequently. This month's version surprised me because in my first glance I had thought we had only had one prior to winter break.  So despite it being the end of the quarter we did the contest today instead of just a wrap up celebration.  As I mentioned last week, I jiggled my scheduling and did the [Math Game Day]({% post_url 2015-12-09-128-math-game-day %}) then to compensate for this.
 
 Before starting even the review of the problem of the week, I had everyone who went to the Knights of Pi contest give a trip report to the rest of the room. Amusingly, the most fascinating piece of information was the fact pizza was served at the end. Hopefully, this can increase interest for the next contests we go to.
 

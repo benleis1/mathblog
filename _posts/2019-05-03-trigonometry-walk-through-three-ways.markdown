@@ -12,8 +12,8 @@ author: me
 I saw the following trigonometry problem the other day and decided it would make another good walk through since it hits several themes I've been exploring.
 
 - An example of trig formulas being used to solve a bigger problem. 
-- Also usage of Vieta formulas in a similar fashion. [Intro Post](https://blog.mathoffthegrid.com/2018/08/vieta-formula-brainstorming.html)
-- Plus a tie in to the roots of unity. [Intro post](https://blog.mathoffthegrid.com/2018/08/cylotomic-polynomials.html)
+- Also usage of Vieta formulas in a similar fashion. [Intro Post]({% post_url 2018-08-08-vieta-formula-brainstorming %})
+- Plus a tie in to the roots of unity. [Intro post]({% post_url 2018-08-20-roots-of-unity-and-cyclotomic-polynomials %})
 
 Find S where:
 
@@ -80,7 +80,7 @@ Also interesting as a followup: if you use one of the other base equations i.e. 
 
 ![]({{ site.baseurl }}/assets/img/trigonometry-walk-through-three-ways/blogger_36c3b83b.PNG)
 
-Here's the comparison of the cos 2x = cos 5x  polynomial vs cos 3x = cos 4x.   All the unique primitive roots appear in both but the 5th degree equation has an extra root at 1/2. **See: [Next Post](https://blog.mathoffthegrid.com/2019/05/roots-of-unity-pursuing-extra-roots.html) for a deeper dive into this.]**
+Here's the comparison of the cos 2x = cos 5x  polynomial vs cos 3x = cos 4x.   All the unique primitive roots appear in both but the 5th degree equation has an extra root at 1/2. **See: [Next Post]({% post_url 2019-05-07-roots-of-unity-pursuing-extra-roots %}) for a deeper dive into this.]**
 
 **Third Strategy: Leverage more of  the primitive roots**
 
@@ -90,7 +90,7 @@ We actually know a lot of the Vieta values we calculated above directly from the
 
 - \( \cos{(\dfrac{ 2 \pi }{7})}  \cdot \cos{(\dfrac{ 4 \pi }{7})} \cdot  \cos{(\dfrac{ 6 \pi }{7})} = \dfrac{1}{8}  \)     - multiple the expression by  \( \dfrac{\sin{(\dfrac{ 2 \pi }{7})}}{\sin{(\dfrac{ 2 \pi }{7})}}  \) apply the double sine angle rule 3 times and 1/8 pops out. 
 
-- \( \cos{(\dfrac{ 2 \pi }{7})}  +\cos{(\dfrac{ 4 \pi }{7})} + \cos{(\dfrac{ 6 \pi }{7})} = - \dfrac{1}{2}  \)    See: [https://blog.mathoffthegrid.com/2018/08/cylotomic-polynomials.html#addition](https://blog.mathoffthegrid.com/2018/08/cylotomic-polynomials.html#addition)
+- \( \cos{(\dfrac{ 2 \pi }{7})}  +\cos{(\dfrac{ 4 \pi }{7})} + \cos{(\dfrac{ 6 \pi }{7})} = - \dfrac{1}{2}  \)    See: [roots-of-unity-and-cyclotomic-polynomials]({% post_url 2018-08-20-roots-of-unity-and-cyclotomic-polynomials %}#addition)
 
 So first multiple our expression by the first identity to kill the fractions and we get: $$\frac{1}{8}S=-2(\cos{( \dfrac{ 2 \pi }{7})}\cos{( \dfrac{ 4 \pi }{7})}  + \cos{( \dfrac{ 4 \pi }{7})}\cos{( \dfrac{ 6 \pi }{7})}  + \cos{( \dfrac{ 2 \pi }{7})} \cos{( \dfrac{ 6 \pi }{7})})   $$
 

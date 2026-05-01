@@ -6,7 +6,7 @@ tags:
 author: me
 ---
 
-Today started with an interesting whiteboard demo for the [Problem of the Week](http://mymathclub.blogspot.com/2018/01/117-graphs-and-paths.html#potw).  This is a fairly straight forward combinatorics problem on a small 2^9 total set of possibilities. One of my students just went ahead and wrote a python program to brute force check for the answer.  While this won't work in a contest setting, I really like the use of computational math. If I had access to a computer lab and I knew everyone could program I'd love to do a whole session around the [Project Euler](https://projecteuler.net/). It would also make a really cool class structure to learn programming over a period of time.
+Today started with an interesting whiteboard demo for the [Problem of the Week]({% post_url 2018-01-19-117-graphs-and-paths %}).  This is a fairly straight forward combinatorics problem on a small 2^9 total set of possibilities. One of my students just went ahead and wrote a python program to brute force check for the answer.  While this won't work in a contest setting, I really like the use of computational math. If I had access to a computer lab and I knew everyone could program I'd love to do a whole session around the [Project Euler](https://projecteuler.net/). It would also make a really cool class structure to learn programming over a period of time.
 
 But the other thought experiment this generated was what is the purpose of some of these problems in the age of cheap computing?  This is well trod territory.  Open Middle problems as they are commonly formulated often make me think this is better done as a brute force search.
 

@@ -22,7 +22,7 @@ Can anything be said about where B sits on segment AC?"
 
 ## Initial Impressions
 
-My first impression was that this reminded me a bit of the [3 hinged squares](https://blog.mathoffthegrid.com/2015/05/cool-geometry-problem.html) problem where among the key observations was that the area of the triangles between the hinges was always the same. This problem has right triangles which are effectively half squares and involves the midpoints (or centers of the squares if they were there) so it's not quite the same at least at first but keep that thought in the back of your head.
+My first impression was that this reminded me a bit of the [3 hinged squares]({% post_url 2015-05-20-cool-geometry-problem %}) problem where among the key observations was that the area of the triangles between the hinges was always the same. This problem has right triangles which are effectively half squares and involves the midpoints (or centers of the squares if they were there) so it's not quite the same at least at first but keep that thought in the back of your head.
 
 Secondly I wondered if it could be as easy as an angle chase. Sadly after working things out that appeared to not be the case. So this would take some more serious work.
 

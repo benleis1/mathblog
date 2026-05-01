@@ -16,7 +16,7 @@ Secondly, I knew Bowen Kerins would be at the conference but his talk was cross 
 
 [Imagine: a large equal number of black and white balls in a bag. If you pick 3 white ones you win, if you pick 2 black ones you lose. What's the probability of winning if you pick a series of balls blindly one after another?]
 
-CrossRef:  Here's a book review I wrote recently on one of Kerin's books.    [https://blog.mathoffthegrid.com/2019/09/book-review-some-applications-of.html](https://blog.mathoffthegrid.com/2019/09/book-review-some-applications-of.html)
+CrossRef:  Here's a book review I wrote recently on one of Kerin's books.    [book-review-some-applications-of-geometric-thinking]({% post_url 2019-09-03-book-review-some-applications-of-geometric-thinking %})
 
 Session-wise, I was very happy with the talks I chose. Given only a day and the schedule of talks I notice in retrospect I leaned more heavily towards content over pedagogy than last year. I think this reflects the timing and people giving talks that I wanted to see more than any shifts on my own part. Some other highlights were:
 
@@ -36,11 +36,11 @@ Example:   \(  x^4 =   (x-a)^4 + 4a \cdot (x -a)^3 + 6a^2 \cdot (x-a)^2 + 4
 
 Finally my own workshop ran well this time albeit with a few less people attending  than I had hoped for (that was my general impression of most sessions / they were emptier than the BC versions ) :
 
-**My Slide Deck**: [https://blog.mathoffthegrid.com/2018/10/math-circle-talk-slide-deck.html](https://blog.mathoffthegrid.com/2018/10/math-circle-talk-slide-deck.html)
+**My Slide Deck**: [math-circle-talk-slide-deck]({% post_url 2018-10-16-math-circle-talk-slide-deck %})
 
 The big difference was  I took two activities that worked well last Spring and ran them with the participants. These were chosen for ease of materials and on how well they ran with real kids.
 
-- Some work with randomess: around [https://blog.mathoffthegrid.com/2019/01/114-randomness.html](https://blog.mathoffthegrid.com/2019/01/114-randomness.html)   I ended up coming up with some new ideas just watching adults do the same thing.  First its interesting to generate the random sequences from digits in an irrational number and compare. Secondly you can blend results and that tends to increase true randomness quite a bit. Also I think this would pair really well with a talk about pseudo random number generators and or something with a random walk problem.
+- Some work with randomess: around [114-randomness]({% post_url 2019-01-16-114-randomness %})   I ended up coming up with some new ideas just watching adults do the same thing.  First its interesting to generate the random sequences from digits in an irrational number and compare. Secondly you can blend results and that tends to increase true randomness quite a bit. Also I think this would pair really well with a talk about pseudo random number generators and or something with a random walk problem.
 
-- A version of this dya[https://blog.mathoffthegrid.com/2019/04/415-weve-found-correlation.html](https://blog.mathoffthegrid.com/2019/04/415-weve-found-correlation.html)   These problems are still captivating.
+- A version of this dya[415-weve-found-a-correlation]({% post_url 2019-04-16-415-weve-found-a-correlation %})   These problems are still captivating.
 

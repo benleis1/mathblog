@@ -6,7 +6,7 @@ tags:
 author: me
 ---
 
-My planning process this week went something like this: after last week's talk I either wanted to do some group white-boarding or find a new game to explore. I also was thinking more about  combinatorics. I've never done anything on combinations (n choose m) and I mulled choosing that as a theme.  Then in the middle of the week the [Math Counts finals](http://mymathclub.blogspot.com/2017/05/mathcounts-final.html) occurred. Watching the live stream was fun for me and I thought the kids would like that too. So initially, I thought about showing pieces of the video and then pausing and have everyone do the problems on the whiteboard. But after some more thought, I worried that it would emphasize the speed of the competitors too much and I also wanted to dig into the Chicken problem more deeply.
+My planning process this week went something like this: after last week's talk I either wanted to do some group white-boarding or find a new game to explore. I also was thinking more about  combinatorics. I've never done anything on combinations (n choose m) and I mulled choosing that as a theme.  Then in the middle of the week the [Math Counts finals]({% post_url 2017-05-16-mathcounts-final %}) occurred. Watching the live stream was fun for me and I thought the kids would like that too. So initially, I thought about showing pieces of the video and then pausing and have everyone do the problems on the whiteboard. But after some more thought, I worried that it would emphasize the speed of the competitors too much and I also wanted to dig into the Chicken problem more deeply.
 
 Finally this was the structure I ended up with:
 

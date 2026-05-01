@@ -11,7 +11,7 @@ author: me
 
 Thinking about this week, I'm strongly reminded of a year ago:
 
-[https://mymathclub.blogspot.com/2017/10/1031-put-bird-on-it.html](https://mymathclub.blogspot.com/2017/10/1031-put-bird-on-it.html)
+[1031-put-a-bird-on-it]({% post_url 2017-11-01-1031-put-a-bird-on-it %})
 
 Like then, it was near Halloween, and I needed to do a review of the AMC format. This time around my goal was also to get the kids to look at a sample of questions to get a sense of the range of difficulty in the problems.  It was also a fairly smooth exercise with the kids doing a lot of work but definitely more of a workhorse session that an experimental one.
 

@@ -10,7 +10,7 @@ This session was inspired by a twitter conversation I saw a few weeks back over 
 
 ![]({{ site.baseurl }}/assets/img/415-weve-found-a-correlation/blogger_20566f3f.PNG)
 
-I really enjoyed working through this myself and I thought it would adapt really well to the problem carnival format because of the interconnections.  (See: [https://mymathclub.blogspot.com/2018/05/522-cycles-and-circles.html](https://mymathclub.blogspot.com/2018/05/522-cycles-and-circles.html) for another example)
+I really enjoyed working through this myself and I thought it would adapt really well to the problem carnival format because of the interconnections.  (See: [522-cycles-and-circles]({% post_url 2018-05-30-522-cycles-and-circles %}) for another example)
 
 So after debriefing the kids on how a Quiz bowl went over the weekend I dived right in. I wrote all 3 problems on the board (slightly modified - I tend to strip them down a bit)  We then talked through the definitions to make sure everyone understood things like surface area and regular polygons.  I do this through a series of questions and answers from the kids after reading writing each one down i.e. "so let's check if we are all on the same page: can someone give me a definition of a X?" I did not in anyway indicate these were related but instead emphasized the different domains they belonged to.
 

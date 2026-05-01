@@ -14,15 +14,15 @@ author: me
 
 So I went back through my blog, especially through the last 2 year end reviews and spent some time thinking about the year as a whole.
 
-- [http://mymathclub.blogspot.com/2016/06/2016-year-in-review.html](http://mymathclub.blogspot.com/2016/06/2016-year-in-review.html)
-- [http://mymathclub.blogspot.com/2015/06/the-year-in-review.html](http://mymathclub.blogspot.com/2015/06/the-year-in-review.html)
+- [2016-year-in-review]({% post_url 2016-06-23-2016-year-in-review %})
+- [the-year-in-review]({% post_url 2015-06-11-the-year-in-review %})
 
 For the most part I still agree with my thinking from past years but on reflection I think this year has been different from the last two and I've made some important changes.
 
 As always my key goal is to generate and sustain enthusiasm among the kids and to get them to engage with as many challenging problems as I can manage without losing them along the way. This year in particular I think I made strides towards engagement.
 
 VNPS (Vertical Non Permanent Surfaces)
-This was probably my biggest discovery for the year. See: [http://mymathclub.blogspot.com/2017/03/328-vnps.html](http://mymathclub.blogspot.com/2017/03/328-vnps.html)  In the past while I used whiteboards during student demos or while I was explaining a concept, it never occurred to me that it would work so well for group problem solving.  I found I could keep kids going on a problem set much longer in this format than in paper even while both involved group work.  I think there was also good carry over week to week. A successful session set the stage for more focus the next time.   What I liked best was setting up 2-3 problems on all the boards and letting the kids switch between problems as they wished.  I then could stop by a cluster and watch and ask questions.
+This was probably my biggest discovery for the year. See: [328-vnps]({% post_url 2017-03-29-328-vnps %})  In the past while I used whiteboards during student demos or while I was explaining a concept, it never occurred to me that it would work so well for group problem solving.  I found I could keep kids going on a problem set much longer in this format than in paper even while both involved group work.  I think there was also good carry over week to week. A successful session set the stage for more focus the next time.   What I liked best was setting up 2-3 problems on all the boards and letting the kids switch between problems as they wished.  I then could stop by a cluster and watch and ask questions.
 
 2 Things I'll keep working on here:
 
@@ -39,7 +39,7 @@ This doesn't mean I don't sometimes do a 2 part activity.  This can still be va
 
 Games
 
-This was an early focus for me this year. I didn't end up using games every week but whenever I found one that I thought was mathematically interesting I consciously tried to build a session around it.  I think  my favorite 2 for the year were [Rational Tangles](http://mymathclub.blogspot.com/2017/06/512-rational-tangles.html)  and [Attack of the Clones](http://mymathclub.blogspot.com/2017/01/131-chessboard-problems-or.html).  The challenge here is to continue finding new ones when you've worked with the same kids for several years.  When I do repeat activities, I usually find kids don't mind/don't remember the first time nearly as clearly as I do/fear and I do reuse several categories of puzzles like the skyscraper puzzles this spring.
+This was an early focus for me this year. I didn't end up using games every week but whenever I found one that I thought was mathematically interesting I consciously tried to build a session around it.  I think  my favorite 2 for the year were [Rational Tangles]({% post_url 2017-06-07-66-rational-tangles %})  and [Attack of the Clones]({% post_url 2017-02-01-131-chessboard-problems-or-manipulatives-on-the-cheap %}).  The challenge here is to continue finding new ones when you've worked with the same kids for several years.  When I do repeat activities, I usually find kids don't mind/don't remember the first time nearly as clearly as I do/fear and I do reuse several categories of puzzles like the skyscraper puzzles this spring.
 
 I also am still working on connecting the games explicitly to underlying Mathematics and making the time to talk about the games after we play them.  (This dovetails with my structural shifts. When you just dive in, there is more time left for a post-discussions and you run out of time early less often.)
 
@@ -47,12 +47,12 @@ AMC
 I was very happy with my experiment getting the kids to try out AMC8. These also provide a little structure in the beginning of the year.  Competition brings out focus that a normal sheet of problems would never elicit. Next year, I'm going to try to leverage that a bit and use practice tests as a way to motivate kids to try and discuss problems more explicitly.
 
 Video Integration
-This year I chopped videos up a lot more than I did previously. Wherever I saw opportunities to discuss or try something out I would just pause.  For instance, during the Infinite Series video on proofs [(Blog Entry Link)](http://mymathclub.blogspot.com/2017/04/418-series-infinite-series.html) every time a problem was introduced we turned on the lights and tried it out as a group first before hearing the solution. I'm also really happy with the serendipitous alignment of my random topic choices and the final "Infinite Series" video on slicing a n-dimensional cube.
+This year I chopped videos up a lot more than I did previously. Wherever I saw opportunities to discuss or try something out I would just pause.  For instance, during the Infinite Series video on proofs [(Blog Entry Link)]({% post_url 2017-04-19-418-the-series-infinite-series %}) every time a problem was introduced we turned on the lights and tried it out as a group first before hearing the solution. I'm also really happy with the serendipitous alignment of my random topic choices and the final "Infinite Series" video on slicing a n-dimensional cube.
 
 One experiment I'm still evaluating in my mind, was showing the MathCounts final. Kids are still asking to see more clips from MathCounts. So it definitely was popular. I'm not sure if it sent the right message about speed and ability though.
 
 Guest Speaker
-Going through the work to arrange a guest speaker was definitely worth it. I will try to maintain my relationship with the UW Math dept. going forward. In my ideal world, I could have a roster of speakers through the whole year.  Since that's not possible video clips act as a surrogate for this experience letting the kids see and hear more mathematicians. Also I'm toying with the idea of having the kids expand on my: [http://mymathclub.blogspot.com/2017/05/questions-for-mathematicians.html](http://mymathclub.blogspot.com/2017/05/questions-for-mathematicians.html). I'm hoping we could get a lot more responses.
+Going through the work to arrange a guest speaker was definitely worth it. I will try to maintain my relationship with the UW Math dept. going forward. In my ideal world, I could have a roster of speakers through the whole year.  Since that's not possible video clips act as a surrogate for this experience letting the kids see and hear more mathematicians. Also I'm toying with the idea of having the kids expand on my: [questions-for-mathematicians]({% post_url 2017-05-08-questions-for-mathematicians %}). I'm hoping we could get a lot more responses.
 
 ![]({{ site.baseurl }}/assets/img/2017-year-in-review/blogger_9f2d3cae.jpg)
 

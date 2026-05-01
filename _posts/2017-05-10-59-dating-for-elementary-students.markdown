@@ -30,7 +30,7 @@ In the middle she brought an interactive version of the algorithm to test out. T
 
 ![]({{ site.baseurl }}/assets/img/59-dating-for-elementary-students/blogger_bbebdaf1.jpg)
 
-What's very nice is there is a not too complicated proof by contradiction that the algorithm works. That fit really well with our recent session on proofs. [http://mymathclub.blogspot.com/2017/04/418-series-infinite-series.html](http://mymathclub.blogspot.com/2017/04/418-series-infinite-series.html)
+What's very nice is there is a not too complicated proof by contradiction that the algorithm works. That fit really well with our recent session on proofs. [418-the-series-infinite-series]({% post_url 2017-04-19-418-the-series-infinite-series %})
 
 ![]({{ site.baseurl }}/assets/img/59-dating-for-elementary-students/blogger_144d3b84.jpg)
 

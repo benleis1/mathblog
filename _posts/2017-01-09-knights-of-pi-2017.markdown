@@ -10,7 +10,7 @@ author: me
 
 High School full of mathy kids assembling for a Math competition.
 
-This weekend was my third time back at the Knight's of Pi math competition and I brought 2 teams of fifth graders this year. I've written about my complex relationship with this one before: [http://mymathclub.blogspot.com/2014/12/knights-of-pi-math-competion.html](http://mymathclub.blogspot.com/2014/12/knights-of-pi-math-competion.html). 
+This weekend was my third time back at the Knight's of Pi math competition and I brought 2 teams of fifth graders this year. I've written about my complex relationship with this one before: [knights-of-pi-math-competition]({% post_url 2014-12-22-knights-of-pi-math-competition %}). 
 
 How I handle this now:
 

@@ -12,7 +12,7 @@ author: me
 
 I came up with this problem after looking at the original one from @five_triangles (Find the area of the trapezoid ABCD) That's a lot of fun but along the way while modelling the solution in geogebra I noticed AF is also on the diagonal of the trapezoid.
 
-Note the 15-75-90 triangles at the bottom. Nowadays when I see them I also think of the following construction:  [http://mymathclub.blogspot.com/2015/07/sometimes-one-direction-is-lot-tricker.html](http://mymathclub.blogspot.com/2015/07/sometimes-one-direction-is-lot-tricker.html)
+Note the 15-75-90 triangles at the bottom. Nowadays when I see them I also think of the following construction:  [sometimes-one-direction-is-a-lot-tricker-than-the-other]({% post_url 2015-07-30-sometimes-one-direction-is-a-lot-tricker-than-the-other %})
 
 which allows one to find the ratio of the sides without trigonometry:  1 : \(2 - \sqrt{3}\) for the legs.
 

@@ -8,7 +8,7 @@ tags:
 author: me
 ---
 
-Continuing on the theme of 15-75-90 triangles (See: [Last time](http://mymathclub.blogspot.com/2017/06/15-75-triangle-redux.html) and [First Time](http://mymathclub.blogspot.com/2015/07/sometimes-one-direction-is-lot-tricker.html)) several interesting riffs on 15-75-90's in a box have come up recently.
+Continuing on the theme of 15-75-90 triangles (See: [Last time]({% post_url 2017-06-05-15-75-triangle-redux %}) and [First Time]({% post_url 2015-07-30-sometimes-one-direction-is-a-lot-tricker-than-the-other %})) several interesting riffs on 15-75-90's in a box have come up recently.
 
 Example dividing a square with four 15-75-90 triangles:
 

@@ -35,13 +35,13 @@ Using the Law of Sines Instead
 
 This time we go back to the original diagram and just apply the law.
 
-1. \( \frac{n}{\sin{\angle{\alpha}}} = \frac{a}{\sin{\angle{BDC}}} \) 
+1. \( \frac{n}{\sin{\angle{\alpha%} = \frac{a}{\sin{\angle{BDC%} \) 
 
-2. \( \frac{m}{\sin{\angle{\alpha}}} = \frac{c}{\sin{\angle{BDA}}} \) 
+2. \( \frac{m}{\sin{\angle{\alpha%} = \frac{c}{\sin{\angle{BDA%} \) 
 
 3. But since BDC and BDA are supplementary, their sines have the same value, so you can solve both for the same sine ratio  and get:
 
-$$ \frac{a}{n} = \frac{\sin{\angle{BDC}}}{\sin{\angle{\alpha}}}  = \frac{c}{m} $$
+$$ \frac{a}{n} = \frac{\sin{\angle{BDC%}{\sin{\angle{\alpha%}  = \frac{c}{m} $$
 
 Concurrency of the medians
 

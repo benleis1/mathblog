@@ -10,7 +10,7 @@ The top three were popular enough that most of the room wanted to do all of them
 
 - Dots and Boxes game. [https://en.wikipedia.org/wiki/Dots_and_Boxes](https://en.wikipedia.org/wiki/Dots_and_Boxes)
 - Travelling Salesman Problem:  We haven't done this in club and the kids came up with it. So I asked for them to think about how they would present it.
-- Present the 3 related problems from last week:  [Last Week](https://mymathclub.blogspot.com/2019/04/415-weve-found-correlation.html)
+- Present the 3 related problems from last week:  [Last Week]({% post_url 2019-04-16-415-weve-found-a-correlation %})
 
 I've bought posters and we'll spend the first half of next week making posters, designing any handouts and talking about how we'll run the table. 
 

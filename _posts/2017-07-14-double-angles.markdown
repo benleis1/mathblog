@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-I've been thinking about a generalization of the [15-75-90 construction](http://mymathclub.blogspot.com/2015/07/sometimes-one-direction-is-lot-tricker.html) over the last few days and have realized there are a lot more interesting consequences in it that are fairly pleasing.
+I've been thinking about a generalization of the [15-75-90 construction]({% post_url 2015-07-30-sometimes-one-direction-is-a-lot-tricker-than-the-other %}) over the last few days and have realized there are a lot more interesting consequences in it that are fairly pleasing.
 
 ![]({{ site.baseurl }}/assets/img/double-angles/blogger_0ac3d993.png)
 First construct a rectangle ABED and divide it into 4 isosceles triangles.  My home made puzzle from this construction is: *find an expression for the length of CD in terms of AC and AB.*

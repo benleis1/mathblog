@@ -29,4 +29,4 @@ Also I've been moving towards thinking more about progressive tasks which build 
 
 Finally, I  mostly dropped the idea  of giving weekly problems to be done at home after the first quarter. The kids mostly didn't take a look at them and they seemed to not be successful. On the other hand, they offer the best chance to work on something over  a longer period time without any supports. The question is can I structure things to make them more utilized?
 
-**[Addendum: See [http://mymathclub.blogspot.com/2015/07/how-to-make-homework-work.html](http://mymathclub.blogspot.com/2015/07/how-to-make-homework-work.html) for my continued evolution on the use of homework and problem solving.]**
+**[Addendum: See [how-to-make-homework-work]({% post_url 2015-07-01-how-to-make-homework-work %}) for my continued evolution on the use of homework and problem solving.]**

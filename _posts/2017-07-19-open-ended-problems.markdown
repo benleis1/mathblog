@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-I've been thinking more about open ended problems after reading a couple of different posts recently. Full disclosure: I actually engage in problem solving exercises every week when we meet and believe good problems are the core of Mathematics teaching.  But I still don't know if I reached the final idea of how to use them: See [http://mymathclub.blogspot.com/2017/02/making-explorations-successful.html](http://mymathclub.blogspot.com/2017/02/making-explorations-successful.html) for some older thinking.
+I've been thinking more about open ended problems after reading a couple of different posts recently. Full disclosure: I actually engage in problem solving exercises every week when we meet and believe good problems are the core of Mathematics teaching.  But I still don't know if I reached the final idea of how to use them: See [making-explorations-successful]({% post_url 2017-02-07-making-explorations-successful %}) for some older thinking.
 
 What started this thought chain off was a post offering that the answer to differentiation for a mixed ability classroom is to use open ended problems that offer various points of entry and extension. This seems to be a widespread consensus based on how often I've read the same idea. That feels problematic to me from several angles.
 

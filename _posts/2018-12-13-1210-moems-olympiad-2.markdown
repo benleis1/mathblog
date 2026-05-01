@@ -13,7 +13,7 @@ Today's session was quite a bit harder than the first one. Almost everyone consi
 Circle Seating Permutation  Problems:
 
 - [https://aperiodical.com/2018/09/a-puzzle-for-another-day/](https://aperiodical.com/2018/09/a-puzzle-for-another-day/)  I still have to digest this one.
-- I already did the Josephus problem previously: [https://mymathclub.blogspot.com/2018/10/1029-stick-figure-cricle-of-death.html](https://mymathclub.blogspot.com/2018/10/1029-stick-figure-cricle-of-death.html)
+- I already did the Josephus problem previously: [1029-stick-figure-circle-of-death]({% post_url 2018-10-30-1029-stick-figure-circle-of-death %})
 - [http://mathcentral.uregina.ca/QQ/database/qq.09.96/varjassy1.html](http://mathcentral.uregina.ca/QQ/database/qq.09.96/varjassy1.html)  Some variants.
 - https://www.coursehero.com/file/p2k3gin/11-In-how-many-ways-can-the-twelve-knights-sit-at-the-Round-Table-with-King/
 

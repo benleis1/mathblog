@@ -38,7 +38,7 @@ Initially this looks completely different than what was above. But pay attention
 
 ![]({{ site.baseurl }}/assets/img/sometimes-one-direction-is-a-lot-tricker-than-the-other/blogger_44b541d6.jpg)
 
-Which is just the equilateral triangle in a square with the 15-15-150s on the bottom rotated on its side a bit.  This version is just as tricky as above: see: [http://mymathclub.blogspot.com/2015/06/random-geometry-recursion.html](http://mymathclub.blogspot.com/2015/06/random-geometry-recursion.html) for the key to finding the solution given these different unknowns. (Its a shame there isn't a geometric version of if I can find a single construction that matches the constraints, then that must be the answer)
+Which is just the equilateral triangle in a square with the 15-15-150s on the bottom rotated on its side a bit.  This version is just as tricky as above: see: [random-geometry-recursion]({% post_url 2015-06-24-random-geometry-recursion %}) for the key to finding the solution given these different unknowns. (Its a shame there isn't a geometric version of if I can find a single construction that matches the constraints, then that must be the answer)
 
 Summary
 Bringing this back to the realm of what might be usable for my math club:
@@ -49,4 +49,4 @@ Bringing this back to the realm of what might be usable for my math club:
 
 3. It would be interesting to investigate the relationship between the 2 triangles within a square as you vary the angle sizes. Offhand  I'm think this is inverse tan x and inverse tan 1 -x.
 
-**Addendum: A simpler variant on this theme: [part2](http://mymathclub.blogspot.com/2016/01/sometimes-its-harder-other-way-part-2.html)**
+**Addendum: A simpler variant on this theme: [part2]({% post_url 2016-01-15-sometimes-its-harder-the-other-way-part-2 %})**

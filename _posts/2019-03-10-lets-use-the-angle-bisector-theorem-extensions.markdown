@@ -21,7 +21,7 @@ For a regular ellipse: \( \dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1 \) 
 
 Parameterize using the normal form  as follows  \( P(\theta) = ( a \cdot cos(\theta), b \cdot sin(\theta)) \). 
 
-Then the radius of curvature at \( P(\theta)  = \dfrac{(a^2 \cdot sin(\theta) + b^2 \cdot cos(\theta))^{\frac{3}{2}}}{ab} \).  
+Then the radius of curvature at \( P(\theta)  = \dfrac{(a^2 \cdot sin(\theta) + b^2 \cdot cos(\theta))^{\frac{3}{2%}{ab} \).  
 
 For the green circle we're looking at the point  \(\theta = 0 \) i.e. \(sin(\theta) = 0\) and \(cos(\theta) = 1\) so this all simplifies down to \( \dfrac{b^2}{a} \)
 
@@ -89,7 +89,7 @@ Variant 1 (Calculus)
 
 Synthetic Alternative
 
-What follows is a bit more complicated than above but provides a nice opportunity to see more of the ellipse geometrically and play with the angle bisector theorem extensions I talked about  [here](https://mymathclub.blogspot.com/2019/01/theres-more-to-angle-bisector-theorem.html).  Remember that an ellipse is also defined as all the points with a constant distance from its 2 foci.
+What follows is a bit more complicated than above but provides a nice opportunity to see more of the ellipse geometrically and play with the angle bisector theorem extensions I talked about  [here]({% post_url 2019-01-30-theres-more-to-the-angle-bisector-theorem %}).  Remember that an ellipse is also defined as all the points with a constant distance from its 2 foci.
 
 ![]({{ site.baseurl }}/assets/img/lets-use-the-angle-bisector-theorem-extensions/blogger_657fa4ff.png)
 

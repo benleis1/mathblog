@@ -6,7 +6,7 @@ tags:
 author: me
 ---
 
-Continuing on my thinking from last time:  [http://mymathclub.blogspot.com/2017/07/open-ended-problems.html](http://mymathclub.blogspot.com/2017/07/open-ended-problems.html) I saw notes on an interesting recent talk from @cheesemonkeysf
+Continuing on my thinking from last time:  [open-ended-problems]({% post_url 2017-07-19-open-ended-problems %}) I saw notes on an interesting recent talk from @cheesemonkeysf
 
 Sharing my [#Sketchnote](https://twitter.com/hashtag/Sketchnote?src=hash) from day 2 [@cheesemonkeysf](https://twitter.com/cheesemonkeysf) [#TMC17](https://twitter.com/hashtag/TMC17?src=hash) Differentiating and Exploratory Talk [pic.twitter.com/fU5B0CYcc2](https://t.co/fU5B0CYcc2)
 — Jill Gough (@jgough) [July 28, 2017](https://twitter.com/jgough/status/890959193485737984)

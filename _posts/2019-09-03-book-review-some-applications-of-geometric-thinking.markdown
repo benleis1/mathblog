@@ -14,7 +14,7 @@ I originally found out about this book via a tweet of a variation of problem set
 
 ![]({{ site.baseurl }}/assets/img/book-review-some-applications-of-geometric-thinking/blogger_8b552723.jpg)
 
-After a satisfying interval, I looked back at the problems and was really excited by the linkage between them. So I  ended up running a session with my kids: [https://mymathclub.blogspot.com/2019/04/415-weve-found-correlation.html](https://mymathclub.blogspot.com/2019/04/415-weve-found-correlation.html).   This also went really well. In a second confirmation of intrinsic appeal the kids eventually presented it to the school during STEAM night at our Math Club  table.
+After a satisfying interval, I looked back at the problems and was really excited by the linkage between them. So I  ended up running a session with my kids: [415-weve-found-a-correlation]({% post_url 2019-04-16-415-weve-found-a-correlation %}).   This also went really well. In a second confirmation of intrinsic appeal the kids eventually presented it to the school during STEAM night at our Math Club  table.
 
 I decided at last that I needed to own the whole book. So about a month ago my copy finally arrived.  The book is divided up into an sections:
 

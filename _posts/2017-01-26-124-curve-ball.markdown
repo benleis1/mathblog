@@ -14,7 +14,7 @@ See: [http://cemc.uwaterloo.ca/resources/potw/2016-17/English/POTWC-16-NN-PA-14
 
 Warm-up
 
-Fortunately I had already decided to repeat the game of Median from last  week: [http://mymathclub.blogspot.com/2017/01/117-3rd-olympiad.html](http://mymathclub.blogspot.com/2017/01/117-3rd-olympiad.html)  This required re describing the rules for everyone who was seeing it for the first time. We then did a communal set of rounds as a group with three volunteers.  Finally, I broke everyone up into trios and had them play with the guidance that they should look for strategies.    This time around, many of the kids noticed that ties were the most common outcome.  The general idea that if you were ahead then you should aim to lose rounds also was brought out. I ended with asking a take home question "Is Median like tic-tac-toe where three experienced will always end up in a draw?"
+Fortunately I had already decided to repeat the game of Median from last  week: [117-3rd-olympiad]({% post_url 2017-01-19-117-3rd-olympiad %})  This required re describing the rules for everyone who was seeing it for the first time. We then did a communal set of rounds as a group with three volunteers.  Finally, I broke everyone up into trios and had them play with the guidance that they should look for strategies.    This time around, many of the kids noticed that ties were the most common outcome.  The general idea that if you were ahead then you should aim to lose rounds also was brought out. I ended with asking a take home question "Is Median like tic-tac-toe where three experienced will always end up in a draw?"
 
 Task
 

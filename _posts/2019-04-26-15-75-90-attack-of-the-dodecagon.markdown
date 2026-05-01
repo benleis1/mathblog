@@ -12,17 +12,17 @@ author: me
 
 This latest problem is from @le_becachel . Given a regular 12 sided dodecagon: find the ratio of the area of the yellow square to the red polygon.
 
-Because the dodecagon is made up of 12 75-75-30 triangles or alternatively 24 15-75-90's this one is really also a riff on what is the area of the 15-75-90 triangle.  That interested me since with the ratios of the 15-75-90 (See: [https://mymathclub.blogspot.com/2018/11/revisiting-15-75-90.html](https://mymathclub.blogspot.com/2018/11/revisiting-15-75-90.html) for the  last time these were discussed)  we can readily compute this value algebraically.
+Because the dodecagon is made up of 12 75-75-30 triangles or alternatively 24 15-75-90's this one is really also a riff on what is the area of the 15-75-90 triangle.  That interested me since with the ratios of the 15-75-90 (See: [revisiting-the-15-75-90]({% post_url 2018-11-12-revisiting-the-15-75-90 %}) for the  last time these were discussed)  we can readily compute this value algebraically.
 
 Note: all the  triangles above are easy to express in terms of the radius of the dodecagon which is also the hypotenuse of the 15-75-90, so I'm going to also express the area in terms of it.
 
 To start: we have the ratios:   \(1:2 - \sqrt{3}: 2 \sqrt{2 - \sqrt{3}} \) where the last is the hypotenuse. Letting r be that length we rescale to:
 
- \( \dfrac{r}{2 \sqrt{2 - \sqrt{3}} }:  \dfrac{r \cdot (2 - \sqrt{3})}{2 \sqrt{2 - \sqrt{3}}} : r \)
+ \( \dfrac{r}{2 \sqrt{2 - \sqrt{3}} }:  \dfrac{r \cdot (2 - \sqrt{3})}{2 \sqrt{2 - \sqrt{3%} : r \)
 
 The area of the 15-75-90  triangle then equals:
 
- \( \frac{1}{2} \cdot b \cdot h = \dfrac{1}{2} \cdot  \dfrac{r}{2 \sqrt{2 - \sqrt{3}} } \cdot \dfrac{r \cdot (2 - \sqrt{3})}{2 \sqrt{2 - \sqrt{3}}}  =  \dfrac{1}{2} \cdot  r^2  \cdot \dfrac{ 2 - \sqrt{3}}{4 \cdot ( 2 - \sqrt{3})} =  \frac{1}{8} r^2 \)
+ \( \frac{1}{2} \cdot b \cdot h = \dfrac{1}{2} \cdot  \dfrac{r}{2 \sqrt{2 - \sqrt{3}} } \cdot \dfrac{r \cdot (2 - \sqrt{3})}{2 \sqrt{2 - \sqrt{3%}  =  \dfrac{1}{2} \cdot  r^2  \cdot \dfrac{ 2 - \sqrt{3}}{4 \cdot ( 2 - \sqrt{3})} =  \frac{1}{8} r^2 \)
 
 This can also be seen geometrically by looking at the original construction used to derive the ratios:
 

@@ -6,7 +6,7 @@ tags:
 author: me
 ---
 
-This is another in my series exploring geometric problem solving through rigid transformations (and creating diagrams with geogebra). See: [http://mymathclub.blogspot.com/2015/09/ratios-in-square-problem.html](http://mymathclub.blogspot.com/2015/09/ratios-in-square-problem.html)
+This is another in my series exploring geometric problem solving through rigid transformations (and creating diagrams with geogebra). See: [using-symmetry-ratios-in-square-problem]({% post_url 2015-09-09-using-symmetry-ratios-in-square-problem %})
 
 This problem starts with a very simple picture but I want to show my first attempt down a non-productive line of thought.
 

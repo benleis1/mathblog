@@ -35,7 +35,7 @@ The group exercise was very helpful here. Everyone solved the problem within 15 
 
 I then proceeded to give out the triangle number worksheet I wrote a week ago:
 
-[http://mymathclub.blogspot.com/2015/05/triangle-number-worksheet.html](http://mymathclub.blogspot.com/2015/05/triangle-number-worksheet.html)
+[triangle-number-worksheet]({% post_url 2015-05-05-triangle-number-worksheet %})
 
 Second lesson for the day: I should have reviewed this one more closely or written some of the answers down originally. As a result I was a bit rusty and had to do more off the cuff recalculations like what is 1 + 2 ... + 685?  than I would have if I had done it last week as intended.
 

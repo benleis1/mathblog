@@ -51,7 +51,7 @@ Dan McQuillan
 [http://voices.norwich.edu/daniel-mcquillan/2018/02/25/fun-with-fractions-from-elementary-arithmetic-to-the-putnam-competition-the-first-1-2/](http://voices.norwich.edu/daniel-mcquillan/2018/02/25/fun-with-fractions-from-elementary-arithmetic-to-the-putnam-competition-the-first-1-2/)
 
 "Elementary discussions and good questions in grade school can prepare students for far more difficult challenges later. This post provides an example, by starting with simple fraction questions and ending with a Putnam Mathematical Competition Question (intended for stellar undergraduates). It also features atypical ways of comparing fractions. A much shorter discussion of these problems is possible; this discussion reflects an attitude of starting from little and gaining quickly."
-We had recently been working with Farey Sequences:  [http://mymathclub.blogspot.com/2018/02/213-farey-sequences.html](http://mymathclub.blogspot.com/2018/02/213-farey-sequences.html)  so this article had special resonance for me.  The extension at the end is particularly good.
+We had recently been working with Farey Sequences:  [213-farey-sequences]({% post_url 2018-02-16-213-farey-sequences %})  so this article had special resonance for me.  The extension at the end is particularly good.
 
 Triangulations and face morphing
 
@@ -97,4 +97,4 @@ DIY Pattern Maker
 This is a visual exploration of patterns as well as inventive recycling that looks fun to use in a classroom. 
 
 Request
-If you've made it this far and are involved in Mathematics Research I would love it if you would consider contributing some answers to [Questions for Mathematicians](http://mymathclub.blogspot.com/2017/05/questions-for-mathematicians.html) that I've been compiling for my kids and thanks for reading this post. Either just add a comment on the page or email me.
+If you've made it this far and are involved in Mathematics Research I would love it if you would consider contributing some answers to [Questions for Mathematicians]({% post_url 2017-05-08-questions-for-mathematicians %}) that I've been compiling for my kids and thanks for reading this post. Either just add a comment on the page or email me.
