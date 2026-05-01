@@ -12,12 +12,13 @@ Its been a while since I've talked about one of my favorite triangles the 15-75-
 ![]({{ site.baseurl }}/assets/img/15-75-90-alternate-forms/problem.jpg)
  
 
-Via an angle chase or perhaps from experience: [Previous Discussion]({% post_url 2017-06-05-15-75-triangle-redux %})  you find the triangle CDE is a 15-75-90.    We conveniently know the ratios:
+Via an angle chase or perhaps from [the Previous Discussion]({% post_url 2017-06-05-15-75-triangle-redux %})  you find the triangle CDE is a 15-75-90. We conveniently already know the ratios of this triangle from several investigations like that one to be:
 
+![]({{ site.baseurl }}/assets/img/15-75-90-alternate-forms/base-ratios.png)
 
-But in this case the long base is $ \sqrt{6}+ \sqrt{2} $ .    We could scale directly:
+But in this case the long base is $ \sqrt{6}+ \sqrt{2} $ . We could scale directly:
 
-$ EC =  (\sqrt{6}+ \sqrt{2}) \cdot 2 \sqrt{2 - \sqrt{3}} $  but that's pretty messy looking.
+$ EC =  (\sqrt{6}+ \sqrt{2}) \cdot 2 \sqrt{2 - \sqrt{3}} $ but that's pretty messy looking.
 
 So instead we'll go in stages:
 
@@ -27,7 +28,7 @@ So instead we'll go in stages:
 
 The whole problem is intriguingly demonstrating the following alternate ratios for 15-75-90:
 
-![]({{ site.baseurl }}/assets/img/15-75-90-alternate-forms/blogger_fd97bbaa.png)
+![]({{ site.baseurl }}/assets/img/15-75-90-alternate-forms/base-ratios2.png)
 
 All of which still begs the question: how do we convert directly between the two forms?  To do so we look for 2 number a and b such that:  $ (a + b)^2 =  (2 \sqrt{2 - \sqrt{3}})^2 = 8 - 4 \sqrt{3} $  After expanding that leads to:
 
