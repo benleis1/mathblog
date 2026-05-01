@@ -13,15 +13,15 @@ This was our last group Purple Comet Review problem. Again like the last few tim
 Multiplication Rules
 I decided then to  stick in something neat I had seen online from James Tanton. I've always justified the rules for multiplying a negative by negative as follows via the commutative/distributive and inverse rules:
 
-\( -a \cdot -b = (-1 \cdot a) \cdot (-1 \cdot b) =  (-1 \cdot -1) \cdot (a \cdot b)  \)
+$ -a \cdot -b = (-1 \cdot a) \cdot (-1 \cdot b) =  (-1 \cdot -1) \cdot (a \cdot b)  $
 
-So we just need to understand why \( -1 \cdot -1 = 1  \)   and that we do as follows:
+So we just need to understand why $ -1 \cdot -1 = 1  $   and that we do as follows:
 
-\( 0 = -1 \cdot 0 =   -1 \cdot (1 + -1) = -1 \cdot 1 +  (-1 \cdot -1)  = -1 + ( -1 \cdot -1) \)
+$ 0 = -1 \cdot 0 =   -1 \cdot (1 + -1) = -1 \cdot 1 +  (-1 \cdot -1)  = -1 + ( -1 \cdot -1) $
 
-In other words  -1 is the inverse of \( -1 \cdot -1 \) and we know that value must be 1.  But I really like James Tantons idea to throw the area/box model in as an organizing principle and I think it does improve the clarity:
+In other words  -1 is the inverse of $ -1 \cdot -1 $ and we know that value must be 1.  But I really like James Tantons idea to throw the area/box model in as an organizing principle and I think it does improve the clarity:
 
-What's \((1 + -1) \cdot (1+ -1)\)?  We know that's the same as \( 0 \cdot 0 = 0 \)  Applying the area model we get 1 + -1 + -1 + ?   That missing term must be 1 to balance everything out and end up with zero!
+What's $(1 + -1) \cdot (1+ -1)$?  We know that's the same as $ 0 \cdot 0 = 0 $  Applying the area model we get 1 + -1 + -1 + ?   That missing term must be 1 to balance everything out and end up with zero!
 
 ![]({{ site.baseurl }}/assets/img/610-penultimate-session/blogger_0fb61e30.PNG)
 

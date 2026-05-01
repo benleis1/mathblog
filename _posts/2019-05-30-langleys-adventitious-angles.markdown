@@ -25,12 +25,12 @@ In this case (and in general), its also important to give yourself time to wrest
 
 But it gets more interesting: one of the approaches I discarded was showing AFC is similar to BFE. I went back and realized that's fairly easy once you add in some trig.
 
-- Let \( AC = 1, BC = 2 \sin(10), AF = 1 - 2 \sin(10), BE  =  \dfrac{1}{2 \sin(20)} \)
-- Then you just need to show \(  \dfrac{AF}{AC} = \dfrac{BE}{BF}\)  or   \( 1 - 2\sin(10) = \dfrac{2\sin(10)}{\dfrac{1}{2\sin(20)}} \)
-- That cleans up to \( 1 = 2\sin(10) + 4\sin(10)\sin(20) \)
-- \( 4\sin(10)\sin(20) * \frac{\cos(10)}{\cos(10)} = \frac{2\cos(20)\sin(20)}{cos(10)} = \frac{\sin(40)}{\cos(10)} \)
-- Substituting that in: \( 1 =  2\sin(10) + \frac{\sin(40)}{\cos(10)} \)
-- Multiple by cos(10): \( \cos(10) = 2\sin(10)\cos(10) + \sin(40) = \sin(20) + \sin(40) \)
+- Let $ AC = 1, BC = 2 \sin(10), AF = 1 - 2 \sin(10), BE  =  \dfrac{1}{2 \sin(20)} $
+- Then you just need to show $  \dfrac{AF}{AC} = \dfrac{BE}{BF}$  or   $ 1 - 2\sin(10) = \dfrac{2\sin(10)}{\dfrac{1}{2\sin(20)}} $
+- That cleans up to $ 1 = 2\sin(10) + 4\sin(10)\sin(20) $
+- $ 4\sin(10)\sin(20) * \frac{\cos(10)}{\cos(10)} = \frac{2\cos(20)\sin(20)}{cos(10)} = \frac{\sin(40)}{\cos(10)} $
+- Substituting that in: $ 1 =  2\sin(10) + \frac{\sin(40)}{\cos(10)} $
+- Multiple by cos(10): $ \cos(10) = 2\sin(10)\cos(10) + \sin(40) = \sin(20) + \sin(40) $
 - This last statement is clearly true based on sin sum to product trig identity!
 
  Then I read up some more and found there are a half dozen approaches on Cut the Knot: [https://www.cut-the-knot.org/triangle/80-80-20/index.shtml](https://www.cut-the-knot.org/triangle/80-80-20/index.shtml).   This  is really an "open middle" problem with avenues for creativity.  You don't have to notice the one critical insight. There are multiple pathways possible. In fact, Ben used a trig heavy approach himself to find one answer.
@@ -49,5 +49,5 @@ Notes: Article I half remembered: [https://www.mathpages.com/home/kmath277/kmat
 
 ![]({{ site.baseurl }}/assets/img/langleys-adventitious-angles/blogger_97f063ef.PNG)
 
-2nd Digression: I'm interested in characteristic polynomial for trig functions. If you set AC = 1 and BC = x  and do the similar triangle ratios for AFC amd BFE you end up with the following cubic:  \(8x^3 - 6x + 1 = 0 \)    Consistently if you let \( x = \sin(\theta) \) and use power reduction functions to get \( \frac{1}{2} = \sin(3x) \). You find roots at sin(10), sin(50) and -sin(70).
+2nd Digression: I'm interested in characteristic polynomial for trig functions. If you set AC = 1 and BC = x  and do the similar triangle ratios for AFC amd BFE you end up with the following cubic:  $8x^3 - 6x + 1 = 0 $    Consistently if you let $ x = \sin(\theta) $ and use power reduction functions to get $ \frac{1}{2} = \sin(3x) $. You find roots at sin(10), sin(50) and -sin(70).
 

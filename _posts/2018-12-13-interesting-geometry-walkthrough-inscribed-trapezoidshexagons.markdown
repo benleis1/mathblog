@@ -35,19 +35,19 @@ Basically my process looks like this: I draw and redraw the figure and experimen
 
 ![]({{ site.baseurl }}/assets/img/interesting-geometry-walkthrough-inscribed-trapezoidshexagons/blogger_4258d50c.png)
 
-3 big arcs + 3 little arcs = 360 degrees so 1 big arc + 1 little arc = 120.  This  means that the interior angles like: \( \angle{EOC} = 120 \)
+3 big arcs + 3 little arcs = 360 degrees so 1 big arc + 1 little arc = 120.  This  means that the interior angles like: $ \angle{EOC} = 120 $
 
 Alternative:
 
-Starting with the lower trapezoid ABCD which is also a cyclic quad.   Let \( \angle{ACD} = x \)
+Starting with the lower trapezoid ABCD which is also a cyclic quad.   Let $ \angle{ACD} = x $
 
-Then \( \angle{ACD} =  \angle{CBD} = \angle{DBA} = x \) and you eventually arrive at \( \angle{BCA} = 180 - 3x \)
+Then $ \angle{ACD} =  \angle{CBD} = \angle{DBA} = x $ and you eventually arrive at $ \angle{BCA} = 180 - 3x $
 
-This implies \( \angle{BOC} = 2x \) and  \(\angle{BOA} = 360 - 6x \)
+This implies $ \angle{BOC} = 2x $ and  $\angle{BOA} = 360 - 6x $
 
-Since this is trisected each one one of the top angles for example \( \angle{BOE} = 120 -2x \)
+Since this is trisected each one one of the top angles for example $ \angle{BOE} = 120 -2x $
 
-And finally that means adding the smaller to larger arcs you get an 120 degree angle i.e. \( \angle{EOC} = 120 \)
+And finally that means adding the smaller to larger arcs you get an 120 degree angle i.e. $ \angle{EOC} = 120 $
 
 **Step 2: Diagonals**
 
@@ -81,8 +81,8 @@ Extras found along the way:
 
 - Angle CBE is actually 120 degrees too since its half the remaining 240 degree arc it inscribes.
 - That opens up the law of cosines for finding CE if you prefer.
-- Its easy to show the diagonal CE is also  \( r\sqrt{3} \) where r is the radius of the circle.
-- Quick sketch of my original thinking using Ptolemy rather than similar triangles and following the diagonals through 3 cyclic quads to the result:.  (Note: in my notes I wrote down the radius in the middle  actually \( S = 7\sqrt{7} \) )
+- Its easy to show the diagonal CE is also  $ r\sqrt{3} $ where r is the radius of the circle.
+- Quick sketch of my original thinking using Ptolemy rather than similar triangles and following the diagonals through 3 cyclic quads to the result:.  (Note: in my notes I wrote down the radius in the middle  actually $ S = 7\sqrt{7} $ )
 
 ![]({{ site.baseurl }}/assets/img/interesting-geometry-walkthrough-inscribed-trapezoidshexagons/blogger_c84f11c0.jpg)
 

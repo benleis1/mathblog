@@ -34,19 +34,19 @@ Thought Process:
 
 Setup:  Note O is the incenter since its the intersection of the angle bisectors. So drop another one from point C.  This forms the 45-45-90 triangle CHO,   let r = CH  = HO = GO = the inradius, let x = DH .  We want to find r + x.
 
-1. After angle tracing triangle AGO is similar to DHO. so \(\frac{AG}{GO}=\frac{HO}{DH}\)
+1. After angle tracing triangle AGO is similar to DHO. so $\frac{AG}{GO}=\frac{HO}{DH}$
 
-   \(AG=\frac{HO \cdot GO}{DH}  =  \frac{r^2}{x}\)
+   $AG=\frac{HO \cdot GO}{DH}  =  \frac{r^2}{x}$
 
-2. From the angle bisector theorem:   \(\frac{AC}{CD}=\frac{AB}{BD}\)
+2. From the angle bisector theorem:   $\frac{AC}{CD}=\frac{AB}{BD}$
 
- \( \frac{\frac{r^2 }{x} + r}{r +x}=\frac{\frac{r^2}{x} + x + 3}{3} \)   which simplifies to: \(3r = r^2 + x^2 + 3x\)
+ $ \frac{\frac{r^2 }{x} + r}{r +x}=\frac{\frac{r^2}{x} + x + 3}{3} $   which simplifies to: $3r = r^2 + x^2 + 3x$
 
-3. We also know from the Pythagorean theorem on triangle BHO that  \(4^2 = r^2 + (x+3)^2\) which simplifies to \(r^2 + x^2 = 7 - 6x\)
+3. We also know from the Pythagorean theorem on triangle BHO that  $4^2 = r^2 + (x+3)^2$ which simplifies to $r^2 + x^2 = 7 - 6x$
 
-4. Substitute r^2+x^2 from the 2nd into the 1st equation: \(3r = (7 - 6x) + 3x  = 7 - 3x\)
+4. Substitute r^2+x^2 from the 2nd into the 1st equation: $3r = (7 - 6x) + 3x  = 7 - 3x$
 
-   \(3(r+x)= 7\)  or  **\(r +x = \frac{7}{3}\) **and we're done.
+   $3(r+x)= 7$  or  **$r +x = \frac{7}{3}$ **and we're done.
 
 The Trig Approach:
 

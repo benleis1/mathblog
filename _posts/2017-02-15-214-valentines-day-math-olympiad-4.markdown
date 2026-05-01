@@ -14,7 +14,7 @@ To start off the day, we went over the P.O.T.W (see: [131-chessboard-problems-o
 
 Moving on,  I proctored the MOEMS contest. Exponents reared there head again which seems to be a recurring theme for this year.  From what  I can tell so far, there was less conceptual issues with what does the notation mean.  But my work is not done.  Most kids given something like:
 
-$$\sqrt{4^6}$$ will compute  \(4^6\) first and then search for a root manually rather than notice that this is the same as \(\sqrt{(4^3)^2}\) and thus the same as \(4^3\). I'm hoping calling these problems out on the whiteboard afterwards will lead to growth over time.
+$$\sqrt{4^6}$$ will compute  $4^6$ first and then search for a root manually rather than notice that this is the same as $\sqrt{(4^3)^2}$ and thus the same as $4^3$. I'm hoping calling these problems out on the whiteboard afterwards will lead to growth over time.
 
 On the positive side, I had one student who usually has not talked much this year raising his hand frequently and volunteering to demonstrate solutions during our followup whiteboard session. Noticing that trend was my favorite part of the day.
 

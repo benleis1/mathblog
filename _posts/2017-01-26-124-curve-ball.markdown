@@ -30,9 +30,9 @@ Next:  I asked what they thought the 0th power would equal i.e. 2^0.  Again, �
 
 Next up was negative exponents. Again I asked for ideas from the room. This proved more confusing. Many kids believed they would probably produce a negative number. So I went back to the pattern chart and asked if negative exponents followed the pattern what should they be using the example of 2^-1.    I then demonstrated the formal argument using division again.
 
-For the last portion I asked if we had tried all the integers was their anything else we could use as the power?  There were a few jokes but no ideas so I threw out what's \(9^\frac{1}{2} \)?  For this one I decided we would do an extended brainstorming session in groups. So I wrote some more rational exponent examples on the board and asked the kids to work in a group and use what they knew about exponent rules so far to come up with ideas.  When they came back to share, I got a lot of interesting but not quite correct ideas. Many found patterns that worked for the sample exponents but were not generally true. So to close this section off I guided everyone through this type logic:
+For the last portion I asked if we had tried all the integers was their anything else we could use as the power?  There were a few jokes but no ideas so I threw out what's $9^\frac{1}{2} $?  For this one I decided we would do an extended brainstorming session in groups. So I wrote some more rational exponent examples on the board and asked the kids to work in a group and use what they knew about exponent rules so far to come up with ideas.  When they came back to share, I got a lot of interesting but not quite correct ideas. Many found patterns that worked for the sample exponents but were not generally true. So to close this section off I guided everyone through this type logic:
 
-\(2^\frac{1}{2} \cdot  2^\frac{1}{2} = 2^1 \) using the general exponent multiplication laws.  This implies if \(x = 2^\frac{1}{2} \) that \(x^2 = 2\) and therefore x is \(\sqrt{2}\).
+$2^\frac{1}{2} \cdot  2^\frac{1}{2} = 2^1 $ using the general exponent multiplication laws.  This implies if $x = 2^\frac{1}{2} $ that $x^2 = 2$ and therefore x is $\sqrt{2}$.
 
 Problem set:
 

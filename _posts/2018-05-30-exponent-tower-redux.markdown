@@ -10,26 +10,26 @@ author: me
 
 I saw a different version of the tower of 7's problem in a book I'm reading on number theory. This is the mostly rambling thought process I've been going through:
 
-Quick Review: What are the last 2 digits of  \( 7^{7^7} \) ?
+Quick Review: What are the last 2 digits of  $ 7^{7^7} $ ?
 
 My quick and dirty original solution:
 
 - Make a table of the multiples of 7 and notice they cycle every 4 terms.
-- So the problem reduces to figuring out the linear congruence \( x \equiv 7^7 \mod 4 \)
-- \( 7^7  \equiv 3^7 \equiv (-1)^7 \equiv -1 \equiv 3  \mod 4 \)
+- So the problem reduces to figuring out the linear congruence $ x \equiv 7^7 \mod 4 $
+- $ 7^7  \equiv 3^7 \equiv (-1)^7 \equiv -1 \equiv 3  \mod 4 $
 -  So the answer is the last 2 digits of 7^3 or 43.
 
 Comparison Technique:
 
-1.  First compute the [totient function](https://en.wikipedia.org/wiki/Euler%27s_totient_function) for 100: \( \phi(100) = \phi(2^2)\phi(5^2) = (2^2 - 2^1)(5^2 - 5^1) = 40 \).
+1.  First compute the [totient function](https://en.wikipedia.org/wiki/Euler%27s_totient_function) for 100: $ \phi(100) = \phi(2^2)\phi(5^2) = (2^2 - 2^1)(5^2 - 5^1) = 40 $.
 
 2. So everything cycles in 40.
 
-3. Therefore if \( x \equiv 7^7 \mod 40 \) then  \( 7^{7^7} \equiv 7^x \mod 100 \) 
+3. Therefore if $ x \equiv 7^7 \mod 40 $ then  $ 7^{7^7} \equiv 7^x \mod 100 $ 
 
-4. \(7^7 = 7^4 \cdot 7^2 \cdot 7 \equiv 1 \cdot 9 \cdot 7 = 63 \equiv 23 \mod 40 \)
+4. $7^7 = 7^4 \cdot 7^2 \cdot 7 \equiv 1 \cdot 9 \cdot 7 = 63 \equiv 23 \mod 40 $
 
-5. Then compute \( 7^{23} \mod 100 \) using squaring of sevens i.e.  a table.
+5. Then compute $ 7^{23} \mod 100 $ using squaring of sevens i.e.  a table.
 
 That didn't seem like an improvement to me but it got me thinking about 2 things:
 
@@ -82,11 +82,11 @@ You can see here despite the totient being 40 the actual max cycle length is 20 
 
 The mostly symmetric relation between a number n and its counterpart 100 - n is also apparent.
 
-This follows from \( (p-n)^2 = p^2 - 2np + n^2 \equiv n^2 \mod 100 \) Which only directly affects the first term but the effect is noticeable.
+This follows from $ (p-n)^2 = p^2 - 2np + n^2 \equiv n^2 \mod 100 $ Which only directly affects the first term but the effect is noticeable.
 
 Which has led me to: [https://en.wikipedia.org/wiki/Carmichael_function](https://en.wikipedia.org/wiki/Carmichael_function) which depends on LCM of the two sub-totient functions and gives:
 
-\( \lambda(100) = 20 \)
+$ \lambda(100) = 20 $
 
 Its also interesting what happens as the modulus is varied:
 

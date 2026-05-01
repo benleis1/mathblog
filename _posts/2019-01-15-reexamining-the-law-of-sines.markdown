@@ -25,19 +25,19 @@ In an elementary proof, one way to go is to add a parallel line and create simil
 
 1. Add the line CX which is parallel to AB.
 
-2.  \( \angle{X} \) is congruent to \( \angle{ABD} \) from the parallel line and therefore triangle BCX is isosceles.
+2.  $ \angle{X} $ is congruent to $ \angle{ABD} $ from the parallel line and therefore triangle BCX is isosceles.
 
 3.  So CX = BC = a.
 
-4. Then using the similar triangles CBD and ADB we can take the corresponding sides and find \( \frac{c}{m} = \frac{a}{n} \)
+4. Then using the similar triangles CBD and ADB we can take the corresponding sides and find $ \frac{c}{m} = \frac{a}{n} $
 
 Using the Law of Sines Instead
 
 This time we go back to the original diagram and just apply the law.
 
-1. \( \frac{n}{\sin{\angle{\alpha%} = \frac{a}{\sin{\angle{BDC%} \) 
+1. $ \frac{n}{\sin{\angle{\alpha%} = \frac{a}{\sin{\angle{BDC%} $ 
 
-2. \( \frac{m}{\sin{\angle{\alpha%} = \frac{c}{\sin{\angle{BDA%} \) 
+2. $ \frac{m}{\sin{\angle{\alpha%} = \frac{c}{\sin{\angle{BDA%} $ 
 
 3. But since BDC and BDA are supplementary, their sines have the same value, so you can solve both for the same sine ratio  and get:
 
@@ -75,10 +75,10 @@ Instead let's use the law of Sines:
 
 We're going to start with the 2 bisectors for BC and AC that intersect at O and show that the segment from CO  through  to G also bisects AB.   We're also going to use the fact that that medians are divided in a 1:2 ratio at the centroid.
 
-1. From the law of Sines on triangle BCG \( s =  \frac{2x \cdot \sin{\lambda}}{\sin{\alpha}} \)
+1. From the law of Sines on triangle BCG $ s =  \frac{2x \cdot \sin{\lambda}}{\sin{\alpha}} $
 
-2. Then from OEG  \( \frac{x}{\sin{\beta}} =  \frac{z}{\sin{\lambda}} \)
+2. Then from OEG  $ \frac{x}{\sin{\beta}} =  \frac{z}{\sin{\lambda}} $
 
-3. We combine to get \( s =  \frac{2z \cdot \sin{\beta}}{\sin{\alpha}} \)
+3. We combine to get $ s =  \frac{2z \cdot \sin{\beta}}{\sin{\alpha}} $
 
-4. But then look at the other segment s' from the law of sines on OAG we also get \( s' =  \frac{2z \cdot \sin{\beta}}{\sin{180- \alpha}} \)  and since the sines of supplementary angles are the same we have shown s = s'  and that CG is indeed a median.
+4. But then look at the other segment s' from the law of sines on OAG we also get $ s' =  \frac{2z \cdot \sin{\beta}}{\sin{180- \alpha}} $  and since the sines of supplementary angles are the same we have shown s = s'  and that CG is indeed a median.

@@ -160,7 +160,7 @@ has a post up on "Three Correlations and an algebraic classification" [https://
       
 
       
-        Prove:   \( \text{If n, a, b, c, d are positive integers with
+        Prove:   $ \text{If n, a, b, c, d are positive integers with
         } n^2 
 
       

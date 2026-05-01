@@ -9,8 +9,8 @@ author: me
 
 This is a small observation based on a post from @samjshah on the topic of the trig double angle formulas:
 
-- \( \sin{2\theta} = 2 \sin{\theta} \cdot cos{\theta} \)
-- \( \cos{2\theta} = \cos^2{\theta} - \sin^2{\theta} \)
+- $ \sin{2\theta} = 2 \sin{\theta} \cdot cos{\theta} $
+- $ \cos{2\theta} = \cos^2{\theta} - \sin^2{\theta} $
 
 Sam used the construction below to derive the formulas which is a bit different than how I usually think of doing it.
 

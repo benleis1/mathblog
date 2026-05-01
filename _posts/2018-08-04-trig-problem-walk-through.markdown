@@ -51,7 +51,7 @@ Here I've blown up and squared off the top right corner. In addition I've added 
 What this shows is:
 
 - The total length on the side is 10 so IJ = HI - HJ = 10 - 6  = 4.
-- The two lower triangles AEJ and AJI are congruent by SAS and therefore EJ is 4 as well.  You could stop right here and use trigonometry to find x.   \( \frac{4}{x} = \tan{\frac{\pi}{8}} \)
+- The two lower triangles AEJ and AJI are congruent by SAS and therefore EJ is 4 as well.  You could stop right here and use trigonometry to find x.   $ \frac{4}{x} = \tan{\frac{\pi}{8}} $
 - We can use basic special triangle properties to find AE by just working our way around the square from EF to FG to AC to AE.
 
 ![]({{ site.baseurl }}/assets/img/trig-problem-walk-through/blogger_607c94c1.png)

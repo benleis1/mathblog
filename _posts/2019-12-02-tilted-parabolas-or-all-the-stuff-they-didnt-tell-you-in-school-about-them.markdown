@@ -19,7 +19,7 @@ In this case: I was looking at a problem:  ***Find an equation whose graph is a
 
 In the past,  my go to approach would be to always transform (rotate) the points back to alignment with the x and y axes. Find the parabola through the transformed points and then rotate the equation back to get the answer in the general conic form of :
 
-\( Ax^2 + Bxy + Cy^2 + Dx + Ey +F = 0 \)  (**Note: the xy term)**
+$ Ax^2 + Bxy + Cy^2 + Dx + Ey +F = 0 $  (**Note: the xy term)**
 
 **[Digression: its a useful exercise to prove to one's self this work even for curves not centered on the origin]**
 
@@ -38,24 +38,24 @@ When playing around with this idea and generating equations from a directrix lin
 
 So without further ado and because I haven't found any online resources elsewhere on the subject I'm going to walk through how this works starting with derivation of the general directrix / focus form.
 
-First we'll start with a Focus point  F = (a,b) and a Directrix line D:   y = mx + c.  Given an arbitrary point  P = (x,y) on the parabola we know the (square of the) distance from F is \( (x-a)^2 + (y-b)^2 \).  But what is the distance to D?
+First we'll start with a Focus point  F = (a,b) and a Directrix line D:   y = mx + c.  Given an arbitrary point  P = (x,y) on the parabola we know the (square of the) distance from F is $ (x-a)^2 + (y-b)^2 $.  But what is the distance to D?
 
-The key is the slope of the line: m.  The shortest segment from point P to D will have a slope of \( -\dfrac {1}{m} \)  So we take a point on D  (d, md + c), plug it into the slope equation and solve for d.
+The key is the slope of the line: m.  The shortest segment from point P to D will have a slope of $ -\dfrac {1}{m} $  So we take a point on D  (d, md + c), plug it into the slope equation and solve for d.
 
--  \( -\dfrac{1}{m} =   \dfrac{y - (md  +c)}{x -d} \)
-- \( d = \dfrac{1}{m^2 + 1}(my - mc + x ) \)
+-  $ -\dfrac{1}{m} =   \dfrac{y - (md  +c)}{x -d} $
+- $ d = \dfrac{1}{m^2 + 1}(my - mc + x ) $
 
 Now we can setup the basic parabola equation:
 
-- \( (x-a)^2 + (y - b)^2  = \left(x - \dfrac{1}{m^2 + 1} \cdot (my - mc + x ) \right)^2 + \left(y - \dfrac{m}{m^2 + 1} \cdot \left(my - mc + x \right) - c\right)^2 \) 
+- $ (x-a)^2 + (y - b)^2  = \left(x - \dfrac{1}{m^2 + 1} \cdot (my - mc + x ) \right)^2 + \left(y - \dfrac{m}{m^2 + 1} \cdot \left(my - mc + x \right) - c\right)^2 $ 
 
 This looks like a mess but focusing on the right hand side after expansion there is a lot of simplification possible and we end up with:
 
-- \( (x-a)^2 + (y - b)^2  =  \dfrac{1}{m^2 + 1} \cdot  \left(mx -y + c\right)^2 \) 
+- $ (x-a)^2 + (y - b)^2  =  \dfrac{1}{m^2 + 1} \cdot  \left(mx -y + c\right)^2 $ 
 
 I really like how the two terms combined and we're left with an expression that's basically the original directrix D squared.   Moreover, we can expand everything and coalesce to see this form:
 
-- \(  x^2 + 2mxy  +  m^2 \cdot y^2  -2((m^2 + 1) \cdot a  + mc)x   -2((m^2 + 1)b - c)y + (m^2 + 1)(a^2 + b^2) - c^2 = 0 \)
+- $  x^2 + 2mxy  +  m^2 \cdot y^2  -2((m^2 + 1) \cdot a  + mc)x   -2((m^2 + 1)b - c)y + (m^2 + 1)(a^2 + b^2) - c^2 = 0 $
 
 Here the first really useful result falls out:  **If you take the conic equation and scale it so that the Ax^2 terms is just x^2 then the coefficient of y^2 (C/A) is m^2 and the coefficient of xy (B/A) is 2m.  That means you can easily find the slope of the directrix and tilt of the whole parabola.     **
 
@@ -75,15 +75,15 @@ At first this is very curious. For a non tilted parabola you can adjust all the 
 
 The answer is in the generation of the curves. Parabolas only occur when the plane intersects the cones at an angle parallel to the side of the cone at the boundary between ellipses and hyperbolas.  Fiddling with the  A, B, C coefficients roughly corresponds to changing the tilt of the plane and moving out of the boundary zone towards either of the other conic forms. Fiddling with D, E, and F coefficients corresponds with shifting the parabolas location and scaling its size.
 
-[**Note: the discriminant is normally used to determine the conic type: and in this notation \( b^2 = 4ac  \) is equivalent to  \( (2m)^2 = 4 \cdot 1 \cdot m^2 \) ]**
+[**Note: the discriminant is normally used to determine the conic type: and in this notation $ b^2 = 4ac  $ is equivalent to  $ (2m)^2 = 4 \cdot 1 \cdot m^2 $ ]**
 
 At this point you could go back to a rotational approach using the slope to directly generate the needed trigonometric ratios.  But we can actually fully unwind without using them.
 
 By  looking at the corresponding terms in the conic equation and the expanded form above we derive a system of equations:
 
-- \( -2((m^2 + 1) \cdot a  + mc) = D \)
-- \( -2((m^2 + 1) \cdot b - c) = E \)
-- \( (m^2 + 1)(a^2 + b^2) - c^2 = F \)
+- $ -2((m^2 + 1) \cdot a  + mc) = D $
+- $ -2((m^2 + 1) \cdot b - c) = E $
+- $ (m^2 + 1)(a^2 + b^2) - c^2 = F $
 
 The key is the first two equations allow us to find expressions for a and b in terms of c which we can substitute into the 3rd one and then solve for all 3 variables.   Even nicer, while the equations look of degree 2, the square terms will cancel in all cases leaving only linear equations!   
 
@@ -93,34 +93,34 @@ While you can derive a general equation from this set, I don't think its easy to
 
 ![]({{ site.baseurl }}/assets/img/tilted-parabolas-or-all-the-stuff-they-didnt-tell-you-in-school-about-them/blogger_e04b54a3.PNG)
 
-Let's take a standard conic  \(4x^2 - 4xy + y^2 - 16x -22y + 61 = 0 \)    and transform it back into Focus/Directrix Form.
+Let's take a standard conic  $4x^2 - 4xy + y^2 - 16x -22y + 61 = 0 $    and transform it back into Focus/Directrix Form.
 
-- First we normalize the equation by dividing by 4 to get:   \(x^2 - xy + \frac{1}{4}y^2 - 4x -\frac{11}{2}y + \frac{61}{4} = 0 \)   
-- This means our slope \( m =  -\frac{1}{2} \)  given the sign of the xy term. So we have the general tilt.
-- Now we setup the new equation:  \( (x-a)^2 + (y-b)^2 = \dfrac{4}{5}(-\frac{1}{2}x - y + c)^2 =  \dfrac{1}{5}(x + 2y - 2c)^2  \)  
-- To solve for a,b,c we multiply by 5 which gives us a form that will generate our original equation:    \( 5(x-a)^2 + 5(y-b)^2 =  (x + 2y - 2c)^2  \)  and we get the following system:
+- First we normalize the equation by dividing by 4 to get:   $x^2 - xy + \frac{1}{4}y^2 - 4x -\frac{11}{2}y + \frac{61}{4} = 0 $   
+- This means our slope $ m =  -\frac{1}{2} $  given the sign of the xy term. So we have the general tilt.
+- Now we setup the new equation:  $ (x-a)^2 + (y-b)^2 = \dfrac{4}{5}(-\frac{1}{2}x - y + c)^2 =  \dfrac{1}{5}(x + 2y - 2c)^2  $  
+- To solve for a,b,c we multiply by 5 which gives us a form that will generate our original equation:    $ 5(x-a)^2 + 5(y-b)^2 =  (x + 2y - 2c)^2  $  and we get the following system:
 
-\( -10 a + 4c = -16 \)
+$ -10 a + 4c = -16 $
 
-\( -10 b + 8c = -22\)
+$ -10 b + 8c = -22$
 
-\( 5(a^2 + b^2) - 4c^2 = 61 \)
+$ 5(a^2 + b^2) - 4c^2 = 61 $
 
 - After isolating a and b and plugging into the 3rd equation
 
-\( a  = \frac{1}{5}(8 + 2c) \)
+$ a  = \frac{1}{5}(8 + 2c) $
 
-\( b = \frac{1}{5}(11 + 4c) \)
+$ b = \frac{1}{5}(11 + 4c) $
 
-\( 5 ( \frac{1}{25} ( 64 + 32c + 4c^2 + 121 + 88c + 16c^2) - 4c^2 = 61 \)
+$ 5 ( \frac{1}{25} ( 64 + 32c + 4c^2 + 121 + 88c + 16c^2) - 4c^2 = 61 $
 
-\( 185 + 120c + 20c^2 - 20c^2 = 305 \)
+$ 185 + 120c + 20c^2 - 20c^2 = 305 $
 
-\(  120c  = 120 \)
+$  120c  = 120 $
 
 - So c = 1, and plugging back in a = 2 and b = 3.
 
-Finally our Directrix/Focus form is:  \( (x-2)^2 + (y - 3)^2 = \frac{4}{5}( -\frac{1}{2}x - y + 1)^2 \)
+Finally our Directrix/Focus form is:  $ (x-2)^2 + (y - 3)^2 = \frac{4}{5}( -\frac{1}{2}x - y + 1)^2 $
 
 From here, we have enough info to completely characterize the parabola.
 

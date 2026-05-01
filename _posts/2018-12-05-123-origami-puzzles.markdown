@@ -27,17 +27,17 @@ The short answer: is yes but not exactly in the way my student thought up.
 
 Let's call the side lengths a,b,c  and a', b' and c' and to make comparisons easier scale, normalize both triangles so the hypotenus is length 1:
 
-So now we have \( \frac{a}{c}, \frac{b}{c}, 1 \) and \( \frac{a'}{c'}, \frac{b'}{c'}, 1 \)
+So now we have $ \frac{a}{c}, \frac{b}{c}, 1 $ and $ \frac{a'}{c'}, \frac{b'}{c'}, 1 $
 
-We want to compare \( \frac{a}{c} \) to \( \frac{b'}{c'} \) and make a decision about the slope.  We can now use the pythagorean theorem to make both sides correspond so  its valid to look at 
+We want to compare $ \frac{a}{c} $ to $ \frac{b'}{c'} $ and make a decision about the slope.  We can now use the pythagorean theorem to make both sides correspond so  its valid to look at 
 
-\( 1 - (\frac{a}{c})^2  \) versus  \( \frac{b}{c}^2 \) without ever directly computing the 3rd side.  And while this is close to comparing \( \frac{a}{c} \)  to \( \frac{b}{c} \) especially with the given values there are some triangles that will slip through the second test.
+$ 1 - (\frac{a}{c})^2  $ versus  $ \frac{b}{c}^2 $ without ever directly computing the 3rd side.  And while this is close to comparing $ \frac{a}{c} $  to $ \frac{b}{c} $ especially with the given values there are some triangles that will slip through the second test.
 
 **Proposition 2:**
 
-Can you compare \( \frac{a}{a + b + c} \) to  \( \frac{a'}{a' + b' + c'} \)  and make a decision?
+Can you compare $ \frac{a}{a + b + c} $ to  $ \frac{a'}{a' + b' + c'} $  and make a decision?
 
-Well let's say slope is \( \frac{b}{a}  \) if we look at the inverse of the test expression:  \( \frac{1}{\frac{a}{a + b + c} }\) this simplifies to  \( 1 + \frac{b}{a} + \frac{c}{a} \)  which is very close to being good enough except for the last term and if you normalized the side lengths it would actually work.
+Well let's say slope is $ \frac{b}{a}  $ if we look at the inverse of the test expression:  $ \frac{1}{\frac{a}{a + b + c} }$ this simplifies to  $ 1 + \frac{b}{a} + \frac{c}{a} $  which is very close to being good enough except for the last term and if you normalized the side lengths it would actually work.
 
 So overall I think this assignment was particularly successful and I'm looking forward to the followup discussion.
 

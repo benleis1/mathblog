@@ -26,7 +26,7 @@ I had the kids go over last year's contest: [2017 MS Contest](https://purplecom
 
 During this whole process I then circulated and helped out with individual groups.  Interestingly, the one problem I ended up focusing on the most with all the groups the was the tower of 7's.
 
-Find the remainder when \( 7^{7^7} \) is divided by 1000. 
+Find the remainder when $ 7^{7^7} $ is divided by 1000. 
 
 There's not a lot of number theory or modular arithmetic exposure in school so this isn't so surprising.
 

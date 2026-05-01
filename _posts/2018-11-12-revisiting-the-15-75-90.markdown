@@ -36,9 +36,9 @@ What I found instead was a bunch of 1:2's like DEH and ABD but I couldn't quite 
 
 ![]({{ site.baseurl }}/assets/img/revisiting-the-15-75-90/blogger_61a1112b.png)
 
-This creates a 30-60-90 at C'BF  whose hypotenuse is congruent to BC and has a length of 10 so its base FB is 5 and its other side C'F is \( 5 \sqrt{3} \)
+This creates a 30-60-90 at C'BF  whose hypotenuse is congruent to BC and has a length of 10 so its base FB is 5 and its other side C'F is $ 5 \sqrt{3} $
 
-Now looking at AC'F next to it we have a right triangle with 2 sides in a \( \sqrt{3} \) ratio  so it also is  a 30-60-90. That means doing the angle addition that the 3 angle at C' add up to 180 and indeed C' is on the line AE.
+Now looking at AC'F next to it we have a right triangle with 2 sides in a $ \sqrt{3} $ ratio  so it also is  a 30-60-90. That means doing the angle addition that the 3 angle at C' add up to 180 and indeed C' is on the line AE.
 
 Triangle AEB is then a 30-75-75 and AE is congruent to AB and of length 20.
 

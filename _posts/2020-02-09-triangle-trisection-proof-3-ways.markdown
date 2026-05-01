@@ -49,13 +49,13 @@ And then  you have to make a leap (which often works) to increase the parallel 
 
 Here I've added BM parallel to CI:  That creates a bunch of interesting relationships:
 
-- \( \triangle{ABM} \sim  \triangle{AIJ} \text{ in a 1:3 ratio so } |BM|= 3 \cdot | IJ | \)
-- \( \triangle{BMD} \sim  \triangle{CJD} \text{ in a 1:2 ratio so } 2 \cdot |BM| =  |CJ| \)
-- Combine those together and you get \( |IJ| = 6 \cdot |CJ| \)
+- $ \triangle{ABM} \sim  \triangle{AIJ} \text{ in a 1:3 ratio so } |BM|= 3 \cdot | IJ | $
+- $ \triangle{BMD} \sim  \triangle{CJD} \text{ in a 1:2 ratio so } 2 \cdot |BM| =  |CJ| $
+- Combine those together and you get $ |IJ| = 6 \cdot |CJ| $
 
 And those relationships now let us subdivide ACI and find the purple section AIJ must be 1/7 of its area or 1/21 of the total area of ABC.
 
-This can be repeated for all the purple triangles. Interestingly since the argument is the same* each ends of having the same area despite their different shapes*.   And their areas' sum is \( 3 \cdot \frac{1}{21} \) Total Area which is \( \frac{1}{7}\) .  From above we know this also the area of the inner brown triangle.
+This can be repeated for all the purple triangles. Interestingly since the argument is the same* each ends of having the same area despite their different shapes*.   And their areas' sum is $ 3 \cdot \frac{1}{21} $ Total Area which is $ \frac{1}{7}$ .  From above we know this also the area of the inner brown triangle.
 
 Part II
 
@@ -141,13 +141,13 @@ Post Reflection:
 
 Linear algebra just reorganizes the area math so there is a fairly simple area ratios proof embedded in above. Now that I'm looking for it here's how it goes:
 
-1.  \( |A_1| = 2  | A_0| \)  from the 1:2 ratio across AB
+1.  $ |A_1| = 2  | A_0| $  from the 1:2 ratio across AB
 
-2. \( 2 \cdot ( |A_1| + |A_2|) = |A_6| + | A_7| + |A_8|  \) from the 1:2 ratio across BC
+2. $ 2 \cdot ( |A_1| + |A_2|) = |A_6| + | A_7| + |A_8|  $ from the 1:2 ratio across BC
 
-So this combines to say  \( |A_6| + | A_7| + |A_8| + |A_0|  = 7 | A_0| \)  and this is also 1/3 of the entire triangle. The same logic can be repeated symmetrically. around the triangle.
+So this combines to say  $ |A_6| + | A_7| + |A_8| + |A_0|  = 7 | A_0| $  and this is also 1/3 of the entire triangle. The same logic can be repeated symmetrically. around the triangle.
 
-The total area of the triangle is therefore \( 21 |A_0| \) and we can repeat the logic from the first proof to conclude the inner triangle must be \( 3 | A_0| \) .
+The total area of the triangle is therefore $ 21 |A_0| $ and we can repeat the logic from the first proof to conclude the inner triangle must be $ 3 | A_0| $ .
 
 ![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/blogger_93842906.JPG)
 

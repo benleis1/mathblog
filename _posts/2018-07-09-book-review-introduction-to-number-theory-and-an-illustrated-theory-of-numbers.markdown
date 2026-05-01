@@ -11,11 +11,11 @@ Over the last 5 months,  I worked through both [Introduction To Number Theory]
 
 We started with the Art of Problem solving textbook.  This is considerably shorter than some of their other volumes and its generally expected to take only half a year working through it. (Scale everything by how long it took you to do the Algebra book)  In fact, this was the first AOPS textbook I ever purchased.  A few years back, my neighbor's son was working through a problem set for the online version of this book and needed some help on the problems. I spent a weekend going through the problem set and at the end thought to myself, "Wow these are really interesting problems."  The one below was my favorite.
 
-There are unique integers \(a_2, a_3,   ... a_7 \) such that
+There are unique integers $a_2, a_3,   ... a_7 $ such that
 
 $$\frac{5}{7} = \frac{a_2}{2!} + \frac{a_3}{3!} + \frac{a_4}{4!} + \frac{a_5}{5!} + \frac{a_6}{6!} + \frac{a_7}{7!}$$
 
-where \( 0 
+where $ 0 
 
 So I ended up purchasing book then and reading and trying out some of the exercises over the winter in the ski lodge while my kids were taking lessons.  Five years later, I've actually had experience with a few of the other books and I now wanted something to do with my son over the back half of the year.   
 

@@ -18,16 +18,16 @@ Motivation:
 
   
 
-  Factor:  \( x^6 - 1 \)  I don't remember when I first saw this
+  Factor:  $ x^6 - 1 $  I don't remember when I first saw this
   question but what was interesting about it was there were two paths.
 
   
 
-  If you broke it apart as a cube:  \( (x^2)^3 - 1  \) you'd get:
+  If you broke it apart as a cube:  $ (x^2)^3 - 1  $ you'd get:
 
   
 
-   \(x^6 - 1 = (x^2 - 1)(x^4 + x^2 + 1) = (x+1)(x-1)(x^4 + x^2 + 1) \)
+   $x^6 - 1 = (x^2 - 1)(x^4 + x^2 + 1) = (x+1)(x-1)(x^4 + x^2 + 1) $
 
   
 
@@ -39,8 +39,8 @@ Motivation:
 
   
 
-  \(x^6 - 1 = (x^3)^2 - 1 = (x^3 - 1)(x^3 + 1) = (x - 1)(x^2 + x + 1)(x + 1)(x^2
-  - x + 1) \)
+  $x^6 - 1 = (x^3)^2 - 1 = (x^3 - 1)(x^3 + 1) = (x - 1)(x^2 + x + 1)(x + 1)(x^2
+  - x + 1) $
 
   
     
@@ -50,13 +50,13 @@ Motivation:
   The second form was better but it wasn't clear to me at the time how you'd
   pick which way to go or the relationship between the two forms of
   factorization.  Although its more obvious now that the expressions
-  are equal  \((x^2 - x + 1)(x^2 + x + 1) =  (x^4 + x^2 + 1) \) 
+  are equal  $(x^2 - x + 1)(x^2 + x + 1) =  (x^4 + x^2 + 1) $ 
 
   
 
   There is some cool geometry underlying this factorization and all related
-  forms \(x^n - 1\) that ultimately leads to some deeper understanding of what's
-  going on here.  First rewritten \(x^n = 1\)  its clear we're looking
+  forms $x^n - 1$ that ultimately leads to some deeper understanding of what's
+  going on here.  First rewritten $x^n = 1$  its clear we're looking
   for the n roots of one or as its usually termed the roots of unity. 
   (There must be n of them due to the fundamental theory of algebra) 
    We can then graph the solutions on the complex plane and soon some
@@ -75,7 +75,7 @@ Motivation:
 
   $x = 1$
 
-  Solution: \( (1,0) \)
+  Solution: $ (1,0) $
 
   
 
@@ -84,7 +84,7 @@ Motivation:
   
   $x^2 = 1$
 
-  Solutions: \( (1,0), (-1,0) \)
+  Solutions: $ (1,0), (-1,0) $
 
   
 
@@ -99,8 +99,8 @@ Motivation:
 
   $x^3 = 1$
 
-  Solutions: \( (1,0), (-\frac{1}{2}, \frac{\sqrt{3}}{2}i), (-\frac{1}{2},
-  \frac{-\sqrt{3}}{2}i) \)
+  Solutions: $ (1,0), (-\frac{1}{2}, \frac{\sqrt{3}}{2}i), (-\frac{1}{2},
+  \frac{-\sqrt{3}}{2}i) $
 
   
 
@@ -109,7 +109,7 @@ Motivation:
   
   $x^4 = 1$
 
-  Solutions: \( (1,0), (0,i), (-1,0), (0,-i) \)
+  Solutions: $ (1,0), (0,i), (-1,0), (0,-i) $
 
   
 
@@ -149,10 +149,10 @@ Motivation:
 
   
   
-    Consider sets of the form \( 2 \pi \) divided into n equal segments i.e. :
-    \( 0, 1 \cdot \frac{2 \pi}{n},  2 \cdot \frac{2 \pi}{n}, 3 \cdot
-    \frac{2 \pi}{n} \) ... \( (n-2) \cdot \frac{2 \pi}{n} , (n-1) \cdot
-     \frac{2 \pi}{n}  \)
+    Consider sets of the form $ 2 \pi $ divided into n equal segments i.e. :
+    $ 0, 1 \cdot \frac{2 \pi}{n},  2 \cdot \frac{2 \pi}{n}, 3 \cdot
+    \frac{2 \pi}{n} $ ... $ (n-2) \cdot \frac{2 \pi}{n} , (n-1) \cdot
+     \frac{2 \pi}{n}  $
 
     
 
@@ -161,13 +161,13 @@ Motivation:
 
     
 
-    \( 1, \cos(2 \pi )  + i sin (2 \pi),   \cos(4 \pi )  + i sin
+    $ 1, \cos(2 \pi )  + i sin (2 \pi),   \cos(4 \pi )  + i sin
     (4 \pi) ... \cos((2n-1) \cdot 2 \pi )  + i sin ((2n - 1) \cdot2 \pi
-    \)
+    $
 
     
 
-    and since the trigonometric are cyclic with period \( 2 \pi \) these are all
+    and since the trigonometric are cyclic with period $ 2 \pi $ these are all
     equivalent and equal to 1.
 
     
@@ -196,20 +196,20 @@ In other words the n evenly spaced points around the circle that
     
       The second interesting fallout of De Moivre's Theorem is that the roots
       are all powers of each other. The simplest case is to look at them all in
-      terms of the first root \( \omega = \frac{ 2 \pi} {n} \)
+      terms of the first root $ \omega = \frac{ 2 \pi} {n} $
     
     
 
-    So for example: \( \omega ^2 = \cos{2 \cdot  \frac{ 2 \pi} {n}} + i
-    \sin {2 \cdot  \frac{ 2 \pi} {n}} \) which is exactly the second root.
+    So for example: $ \omega ^2 = \cos{2 \cdot  \frac{ 2 \pi} {n}} + i
+    \sin {2 \cdot  \frac{ 2 \pi} {n}} $ which is exactly the second root.
     This simple relation continues for all powers of n up to n-1.
 
     
 
     Likewise, you can raise the other roots to various powers and keep moving
     around the circle i..e this is a closed group. Its often convenient to then
-    think about the set of roots as \( \{ 1, \omega, \omega ^2 ...
-     \omega^{n-2}, \omega^{n-1} \} \)
+    think about the set of roots as $ \{ 1, \omega, \omega ^2 ...
+     \omega^{n-2}, \omega^{n-1} \} $
 
     
 
@@ -250,8 +250,8 @@ In other words the n evenly spaced points around the circle that
     
 
     We can also see this fact is true algebraically: Adding the roots we get a
-    simple geometric series  \( 1 + \omega^2 .... + \omega^{n-1} =
-    \sum_{i=0}^{n-1} \omega^i \).
+    simple geometric series  $ 1 + \omega^2 .... + \omega^{n-1} =
+    \sum_{i=0}^{n-1} \omega^i $.
 
     
 
@@ -264,7 +264,7 @@ In other words the n evenly spaced points around the circle that
 
     
 
-    But \( \omega \) is an nth root of 1 so by definition \( \omega^n = 1 \) and
+    But $ \omega $ is an nth root of 1 so by definition $ \omega^n = 1 $ and
     so:
 
     
@@ -293,8 +293,8 @@ In other words the n evenly spaced points around the circle that
 
     
 
-    And since from the symmetry \( \cos(n \cdot \frac{2 \pi}{5} ) = \cos( (5-n)
-    \cdot \frac{ 2 \pi}{5}) \)  we can consolidate a little further:
+    And since from the symmetry $ \cos(n \cdot \frac{2 \pi}{5} ) = \cos( (5-n)
+    \cdot \frac{ 2 \pi}{5}) $  we can consolidate a little further:
 
     
 
@@ -308,7 +308,7 @@ In other words the n evenly spaced points around the circle that
     
 
     **Note:** This lines up exactly with how we noticed the apex of the
-    traced n-gon  was at \( \frac{1}{2} \)  back in the previous.
+    traced n-gon  was at $ \frac{1}{2} $  back in the previous.
     visualization .
 
     
@@ -373,34 +373,34 @@ Since all the roots are powers of each other, its  clear
 
     
 
-    so \( \prod_{i=0}^{n-1}\omega^i = 1 \cdot \omega  \cdot \omega^2 .....
-    \omega^{n-2} \cdot \omega^{n-1} \)
+    so $ \prod_{i=0}^{n-1}\omega^i = 1 \cdot \omega  \cdot \omega^2 .....
+    \omega^{n-2} \cdot \omega^{n-1} $
 
     
 
-    Consolidating the powers of  \( \omega\) we get  \(
-    \prod_{i=0}^{n-1}\omega^i  = \omega^{1 + 2 ... + (n -1)} \) 
+    Consolidating the powers of  $ \omega$ we get  $
+    \prod_{i=0}^{n-1}\omega^i  = \omega^{1 + 2 ... + (n -1)} $ 
      The exponent in this case is a triangle number and using the formula
-    for such sums \( \sum_{i=1}^{n} i   = \frac{n(n +1)}{2} \) 
-    We get  \( \prod_{i=0}^{n-1}\omega^i  = \omega^{\frac{(n-1) \cdot
-    n}{2}}  =  ( \omega^n ) ^ {\frac{n - 1}{2}}\)
+    for such sums $ \sum_{i=1}^{n} i   = \frac{n(n +1)}{2} $ 
+    We get  $ \prod_{i=0}^{n-1}\omega^i  = \omega^{\frac{(n-1) \cdot
+    n}{2}}  =  ( \omega^n ) ^ {\frac{n - 1}{2}}$
 
     
 
-    But again \( \omega \) is an nth root of 1 so \( \omega^n  = 1 \) which
+    But again $ \omega $ is an nth root of 1 so $ \omega^n  = 1 $ which
     means the whole product
 
-    simplifies to \( 1^ {\frac{n - 1}{2}} = \sqrt{1} = \pm 1 \)  Further
+    simplifies to $ 1^ {\frac{n - 1}{2}} = \sqrt{1} = \pm 1 $  Further
     its positive when n is odd and negative when n is even.
 
     
 
     We can also generally break the roots apart like with addition to see what
     the product of the cos or sin of them are.   The general way to do this
-    is just to expand the original equation \(x^n  - 1 = 0\) by
-    substituting in  \( \omega = \cos(x)  + i \sin(x) \) and then
-    breaking out the real and imaginary parts, substituting \( \cos^2 = 1 -
-    \sin^2 \) or vice versa and solving.  **Caution: **be careful
+    is just to expand the original equation $x^n  - 1 = 0$ by
+    substituting in  $ \omega = \cos(x)  + i \sin(x) $ and then
+    breaking out the real and imaginary parts, substituting $ \cos^2 = 1 -
+    \sin^2 $ or vice versa and solving.  **Caution: **be careful
     to solve both parts since extra solutions may appear in either half that are
     not common to both.  Note: also regular trig multiplication to addition
     rules can usually also be applied to reduce these type problems back into
@@ -411,7 +411,7 @@ Since all the roots are powers of each other, its  clear
     
 
     This is a nice parallel to addition. When you add all the roots you get 0, when you multiply them all you get
-      \( \pm 1 \).
+      $ \pm 1 $.
 
     
 
@@ -436,7 +436,7 @@ Since all the roots are powers of each other, its  clear
     
 
     For instance, the lengths of each of the chords in the picture are
-    \(|\omega^n - 1| \) for all the various roots. They all come in conjugate
+    $|\omega^n - 1| $ for all the various roots. They all come in conjugate
     pairs so its intuitively evident if you multiply each of these pairs
     together you'll get a real result and therefore the total product is a real
     as well. But which one is it?
@@ -447,12 +447,12 @@ Since all the roots are powers of each other, its  clear
 
     
 
-    \(x^n - 1 = (x - 1)(x - \omega) .... (x - \omega^{n-1}) \)
+    $x^n - 1 = (x - 1)(x - \omega) .... (x - \omega^{n-1}) $
 
     
 
-    So \( \frac{x^n - 1}{x - 1} = (x - \omega) .... (x - \omega^{n-1}) 
-    \)
+    So $ \frac{x^n - 1}{x - 1} = (x - \omega) .... (x - \omega^{n-1}) 
+    $
 
     
 
@@ -460,13 +460,13 @@ Since all the roots are powers of each other, its  clear
 
     
 
-    \(1 + x + x^2 ... x^{n-1} = (x - \omega)(x - \omega^2) ... (x -
-    \omega^{n-1}) \)
+    $1 + x + x^2 ... x^{n-1} = (x - \omega)(x - \omega^2) ... (x -
+    \omega^{n-1}) $
 
     
 
-    Evaluating at x  = 1 we find   \( n =  (1 - \omega)(1 -
-    \omega^2) ... (1 - \omega^{n-1}) \)
+    Evaluating at x  = 1 we find   $ n =  (1 - \omega)(1 -
+    \omega^2) ... (1 - \omega^{n-1}) $
 
     Which is exactly the product of the chord lengths!
 
@@ -487,7 +487,7 @@ Since all the roots are powers of each other, its  clear
   
 
   
-    Returning to our family of functions: \( x^n - 1 = 0 \)  We can now
+    Returning to our family of functions: $ x^n - 1 = 0 $  We can now
     look at the factoring problem more closely.
   
   
@@ -534,23 +534,23 @@ Since all the roots are powers of each other, its  clear
 
   
   
-    Here we're looking at  roots of \(x^6 - 1 \) the original problem at
+    Here we're looking at  roots of $x^6 - 1 $ the original problem at
     the top.  Because the roots are evenly spaced they are at  (1,0)
     and then 1/6, 2/6, 3/6, 4/6 and 5/6 of the way around the circle. But some
     of these fractions reduce. For example,  2/6 is also 1/3 or one of the
-    roots of \( x^3 - 1 \) and 3/6 is also 1/2 one of the roots of \( x^2 - 1 \)
+    roots of $ x^3 - 1 $ and 3/6 is also 1/2 one of the roots of $ x^2 - 1 $
      In other words, factoring the polynomial is tied to factoring the
-    degree of the polynomial. In \(x^n - 1\) if  degree n is not prime and
-    can be factored \( p_1^{d_1} \cdot p_2^{d_2} \cdot ... p_k^{d_k} \)  we
-    can find all the primitive roots for its factors in the \(x^n - 1\) itself.
-        If we then multiply \((x - \omega_n) \) together for all the
-    roots from a \(p_k\) we'll get back the original polynomial \(x^{p_k} -
-    1\)
+    degree of the polynomial. In $x^n - 1$ if  degree n is not prime and
+    can be factored $ p_1^{d_1} \cdot p_2^{d_2} \cdot ... p_k^{d_k} $  we
+    can find all the primitive roots for its factors in the $x^n - 1$ itself.
+        If we then multiply $(x - \omega_n) $ together for all the
+    roots from a $p_k$ we'll get back the original polynomial $x^{p_k} -
+    1$
 
     
 
-    This gives us an algorithm to factorize the polynomials of form \(x^n -
-    1\).
+    This gives us an algorithm to factorize the polynomials of form $x^n -
+    1$.
 
     
 
@@ -563,7 +563,7 @@ Since all the roots are powers of each other, its  clear
         of them by x -1.
       
       
-        Then divide the remainder \(x^n - 1\) by \(x^k - 1\) for all factors k.
+        Then divide the remainder $x^n - 1$ by $x^k - 1$ for all factors k.
         to accumulate sub polynomials.
       
       
@@ -579,28 +579,28 @@ Since all the roots are powers of each other, its  clear
       The irreducible polynomials that result in the end have a special
       name, **cyclotomic polynomials.  **As the model above
       suggests if the degree of the exponent n  for all n > 1 is
-       prime then \(\frac{x^n - 1}{x -1}\)  will be cyclotomic.
+       prime then $\frac{x^n - 1}{x -1}$  will be cyclotomic.
     
     
       
 
     
-    Example:  \( x^{21} - 1 \)
+    Example:  $ x^{21} - 1 $
     
       
 
     
-    1. 21 factors to \( 3 \cdot 7 \) 
+    1. 21 factors to $ 3 \cdot 7 $ 
     
-      2. So we have 3 subpolynomials:  x - 1, \(x^3 - 1 , x^7 - 1\)
-    
-    
-      3. Dividing x - 1 out of the latter two we get: \(x^2 + x + 1,  x^6
-      +x^5 + x^4 +x^3 + x^2 + x  + 1\)
+      2. So we have 3 subpolynomials:  x - 1, $x^3 - 1 , x^7 - 1$
     
     
-      4. Dividing each of these in turn from  \(x^{21} -1\) We are left
-      with: \( x^{12} - x^{11} + x^9 - x^8 + x^6 - x^4 +  x^3 - x + 1 \)
+      3. Dividing x - 1 out of the latter two we get: $x^2 + x + 1,  x^6
+      +x^5 + x^4 +x^3 + x^2 + x  + 1$
+    
+    
+      4. Dividing each of these in turn from  $x^{21} -1$ We are left
+      with: $ x^{12} - x^{11} + x^9 - x^8 + x^6 - x^4 +  x^3 - x + 1 $
         
     
     
@@ -608,9 +608,9 @@ Since all the roots are powers of each other, its  clear
 
     
     
-      All together \( x^{21} - 1 = (x-1)(x^2 + x + 1)(x^6 +x^5 + x^4 +x^3 + x^2
+      All together $ x^{21} - 1 = (x-1)(x^2 + x + 1)(x^6 +x^5 + x^4 +x^3 + x^2
       + x  + 1)(x^{12} - x^{11} + x^9 - x^8 + x^6 - x^4 +  x^3 - x +
-      1) \)   
+      1) $   
     
     
       
@@ -618,7 +618,7 @@ Since all the roots are powers of each other, its  clear
     
     
       and in formal notation we call the final residual polynomial
-      \(\Phi_{21}\)
+      $\Phi_{21}$
 
       
 

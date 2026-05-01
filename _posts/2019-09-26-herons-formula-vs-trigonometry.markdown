@@ -13,9 +13,9 @@ This random pedagogical thought occurred to me today: Both  [Heron's Formula](
 
 **Heron's Formula **
 
-Given a triangle with side lengths a,b and c.  Let \(s = \dfrac{a + b + c}{2} \)
+Given a triangle with side lengths a,b and c.  Let $s = \dfrac{a + b + c}{2} $
 
-Area = \( \sqrt{s \cdot (s - a) \cdot (s - b) \cdot (s -c) }  \)
+Area = $ \sqrt{s \cdot (s - a) \cdot (s - b) \cdot (s -c) }  $
 
 This tends to be messy given the large product that you then need to find the square root of.
 
@@ -29,7 +29,7 @@ Isolate cos: $ \cos \theta = \dfrac{((a^2  + b^2) - c^2)}{2ab} $
 
 Derive sin: $ \sin \theta = \sqrt{ 1  - \frac{((a^2  + b^2) - c^2)^2}{4a^2b^2}} = \dfrac{\sqrt{ 4a^2b^2  -((a^2  + b^2) -  c^2)^2}}{2ab}  $
 
-Area =  \( \frac{1}{2} ab \cdot  \sin \theta = \dfrac{1}{4} \sqrt{ 4a^2b^2  -((a^2  + b^2) -  c^2)^2} \)
+Area =  $ \frac{1}{2} ab \cdot  \sin \theta = \dfrac{1}{4} \sqrt{ 4a^2b^2  -((a^2  + b^2) -  c^2)^2} $
 
 Notably, if I kept simplifying the trigonometric version I would eventually end up with Heron's formula so they are not too far apart But in practice the arithmetic looks a bit different.
 
@@ -73,23 +73,23 @@ Taking the paradigmatic 13-14-15 triangle which has very friendly values.
 
 Via Heron's Formula:
 
-- \( s =  \frac{1}{2} ( 13  + 14 + 15)  = 21 \)
-- Area = \( \sqrt{21 \cdot 6 \cdot 7 \cdot  8 \cdot } = \sqrt{7056} \)
-- Perhaps you notice that \( 21 \cdot 6 \cdot 7 \cdot  8 \cdot  = 7^2 \cdot 3^2 \cdot 4^2  \)
+- $ s =  \frac{1}{2} ( 13  + 14 + 15)  = 21 $
+- Area = $ \sqrt{21 \cdot 6 \cdot 7 \cdot  8 \cdot } = \sqrt{7056} $
+- Perhaps you notice that $ 21 \cdot 6 \cdot 7 \cdot  8 \cdot  = 7^2 \cdot 3^2 \cdot 4^2  $
 - In either case you end up with 84 after more or less work.
 
 Via Trig:
 
-- From a *friendlier s*ide:  \( 13^2 + 14^2 - 2 \cdot 13 \cdot 14 \cos \theta = 14^2 \)
-- \( \cos \theta = \frac{140}{2 \cdot 13 \cdot 14} = \frac{5}{13} \)
-- \( \sin  \theta = \frac {12}{13} \) (You might recognize the 5 - 12 -13 to go straight here)
-- Area = \( \frac{1}{2} \cdot 13 \cdot 14 \cdot \frac{12}{13} = 84 \)
+- From a *friendlier s*ide:  $ 13^2 + 14^2 - 2 \cdot 13 \cdot 14 \cos \theta = 14^2 $
+- $ \cos \theta = \frac{140}{2 \cdot 13 \cdot 14} = \frac{5}{13} $
+- $ \sin  \theta = \frac {12}{13} $ (You might recognize the 5 - 12 -13 to go straight here)
+- Area = $ \frac{1}{2} \cdot 13 \cdot 14 \cdot \frac{12}{13} = 84 $
 
-- From the *least friendly* side:   \( 13^2 + 15^2 - 2 \cdot 13 \cdot 15 \cos \theta = 14^2 \)
-- \( \cos \theta = \frac{198}{2 \cdot 13 \cdot 15} = \frac{33}{13 \cdot 5}  \)
-- \( \sin  \theta = \frac {\sqrt{65^2 - 33^2}}{13}  = \frac{\sqrt{3136}}{65}\)
-- Now either you work this out or perhaps you  use a difference of squares to note: \( 65^2 - 33^2 = 98 \cdot 32 = 49 \cdot 64 \) which is much easier to take a square root of.
-- Area = \( \frac{1}{2} \cdot 13 \cdot 15 \cdot \frac{56}{65} = 84 \)
+- From the *least friendly* side:   $ 13^2 + 15^2 - 2 \cdot 13 \cdot 15 \cos \theta = 14^2 $
+- $ \cos \theta = \frac{198}{2 \cdot 13 \cdot 15} = \frac{33}{13 \cdot 5}  $
+- $ \sin  \theta = \frac {\sqrt{65^2 - 33^2}}{13}  = \frac{\sqrt{3136}}{65}$
+- Now either you work this out or perhaps you  use a difference of squares to note: $ 65^2 - 33^2 = 98 \cdot 32 = 49 \cdot 64 $ which is much easier to take a square root of.
+- Area = $ \frac{1}{2} \cdot 13 \cdot 15 \cdot \frac{56}{65} = 84 $
 
 Overall its a bit of a wash: although even here Heron's Formula generated the larger product to take a square root of. Arguably it might be easier to see the simplifications with it though.
 

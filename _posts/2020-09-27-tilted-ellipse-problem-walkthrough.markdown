@@ -49,8 +49,8 @@ At this point I happened to see  response to Matt:
 
 First off the basic symmetry that always holds:
 
-  If  (u,v) is a solution to \( x^2 + xy + y^2 = a\) then (-u,-v) is as
-  well because: \(u^2 + uv = v^2 = (-u)^2 + (-u)(-v) + (-v)^2\). 
+  If  (u,v) is a solution to $ x^2 + xy + y^2 = a$ then (-u,-v) is as
+  well because: $u^2 + uv = v^2 = (-u)^2 + (-u)(-v) + (-v)^2$. 
 This means that the number of solutions is definitely an even number.
 
   ![]({{ site.baseurl }}/assets/img/tilted-ellipse-problem-walkthrough/blogger_662a3a31.JPG)
@@ -63,7 +63,7 @@ Third, what's interesting and the key group observation that we made during the 
 This follows because if we fix one of the coordinates a monic quadratic equation is left where we already know one solution. 
 $x^2 + bx  + b^2 = k    \rightarrow  x^2 + bx + b^2 - k = 0$   
 This has two roots  a and something else. But  via the Vieta formulas the sum of the two roots is b so that means the other one is -a - b  also an integer.  This same logic can be repeated on the other axis.
-- \(  (a,b)    \rightarrow a^2 + ab + b^2 \)- \( (a,-a - b)   \rightarrow a^2 + a(-a -b) + (-a -b)^2 = a^2 -a^2 -ab + a^2 + 2ab + b^2 = a^2 + ab + b^2 \)- \( (-a - b, b)   \rightarrow (-a -b)^2 + b(-a -b) + b^2 = a^2 + 2ab + b^2 -ab - b^2 + b^2 = a^2 + ab + b^2 \)
+- $  (a,b)    \rightarrow a^2 + ab + b^2 $- $ (a,-a - b)   \rightarrow a^2 + a(-a -b) + (-a -b)^2 = a^2 -a^2 -ab + a^2 + 2ab + b^2 = a^2 + ab + b^2 $- $ (-a - b, b)   \rightarrow (-a -b)^2 + b(-a -b) + b^2 = a^2 + 2ab + b^2 -ab - b^2 + b^2 = a^2 + ab + b^2 $
 
 Slight complication![]({{ site.baseurl }}/assets/img/tilted-ellipse-problem-walkthrough/blogger_36a8d04f.JPG)
 

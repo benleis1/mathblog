@@ -18,9 +18,9 @@ As is often the case, finding the relative area of the  triangles and square is
 
 *Let s be the length of the  sides of the square:*
 
-The area of each triangle = \(\frac{1}{2} s^2 cos(15)sin(15) \) and using the double angle formulas
+The area of each triangle = $\frac{1}{2} s^2 cos(15)sin(15) $ and using the double angle formulas
 
-\(sin(30)=2sin(15)cos(15)\) so  after substitution and knowing sin(30) = \(\frac{1}{2}\) out pops the area = \(\frac{1}{8}s^2\)
+$sin(30)=2sin(15)cos(15)$ so  after substitution and knowing sin(30) = $\frac{1}{2}$ out pops the area = $\frac{1}{8}s^2$
 
 But why is this happening? As usual a 30-60-90 triangle is usually lurking around that allows a Euclidean explanation.
 
@@ -34,9 +34,9 @@ But let's return to the original problem. There's another easy explanation of wh
 
 ![]({{ site.baseurl }}/assets/img/and-yet-more-15-75-90-fun/blogger_1f1987c3.PNG)
 
-1. Note the  area of this triangle is \(\frac{1}{2}(2 - \sqrt{3})\)
+1. Note the  area of this triangle is $\frac{1}{2}(2 - \sqrt{3})$
 
-2. Squaring the hypotenuse you get \(4(2 - \sqrt{3})\) which is 8 times the triangle area.
+2. Squaring the hypotenuse you get $4(2 - \sqrt{3})$ which is 8 times the triangle area.
 
 3. Or in other words each triangle is 1/8 of the square made on the hypotenuse.
 

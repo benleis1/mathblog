@@ -26,18 +26,18 @@ Alt:
 
 **Constructions**
 
-1. Subdivide \(\angle{BCD}\)  such that \(\angle{BCE} = 3x \)   That makes \(\triangle{ACE}\) an isosceles and AC = AE = BD.  This implies AD = BE.   
+1. Subdivide $\angle{BCD}$  such that $\angle{BCE} = 3x $   That makes $\triangle{ACE}$ an isosceles and AC = AE = BD.  This implies AD = BE.   
 
 Let a = AD and BE  and  b = DE
 
-2. Add a parallel segment DF to CE.  \(\triangle{AFD}\) is similar to \(\triangle{ACE} \)  and also isosceles so  AF = a  and CF = b.
+2. Add a parallel segment DF to CE.  $\triangle{AFD}$ is similar to $\triangle{ACE} $  and also isosceles so  AF = a  and CF = b.
 
 **Similar Ratios**
 
-3. By similarity of \(\triangle{ADF}\) and \( \triangle{ACE}\) , \( DF = CE \cdot \frac{a}{a+b} \)  but triangles CFD and CEF are also similar implying  \( \frac{b}{DF}  = \frac{CE}{a} \)
+3. By similarity of $\triangle{ADF}$ and $ \triangle{ACE}$ , $ DF = CE \cdot \frac{a}{a+b} $  but triangles CFD and CEF are also similar implying  $ \frac{b}{DF}  = \frac{CE}{a} $
 
-This simplifies to CE = \( \sqrt{(a +b)\cdot b} \)
+This simplifies to CE = $ \sqrt{(a +b)\cdot b} $
 
-4. Now consider triangles CDE and CBD which are also similar.    So \( \frac{BD}{CD} = \frac{CD}{DE} \)  or \( CD = \sqrt{BD \cdot DE} = \sqrt{(a+b) \cdot b}  \) which is the same as CE above.
+4. Now consider triangles CDE and CBD which are also similar.    So $ \frac{BD}{CD} = \frac{CD}{DE} $  or $ CD = \sqrt{BD \cdot DE} = \sqrt{(a+b) \cdot b}  $ which is the same as CE above.
 
-So CDE is an isoscleses triangle and  and triangle ADC and BCE are congruent.   That means 4x = 180 - 14x  or x = 10 and    \( \angle{CAB} = 40\)
+So CDE is an isoscleses triangle and  and triangle ADC and BCE are congruent.   That means 4x = 180 - 14x  or x = 10 and    $ \angle{CAB} = 40$

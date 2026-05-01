@@ -17,10 +17,10 @@ There's a clever solution on Eylem's page (its problem 217) and you should give 
 What's special about this problem to me is that its *almost* exactly in the form of a cubic root.
 
 Review
-Once depressed a cubic will be of the form:   \(  y^3 + 3Qy - 2R = 0 \)  The roots can be then found from various combinations of the root conjugates S and T where
+Once depressed a cubic will be of the form:   $  y^3 + 3Qy - 2R = 0 $  The roots can be then found from various combinations of the root conjugates S and T where
 
-- \( S = \sqrt[3]{R  + \sqrt{Q^3 + R^2}}  \)
-- \( T = \sqrt[3]{R  - \sqrt{Q^3 + R^2}}  \)
+- $ S = \sqrt[3]{R  + \sqrt{Q^3 + R^2}}  $
+- $ T = \sqrt[3]{R  - \sqrt{Q^3 + R^2}}  $
 
 The simplest of the 3 solutions is simply: S + T  while the others are 120 degree rotations of this around the origin.
 
@@ -30,14 +30,14 @@ $$  \sqrt[3]{2  + \sqrt{x}} + \sqrt[3]{2 - \sqrt{x}} = 2 $$
 
 Now this is saying that 2 is the root to the cubic where: 
 
-- \( R = 2 \)
-- \( Q^3 + R^2 = x  \rightarrow  Q^3 + 4 = x \rightarrow  Q = \sqrt[3]{x - 4} \)
+- $ R = 2 $
+- $ Q^3 + R^2 = x  \rightarrow  Q^3 + 4 = x \rightarrow  Q = \sqrt[3]{x - 4} $
 
-This cubic is \( y^3 + 3y \cdot (\sqrt[3]{x - 4} ) - 4  \)  which looks a bit complicated but we also know at y = 2, its equal to 0
+This cubic is $ y^3 + 3y \cdot (\sqrt[3]{x - 4} ) - 4  $  which looks a bit complicated but we also know at y = 2, its equal to 0
 
-So in other words:   \(  8  + 6 \cdot (\sqrt[3]{x - 4} ) - 4   = 0 \) .
+So in other words:   $  8  + 6 \cdot (\sqrt[3]{x - 4} ) - 4   = 0 $ .
 
-This we can simplify to:   \( \sqrt[3]{x - 4} )  = -\frac{2}{3} \) and then we just have to cube both sides to get the final solution for x:   
+This we can simplify to:   $ \sqrt[3]{x - 4} )  = -\frac{2}{3} $ and then we just have to cube both sides to get the final solution for x:   
 
 $$ x =  4 -  \frac{8}{27} = \frac{100}{27} $$
 

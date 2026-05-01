@@ -31,7 +31,7 @@ Graphically speaking the quadratic formula can be interpreted as there is a poin
 
 between the two roots (and incidentally aligned with the vertex).   That distance is
 
-\( \frac{b^2 - 4ac}{2a} \)
+$ \frac{b^2 - 4ac}{2a} $
 
 We derive that by completing the square but using the Vieta formulas we get another interpretation.
 
@@ -40,20 +40,20 @@ For this discussion lets only consider monic quadratics where a  = 1 and let p 
 - c  = pq
 - b = -(p + q)
 
-So \(  \frac{b^2 - 4c}{2}  =  \frac{(-p -q)^2 - 4pq}{2} = \frac{(p-q)^2}{2}  \)
+So $  \frac{b^2 - 4c}{2}  =  \frac{(-p -q)^2 - 4pq}{2} = \frac{(p-q)^2}{2}  $
 
 This means the discriminant is precisely the average of the square of the distance between the 2 roots!
 
-Likewise \( \frac{-b}{2} = \frac{x + y}{2} \) or the average the 2 roots.
+Likewise $ \frac{-b}{2} = \frac{x + y}{2} $ or the average the 2 roots.
 
 [Probably I would have the kids state the quadratic formula and then try to label the graph first and then ask "yes but why?"]
 
-Unsolved tangent: The vertex in terms of  p and q is  \(- (\frac{p-q}{2})^2 \).  How does that fit in geometrically speaking?
+Unsolved tangent: The vertex in terms of  p and q is  $- (\frac{p-q}{2})^2 $.  How does that fit in geometrically speaking?
 
 Entry Problems:
 
-- What is \( \frac{1}{x} + \frac{1}{y} \)  if you only know \(xy = k_1 \) and \(x + y = k_2 \)
-- let a and b  denote the roots of \( 18x^2 + 3x - 28 = 0 \) Find the value of \( (a - 1)(b - 1) \)
+- What is $ \frac{1}{x} + \frac{1}{y} $  if you only know $xy = k_1 $ and $x + y = k_2 $
+- let a and b  denote the roots of $ 18x^2 + 3x - 28 = 0 $ Find the value of $ (a - 1)(b - 1) $
 - Some basic i.e. the root sum is x and the root's product is y. What is the polynomial?
 - Problem from [in-praise-of-the-rational-roots-theorem]({% post_url 2018-04-02-in-praise-of-the-rational-roots-theorem %})
 - If m an n are nonzero roots of x^2 + mx + n = 0 What does m+n  equal?
@@ -73,8 +73,8 @@ Another complicated one:
 
 Another really fun exercise:
 
-Given  a cubic equation:  \( x^3 + bx^2 + cx + d \) with roots p, q and r  if you create create a partial fraction decomposition:  
+Given  a cubic equation:  $ x^3 + bx^2 + cx + d $ with roots p, q and r  if you create create a partial fraction decomposition:  
 
-\( \frac{1}{ x^3 + bx^2 + cx + d } = \frac{A}{x -p} +  \frac{B}{x -q} +  \frac{C}{x-r}  \)
+$ \frac{1}{ x^3 + bx^2 + cx + d } = \frac{A}{x -p} +  \frac{B}{x -q} +  \frac{C}{x-r}  $
 
-Then what is the value of \( \frac{1}{A} + \frac{1}{B} + \frac{1}{C} \)  in terms of the b, c and d?
+Then what is the value of $ \frac{1}{A} + \frac{1}{B} + \frac{1}{C} $  in terms of the b, c and d?

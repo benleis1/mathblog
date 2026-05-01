@@ -32,9 +32,9 @@ And then I saws a link back to Bowen Kerin's blog: [https://t.co/4e3mbCDbmn](ht
 
 The better model is transforming:
 
-\(ax^2 + bx + c\)  to \( \frac{1}{a}(a^2x^2 + abx + ac) =  \frac{1}{a}(  (ax)^2 + b(ax) + ac ) \)
+$ax^2 + bx + c$  to $ \frac{1}{a}(a^2x^2 + abx + ac) =  \frac{1}{a}(  (ax)^2 + b(ax) + ac ) $
 
-Then you substitute w = ax and suddenly you have a reframed monic equation that is potentially easier to factor i.e.  \(\frac{1}{a}(w^2 + bw + ac) \)
+Then you substitute w = ax and suddenly you have a reframed monic equation that is potentially easier to factor i.e.  $\frac{1}{a}(w^2 + bw + ac) $
 
 What's also cool in practice when you re-substitute x back in, the extra a term  always cancels out and often factors in interesting ways split between the terms.
 

@@ -35,7 +35,7 @@ $$= n^4 + 12n^3 +44n^2 + 48n + 16$$
 
 This is harder (but not impossible see: [not-so-innocuous-quartic]({% post_url 2017-03-31-not-so-innocuous-quartic %}) quartic to factor naively.
 
-One immediate simplification is to assume that this the square of some quadratic \(ax^2 + bx + c\).  From there we get:
+One immediate simplification is to assume that this the square of some quadratic $ax^2 + bx + c$.  From there we get:
 
 $$(ax^2 + bx + c)^2 = a^2x^4 + 2abx^3 + (2ac + b^2)x^2 + 2bcx + c^2$$
 
@@ -49,7 +49,7 @@ $$2bc = 48$$
 
 a and c appear to be 1 and 4 immediately and checking all the other equations 6 works for c in all of them.
 
-So: \(n(n+2)(n+4)(n+6) + 16 = (n^2 + 6n + 4)^2\)
+So: $n(n+2)(n+4)(n+6) + 16 = (n^2 + 6n + 4)^2$
 
 But wait ....
 

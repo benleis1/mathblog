@@ -14,10 +14,10 @@ I also had several group demos that I wanted to start off with. But I started by
 
 That was a good bridge to start with a precise definition of the ratio and from there we covered:
 
-- Phi is not the same as the Fibonacci numbers and in fact for all such sequences defined by \( F_n = F_{n-1} + F_{n-2} \) the ratio \( \frac{F_n}{F_{n-1}}\)  tend to approach the golden ratio.  This one you can test with your own generator numbers.  
+- Phi is not the same as the Fibonacci numbers and in fact for all such sequences defined by $ F_n = F_{n-1} + F_{n-2} $ the ratio $ \frac{F_n}{F_{n-1}}$  tend to approach the golden ratio.  This one you can test with your own generator numbers.  
 - Phi in the Pentagon. We derived the basic ratio  of the diagonal (upper center diagram) as a group.
 
-- The general properties of Phi based on its root equation \(x^2 -x -1 = 0 \) i.e.
+- The general properties of Phi based on its root equation $x^2 -x -1 = 0 $ i.e.
 
 $$ \Phi^2 = \Phi + 1 $$
 

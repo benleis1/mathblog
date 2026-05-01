@@ -21,31 +21,31 @@ Normally I don't click through to many Desmos Activity Builder pages that people
 
 To paraphrase Anna's explanation:
 
-- Let \( u = (x_1,y_1) \) be one fixed vector and v the other vector that varies and let  \( \vec{u} \cdot  \vec{v} = k \) where k is constant.
-- The slope of u is by defintion: \( \frac{y_1}{x_1} \)
--  \( \vec{u} \cdot  \vec{v} =  x \cdot x_1 + y \cdot y_1 = k \)  : This is a line with slope \( -\frac{x_1}{y_1} \)   Since the slopes are negative inverses this line and the original vector are indeed perpendicular.
+- Let $ u = (x_1,y_1) $ be one fixed vector and v the other vector that varies and let  $ \vec{u} \cdot  \vec{v} = k $ where k is constant.
+- The slope of u is by defintion: $ \frac{y_1}{x_1} $
+-  $ \vec{u} \cdot  \vec{v} =  x \cdot x_1 + y \cdot y_1 = k $  : This is a line with slope $ -\frac{x_1}{y_1} $   Since the slopes are negative inverses this line and the original vector are indeed perpendicular.
 
 Yes but why...
 
 However, I usually find vectors and dot products more intuitive with the alternate definition:
 
- \(  \vec{u} \cdot \vec{v} = \|  u \|  \| v \| \cos {\theta} \)   So it clearly should also fall out from this definition: but how?
+ $  \vec{u} \cdot \vec{v} = \|  u \|  \| v \| \cos {\theta} $   So it clearly should also fall out from this definition: but how?
 
 ![]({{ site.baseurl }}/assets/img/dot-product-discovery/blogger_8794a7a0.png)
 
-At first I thought this would come from the law of cosines:    i.e.    \(  \|  u \|^2  +  \| v \|^2 - 2 \|u \| \|v\| \cos {\theta}  =  \| \vec{u} - \vec{v} \|)^2  \)    But this didn't really lead me anywhere beyond tautologies.
+At first I thought this would come from the law of cosines:    i.e.    $  \|  u \|^2  +  \| v \|^2 - 2 \|u \| \|v\| \cos {\theta}  =  \| \vec{u} - \vec{v} \|)^2  $    But this didn't really lead me anywhere beyond tautologies.
 
 Then I went back to basics:
 
 To make things easier without loss of generality I  rotated everything so u lies on the x axis.   v now decomposes into 2 orthogonal vectors:
 
-\( \| v \| \cos{\theta}\) and \( \| v \| \sin{\theta}\)
+$ \| v \| \cos{\theta}$ and $ \| v \| \sin{\theta}$
 
 ![]({{ site.baseurl }}/assets/img/dot-product-discovery/blogger_637546bc.PNG)
 
-If the dot product is constant i..e  \( \vec{u} \cdot  \vec{v} =  k \)  and u is also fixed then we
+If the dot product is constant i..e  $ \vec{u} \cdot  \vec{v} =  k $  and u is also fixed then we
 
-get \( \|  u \|  \| v \| \cos {\theta}  =  k \) or  \( \| v \| \cos{\theta} =  \frac{k}{\|u \|} \)
+get $ \|  u \|  \| v \| \cos {\theta}  =  k $ or  $ \| v \| \cos{\theta} =  \frac{k}{\|u \|} $
 
-Since both k and the magnitude of u are fixed, this horizontal component of  the vector v is also fixed and cannot vary.  The orthogonal piece, \( \| v \| \sin{\theta}\)  however can be of any length as you adjust either the angle or magnitude of v.  So you end up with a string of vectors all ending on a perpendicular!
+Since both k and the magnitude of u are fixed, this horizontal component of  the vector v is also fixed and cannot vary.  The orthogonal piece, $ \| v \| \sin{\theta}$  however can be of any length as you adjust either the angle or magnitude of v.  So you end up with a string of vectors all ending on a perpendicular!
 

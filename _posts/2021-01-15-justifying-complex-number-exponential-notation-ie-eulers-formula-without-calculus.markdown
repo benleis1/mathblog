@@ -14,7 +14,7 @@ Background
   notation for complex numbers. If not look here: Link
 
   So we start with any complex number being represented in polar coordinate on
-  the complex plane as:  \( r ( \cos(\theta) + i \sin(\theta)) \)
+  the complex plane as:  $ r ( \cos(\theta) + i \sin(\theta)) $
 
   
     
@@ -27,18 +27,18 @@ Background
  
 
   
-    - \( f(0) = 1 \)
-    - \( f(x + y) = f(x) \cdot f(y) \)
-    - \( f(x - y) = \dfrac{f(x)}{f(y)} \)
-    - \( f(-x) = \dfrac{1}{f(x)} \)
-    - \( f(x)^n = f(n\cdot x) \)
+    - $ f(0) = 1 $
+    - $ f(x + y) = f(x) \cdot f(y) $
+    - $ f(x - y) = \dfrac{f(x)}{f(y)} $
+    - $ f(-x) = \dfrac{1}{f(x)} $
+    - $ f(x)^n = f(n\cdot x) $
   
   
 
   
     That's very suggestive but what exponential expression is equivalent in this
-    case?  In fact Euler's Formula  says that    \( r ( \cos(\theta) + i \sin(\theta))  =
-    r \cdot e^{i \theta} \)
+    case?  In fact Euler's Formula  says that    $ r ( \cos(\theta) + i \sin(\theta))  =
+    r \cdot e^{i \theta} $
   
   
 
@@ -49,8 +49,8 @@ Background
   
 
   
-    Lets start by looking at how e is defined:  \(  \displaystyle{e
-    =  \lim_{n \to -\infty} \left(1 + \dfrac{1}{n}\right)^n} \) 
+    Lets start by looking at how e is defined:  $  \displaystyle{e
+    =  \lim_{n \to -\infty} \left(1 + \dfrac{1}{n}\right)^n} $ 
      or conceptually the result of infinitely compounding a value. 
      That's usually been introduced before in the context of interest or
     other proportional growth.  
@@ -60,15 +60,15 @@ Background
   
 
   
-    We'd also like to have an expression for \(e^x \) so  we  raise
+    We'd also like to have an expression for $e^x $ so  we  raise
     both sides to the xth power. Then on the right hand side via the binomial
     theorem we get:
   
   
 
   
-    \( ( 1 + {x \choose 1} \cdot \frac{1}{n} + {x \choose 2} \cdot \frac{1}{n^2}
-    ... )^n \)
+    $ ( 1 + {x \choose 1} \cdot \frac{1}{n} + {x \choose 2} \cdot \frac{1}{n^2}
+    ... )^n $
   
   
 
@@ -80,8 +80,8 @@ Background
 
   
     
-      \(  \displaystyle{e^x =  \lim_{n \to -\infty} \left(1 +
-      \dfrac{x}{n}\right)^n} \)
+      $  \displaystyle{e^x =  \lim_{n \to -\infty} \left(1 +
+      \dfrac{x}{n}\right)^n} $
     
     
 
@@ -95,7 +95,7 @@ Background
   
 
   
-    \( (\cos(nx) + i \sin(nx)) = ((\cos(x) + i \sin(x))^n \)
+    $ (\cos(nx) + i \sin(nx)) = ((\cos(x) + i \sin(x))^n $
   
   
 
@@ -110,8 +110,8 @@ Background
 
   
   
-    \( (\cos(x) + i \sin(x)) = \left((\cos(\dfrac{x}{n}) + i
-      \sin(\dfrac{x}{n})\right)^n \) 
+    $ (\cos(x) + i \sin(x)) = \left((\cos(\dfrac{x}{n}) + i
+      \sin(\dfrac{x}{n})\right)^n $ 
   
   
     
@@ -127,10 +127,10 @@ Background
 
   
   
-     For the cosine value \(\frac{x}{n}\)  heads towards so 0 so in
-      this case \( \cos(\frac{x}{n}) \approx \cos(0) = 1 \).   Likewise as n
-      goes to infinity  \(\frac{x}{n}\) is getting closer and closer to 0 and so is the sine
-      value:   \( \sin(\frac{x}{n}) \approx\ \sin(0) \approx \frac{x}{n}  \)
+     For the cosine value $\frac{x}{n}$  heads towards so 0 so in
+      this case $ \cos(\frac{x}{n}) \approx \cos(0) = 1 $.   Likewise as n
+      goes to infinity  $\frac{x}{n}$ is getting closer and closer to 0 and so is the sine
+      value:   $ \sin(\frac{x}{n}) \approx\ \sin(0) \approx \frac{x}{n}  $
   
   
     
@@ -138,8 +138,8 @@ Background
   
   
     So combining things we get as 
-     \( \displaystyle{ \lim_{n \to -\infty}} (\cos(x) + i \sin(x)) \approx
-    \left(1 + i \cdot \frac{x}{n} \right)^n \)   
+     $ \displaystyle{ \lim_{n \to -\infty}} (\cos(x) + i \sin(x)) \approx
+    \left(1 + i \cdot \frac{x}{n} \right)^n $   
   
   
     
@@ -147,7 +147,7 @@ Background
   
   
     We then look back and realize this is exactly the same as the
-      definition for:   \( e^{ix} \) !
+      definition for:   $ e^{ix} $ !
   
   
     

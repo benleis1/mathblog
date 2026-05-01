@@ -25,14 +25,14 @@ Session-wise, I was very happy with the talks I chose. Given only a day and the 
 
 - Joe Obrycki's talk on polynomial Division and tangent lines. This is a familiar topic to me via Bowen's book but it still is thrilling and I learned a new twist.  
 
-Since the remainder when a polynomial f(x) is divided by  \( (x - p)^2 \)   is the equation of the tangent line to the curve at p. This technique can be used to justify many of the basics of differentiation including the power rules.
+Since the remainder when a polynomial f(x) is divided by  $ (x - p)^2 $   is the equation of the tangent line to the curve at p. This technique can be used to justify many of the basics of differentiation including the power rules.
 
-- To find any individual power you simply divide \( x^n \)  by \( (x-a)^2 \) and out pops as the remainder the expected result for the slope \( n \cdot a^{n-1} \)
+- To find any individual power you simply divide $ x^n $  by $ (x-a)^2 $ and out pops as the remainder the expected result for the slope $ n \cdot a^{n-1} $
 - But as soon as you start computing a few these results an interesting thing happens: all the decompositions start looking a lot like Pascal's triangle:
 
-Example:   \(  x^4 =   (x-a)^4 + 4a \cdot (x -a)^3 + 6a^2 \cdot (x-a)^2 + 4a^3 \cdot (x-a) + a^4 \) 
+Example:   $  x^4 =   (x-a)^4 + 4a \cdot (x -a)^3 + 6a^2 \cdot (x-a)^2 + 4a^3 \cdot (x-a) + a^4 $ 
 
-- And this is a very natural result!  \( x^4 = ((x -a) + a)^4 \) which then is expanded via the binomial theorem.  This is where the Pascal's triangle connection comes in and how we can generalize the result.
+- And this is a very natural result!  $ x^4 = ((x -a) + a)^4 $ which then is expanded via the binomial theorem.  This is where the Pascal's triangle connection comes in and how we can generalize the result.
 
 Finally my own workshop ran well this time albeit with a few less people attending  than I had hoped for (that was my general impression of most sessions / they were emptier than the BC versions ) :
 

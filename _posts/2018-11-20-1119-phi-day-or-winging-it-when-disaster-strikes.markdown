@@ -23,9 +23,9 @@ Introduction:
 
 1. Ask "What is the golden ratio?"   I surveyed everyone for their gut free association.
 
-2.  Draw basic window ratio illustration and the core ratio \(\frac{a}{b}= \frac{b}{a-b} \)
+2.  Draw basic window ratio illustration and the core ratio $\frac{a}{b}= \frac{b}{a-b} $
 
-2. Discuss the basic property that \( \phi^2 = \phi + 1\) and the value that results.
+2. Discuss the basic property that $ \phi^2 = \phi + 1$ and the value that results.
 
 Videos:
 

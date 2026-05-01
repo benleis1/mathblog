@@ -20,9 +20,9 @@ After maybe 10 minutes of coloring, we gathered together to discuss what we had 
 
 From there we talked first about permutations with some group questions on the order of how many ways are there to pick a pair of socks to wear  for a week out of a sock drawer with 7 pairs.  Factorials are pretty well known by now so I just reviewed them on the board after one boy mentioned them.
 
-Next we moved to combinations (my main target).  I started with a group question about picking teams emphasizing the order in which you pick was not important. I chose \(4 \choose{2}\) as a starting point. We took predictions on the result and then the kids worked in tables to enumerate and figure out the answer. Predictably some thought at first it would just be 4 x 3 but after a few minutes the truth was discovered and the kids were able to give some informal reasoning about removing duplicates by dividing by 2.  I then expanded and asked what they thought \(10 \choose{4}\)  would be.  Some kids again predicted that it would be like the permutation but divided by 2.  Again I let everyone work on finding the enumerated answer.
+Next we moved to combinations (my main target).  I started with a group question about picking teams emphasizing the order in which you pick was not important. I chose $4 \choose{2}$ as a starting point. We took predictions on the result and then the kids worked in tables to enumerate and figure out the answer. Predictably some thought at first it would just be 4 x 3 but after a few minutes the truth was discovered and the kids were able to give some informal reasoning about removing duplicates by dividing by 2.  I then expanded and asked what they thought $10 \choose{4}$  would be.  Some kids again predicted that it would be like the permutation but divided by 2.  Again I let everyone work on finding the enumerated answer.
 
-At this point I wrote out the formula \( n \choose{m}\) = \( \frac{n * (n-1) * (n-2)... (n-m+1)}{m!}\)
+At this point I wrote out the formula $ n \choose{m}$ = $ \frac{n * (n-1) * (n-2)... (n-m+1)}{m!}$
 
 and asked if anyone could figure out why this was happening? 
 
@@ -30,11 +30,11 @@ Unfortunately, no one had a good idea about the denominator. I tried some leadin
 
 Finally, for my favorite part I had the kids calculate and write all the combinations for 2, 3 and 4 on the board in a pyramid:
 
-           \( 2 \choose{0}\)  \( 2 \choose{1}\)  \( 2 \choose{2}\)
+           $ 2 \choose{0}$  $ 2 \choose{1}$  $ 2 \choose{2}$
 
-      \( 3 \choose{0}\)  \( 3 \choose{1}\)  \(3 \choose{2}\)  \(3 \choose{3}\)
+      $ 3 \choose{0}$  $ 3 \choose{1}$  $3 \choose{2}$  $3 \choose{3}$
 
- \( 4 \choose{0}\)  \(4 \choose{1}\)  \(4 \choose{2}\)  \(4 \choose{3}\)   \(4 \choose{4}\)
+ $ 4 \choose{0}$  $4 \choose{1}$  $4 \choose{2}$  $4 \choose{3}$   $4 \choose{4}$
 
 What do notice now?  This elicited some wows when Pascal's triangle re-emerged. So again because this is a bit mysterious I went into an informal explanation centered on the there being 2 cases:
 

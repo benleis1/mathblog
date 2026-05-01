@@ -28,23 +28,23 @@ That means we also have some convenient nested radical conversion formulas via t
 
 I.e. you can express the equivalent triangle ratios from the two different representations as follows:
 
-$$ \frac{2 \sqrt{2 - \sqrt{3%}{1} = \frac{4}{\sqrt{6}+\sqrt{2}} =  \sqrt{6} -  \sqrt{2} $$
+$$\frac{2 \sqrt{2 - \sqrt{3}}}{1} = \frac{4}{\sqrt{6}+\sqrt{2}} = \sqrt{6} - \sqrt{2} $$
 
-And out pops this conversion:  \(  \sqrt{2 - \sqrt{3}}  = \frac{\sqrt{6} -  \sqrt{2}}{2} \)
+And out pops this conversion: $ \sqrt{2 - \sqrt{3}}  = \frac{\sqrt{6} -  \sqrt{2}}{2} $
 
-Playing around further we can also find values for: \( \sqrt{2 + \sqrt{3}} \) as follows:
+Playing around further we can also find values for: $ \sqrt{2 + \sqrt{3}} $ as follows:
 
-$$ \sqrt{2 + \sqrt{3}} \cdot \frac{\sqrt{2 - \sqrt{3%} {\sqrt{2 - \sqrt{3%} = \frac{ \sqrt{4 - 3}} {\sqrt{2 - \sqrt{3%}  $$
+$$ \sqrt{2 + \sqrt{3}} \cdot \frac{\sqrt{2 - \sqrt{3}}}{\sqrt{2 - \sqrt{3}}} = \frac{ \sqrt{4 - 3}} {\sqrt{2 - \sqrt{3}}} $$
 
-$$ \frac{ \sqrt{4 - 3}} {\sqrt{2 - \sqrt{3%} = \frac{1}{\sqrt{2 - \sqrt{3%} $$
+$$ \frac{ \sqrt{4 - 3}} {\sqrt{2 - \sqrt{3}}} = \frac{1}{\sqrt{2 - \sqrt{3}}} $$
 
-$$ \frac{1}{\sqrt{2 - \sqrt{3%} = \frac{2}{\sqrt{6} -  \sqrt{2}} $$
+$$ \frac{1}{\sqrt{2 - \sqrt{3}}} = \frac{2}{\sqrt{6} - \sqrt{2}} $$
 
 $$ \frac{2}{\sqrt{6} -  \sqrt{2}} =  \frac{\sqrt{6} + \sqrt{2}}{2} $$
 
-So interestingly: : \( \sqrt{2 + \sqrt{3}} = \frac{\sqrt{6} + \sqrt{2}}{2}  \) the exact complement of before.
+So interestingly: : $ \sqrt{2 + \sqrt{3}} = \frac{\sqrt{6} + \sqrt{2}}{2}  $ the exact complement of before.
 
-Blast from the Past
+## Blast from the Past
 
 The other amusing story behind this was I was fairly sure that there was a more elegant approach to this problem that avoided all the algebra. I ended up asking @eyelem_99 and sure enough there was and lo and behold I had submitted it to him a few years back when he had posted this problem originally.   It just goes to show how I end up with different approaches given enough time to forget my previous work.  Both cool and simultaneously embarrassing.
 

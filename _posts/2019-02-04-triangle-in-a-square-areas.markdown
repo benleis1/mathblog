@@ -44,18 +44,18 @@ Area Math:
 We want to find the area of CEF which is congruent to JC'K.  
 
 - Let the area of JHK =  B,  
-- the area of JD'H = JD'K - JHK =  \( A_1 - B \)
-- the area of KE'H = KE'J  - JHK = \( A_2  - B \)
+- the area of JD'H = JD'K - JHK =  $ A_1 - B $
+- the area of KE'H = KE'J  - JHK = $ A_2  - B $
 
 After adding the perpendiculars LH and MH we can show via ASA that GLH is congruent to JD'G and likewise HMN is congruent to HE'K  so
 
-- JLH = JD'H =  \( A_1 - B \)
-- KMH = KHE' = \(A_2 - B \)
+- JLH = JD'H =  $ A_1 - B $
+- KMH = KHE' = $A_2 - B $
 
-Note: The area of \( JHK = B = \frac{1}{2} JD' \cdot HK \)  (altitude and base)
+Note: The area of $ JHK = B = \frac{1}{2} JD' \cdot HK $  (altitude and base)
 
-At the same time  area of the rectangle HLC'M = \( LH \cdot HM  \)   LH is congruent to JD' from above and \( HM = \frac{1}{2} HK \) from the 30-60-90 HKM so in fact HLC'M has the same area as JHK = B!
+At the same time  area of the rectangle HLC'M = $ LH \cdot HM  $   LH is congruent to JD' from above and $ HM = \frac{1}{2} HK $ from the 30-60-90 HKM so in fact HLC'M has the same area as JHK = B!
 
 Adding these parts all together:  CEF which is congruent to JC'K which is equal
 
-to JD'H + KE'H + JHK + HLC'M =  \(A_1 - B  + A_2 - B  + B + B = A_1 + A_2 \)
+to JD'H + KE'H + JHK + HLC'M =  $A_1 - B  + A_2 - B  + B + B = A_1 + A_2 $

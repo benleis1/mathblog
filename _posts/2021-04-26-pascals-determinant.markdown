@@ -34,10 +34,10 @@ author: me
 
   Determinant properties
 
-1.  \( \det \begin{bmatrix} I  \end{bmatrix} = 1 \)
-2. \( \det \begin{bmatrix}a +  c & b + d & ...\\c & d & ... \\ ... \\ \end{bmatrix} =  \det \begin{bmatrix}a & b &...\\c & d & ... \\ ... \\ \end{bmatrix} \)
+1.  $ \det \begin{bmatrix} I  \end{bmatrix} = 1 $
+2. $ \det \begin{bmatrix}a +  c & b + d & ...\\c & d & ... \\ ... \\ \end{bmatrix} =  \det \begin{bmatrix}a & b &...\\c & d & ... \\ ... \\ \end{bmatrix} $
 
-3. \( \det \begin{bmatrix}a_1 + a_2 & b_1 + b_2 & ...\\c & d & ... \\ ... \\ \end{bmatrix} =  \det \begin{bmatrix}a_1 & b_1 & ...\\c & d & ... \\ ... \\ \end{bmatrix} + \det \begin{bmatrix}a_2 & b_2 & ...\\c & d & ... \\ ... \\ \end{bmatrix} \) 
+3. $ \det \begin{bmatrix}a_1 + a_2 & b_1 + b_2 & ...\\c & d & ... \\ ... \\ \end{bmatrix} =  \det \begin{bmatrix}a_1 & b_1 & ...\\c & d & ... \\ ... \\ \end{bmatrix} + \det \begin{bmatrix}a_2 & b_2 & ...\\c & d & ... \\ ... \\ \end{bmatrix} $ 
 
   I then started by working out a few determinants by diagonalizing (i.e. once a
   matrix is in triangular form, the determinant is the product of the

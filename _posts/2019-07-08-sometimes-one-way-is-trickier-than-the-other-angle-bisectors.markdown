@@ -58,25 +58,25 @@ So after trying to start with different segments as base variables and getting s
 
 - From the basic angle bisector theorem:
 
-\( \dfrac{d}{s} = \dfrac{b}{a+c} \text{ or }   (a+c)\cdot  d  = b \cdot s \)
+$ \dfrac{d}{s} = \dfrac{b}{a+c} \text{ or }   (a+c)\cdot  d  = b \cdot s $
 
-\( \dfrac{c}{s} = \dfrac{a}{b+d} \text{ or }  (b+d)\cdot c = a \cdot s \)
+$ \dfrac{c}{s} = \dfrac{a}{b+d} \text{ or }  (b+d)\cdot c = a \cdot s $
 
 - From the extensions for the diagonals: [(See here)]({% post_url 2019-01-30-theres-more-to-the-angle-bisector-theorem %})
 
-\( (b + d) \cdot s  - a \cdot c = AE^2 = BD^2  = (a + c) \cdot s - b \cdot d  \)
+$ (b + d) \cdot s  - a \cdot c = AE^2 = BD^2  = (a + c) \cdot s - b \cdot d  $
 
-\( \boldsymbol{b \cdot s} + d \cdot s + b  \cdot d = \boldsymbol{a \cdot s} + c \cdot s + a \cdot c \)
+$ \boldsymbol{b \cdot s} + d \cdot s + b  \cdot d = \boldsymbol{a \cdot s} + c \cdot s + a \cdot c $
 
 - Substitute in the first expressions and the two sides are almost the same:
 
- \( (a+c) \cdot d + d \cdot s + b \cdot d = (b+d)\cdot c + c \cdot s + a \cdot c \)
+ $ (a+c) \cdot d + d \cdot s + b \cdot d = (b+d)\cdot c + c \cdot s + a \cdot c $
 
-\( c \cdot d +  d \cdot (a + s  + b) =  c \cdot d + c \cdot (a + s + b) \)
+$ c \cdot d +  d \cdot (a + s  + b) =  c \cdot d + c \cdot (a + s + b) $
 
-\( d \cdot (a + s  + b) =  c \cdot (a + s + b) \)
+$ d \cdot (a + s  + b) =  c \cdot (a + s + b) $
 
-\(  c = d \)
+$  c = d $
 
-- Now you can show the bottom sub triangles \(\triangle{ABE} \)  and  \( \triangle{ADB} \) are congruent via SSS and the therefore the corner angles A and B are also congruent and the overall triangle is isosceles.
+- Now you can show the bottom sub triangles $\triangle{ABE} $  and  $ \triangle{ADB} $ are congruent via SSS and the therefore the corner angles A and B are also congruent and the overall triangle is isosceles.
 

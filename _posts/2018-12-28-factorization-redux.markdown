@@ -28,7 +28,7 @@ Like many of its type, this revolves around find a common factor for the general
 
 $$\frac{x^4 + x^2 + 1}{x^2 + x + 1}$$
 
-These are always increasingly difficult as you stray away from quadratics. You can often make headway using Vieta Formulas etc. So for example in this case if there is a factor it must be of the form \(x^2 + ax + 1 \) based on the coefficients.  And one could multiple this out and solve for the variable a.
+These are always increasingly difficult as you stray away from quadratics. You can often make headway using Vieta Formulas etc. So for example in this case if there is a factor it must be of the form $x^2 + ax + 1 $ based on the coefficients.  And one could multiple this out and solve for the variable a.
 
 But this time, I had this instinct "What if I just did the polynomial division?"
 

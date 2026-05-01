@@ -8,7 +8,7 @@ In this walkthrough we start with one that didn't look too hard at first:
 
   !!![](https://pbs.twimg.com/media/DYaOXVpXcAER5nv.jpg)
 
-Goal: Find angle \(\angle \alpha \)  [Ignacio Larrosa]
+Goal: Find angle $\angle \alpha $  [Ignacio Larrosa]
 
 It quickly became apparent though that was going to be tricky and I spent a weekend doodling versions of this triangle and looking at different approaches.
 
@@ -30,24 +30,24 @@ Here's what I came up with in the end:
 
 1. Angle chase and a lot of similar triangles and cyclic quadrilaterals fall out.
 
-2. I subdivided angle \(\angle DBA\)  on the right so I had more combinations of angle alpha to play with. It also seemed useful to add the perpendicular bisector of AB.
+2. I subdivided angle $\angle DBA$  on the right so I had more combinations of angle alpha to play with. It also seemed useful to add the perpendicular bisector of AB.
 
 ![]({{ site.baseurl }}/assets/img/tricky-geometry-problem/blogger_956547bd.PNG)
 
-Note: green angles are \(\angle \alpha\) and can be combined to make \(2\alpha\) or \(3\alpha\)  red angles are \(90 - 3\alpha\).  and the blue angle is \(2 \alpha\)
+Note: green angles are $\angle \alpha$ and can be combined to make $2\alpha$ or $3\alpha$  red angles are $90 - 3\alpha$.  and the blue angle is $2 \alpha$
 
-In particular: \( \triangle BIJ  \simeq   \triangle EHI \) forming a cyclic quad and therefore angle \( \angle EHB  \) is a right angle.
+In particular: $ \triangle BIJ  \simeq   \triangle EHI $ forming a cyclic quad and therefore angle $ \angle EHB  $ is a right angle.
 
-1.  So  let BC = AC = BG = m and   let  CJ =  a and BJ = m - a.  Then since \(\triangle EHI \) is some scaled version of \(\triangle IBJ\) lets assign k equal to the scale factor. Based on that EH = \( k \cdot BJ =  k\cdot (m -a)\)  Likewise EI is k scaled version of BI.
+1.  So  let BC = AC = BG = m and   let  CJ =  a and BJ = m - a.  Then since $\triangle EHI $ is some scaled version of $\triangle IBJ$ lets assign k equal to the scale factor. Based on that EH = $ k \cdot BJ =  k\cdot (m -a)$  Likewise EI is k scaled version of BI.
 
-2.  Next note \( \triangle BEI  \simeq   \triangle ACE \) .  Since EI is a k scaled version of BI, CE is a k scaled version of AC or \(k \cdot m\)  and CH = CE - EH = \(k \cdot a \)
+2.  Next note $ \triangle BEI  \simeq   \triangle ACE $ .  Since EI is a k scaled version of BI, CE is a k scaled version of AC or $k \cdot m$  and CH = CE - EH = $k \cdot a $
 
-3. Also \( \triangle BIJ  \simeq   \triangle BCH  \simeq \triangle CEJ \) all  \(\alpha\) right triangles  and from this we get
+3. Also $ \triangle BIJ  \simeq   \triangle BCH  \simeq \triangle CEJ $ all  $\alpha$ right triangles  and from this we get
 
-\( \frac{CH}{BC} = \frac{CJ}{CE}\) or \(\frac{k \cdot a}{m} = \frac{a}{k \cdot m} \)
+$ \frac{CH}{BC} = \frac{CJ}{CE}$ or $\frac{k \cdot a}{m} = \frac{a}{k \cdot m} $
 
-But after simplification this implies k  = 1   and \( \triangle BIJ \) is not just similar but congruent to
+But after simplification this implies k  = 1   and $ \triangle BIJ $ is not just similar but congruent to
 
-\( \triangle EHI \)
+$ \triangle EHI $
 
-4. So EI = BI and \(\angle IBE = \angle BEI \)   This means \(2 \alpha = 90 - 3 \alpha \) and \(\alpha = 18 ^{\circ} \)
+4. So EI = BI and $\angle IBE = \angle BEI $   This means $2 \alpha = 90 - 3 \alpha $ and $\alpha = 18 ^{\circ} $

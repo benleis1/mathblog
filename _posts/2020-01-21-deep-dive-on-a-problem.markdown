@@ -38,7 +38,7 @@ Let y = w^2 = (x + 2.5)^2
 
 $$ f(y) = (y -\frac{9}{4})(y -  \frac{1}{4}) $$.
 
-We can then complete the square to get:  \(  f(y) = (y - \frac{5}{4})^2  - 1 \)
+We can then complete the square to get:  $  f(y) = (y - \frac{5}{4})^2  - 1 $
 
 And see that the vertex and minimum value is at -1.
 
@@ -46,9 +46,9 @@ And see that the vertex and minimum value is at -1.
 
 Another pathway you could pursue is to take a look at the binomials the parent function splits into and see what pops out. This is motivated by the idea we can more easily find minimums with quadratics than any other polynomial type.  There are also only 3 combinations to check:
 
-- (x + 1)(x + 2)   and (x+3)(x+4).  This leads to \( (x^2 + 3x + 2 )(x^2 + 7x +12) \)
-- (x + 1)(x + 3)   and (x+2)(x+4).  This leads to \( (x^2 + 4x + 3)(x^2 + 6x +8) \)
-- (x + 1)(x + 4)   and (x+2)(x+3).  This leads to \( (x^2 + 5x + 4)(x^2 + 5x +6) \)
+- (x + 1)(x + 2)   and (x+3)(x+4).  This leads to $ (x^2 + 3x + 2 )(x^2 + 7x +12) $
+- (x + 1)(x + 3)   and (x+2)(x+4).  This leads to $ (x^2 + 4x + 3)(x^2 + 6x +8) $
+- (x + 1)(x + 4)   and (x+2)(x+3).  This leads to $ (x^2 + 5x + 4)(x^2 + 5x +6) $
 
 The final form is the most symmetrical: effectively (y + 4)(y + 6).  So once again you could complete the square on this to get:
 

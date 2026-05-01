@@ -26,17 +26,17 @@ Since I'm looking over the official solutions in preparation for next week I not
 
 Oddly either way doesn't seem like the most straightforward way to go So here's my variant:
 
-14) For real numbers and b, \(f(x) = ax + b\) and \(g(x) = x^2 - x\)  
+14) For real numbers and b, $f(x) = ax + b$ and $g(x) = x^2 - x$  
 
-- \( g \circ f (2) = 2\) 
--  \(g \circ f (3) = 0 \)
-- \( g \circ f (4) = 6 \) 
+- $ g \circ f (2) = 2$ 
+-  $g \circ f (3) = 0 $
+- $ g \circ f (4) = 6 $ 
 
-Find \( g \circ f (6) \).
+Find $ g \circ f (6) $.
 
-The first question to ask is what kind of equation is g(f(x))?  Even without checking, the fact that we’re given 3 points that uniquely identify it strongly suggests this is a quadratic.  And substitution confirms that:  \( g \circ f  = (ax + b)^2 - (ax + b) = a^2x + 2abx + b^2 -ax - b\)
+The first question to ask is what kind of equation is g(f(x))?  Even without checking, the fact that we’re given 3 points that uniquely identify it strongly suggests this is a quadratic.  And substitution confirms that:  $ g \circ f  = (ax + b)^2 - (ax + b) = a^2x + 2abx + b^2 -ax - b$
 
-So we don’t really need to understand the intermediate functions f and g at all to finish solving this. Every parabola is uniquely determined by 3 points.  In other words = \( g \circ f  = Ax^2 + Bx + C \)
+So we don’t really need to understand the intermediate functions f and g at all to finish solving this. Every parabola is uniquely determined by 3 points.  In other words = $ g \circ f  = Ax^2 + Bx + C $
 
 for some constant A,B,C. We then plug in the given points (2,2) (3,0) and (4,6) to get a simple linear system:
 
@@ -46,7 +46,7 @@ for some constant A,B,C. We then plug in the given points (2,2) (3,0) and (4,6) 
 
 16A + 4B + C = 6
 
-Solve for A,B,C:  \( g \circ f = 4x^2 -  22x + 30 \)  and then plug in the value of 5.
+Solve for A,B,C:  $ g \circ f = 4x^2 -  22x + 30 $  and then plug in the value of 5.
 
 But since this is at its heart an exercise in polynomial curve fitting, its really well suited to my  favorite technique, looking at the polynomial deltas and then just going backwards on the 4th row:
 

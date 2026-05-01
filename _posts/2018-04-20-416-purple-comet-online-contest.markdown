@@ -18,28 +18,28 @@ In the meantime and in no particular order here are my observations about a few 
 
 **Problem 17**
 
-Let a, b, c, and d be real numbers such that \( a^2 + b^2 + c^2 + d^2 = 3a + 8b + 24c + 37d = 2018. \). Evaluate
+Let a, b, c, and d be real numbers such that $ a^2 + b^2 + c^2 + d^2 = 3a + 8b + 24c + 37d = 2018. $. Evaluate
 3b + 8c + 24d + 37a.
 
-This one is phrased in such a way as to suggest non integer answers but just looking at it the temptation is to say what  if the two expression are completely identical and 3a = a^2, 8b = b^2 etc?  And if you compute the squares sure enough  \(3^2 + 8^2 + 24^2 + 37^2\) does equal 2018.
+This one is phrased in such a way as to suggest non integer answers but just looking at it the temptation is to say what  if the two expression are completely identical and 3a = a^2, 8b = b^2 etc?  And if you compute the squares sure enough  $3^2 + 8^2 + 24^2 + 37^2$ does equal 2018.
 
 That's fairly easy for a problem at the end and its not a very satisfying method. So what I think they might have been aiming at was to subtract the two expressions and complete the square to get
 
-\( (a-\frac{3}{2})^2 + (b-4)^2 + (c - 12)^2 + (d-\frac{37}{2})^2  = \frac{1009}{2} \)  The right hand side is 1/4 of 2018 so you can plug the original equations back in to get
+$ (a-\frac{3}{2})^2 + (b-4)^2 + (c - 12)^2 + (d-\frac{37}{2})^2  = \frac{1009}{2} $  The right hand side is 1/4 of 2018 so you can plug the original equations back in to get
 
-\( 4( (a-\frac{3}{2})^2 + (b-4)^2 + (c - 12)^2 + (d-\frac{37}{2})^2 ) =   a^2 + b^2 + c^2 + d^2   \)
+$ 4( (a-\frac{3}{2})^2 + (b-4)^2 + (c - 12)^2 + (d-\frac{37}{2})^2 ) =   a^2 + b^2 + c^2 + d^2   $
 
 Then subtracting the right hand side again you get:
 
-\(  4(a-\frac{3}{2})^2  - a^2 + 4(b-4)^2 - b^2 + 4(c - 12)^2  - c^2+ 4(d-\frac{37}{2})^2 - d^2   = 0 \)
+$  4(a-\frac{3}{2})^2  - a^2 + 4(b-4)^2 - b^2 + 4(c - 12)^2  - c^2+ 4(d-\frac{37}{2})^2 - d^2   = 0 $
 
-Each one of those pieces is a difference of square for example the first one is \( (2a - 3 + a )(2a - 3 - a)  = (3a - 3)(a - 3) \) and if we set a to either 1 or 3 will zero out etc. You can do a similar operation with the other original expression and see that a = 3 for instance is the overlapping solution to both new equations. That gets to the original observation once you test the values in the original function. But it doesn't rule out alternate solutions where the pieces balance each other out in various ways.
+Each one of those pieces is a difference of square for example the first one is $ (2a - 3 + a )(2a - 3 - a)  = (3a - 3)(a - 3) $ and if we set a to either 1 or 3 will zero out etc. You can do a similar operation with the other original expression and see that a = 3 for instance is the overlapping solution to both new equations. That gets to the original observation once you test the values in the original function. But it doesn't rule out alternate solutions where the pieces balance each other out in various ways.
 
 **Problem 16 **
 
-On  \( \triangle{ABC} \)  let D be a point on side AB, F be a point on side AC, and E be a point inside the triangle so
+On  $ \triangle{ABC} $  let D be a point on side AB, F be a point on side AC, and E be a point inside the triangle so
 that DE is parallel to AC and EF is parallel AB. Given that AF = 6, AC = 33, AD = 7, AB = 26, and the area of
-quadrilateral ADEF is 14, find the area of  \( \triangle{ABC} \)
+quadrilateral ADEF is 14, find the area of  $ \triangle{ABC} $
 
 A significant part of the difficult with problems like these is getting an accurate drawing from the description. That's something we can definitely practice as a group.
 
@@ -57,22 +57,22 @@ You can deal with the easier part of the problem which is all about triangle are
 
 **Problem 13 **
 
-Suppose x and y are nonzero real numbers simultaneously satisfying the equations \( x + \frac{2018}{y} = 1000 \) and \( \frac{9}{x} + y = 1. \) Find the maximum possible value of x + 1000y.
+Suppose x and y are nonzero real numbers simultaneously satisfying the equations $ x + \frac{2018}{y} = 1000 $ and $ \frac{9}{x} + y = 1. $ Find the maximum possible value of x + 1000y.
 
 My first instinct in these problems is to always remove the fractions to get:
 
-$xy + 2018 = 1000y$ and $9 + xy = x$ Then just on inspection we have the 2 parts of the expression we want to simplify   \( x + 1000y = 2xy + 2027 \)
+$xy + 2018 = 1000y$ and $9 + xy = x$ Then just on inspection we have the 2 parts of the expression we want to simplify   $ x + 1000y = 2xy + 2027 $
 
 And we also have an way to isolate either x and y, I picked y, to plug them back in and get
 
 $y = \frac{9}{1-x}$ =>  $x + 1000 \cdot \frac{9}{1-x} = 2x \cdot \frac {9}{1-x} + 2027$
 
-That cleans up quickly to: \( 1000x^2 - 3009x + 2018 = 0\) and while the numbers are high the factorization is still not too hard (1000x - 1019)(x - 2).  So despite the phrasing which suggests an optimization problem there are only 2 solutions  for (x,y) and you just have to plug them in and compare to get the final result.
+That cleans up quickly to: $ 1000x^2 - 3009x + 2018 = 0$ and while the numbers are high the factorization is still not too hard (1000x - 1019)(x - 2).  So despite the phrasing which suggests an optimization problem there are only 2 solutions  for (x,y) and you just have to plug them in and compare to get the final result.
 
 **Problem 15**
 
-There are integers \(a_1, a_2, a_3, . . . , a_{240}\) such that \( x(x + 1)(x + 2)(x + 3)· · ·(x + 239) = \sum_{n=1}^{240} a_n x^n \). Find the
-number of integers k with 1 ≤ k ≤ 240 such that \(a_k\) is a multiple of 3.
+There are integers $a_1, a_2, a_3, . . . , a_{240}$ such that $ x(x + 1)(x + 2)(x + 3)· · ·(x + 239) = \sum_{n=1}^{240} a_n x^n $. Find the
+number of integers k with 1 ≤ k ≤ 240 such that $a_k$ is a multiple of 3.
 
 At first glance this is a slog of a counting problem. Multiplying all 240 binomials together is impractical without a computer program.  So the first step I took was to look for patterns by doing the first few terms,
 
@@ -92,7 +92,7 @@ I also started simplifying the calculations letting x be an implicit place value
 
 for example squaring the first term (x+1)^2  becomes (1 1)^2  = 1 2 1 
 
-Somewhere around this point I also converted to balanced ternary and used  \( ( x+3)^{79} \cdot (x+1)^{80} \cdot (x-1)^{80} \)
+Somewhere around this point I also converted to balanced ternary and used  $ ( x+3)^{79} \cdot (x+1)^{80} \cdot (x-1)^{80} $
 
 That's convenient because we can mostly easily expand the two final terms using the binomial theorem mod 3. At this point you're left with multiplying two highly symmetrical 81 digit terms. 
 

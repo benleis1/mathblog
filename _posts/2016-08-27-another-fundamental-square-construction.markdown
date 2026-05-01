@@ -67,6 +67,6 @@ $$ \frac{1}{2^n}$$ where n is odd produce triples.
 
 You can construct them by choosing b = 2^n and a = to b + 1.
 
-Finally in one last riff, I was left thinking about the original 1:2 triangle MDC. It somehow seems inelegant that its angle is the rather messy 63.43 rather than some pretty fraction of 90 degrees.  Although as I was reminded there is a nifty relationship between \(\frac{\pi}{4}\) and the 1:2 and 1:3 triangles.
+Finally in one last riff, I was left thinking about the original 1:2 triangle MDC. It somehow seems inelegant that its angle is the rather messy 63.43 rather than some pretty fraction of 90 degrees.  Although as I was reminded there is a nifty relationship between $\frac{\pi}{4}$ and the 1:2 and 1:3 triangles.
 
 See: [https://www.youtube.com/watch?v=m5evLoL0xwg](https://www.youtube.com/watch?v=m5evLoL0xwg)

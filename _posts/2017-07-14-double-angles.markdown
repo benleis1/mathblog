@@ -16,37 +16,37 @@ Some angle chasing will show show that the lower and upper triangles are closely
 
 ![]({{ site.baseurl }}/assets/img/double-angles/blogger_c0bda03c.png)
 
-If \(\angle{CAB} = \theta\) then \(\angle{DCH} = 2\theta\). What's more given the lengths of the triangle CDH sides (a,b and c) you can find the lengths of the triangle ACG in terms of them i.e.
+If $\angle{CAB} = \theta$ then $\angle{DCH} = 2\theta$. What's more given the lengths of the triangle CDH sides (a,b and c) you can find the lengths of the triangle ACG in terms of them i.e.
 
-Triangle ACG has side lengths of a, c - b and \(\sqrt{a^2 + (c-b)^2}\). 
+Triangle ACG has side lengths of a, c - b and $\sqrt{a^2 + (c-b)^2}$. 
 
 I've split the 30-60-90 before to get the 15-75-90 so I'll demonstrate splitting the 45-45-90 to get the 22.5 67.5 90 ratios.   
 
-In this case,  let a = 1 then b = 1 and c =  \(\sqrt{2}\) and from that you get the 22.5, 67.5 90 triangle is in the ratio  \(1 : \sqrt{2} - 1 : \sqrt{4 - 2\sqrt{2}}\)
+In this case,  let a = 1 then b = 1 and c =  $\sqrt{2}$ and from that you get the 22.5, 67.5 90 triangle is in the ratio  $1 : \sqrt{2} - 1 : \sqrt{4 - 2\sqrt{2}}$
 
 Essentially this is the  geometric equivalent of the trig double angle formulas:
 
-- \(\sin2\theta = 2\sin\theta\cos\theta\)
-- \(\cos2\theta = \cos^2\theta - \sin^2\theta\)
+- $\sin2\theta = 2\sin\theta\cos\theta$
+- $\cos2\theta = \cos^2\theta - \sin^2\theta$
 
-and allows you to calculate the ratios of the \(\theta\) triangle from the \(2\theta\) triangle (or vice versa).
+and allows you to calculate the ratios of the $\theta$ triangle from the $2\theta$ triangle (or vice versa).
 
 In fact its easy to verify the equivalence:
 
-\( \sin2\theta = 2\sin\theta\cos\theta \)
+$ \sin2\theta = 2\sin\theta\cos\theta $
 
-\( \frac{a}{c} = 2\frac{a}{\sqrt{a^2 + (c-b)^2}} \frac{c-b}{\sqrt{a^2 + (c-b)^2}} \)
+$ \frac{a}{c} = 2\frac{a}{\sqrt{a^2 + (c-b)^2}} \frac{c-b}{\sqrt{a^2 + (c-b)^2}} $
 
-\(                    = 2\frac{a(c - b)}{a^2 + (c-b)^2} \)
+$                    = 2\frac{a(c - b)}{a^2 + (c-b)^2} $
 
-\(                    = 2\frac{a(c - b)}{a^2 + c^2 -2bc + b^2} \)
+$                    = 2\frac{a(c - b)}{a^2 + c^2 -2bc + b^2} $
 
-\(                    = 2\frac{a(c - b)}{2c^2 -2bc}  \)  (Pythagorean Theorem)
+$                    = 2\frac{a(c - b)}{2c^2 -2bc}  $  (Pythagorean Theorem)
 
-\(                    = \frac{a(c - b)}{c^2 -bc}  \)  
-\(                    = \frac{a(c - b)}{c(c - b)}  \) 
+$                    = \frac{a(c - b)}{c^2 -bc}  $  
+$                    = \frac{a(c - b)}{c(c - b)}  $ 
 
-\(                    = \frac{a}{c}  \) 
+$                    = \frac{a}{c}  $ 
 
 Some interesting relationships fall out when you play with integer ratios.  For example
 

@@ -11,7 +11,7 @@ Here's the first 3: for the triangle, square and pentagon.
 
 Equilateral Triangle 
 
-The triangle ABC is similar DEC so \( \frac{AC}{BC} = \frac{a}{b} = \frac{CD}{CE} = \frac{a+b}{a} = \phi \)
+The triangle ABC is similar DEC so $ \frac{AC}{BC} = \frac{a}{b} = \frac{CD}{CE} = \frac{a+b}{a} = \phi $
 
 Square
 

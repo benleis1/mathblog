@@ -27,11 +27,11 @@ My first thought was that all segments in the ratio were on the same line. That'
 
 From those triangles one gets:
 
-\(\frac{BF}{AB} = \frac{EF}{EC}\)  Since AB = BC that converts to \(\frac{BF}{BC} = \frac{EF}{EC}\)
+$\frac{BF}{AB} = \frac{EF}{EC}$  Since AB = BC that converts to $\frac{BF}{BC} = \frac{EF}{EC}$
 
-That's about half way to the desired ratio \(\frac{BF}{FG} = \frac{BC}{CG}\) so I rearranged the goal  to the same form on the left side:
+That's about half way to the desired ratio $\frac{BF}{FG} = \frac{BC}{CG}$ so I rearranged the goal  to the same form on the left side:
 
-\(\frac{BF}{BC} = \frac{FG}{CG}\)   which meant  I still had to show  \(\frac{EF}{EC} = \frac{FG}{CG}\) 
+$\frac{BF}{BC} = \frac{FG}{CG}$   which meant  I still had to show  $\frac{EF}{EC} = \frac{FG}{CG}$ 
 
 - My next observation was that angle DEB sure looked like a right angle also.  I then stopped to measure and check in geogebra. That appeared correct so I looked around some more for reasons why this was the case. I started angle chasing and found BECD was also a cyclic quadrilateral since angle DBC = DEC = 45 degrees. This could be used to show that the original intuition DEB was in fact a right angle.
 
@@ -41,6 +41,6 @@ At this point I stopped and had a "duh" moment. If you add in the diagonals of t
 
 This gives a lot of underlying structure for angle chasing. I could find all the angles at the top in my triangle of interest CEF including that CEG = FEG = 45 degrees.  (FEG inscribes the same arc as ABD which is a 45 degree angle in the square, then its simple angle subtraction)
 
-I then stared at \(\frac{EF}{EC} = \frac{FG}{CG}\)  and realized the form looked familiar. This is a slightly rearranged version of the angle bisector theorem and EG does bisect angle FEC!  So
+I then stared at $\frac{EF}{EC} = \frac{FG}{CG}$  and realized the form looked familiar. This is a slightly rearranged version of the angle bisector theorem and EG does bisect angle FEC!  So
 
-\(\frac{EF}{FG} = \frac{EC}{CG}\) and when everything's combined you're done. Looking back this flowed fairly quickly from intuitions and observed patterns. The whole process was actually a bit chunky and done during various points in the morning when I had a moment.
+$\frac{EF}{FG} = \frac{EC}{CG}$ and when everything's combined you're done. Looking back this flowed fairly quickly from intuitions and observed patterns. The whole process was actually a bit chunky and done during various points in the morning when I had a moment.

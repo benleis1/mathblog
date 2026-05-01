@@ -51,7 +51,7 @@ talk about some of  the general properties it has.
   
 
   So for example in the original problem  the missing diagonal is of length
-  \( \sqrt{17 + 25 - 4} = \sqrt{38} \)
+  $ \sqrt{17 + 25 - 4} = \sqrt{38} $
 
   
 
@@ -83,9 +83,9 @@ talk about some of  the general properties it has.
   
 
   
-  And in fact its easy to find half of the new quadrilaterals area  \(
-  \triangle{OO'O''}\) and \( \triangle{OO'''O''''} \) are both right isosceles
-  and have an area equal to \( a^2 + c^2 \)
+  And in fact its easy to find half of the new quadrilaterals area  $
+  \triangle{OO'O''}$ and $ \triangle{OO'''O''''} $ are both right isosceles
+  and have an area equal to $ a^2 + c^2 $
 
   
 
@@ -94,12 +94,12 @@ talk about some of  the general properties it has.
 
   
     
-      Area of  \( \triangle{O'OO'''} = \frac{1}{2} \sqrt{2}a \cdot \sqrt{2}
-      c \cdot \sin{(O'OO''')} \) 
+      Area of  $ \triangle{O'OO'''} = \frac{1}{2} \sqrt{2}a \cdot \sqrt{2}
+      c \cdot \sin{(O'OO''')} $ 
     
     
-      Area of  \( \triangle{O'O''O''''} = \frac{1}{2} \sqrt{2}a \cdot
-      \sqrt{2}c \cdot \sin{(O''OO'''')} \) 
+      Area of  $ \triangle{O'O''O''''} = \frac{1}{2} \sqrt{2}a \cdot
+      \sqrt{2}c \cdot \sin{(O''OO'''')} $ 
     
   
   
@@ -139,14 +139,14 @@ talk about some of  the general properties it has.
 
     
 
-    Putting it all together: \( [ABCD] = \dfrac{1}{2}\left ( (a^2 + c^2) +
-    \sqrt{4b^2d^2 - (c^2 -a^2)^2} \right) \)
+    Putting it all together: $ [ABCD] = \dfrac{1}{2}\left ( (a^2 + c^2) +
+    \sqrt{4b^2d^2 - (c^2 -a^2)^2} \right) $
 
     
 
-    And returning to our original problem \(  [ABCD] = \dfrac{1}{2}\left (
+    And returning to our original problem $  [ABCD] = \dfrac{1}{2}\left (
     (4 + 38) + \sqrt{4 \cdot 35 \cdot 17 - ((38 - 4)^2} \right)  =  21
-    + 2 \sqrt{34} \)
+    + 2 \sqrt{34} $
   
   
     
@@ -193,17 +193,17 @@ talk about some of  the general properties it has.
   
   
     
-      - for AOB:  \( a^2 + s^2 -2as \cos{\alpha} = d^2 \)
-      - for AOD: \( a^2 + s^2 -2as \cos{(90 - \alpha)} = b^2 \)
+      - for AOB:  $ a^2 + s^2 -2as \cos{\alpha} = d^2 $
+      - for AOD: $ a^2 + s^2 -2as \cos{(90 - \alpha)} = b^2 $
     
     Solving for the trig functions:
   
   
     
-      - \( \cos{\alpha} = \dfrac{a^2  + s^2 - d^2}{2as} \) 
+      - $ \cos{\alpha} = \dfrac{a^2  + s^2 - d^2}{2as} $ 
       
-        \( \cos{(90 - \alpha)} = \sin{ \alpha} = \dfrac{a^2  + s^2 -
-        b^2}{2as} \) 
+        $ \cos{(90 - \alpha)} = \sin{ \alpha} = \dfrac{a^2  + s^2 -
+        b^2}{2as} $ 
       
     
     

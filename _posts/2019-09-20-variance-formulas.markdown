@@ -48,7 +48,7 @@ $$ a^2   + 4b^2 + c^2 - 4ab  + 2ac  - 4bc $$
 
 $$ a^2   + b^2 + c^2  + 2ab  - 4ac  - 4bc $$
 
-which sums to: \( 6a^2   + 6b^2 + 6c^2  - 6ab  - 6ac  - 6bc \)
+which sums to: $ 6a^2   + 6b^2 + 6c^2  - 6ab  - 6ac  - 6bc $
 
 I'm going to factor out 3 so all together we end up with:
 $$Var(X) = \dfrac{1}{9}  (2a^2 + 2b^2 + 2c^2  -2ab -2ac  - 2bc) = \dfrac{1}{9} \left( [a^2 -2ab + b^2] + [a^2 - 2ac + c^2] + [b^2 - 2bc + c^2]\right)  =  \dfrac{1}{9}\left( (a-b)^2 + (a-c)^2 + (b-c)^2 \right)  $$
@@ -61,7 +61,7 @@ Okay this works for 3 but  does it generalize? This time keeping my model in ha
 
 $$Var(X) = \dfrac{1}{n} \sum (x_i - \dfrac{\sum_{j=1}^n x_j }{n})^2  \text{ where we permute the variables since everything is symmetric}$$ 
 
-Factoring out the constant fraction \( \frac{1}{n^2} \) we get:
+Factoring out the constant fraction $ \frac{1}{n^2} $ we get:
 
 $$Var(X) = \dfrac{1}{n^3} \sum  \left( (n-1)x_i  - \sum_{j\neq i}x_j \right)^2 $$
 
@@ -87,11 +87,11 @@ $$  x_1^2 + x_2^2 .... (n-1)x_n^2 -2(n-1)x_n\cdot x_1 -2(n-1)x_n \cdot x_2 ....
 
 The symmetry comes into play now with the n pieces of this sum again but this time I'll simplify in parts
 
-For the first 2 terms: one time you're going to get \( (n-1)^2 x_i^2 \)  and the other  n-1 times you're going to get just  \( (x_i^2) \)  Adding these: \( (n-1)^2 + (n-1) =  n(n-1) \) 
+For the first 2 terms: one time you're going to get $ (n-1)^2 x_i^2 $  and the other  n-1 times you're going to get just  $ (x_i^2) $  Adding these: $ (n-1)^2 + (n-1) =  n(n-1) $ 
 
-Then  for the second 2 terms you're going to get \( (n -2) 2 x_i \cdot x_j \) all the times neither terms  is a match for i and then for the 2 times they do match there is an additional \( 2( -2(n-1) x_i \cdot x_j ) \) 
+Then  for the second 2 terms you're going to get $ (n -2) 2 x_i \cdot x_j $ all the times neither terms  is a match for i and then for the 2 times they do match there is an additional $ 2( -2(n-1) x_i \cdot x_j ) $ 
 
-Adding these:  \( 2(n-2) + -4(n -1) = -2n \)
+Adding these:  $ 2(n-2) + -4(n -1) = -2n $
 
 So in total:
 

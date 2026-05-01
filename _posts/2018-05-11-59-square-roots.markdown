@@ -16,13 +16,13 @@ This one lent itself really well to whiteboard demos and I had kids present two 
 
 Next we started on the square root investigation. I framed the problem as follows:
 
-"How does the square root key work on the calculator? What do you think its doing? I'm going to put up some simple square roots \(\sqrt{2}, \sqrt{5}, \sqrt{7}\) can you find an approach to calculate value of these to a few decimal places (without a calculator)?"
+"How does the square root key work on the calculator? What do you think its doing? I'm going to put up some simple square roots $\sqrt{2}, \sqrt{5}, \sqrt{7}$ can you find an approach to calculate value of these to a few decimal places (without a calculator)?"
 
 What followed was a fairly useful exercise on two levels. There was a ton of calculation practice and several variants on the bound and search for a better fit algorithm emerged. At the end I also raised the question "For what other calculator keys do you wonder about how they work and are there any themes in the implementations?"  Logarithms were probably the best candidate for a future session. One possibility is stressing the use of series and iterative algorithms.
 
 From there I tried to fit in an old problem on the same theme I've been saving:
 
-Find the cube root of \(x^6  - 9x^5 + 33x^4 - 63x^3 + 66x^2 - 36x + 8 \).   This we ended up doing as a group discussion. The kids eventually found the first and last coefficients of the root Ax^2 + Bx + C  but were stuck on the middle one B.  I really wanted to carefully go through the distributive law work and finish the solution but I was short on time and had to call this to a close. Moral: This is more than a 10 minute problem (and maybe more problems requiring polynomial mult. are called for)
+Find the cube root of $x^6  - 9x^5 + 33x^4 - 63x^3 + 66x^2 - 36x + 8 $.   This we ended up doing as a group discussion. The kids eventually found the first and last coefficients of the root Ax^2 + Bx + C  but were stuck on the middle one B.  I really wanted to carefully go through the distributive law work and finish the solution but I was short on time and had to call this to a close. Moral: This is more than a 10 minute problem (and maybe more problems requiring polynomial mult. are called for)
 
 In the midst of all of this I had audio issues with the projector and had to rush around to find another room we could use with a working system. So we filed over next door and spent the last 25 minutes watching this really fascinating 3Blue1Brown video which I alluded to originally:
 

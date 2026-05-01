@@ -40,7 +40,7 @@ I hadn't considered this fact before but it follows almost immediately from a fe
 
 ![]({{ site.baseurl }}/assets/img/cardanos-method/blogger_0e3d0a66.png)
 
-What's even niftier is that the line of symmetry  for the translated function which is also the tangent at that point can be found via polynomial division  by dividing by \( (x-0)^2 \)  and its just remained i.e. the linear piece of that function:  y =  bx.
+What's even niftier is that the line of symmetry  for the translated function which is also the tangent at that point can be found via polynomial division  by dividing by $ (x-0)^2 $  and its just remained i.e. the linear piece of that function:  y =  bx.
 
 I also really enjoyed the discussion of using trig functions to produce simpler forms of solutions especially for cases where one root is rational.  This where you get a huge payoff for a geometric understanding of multiplying complex numbers.  Not mentioned here but also an interesting connecting is the tie in with the 3rd root of unity: basically you can take one solution and multiply by a 3rd root and always get another solution.
 

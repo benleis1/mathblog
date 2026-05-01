@@ -9,6 +9,6 @@ author: me
 Sine HuntThis is a working post to collect problems themed around sine.  It all started during the last MathJam when a few came up:
 Criteria:  only sine and  no other trig functions should be present.  Also the problem needs to be novel and nonstandard
 
-- Examine the value of  \( \sin(.0000001) \)  (in radians) Why are there so many repeated digits? - Examine the value of  \(  \sin\left(\frac{1}{5555555}\right) \)  (in degrees) What's going on?- Prove \( \sin^2(a)  + \sin^2(b) = \sin(a+b)\) where a and b are acute angles iff  triangle abc is a right triangle. 
+- Examine the value of  $ \sin(.0000001) $  (in radians) Why are there so many repeated digits? - Examine the value of  $  \sin\left(\frac{1}{5555555}\right) $  (in degrees) What's going on?- Prove $ \sin^2(a)  + \sin^2(b) = \sin(a+b)$ where a and b are acute angles iff  triangle abc is a right triangle. 
 
   [](https://follow.it/mathoffthegrid?action=followPub)

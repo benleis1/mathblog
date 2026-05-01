@@ -10,11 +10,11 @@ There are definitely more general and less messy ways to derive the 3x3 matrix
   determinant (breaking it apart using the linearity property and finding the 6 determinants left that are non-zero, simplifying ...)  but its interesting to do it once via diagonalizing and confirm the equivalence:
 
   
-  \( \det \begin{bmatrix}a & b & c\\d & e & f\\g & h &
+  $ \det \begin{bmatrix}a & b & c\\d & e & f\\g & h &
   i\\\end{bmatrix}  = a \cdot \det \begin{bmatrix}e & f \\ h &
   i\\\end{bmatrix}  - b \cdot \det \begin{bmatrix}d & f \\ g &
   i\\\end{bmatrix}  + c \cdot \det \begin{bmatrix}d & e \\ g &
-  h\\\end{bmatrix}  \)
+  h\\\end{bmatrix}  $
   
 
   First assume the matrix is linearly independent and all entries are nonzero so
