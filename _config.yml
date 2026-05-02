@@ -22,8 +22,8 @@ title: Math Off The Grid
 tagline: My mathematical reflections
 description: >- # this means to ignore newlines until "baseurl:"
   A blog exploring mathematical concepts and problem-solving techniques for math circles aimed at middle school and highschool
-#baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mathblog" # the subpath of your site, e.g. /blog
+url: "https://benleis1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 locale: "en-US"
 
 # Site logo
