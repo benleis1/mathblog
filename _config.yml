@@ -8,10 +8,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -22,8 +18,12 @@ title: Math Off The Grid
 tagline: My mathematical reflections
 description: >- # this means to ignore newlines until "baseurl:"
   A blog exploring mathematical concepts and problem-solving techniques for math circles aimed at middle school and highschool
-baseurl: "/mathblog" # the subpath of your site, e.g. /blog
-url: "https://benleis1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/mathblog" 
+#url: "https://benleis1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mathoffthegrid.net" # the base hostname & protocol for your site, e.g. http://example.com
+
 locale: "en-US"
 
 # Site logo
