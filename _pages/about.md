@@ -7,7 +7,7 @@ permalink: /about/
 
 # About Math off the Grid
 
-Welcome to Math off the Grid! This is a blog about my experiences running a math club.
+Welcome to Math off the Grid! This is my space to talk about the mathematics I'm thinking about. Originally I started this blog when I was leading an elementary math circle. Nowadays, I'm an instructor at the Husky Math Academy doing a more formal program with 7th to 10th graders. But I'll leave my original about page summaries below because they capture a vision I still believe in.
 
 ## So why did you start leading a group your own kids aren't in?
 

@@ -27,7 +27,7 @@ url: "https://mathoffthegrid.net" # the base hostname & protocol for your site, 
 locale: "en-US"
 
 # Site logo
-logo: "/assets/img/stellated.png"
+logo: "/assets/img/double_cone.png"
 
 # Author information
 author:

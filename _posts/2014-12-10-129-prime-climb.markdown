@@ -2,7 +2,8 @@
 title: "12/9 Prime Climb"
 date: 2014-12-10 21:41:00 +0000
 tags:
-  - math club math circle
+  - math club
+  - math circle
 author: me
 ---
 
@@ -12,8 +13,8 @@ As usual, only some of the kids had solved the problem. See: http://www.moems.o
 
 With a little prompting that you could guess and check I guided everyone who hadn't already done so to the easy solution in a few minutes and then had the kids try to figure out the structure to solve the general problem. In the meantime I labeled the diagram with some x's for the missing portions. Adding 3x on the vertical would hopefully trigger some more thinking. Bingo, one girl stood up and declared how you needed to divide the length by five. I labelled some more and put the 3x on the horizonal side as well. When asked everyone could now say that you just needed to solve the equation 15 = 5x and changing the constant did not pose any further troubles.
 
-We then broke out the raisin snacks and the new Prime Climb games. It turns out I had underestimated average game time based on my samples at home with my son. In groups of 3 the game actually took the entire rest of the hour. It was a total success though. All the kids were engaged, the boys in particular took to bumping each others pawns back to start. It was interesting to me as well, because the kids were trying to do calculations like is 24 * 7 
-Next week's challenge: 
+We then broke out the raisin snacks and the new Prime Climb games. It turns out I had underestimated average game time based on my samples at home with my son. In groups of 3 the game actually took the entire rest of the hour. It was a total success though. All the kids were engaged, the boys in particular took to bumping each others pawns back to start. It was interesting to me as well, because the kids were trying to do calculations like is 24 * 7
+Next week's challenge:
 
 This one is a word problem which I haven't really done yet. Its based on an AoPS one I saw that had a interesting trick to reach the solution.
 
