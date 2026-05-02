@@ -5,7 +5,7 @@
   script.setAttribute('issue-term', '{{ site.comments.utterances.issue-term }}');
   script.setAttribute('theme', '{{ site.comments.utterances.theme }}');
   script.setAttribute('crossorigin', 'anonymous');
-  {%- if site.url and site.baseurl -%}
+  {%- if site.baseurl and site.baseurl != "" -%}
   script.setAttribute('origin', '{{ site.url }}{{ site.baseurl }}');
   {%- elsif site.url -%}
   script.setAttribute('origin', '{{ site.url }}');
