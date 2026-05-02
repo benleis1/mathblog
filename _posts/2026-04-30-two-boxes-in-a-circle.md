@@ -1,7 +1,7 @@
 ---
 title: "Two Boxes in a Circle"
 date: 2026-04-30
-tags: [walkthrouh, geometry, cyclic quad]
+tags: [walkthrough, geometry, cyclic quad, circle]
 author: me
 math: true
 ---
