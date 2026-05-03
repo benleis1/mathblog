@@ -10,6 +10,9 @@ author: me
 
 This all starts with a fantastic new video from Mathologer: 500 years of NOT teaching the cubic formula.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N-KXStupwsc?si=tZcw99eXzUIrZNDV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p/>
+
 The title is more tongue in cheek than heartfelt as he himself gives some answers as to the question at the end of the video.  But it did lead to a quick exchange on twitter:
 
 Do the songs exist because kids can't handle the derivation of the quadratic formula, or because there's insufficient reason for them to care about it?
@@ -17,9 +20,7 @@ Do the songs exist because kids can't handle the derivation of the quadratic for
 
 Several memories flashed in my brain after my first read: the kids breaking into the quadratic formula song during one Math Club Session where we needed to derive the golden ratio and another time when one of them put part of the cubic formula on a poster we were making to bring to MathCounts.
 
-The quadratic formula song troubles me too because I worry it hides a lack of conceptual understanding. I have other memories of dragging kids through a problem that required completing the square where it was clear their mastery was incomplete. (See: [here]({% post_url 2019-04-12-good-problem-but-guessable %}) for a particularly tricky version of this)  And yet I don't look at its existence as either an admission of defeat by teachers or a lack of motivation behind it. Instead my intuition is that it and many of its often reviled mnemonic  kin like keep/flip/change are the symptoms of a problem not the cause of it: Mathematics is hard. Its hard both to teach it well and its hard to learn.  Often a jingle like the song remains after the lesson that was crafted to carefully explore and motivate the
-
-formula has faded away.
+The quadratic formula song troubles me too because I worry it hides a lack of conceptual understanding. I have other memories of dragging kids through a problem that required completing the square where it was clear their mastery was incomplete. (See: [here]({% post_url 2019-04-12-good-problem-but-guessable %}) for a particularly tricky version of this)  And yet I don't look at its existence as either an admission of defeat by teachers or a lack of motivation behind it. Instead my intuition is that it and many of its often reviled mnemonic  kin like keep/flip/change are the symptoms of a problem not the cause of it: Mathematics is hard. Its hard both to teach it well and its hard to learn.  Often a jingle like the song remains after the lesson that was crafted to carefully explore and motivate the formula has faded away.
 
 I think Patrick's instinct to seek better curriculum that properly situate the QF and CTS in problems that need them is a natural response to the current state of affairs. And yet, these already exist and have existed for hundreds of years and the problem of shallow understanding still persists. As various waves of reform attest, we seem to over estimate the value of "better" pedagogy or our ability to spread them widely across schools. Even with my student who had memorized the cubic formula and wanted to add it to the poster, there was no conceptual understanding beyond that initial excitement of finding the formula.  To progress further is an order of magnitude harder and is not really about frustrated students being denied instruction by their teachers.  So I'm a bit stuck in the end between these two tensions.
 
