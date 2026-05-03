@@ -10,7 +10,10 @@ Welcome to the 155th Carnival of Mathematics which collects a sampling of intere
 
 ***"Chain of Circles - Daniel Mentrard @dment27"***
 
-<iframe src="http://dmentrard.free.fr/GEOGEBRA/Maths/export4.25/Chaincercles.html" width="100%" height="500px" frameborder="0"></iframe>
+<video width="100%" height="auto" controls autoplay muted loop playsinline>>
+  <source src="{{ site.baseurl }}/assets/videos/menard.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <p/>
 
 To start off here's a few facts about the number 155 I found on the wikipedia:
