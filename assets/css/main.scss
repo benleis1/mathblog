@@ -10,6 +10,15 @@
 
 // Custom CSS overrides can go here
 
+// Boxed div styling
+.boxed {
+  border-radius: .75em;
+  border: solid 5px #354;
+  background-color: #feb;
+  padding: 1em;
+  box-shadow: .2em .2em .2em grey;
+}
+
 // Make post pages full width (but not wide pages like index)
 .layout--single:not(.wide) .page {
     float: left !important;
