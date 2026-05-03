@@ -8,8 +8,9 @@ author: me
 
 ![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-168/blogger_18cb38a3.gif)
 
-Turtles - [Martin Holtham](https://twitter.com/GHSMaths) 
+	Turtles - [Martin Holtham](https://twitter.com/GHSMaths) 
 
+# Introduction
 Welcome to the 168th Carnival of Mathematics. For all the other carnivals future and past, visit [The Aperiodical ](https://aperiodical.com/carnival-of-mathematics/)where you can also submit future posts.  Its been about  a year since I last hosted  [Carnival 155]({% post_url 2018-03-01-carnival-of-mathematics-155 %}) and let's face it - when it came to the number 155 I went through the motions and researched various connections on the wikipedia. Being a multiple of 5 is nice but it had no personal resonance for me.  So I was pleasantly excited to find out that the next one in my queue was instead 168 which is a bit of an old friend. Quite instinctively my first thought on seeing it was KenKen number (7x4x6 or 7x3x8 ...)!  I haven't been doing these as religiously of late (currently I've been on more of a [Skyscraper puzzle](https://www.brainbashers.com/skyscrapers.asp?error=Y) binge) but the factoring and fitting of said factors into shapes is engraved on my brain.
 
 ![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-168/blogger_cf51560c.png)
@@ -22,7 +23,12 @@ For the rest of you less religious puzzlers here's some more 168 facts from: [t
 - From [Hurwitz's automorphisms theorem](https://en.wikipedia.org/wiki/Hurwitz%27s_automorphisms_theorem), 168 is the maximum possible number of automorphisms of a genus 3 [Riemann surface](https://en.wikipedia.org/wiki/Riemann_surface), this maximum being achieved by the [Klein quartic](https://en.wikipedia.org/wiki/Klein_quartic), whose symmetry group is PSL(2,7).[[2]](https://en.wikipedia.org/wiki/168_(number)#cite_note-2) The [Fano plane](https://en.wikipedia.org/wiki/Fano_plane) has 168 symmetries.
 - 168 is the sum of four consecutive [prime numbers](https://en.wikipedia.org/wiki/Prime_number): [37](https://en.wikipedia.org/wiki/37_(number)) + [41](https://en.wikipedia.org/wiki/41_(number)) + [43](https://en.wikipedia.org/wiki/43_(number)) + [47](https://en.wikipedia.org/wiki/47_(number)).
 
+# Posts
 That handled let's get started with this month's selections.  First I can't ignore that March includes the (in)famous Pi Day holiday.  This year my favorite new video on the subject was from [the Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)  with a deep dive into the proof of Pi's irrationality a subject I have to admit I had taken for granted up until seeing this.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lk_QF_hcM8A?si=BBHQfZ67v2oPhkog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p/><p/>
+
 
 For a different and unexpected appearance by pi, Andrew Taylor has an article up on aperiodical: [https://aperiodical.com/2019/03/buzz-in-when-you-think-you-know-the-answer/](https://aperiodical.com/2019/03/buzz-in-when-you-think-you-know-the-answer/)  
 
@@ -30,6 +36,9 @@ For a different and unexpected appearance by pi, Andrew Taylor has an article up
 Not surprisingly a circle is hiding in the background.  I can't wait to try this out with my kids.
 
 On the subject of MathEd, [Dan Finkel](https://mathforlove.com/) put out an amazing set of videos in collaboration with  Maths Pathway on rich learning. If you're in a classroom this is definitely recommend: The full set is here: [https://mathforlove.com/pd/](https://mathforlove.com/pd/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sQI9Pylc2JY?si=7NznbueRkE9GaLuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p/><p/>
 
 For another take on education I also really enjoyed this AoPS podcast with Sam Vandervelde [https://artofproblemsolving.com/news/aftermath/aftermath-running-a-school-for-math-lovers-with-sam-vandervelde](https://artofproblemsolving.com/news/aftermath/aftermath-running-a-school-for-math-lovers-with-sam-vandervelde)    Sam has deep roots in the Math Circle Community.  I myself started by reading his: [Math Circle in a Box](http://www.mathcircles.org/2017/07/28/circle-in-a-box-available-for-free-download/). This is a fun conversation even if you're not planning to run an entire private school focused on Mathy kids.
 
