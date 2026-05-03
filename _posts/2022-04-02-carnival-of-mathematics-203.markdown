@@ -1,6 +1,8 @@
 ---
 title: "Carnival of Mathematics 203"
 date: 2022-04-02 12:45:00 -0700
+tags: 
+ - carnival of math
 author: me
 image:
   path: "{{ site.baseurl }}/assets/img/carnival-of-mathematics-203/blogger_8df3e4ba.png"

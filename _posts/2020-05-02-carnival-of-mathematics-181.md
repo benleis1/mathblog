@@ -5,9 +5,15 @@ tags:
   - carnival of math
 author: me
 ---
+# Welcome
 
 Welcome to the 181st Carnival of Mathematics  If your appetite is only whetted here and you are interested in previous carnivals visit [The Aperiodical ](https://aperiodical.com/carnival-of-mathematics/)where you can also submit future posts. This is my third time hosting and I'm very excited for a distraction from the realities of a global pandemic.  This serves in a way as bridge between my recently shrunken world and the wider one that's still out there and full of mathematical mysteries.
 
+<video width="100%" height="auto" controls autoplay muted loop playsinline>>
+  <source src="{{ site.baseurl }}/assets/videos/mhenderson.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<p/>
 [**Julia Set animation by Matt Henderson**]
 
 As is traditional here are some facts about 181 courtesy of the Wikipedia: 
@@ -38,19 +44,25 @@ As is traditional here are some facts about 181 courtesy of the Wikipedia: 
 
 *On a personal note I've been unable to see my students from Math Club in person which has been hard. But I've been doing a bunch of Zoom based virtual events with them which while not really the same has at least meant I haven't completely lost touch.  As part of this process each week I've picked the most interesting internet resource I happened to have seen to send out in my email update. So here's my personal list of curated approximately middle school level links for the last six weeks that I used. Hopefully its of use to some of the readers as well.*
 
+# Posts
+
 - From Andrew Jeffey's Mathematics newsletter some fun Match Stick logic puzzles: [Link](https://madmimi.com/p/7bc8901?pact=650307-157946661-11623085365-b85bfd6743354cba989881e08b0861d21ee7d735)  
 
 - The always excellent  Grant Sanderson aka 3Blue1Brown has been doing a live YouTube broadcast biweekly on his channel:   [Channel Link](http://channel%20link/)  on various H.S. level math. The current ones have focused on complex numbers. This is highly recommended.
 
 - Numberphile has continued to pump out great material. I linked this video from Ben Sparks: [Numberphile Link](https://www.youtube.com/watch?v=xyVl-tcB8pI&t=721s&authuser=0)  on impossible squares and what numbers can be formed as a sum of two squares.   If you're tantalized, checkout Mathologer's brilliant video on the same subject:  [Mathologer Video Link](https://www.youtube.com/watch?v=DjI1NICfjOk)  which explores a geometric proof of Fermat's 2 square theorem.
 
-- Matt Enlow provided an entertaining set of "Snake Puzzles" here: [https://t.co/hKEb8ox3Ef](https://t.co/hKEb8ox3Ef)
+- Matt Enlow provided an entertaining set of "Snake Puzzles" [here](https://drive.google.com/file/d/1rOMY-RuhVbEThlxaPMDkvjhepS6zV7LQ/view)
 
 - The Julia Robinson Festival has been hosting a series of weekly. webinars See: [https://jrmf.org](https://jrmf.org/).   This is one of my favorite math organizations and although the physical festival was cancelled here in Seattle, the spirit of the event lives on in these events.
 
 - James Tanton, one of the great math teaching reframers of the day, has also been putting on webinars as well as his regular videos and  newsletters: [Facebook Link](https://www.facebook.com/events/155403309042130/)    
 
+![]({{ site.baseurl }}/assets/img/carnival-of-math-181/fractal.jpg)
+
 [**Fractal Tesselation by @asitnof**]
+
+# Blogs
 
 Onto the blogs! Henri Picciotto has put together a compilation of a bunch of patterns both his own and others presented online at his website:  [https://www.mathed.page/manipulatives/pattern-blocks/dodecagons/index.html](https://www.mathed.page/manipulatives/pattern-blocks/dodecagons/index.html)
 
@@ -99,11 +111,15 @@ Peter Wolt has an update on the recently published Shinichi Mochizuki ABC Conjec
 
 "“I think it is safe to say that there has not been much change in the community opinion since 2018,” says Kiran Kedlaya, a number theorist at the University of California, San Diego, who was among the experts who put considerable effort over several years trying to verify the proof."
 
-**[ Clarissa Grandi]**
+![]({{ site.baseurl }}/assets/img/carnival-of-math-181/clarissa.jpg)
+
+	Clarissa Grandi
 
 GarnitCharcha, another Carnival Host, shares a quiz in honor of International Mathematics Day which I believe was technically in March (3/14) but don't let that stop you from a fun diversion:
 
 [https://www.ganitcharcha.com/quiz-page-name-view-GanitCharcha-Celebrates-International-Mathematics-Day.php](https://www.ganitcharcha.com/quiz-page-name-view-GanitCharcha-Celebrates-International-Mathematics-Day.php)
+
+![]({{ site.baseurl }}/assets/img/carnival-of-math-181/johnconway.jpg)
 
 Next up two posts in honor of the late John Conway
 
@@ -121,8 +137,6 @@ Don't miss the comments section.
 
 Finally: Card Colm posted some recollections as well as a summary of Conway's Circle Theorem: [http://www.cardcolm.org/JHC.html](http://www.cardcolm.org/JHC.html)
 
-**[Tom Gauld - Paris Review]**
-
 Next up, Marilyn Burns writes about an enticing  online game from nrich.org on here own blog:
 
 [http://www.marilynburnsmathblog.com/whats-the-longest-number-string-possible](http://www.marilynburnsmathblog.com/whats-the-longest-number-string-possible/)  
@@ -138,37 +152,38 @@ I've always really liked the material nrich produces as well. Definitely recomme
 
 Winding down the blogs  Kartik over at Comfortably Numbered has a cool post: [http://hardmath123.github.io/spaghetti-shadows.html](http://hardmath123.github.io/spaghetti-shadows.html) "Spaghetti's Shadows are Spirali-Shaped" that explores some 3-d geometry including the python code to explore it yourself.
 
-Some Assorted Submitted Tweets:
 
-Bourbaki's final perfected definition of the number 1, printed out on paper, would be 200,000 as massive as the Milky Way!
+# Assorted Tweets
 
-At least that's what a calculation by the logician Robert Solovay showed. But the details of that calculation are lost. So I asked around....
+* Bourbaki's final perfected definition of the number 1, printed out on paper, would be 200,000 as massive as the Milky Way!
+
+  At least that's what a calculation by the logician Robert Solovay showed. But the details of that calculation are lost. So I asked around....
 
 (1/n) [pic.twitter.com/HhDI7jqH7y](https://t.co/HhDI7jqH7y)
 — John Carlos Baez (@johncarlosbaez) [April 16, 2020](https://twitter.com/johncarlosbaez/status/1250868989414137857?ref_src=twsrc%5Etfw)
 
-OBSCENELY ENJOYABLE ALGEBRA ACTIVITY 👇
+* OBSCENELY ENJOYABLE ALGEBRA ACTIVITY 👇
 
-Plain old graph of y=x^2
+  Plain old graph of y=x^2
 
-Pick a point either side of y-axis
+  Pick a point either side of y-axis
 
-Join them with a straight line
+  Join them with a straight line
 
-y-intercept is always the product of the x-values
+  y-intercept is always the product of the x-values
 
-Why? How? What??
+  Why? How? What??
 
-This is gorgeous fun to prove, I think I first saw it in an [@alexbellos](https://twitter.com/alexbellos?ref_src=twsrc%5Etfw) book [pic.twitter.com/2Hci5kcFuW](https://t.co/2Hci5kcFuW)
+* This is gorgeous fun to prove, I think I first saw it in an [@alexbellos](https://twitter.com/alexbellos?ref_src=twsrc%5Etfw) book [pic.twitter.com/2Hci5kcFuW](https://t.co/2Hci5kcFuW)
 — Kyle D Evans (@kyledevans) [April 28, 2020](https://twitter.com/kyledevans/status/1255080517571096576?ref_src=twsrc%5Etfw)
 
-Back to rectangular biscuits this morning. What do you notice? What do you wonder? [pic.twitter.com/NY1jqswhES](https://t.co/NY1jqswhES)
+* Back to rectangular biscuits this morning. What do you notice? What do you wonder? [pic.twitter.com/NY1jqswhES](https://t.co/NY1jqswhES)
 — Alison Kiddle (@ajk_44) [May 2, 2020](https://twitter.com/ajk_44/status/1256494806664187904?ref_src=twsrc%5Etfw)
 
-Everything [@Ayliean](https://twitter.com/Ayliean?ref_src=twsrc%5Etfw)’s said 👇 [https://t.co/6eTSRkPgju](https://t.co/6eTSRkPgju)
+* Everything [@Ayliean](https://twitter.com/Ayliean?ref_src=twsrc%5Etfw)’s said 👇 [https://t.co/6eTSRkPgju](https://t.co/6eTSRkPgju)
 — Tamás Görbe (@TamasGorbe) [March 31, 2020](https://twitter.com/TamasGorbe/status/1245071179481862154?ref_src=twsrc%5Etfw)
 
 Finally one last plug for the entire series of recent posts by Matt Henderson (1 more sample)
 
-a Sierpinski triangle in spherical geometry [pic.twitter.com/kVWx2HxeTG](https://t.co/kVWx2HxeTG)
+* a Sierpinski triangle in spherical geometry [pic.twitter.com/kVWx2HxeTG](https://t.co/kVWx2HxeTG)
 — Matt Henderson (@matthen2) [April 30, 2020](https://twitter.com/matthen2/status/1255728957619449857?ref_src=twsrc%5Etfw)

@@ -11,7 +11,7 @@ author: me
   **(Ancient Roman mosaic floor patterns - @HistoryJourney)**
 
   Welcome to the 193rd Carnival and my fourth! time hosting. For all the other
-  carnivals future and past, visit [The Aperiodical ](https://aperiodical.com/carnival-of-mathematics/)where you can also submit future posts. It's been a wild ride since [Carnival 181]({% post_url 2020-05-02-carnival-of-math-181 %}), spent mostly in the confines of my home office. Thankfully, I've been lucky
+  carnivals future and past, visit [The Aperiodical ](https://aperiodical.com/carnival-of-mathematics/)where you can also submit future posts. It's been a wild ride since [Carnival 181]({% post_url 2020-05-02-carnival-of-mathematics-181 %}), spent mostly in the confines of my home office. Thankfully, I've been lucky
   enough to avoid the worst suffering of the pandemic. Life goes on so as the
   initial shock passed I've learned a great deal about doing remote math with
   students, epidemiology, the nature of resilience, and the comparative
