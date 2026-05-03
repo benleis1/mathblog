@@ -30,6 +30,9 @@ YYYY-MM-DD-title.md
 
 Use the _posts/template for a front matter template
 
+* <div class=boxed markdown=1> will produce the yellow text boxes
+*  ![]({{ site.baseurl }}/assets/img/[post]/[image file]) is the format to include images
+
 ### Using Math
 
 The site supports MathJax for rendering mathematical notation:
