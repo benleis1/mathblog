@@ -8,26 +8,52 @@ layout: archive
 .tag-sort-toggle {
   text-align: center;
   margin: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
 }
 .tag-sort-btn {
-  background-color: #52adc8;
+  background: linear-gradient(145deg, #5ebdd9, #4a9ab5);
   color: white;
   border: none;
-  padding: 10px 20px;
-  font-size: 14px;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
   cursor: pointer;
-  border-radius: 4px;
-  transition: background-color 0.3s;
+  border-radius: 50%;
+  transition: all 0.3s;
+  box-shadow:
+    5px 5px 10px rgba(0, 0, 0, 0.2),
+    -2px -2px 8px rgba(255, 255, 255, 0.1),
+    inset 0 0 0 rgba(255, 255, 255, 0);
 }
 .tag-sort-btn:hover {
-  background-color: #3d8ba8;
+  background: linear-gradient(145deg, #6bcbe7, #3d8ba8);
+  box-shadow:
+    3px 3px 8px rgba(0, 0, 0, 0.25),
+    -1px -1px 6px rgba(255, 255, 255, 0.15),
+    inset 0 0 0 rgba(255, 255, 255, 0);
+  transform: translateY(-1px);
+}
+.tag-sort-btn:active {
+  box-shadow:
+    2px 2px 5px rgba(0, 0, 0, 0.3),
+    inset 2px 2px 5px rgba(0, 0, 0, 0.2);
+  transform: translateY(1px);
+}
+.tag-sort-label {
+  font-size: 16px;
+  font-weight: 500;
+  color: #52adc8;
 }
 </style>
 
 <div class="tag-sort-toggle">
-  <button class="tag-sort-btn" id="tagSortBtn" onclick="toggleTagSort()">
-    Sort by Count
+  <button class="tag-sort-btn" id="tagSortBtn" onclick="toggleTagSort()" title="Toggle sort order">
+    ⇅
   </button>
+  <span class="tag-sort-label" id="tagSortLabel">Sort by Count</span>
 </div>
 
 {% assign tags_max = 0 %}
@@ -107,7 +133,8 @@ function toggleTagSort() {
   // Re-append in new order
   sectionItems.forEach(item => sections.appendChild(item));
 
-  // Update button text
-  btn.textContent = sortByCount ? 'Sort Alphabetically' : 'Sort by Count';
+  // Update label text
+  const label = document.getElementById('tagSortLabel');
+  label.textContent = sortByCount ? 'Sort Alphabetically' : 'Sort by Count';
 }
 </script>

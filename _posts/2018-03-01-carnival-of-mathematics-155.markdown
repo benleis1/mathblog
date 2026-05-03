@@ -8,10 +8,10 @@ author: me
 
 Welcome to the 155th Carnival of Mathematics which collects a sampling of interesting math(s) related posts from around the web. This is my first time hosting and as my passion is topics for middle school math clubs you'll see a few of my personal choices. For all those interested in Carnival of Mathematics future and past, visit [The Aperiodical](http://aperiodical.com/carnival-of-mathematics/)  where you can also submit future posts.
 
-Chains of circles[https://t.co/RPfPhnLP9R](https://t.co/RPfPhnLP9R)[#math](https://twitter.com/hashtag/math?src=hash&ref_src=twsrc%5Etfw) [#maths](https://twitter.com/hashtag/maths?src=hash&ref_src=twsrc%5Etfw) [@geogebra](https://twitter.com/geogebra?ref_src=twsrc%5Etfw) [#mtbos](https://twitter.com/hashtag/mtbos?src=hash&ref_src=twsrc%5Etfw) [#iteachmath](https://twitter.com/hashtag/iteachmath?src=hash&ref_src=twsrc%5Etfw)  [#mathart](https://twitter.com/hashtag/mathart?src=hash&ref_src=twsrc%5Etfw) [#mathchat](https://twitter.com/hashtag/mathchat?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/5NvXW9BwrA](https://t.co/5NvXW9BwrA)
-— Daniel Mentrard (@dment37) [March 1, 2018](https://twitter.com/dment37/status/969250003561713664?ref_src=twsrc%5Etfw)
+***"Chain of Circles - Daniel Mentrard @dment27"***
 
-***"Chain of Circles - Daniel Metrard @dment27"***
+<iframe src="http://dmentrard.free.fr/GEOGEBRA/Maths/export4.25/Chaincercles.html" width="100%" height="500px" frameborder="0"></iframe>
+<p/>
 
 To start off here's a few facts about the number 155 I found on the wikipedia:
 
@@ -21,9 +21,9 @@ To start off here's a few facts about the number 155 I found on the wikipedia:
 - a [semiprime](https://en.wikipedia.org/wiki/Semiprime). 
 - a [deficient number](https://en.wikipedia.org/wiki/Deficient_number), since  1+ 5 + 31 = 36 
 
-Posts
+# Posts
 
-Patrick Honner's Favorite Theorem
+## Patrick Honner's Favorite Theorem
 
 Evelyn Lamb
 
@@ -33,18 +33,21 @@ Evelyn Lamb
 
 This entire series at Scientific American has been really fun to read/listen to. This month's exploration of Varignon's theorem may be the best one yet.
 
-Pythagorean Proof 
+## Pythagorean Proof
 
 Loop Space
 
 [http://loopspace.mathforge.org/CountingOnMyFingers/FavouriteProof/](http://loopspace.mathforge.org/CountingOnMyFingers/FavouriteProof/)
 
+
+![]({{ site.baseurl }}/assets/img/carnival-of-mathematics-155/twitter-shot.png)
+
 I came up with this question today for Yr8 who haven't done pythagoras yet, inspired by [@UKMathsTrust](https://twitter.com/UKMathsTrust?ref_src=twsrc%5Etfw) 2017 junior paper (qu8) [#mathschat](https://twitter.com/hashtag/mathschat?src=hash&ref_src=twsrc%5Etfw) [#mathscpdchat](https://twitter.com/hashtag/mathscpdchat?src=hash&ref_src=twsrc%5Etfw) [#mtbos](https://twitter.com/hashtag/mtbos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tKlJrz4Bso](https://t.co/tKlJrz4Bso)
 — Mark Horley Maths (@mhorley) [February 9, 2018](https://twitter.com/mhorley/status/961950184560263168?ref_src=twsrc%5Etfw)
 
-An interesting twitter thread from above led me to this post. I've experimented with how to teach the Pythagorean therorem in the [past](http://past/) several times and like how this approach based on similarity differs from some of the more commonly used algebraic techniques.
+An interesting twitter thread from above led me to this post. I've experimented with how to teach the Pythagorean theorem in the [Past]({% post_url 2016-04-03-whats-the-best-way-to-talk-about-the-pythagorean-theorem %}) several times and like how this approach based on similarity differs from some of the more commonly used algebraic techniques.
 
-Fun with Fractions—from elementary arithmetic to the Putnam Competition the first 1/2
+## Fun with Fractions—from elementary arithmetic to the Putnam Competition the first 1/2
 
 Dan McQuillan
 
@@ -53,7 +56,7 @@ Dan McQuillan
 "Elementary discussions and good questions in grade school can prepare students for far more difficult challenges later. This post provides an example, by starting with simple fraction questions and ending with a Putnam Mathematical Competition Question (intended for stellar undergraduates). It also features atypical ways of comparing fractions. A much shorter discussion of these problems is possible; this discussion reflects an attitude of starting from little and gaining quickly."
 We had recently been working with Farey Sequences:  [213-farey-sequences]({% post_url 2018-02-16-213-farey-sequences %})  so this article had special resonance for me.  The extension at the end is particularly good.
 
-Triangulations and face morphing
+## Triangulations and face morphing
 
 David Orden
 
@@ -63,7 +66,7 @@ David Orden
 
 A very nice overview and perhaps a starting point for further reading.
 
-Fun Not Competition the story of My Math Club
+## Fun Not Competition the story of My Math Club
 
 Dr. Jo Hardin
 
@@ -72,15 +75,18 @@ Dr. Jo Hardin
 "For almost three years, I have spent most of my Sunday afternoons doing math with my daughters and a group of their school friends. Below I detail why and how the math club is run. Unlike my day job, which is full of (statistical) learning objectives for my college students, my math club has only the objective that the kids I work with learn to associate mathematics with having fun. My math club has its challenges, but the motivation comes from love of mathematics, which makes it fun, and worth every minute."
 This is a lovely personal account of Dr Hardin's experiences working with young children. I'm a very strong believer in the power of Math Circle's to impact students so hopefully this will motivate someone else.
 
-The many faces of the Petersen graph
+## The many faces of the Petersen graph
 
 Mark Dominus
 
 [https://blog.plover.com/math/petersen-graph.html](https://blog.plover.com/math/petersen-graph.html)
 
+![Peterson Graph]({{ site.baseurl }}/assets/img/carnival-of-mathematics-155/Petersen-fivecycle-jolly.svg)
+
+
 "The Petersen graph is a small graph that is an important counterexample to all sorts of things.  It obviously has a fivefold symmetry.  Much less obviously, it _also_ has threefold, fourfold, and sixfold symmetries!  You can draw it in many ways and it can be really hard to tell that they are all drawing of the same thing!"
 
-Parameterizing the Space of 3D Rotations
+## Parameterizing the Space of 3D Rotations
 
 Arvind Rao
 
@@ -88,7 +94,7 @@ Arvind Rao
 
 In game development and 3D image processing it is common to represent 3D rotations not as 3 x 3 matrices but as quaternions. I wrote a somewhat long read at the end of last year describing the relationship between SO(3), the space of 3D rigid rotations, and the unit quaternions. I think readers will enjoy the use of heuristic visualizations to uncover the true 'shape' of SO(3). Also, with SymPy, a wonderful symbolic computation library, I compute representations that give coordinates on SO(3). The calculations are really involved, so SymPy is super helpful; all code is linked within the post.
 
-DIY Pattern Maker
+## DIY Pattern Maker
 
 [http://linescurvesspirals.blogspot.co.uk/2018/02/diy-pattern-maker.html](http://linescurvesspirals.blogspot.co.uk/2018/02/diy-pattern-maker.html)
 
