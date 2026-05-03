@@ -1,10 +1,11 @@
 ---
 layout: single
 title: Resources
+toc: true
 author_profile: false
 permalink: /resources/
 ---
-# Problem Sets
+## Problem Sets
 
 **MOEMS past tests.**
 <http://www.moems.org>
@@ -61,7 +62,7 @@ This was published in 1916 but the puzzles are still fun.
 
 <https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf> Interesting set of problems from Mathematician V.I. Arnold
 
-# Problems of the Week
+## Problems of the Week
 
 <http://www.cemc.uwaterloo.ca/resources/potw.php> Problem of the week from U Waterloo. Sometimes a bit dry / too close to homework but its real nice that they are tightly leveled by grade band.
 
@@ -75,7 +76,7 @@ This was published in 1916 but the puzzles are still fun.
 
 <http://www.insidemathematics.org/problems-of-the-month> Problems of the Month from Inside Mathematics. These ones are K-8 and multi-level per grade. More complex than some of the others in the sense they are often more than a single question.
 
-# Videos
+## Videos
 
 <http://www.numberphile.com/>
 This is a fun site and occasionally it has a topic that translates really well into the afterschool setting.
@@ -88,12 +89,12 @@ Mathologer - another consistently interesting channel.
 
 **Note: Given the networking situation in the school a tool like: 4k Video Downloader which takes a streaming video and creates a local copy is the best way I've found to bring videos into the classroom**
 
-# Games
+## Games
 
 * Manifold
 * Pente
 
-# Sites
+## Sites
 
 <http://www.mathcircles.org/> The NAMC site.
 
@@ -138,7 +139,7 @@ A large set of interesting mathematical curiousities. These look great for start
 
 <https://acko.net/blog/how-to-fold-a-julia-fractal/> Really beautiful animation of complex arithmetic leading up to the julia fractal.
 
-# Online Periodicals
+## Online Periodicals
 
 <http://chalkdustmagazine.com/> Maths magazine with interesting articles from undergraduates often adaptable to a math circle.
 
@@ -146,7 +147,7 @@ A large set of interesting mathematical curiousities. These look great for start
 
 <https://www.quantamagazine.org/>
 
-# 3D Geometric Shape Templates and Nets
+## 3D Geometric Shape Templates and Nets
 
 <http://www.senteacher.org/worksheet/12/Nets-Polyhedra.html> The basic Platonic Solid Nets
 
@@ -162,23 +163,23 @@ A large set of interesting mathematical curiousities. These look great for start
 
 <https://github.com/mcnees/LaTeX-Graph-Paper> Latex package to make various grids - hex, triangle etc.
 
-# Blogs
+## Blogs
 
 <http://www.mathandmischief.com/> A homeschooler who appears to have similar mathematical taste to me. I like her recent video lists.
 
 <https://mikesmathpage.wordpress.com/> A blogger I'm liking recently.
 
-# Worksheets
+## Worksheets
 
 <http://www.kutasoftware.com/> A set of standard worksheets on various topics. Possibly useful as warm-up material in small doses.
 
-# Online Papers
+## Online Papers
 
 <http://math.fau.edu/Yiu/tour.pdf> A tour of triangle Geometry
 
 <https://drive.google.com/file/d/1bUC_7-AYWKC2hXN82koTHuxDFKO1Pew2/view> Modern Geometry of the Triangle
 
-# Books:
+## Books:
 
 <http://www.amazon.com/Mathematical-Circle-Diaries-Year-Curriculum/dp/0821887459>
 
@@ -190,7 +191,7 @@ This one is more straight problem sets. I haven't used it much yet but I'm think
 
 <http://mathlabforkids.com/> "Math Lab For Kids" Aimed at upper elementary this book has a nice assortment of activities from map coloring, to graph theory. Everything comes with a supply list and sample questions to ask which looks like it would make it easy to adopt.
 
-# My Math Circle Activity Maps
+## My Math Circle Activity Maps
 
 2014-15 activities: (4-5th)
 <http://mymathclub.blogspot.com/p/2014-2015-sequence-map.html>
@@ -207,7 +208,7 @@ This one is more straight problem sets. I haven't used it much yet but I'm think
 2018-2019 activities (6-8th)
 <https://mymathclub.blogspot.com/p/2018-2019-topic-map.html>
 
-# Local Contests
+## Local Contests
 
 1. Knights of Pi
 2. Math is Cool
