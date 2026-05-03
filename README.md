@@ -19,7 +19,7 @@ A modern Jekyll blog powered by the minimal mistakes theme, designed for sharing
    ```
    Add --future to test posts with future dates
 
-3. Visit `http://localhost:4000/mathblog` in your browser
+3. Visit `http://localhost:4000/` in your browser
 
 ### Writing Posts
 
@@ -30,7 +30,7 @@ YYYY-MM-DD-title.md
 
 Use the _posts/template for a front matter template
 
-* <div class=boxed markdown=1> will produce the yellow text boxes
+* `<div class=boxed markdown=1>` will produce the yellow text boxes
 *  ![]({{ site.baseurl }}/assets/img/[post]/[image file]) is the format to include images
 
 ### Using Math
