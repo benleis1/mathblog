@@ -59,3 +59,25 @@ Main configuration is in `_config.yml`. Key settings:
 - Pagination settings
 - Search configuration
 - Timezone
+
+## Directory Structure
+
+```
+.
+├── _config.yml          # Main site configuration
+├── _data/               # Site data files (authors, navigation menus)
+├── _includes/           # Reusable HTML components and partials
+├── _layouts/            # Page templates (post, tags, etc.)
+├── _pages/              # Standalone pages (About, Resources, etc.)
+├── _plugins/            # Jekyll plugins for extended functionality
+├── _posts/              # Blog posts (YYYY-MM-DD-title.md format)
+├── _site/               # Generated site output (ignored by git)
+├── assets/              # Static files
+│   ├── css/            # Custom stylesheets
+│   ├── favicons/       # Site favicon files
+│   ├── img/            # Images organized by post
+│   └── videos/         # Video files
+├── drafts/              # Draft posts not yet published
+├── Gemfile              # Ruby dependencies
+└── index.html           # Homepage
+```
