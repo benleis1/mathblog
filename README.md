@@ -33,6 +33,14 @@ Use the _posts/template for a front matter template
 * `<div class=boxed markdown=1>` will produce the yellow text boxes
 *  ![]({{ site.baseurl }}/assets/img/[post]/[image file]) is the format to include images
 
+
+#### Snippets
+Type the snippet and press tab 
+
+* frontmatter
+* mdimage
+* mdlink
+
 ### Using Math
 
 The site supports MathJax for rendering mathematical notation:
@@ -81,3 +89,4 @@ Main configuration is in `_config.yml`. Key settings:
 ├── Gemfile              # Ruby dependencies
 └── index.html           # Homepage
 ```
+
