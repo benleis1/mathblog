@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-Part I 
+## Part I
 
 ![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/blogger_5fd057d3.JPG)
 
@@ -49,33 +49,32 @@ And then  you have to make a leap (which often works) to increase the parallel 
 
 Here I've added BM parallel to CI:  That creates a bunch of interesting relationships:
 
-- $ \triangle{ABM} \sim  \triangle{AIJ} \text{ in a 1:3 ratio so } |BM|= 3 \cdot | IJ | $
-- $ \triangle{BMD} \sim  \triangle{CJD} \text{ in a 1:2 ratio so } 2 \cdot |BM| =  |CJ| $
-- Combine those together and you get $ |IJ| = 6 \cdot |CJ| $
+* $ \triangle{ABM} \sim \triangle{AIJ} \text{ in a 1:3 ratio so } \|BM\|= 3 \cdot \|IJ\| $
+* $ \triangle{BMD} \sim \triangle{CJD} \text{ in a 1:2 ratio so } 2 \cdot \|BM\| = \|CJ\| $
+* Combine those together and you get $\|IJ\| = 6 \cdot \|CJ\| $
 
 And those relationships now let us subdivide ACI and find the purple section AIJ must be 1/7 of its area or 1/21 of the total area of ABC.
 
-This can be repeated for all the purple triangles. Interestingly since the argument is the same* each ends of having the same area despite their different shapes*.   And their areas' sum is $ 3 \cdot \frac{1}{21} $ Total Area which is $ \frac{1}{7}$ .  From above we know this also the area of the inner brown triangle.
+This can be repeated for all the purple triangles. Interestingly since the argument is the same *each ends of having the same area despite their different shapes*. And their areas' sum is $ 3 \cdot \frac{1}{21} $ Total Area which is $ \frac{1}{7}$ . From above we know this also the area of the inner brown triangle.
 
-Part II
+## Part II
 
-What if you could reason about the subdivision in a totally different way using linear algebra? That surprising approach was exactly what @normal_subgroup tweeted the other day.  He starts with the same basic subdivisions I had played with. And then thinks of each sub piece's area as an unknown variable. All the area relations give us 10 equations in 10- unknowns and then we can turn it all into a matrix!
+What if you could reason about the subdivision in a totally different way using linear algebra? That surprising approach was exactly what @normal_subgroup tweeted the other day.  He starts with the same basic subdivisions I had played with. And then thinks of each sub piece's area as an unknown variable. All the area relations give us 10 equations in 10 unknowns and then we can turn it all into a matrix!
 
 ![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/blogger_5d0ce0e6.JPG)
+*Baseline dissection and sub triangles*
 
-Baseline dissection and sub triangles
+**Note: these tweets have become damaged in the intervening years - you can skip to Post Relfection to see a synopsis**
 
 (5/n) The Linear Algebra Attitude:
 
--write down connections
+- write down connections
 
--see if they’re enough to achieve the goal
+- see if they’re enough to achieve the goal
 
--if possible, find independent connections 
+- if possible, find independent connections 
 
-1st connection: 2sA+2sB+2qB =
-
-T+sC+qA+qC
+1st connection: 2sA+2sB+2qB = T+sC+qA+qC
 
 There are 2 other similar equations of the same “type”, as shown [pic.twitter.com/lLrsDg8KO4](https://t.co/lLrsDg8KO4)
 — Dan McQuillan (@normalsubgroup) [February 8, 2020](https://twitter.com/normalsubgroup/status/1226154048765800450?ref_src=twsrc%5Etfw)
@@ -137,31 +136,38 @@ Sum of type 1 equations
 This is a proof. I prefer to see everything at a glimpse. That’s next. [pic.twitter.com/1nFvI9dwLa](https://t.co/1nFvI9dwLa)
 — Dan McQuillan (@normalsubgroup) [February 8, 2020](https://twitter.com/normalsubgroup/status/1226212401135128578?ref_src=twsrc%5Etfw)
 
-Post Reflection:
+## Post Reflection
 
 Linear algebra just reorganizes the area math so there is a fairly simple area ratios proof embedded in above. Now that I'm looking for it here's how it goes:
 
-1.  $ |A_1| = 2  | A_0| $  from the 1:2 ratio across AB
+1.  $ \|A_1\| = 2 \| A_0\| $  from the 1:2 ratio across AB
 
-2. $ 2 \cdot ( |A_1| + |A_2|) = |A_6| + | A_7| + |A_8|  $ from the 1:2 ratio across BC
+2. $ 2 \cdot ( \|A_0\| + \|A_1\|) = \|A_6\| + \| A_7\| + \|A_8\| $ from the 1:2 ratio across AC
 
-So this combines to say  $ |A_6| + | A_7| + |A_8| + |A_0|  = 7 | A_0| $  and this is also 1/3 of the entire triangle. The same logic can be repeated symmetrically. around the triangle.
+So this combines to say $ \|\triangle{AIC}\| = \|A_6\| + \| A_7\| + \|A_8\| + \|A_0\|  = 2 \cdot( \|A_0\| + \|A_1\|) + \|A_0\| = 2 \cdot (\| A_0\| + 2\|A_0\|) + \|A_0\| = 7 \| A_0\| $ and this is also 1/3 of the entire triangle from the base  AI being 1/3 of AB . The same logic can be repeated symmetrically. around the triangle.
 
-The total area of the triangle is therefore $ 21 |A_0| $ and we can repeat the logic from the first proof to conclude the inner triangle must be $ 3 | A_0| $ .
+The total area of the triangle is therefore $ 21 \|A_0\| $ and we can repeat the logic from the first proof to conclude the inner triangle must be $ 3 \| A_0 \| $ .
 
 ![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/blogger_93842906.JPG)
 
-Part III
-And then @MirceaSci chimed in with a really lovely translation visual proof of a way to produce a dissection showing the same result! Note this is an extension of the parallel line logic I used in Part I to find the crucial last  dissection but not a direction I would have thought of going. If one parallel lines adds clarity what if you add all the parallel lines?
+## Part III
+And then @MirceaSci chimed in with a really lovely translation visual proof of a way to produce a dissection showing the same result! **Note** this is an extension of the parallel line logic I used in Part I to find the crucial last  dissection but not a direction I would have thought of going. If one parallel lines adds clarity what if you add all the parallel lines?
 
-I liked your thread a lot. But I kept thinking: "If the answer is so nice, maybe there's a faster proof?"
+**Note: this tweet is also lost but the animation below is not**
+
+"I liked your thread a lot. But I kept thinking: "If the answer is so nice, maybe there's a faster proof?"
 
 So here's another proof:
 
 1) Up to affine transformation, assume we start off with an equilateral triangle.
 
-2) Then stare at the below figure long enough. [pic.twitter.com/9LLiwkqSKz](https://t.co/9LLiwkqSKz)
+2) Then stare at the below figure long enough. [pic.twitter.com/9LLiwkqSKz](https://t.co/9LLiwkqSKz)"
 — Mircea Petrache (@MirceaSci) [February 9, 2020](https://twitter.com/MirceaSci/status/1226327023536107523?ref_src=twsrc%5Etfw)
 
 @ilarrosac made a real nice animation of the affine transformation/dissection:
 
+
+<video width="100%" controls>
+  <source src="{{ '/assets/videos/triangle-disect.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
