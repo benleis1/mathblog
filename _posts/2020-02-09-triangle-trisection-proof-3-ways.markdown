@@ -183,13 +183,13 @@ Linear algebra just reorganizes the area math so there is a fairly simple area r
 
 * $ 2 \cdot ( \|A_4\| + \|A_5\|) = \|A_1\| + \| A_2\| + \|A_3\| $ from the 1:2 ratio across BC
 
-So this combines to say $ \|\triangle{ACG}\| = \|A_1\| + \| A_2\| + \|A_3\| + \|A_4\|  = 2 \cdot( \|A_4\| + \|A_5\|) + \|A_4\| = 2 \cdot (\| A_4\| + 2\|A_4\|) + \|A_4\| = 7 \| A_4\| $ and this is also 1/3 of the entire triangle from the base  AI being 1/3 of AB . The same logic can be repeated symmetrically around the triangle.
+So this combines to say $ \|\triangle{ACG}\| = \|A_1\| + \| A_2\| + \|A_3\| + \|A_4\|  = 2 \cdot( \|A_4\| + \|A_5\|) + \|A_4\| = 2 \cdot (\| A_4\| + 2\|A_4\|) + \|A_4\| = 7 \| A_4\| $ and this is also 1/3 of the entire triangle from the base  AG being 1/3 of AB . The same logic can be repeated symmetrically around the triangle.
 
-The total area of the triangle is therefore $ 21 \|A_0\| $ and we can repeat the logic from the first proof to conclude the inner triangle must be $ 3 \| A_0 \| $ .
+The total area of the triangle is therefore $ 21 \|A_4\| $ and we can repeat the logic from the first proof to conclude the inner triangle must be $ 3 \| A_4 \| $ .
 
 ![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/blogger_93842906.JPG)
 
-## Part III
+## Part III - Translations
 And then @MirceaSci chimed in with a really lovely translation visual proof of a way to produce a dissection showing the same result! **Note** this is an extension of the parallel line logic I used in Part I to find the crucial last  dissection but not a direction I would have thought of going. If one parallel lines adds clarity what if you add all the parallel lines?
 
 "I liked your thread a lot. But I kept thinking: "If the answer is so nice, maybe there's a faster proof?"
