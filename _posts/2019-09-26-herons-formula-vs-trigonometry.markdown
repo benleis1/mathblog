@@ -11,7 +11,7 @@ author: me
 
 This random pedagogical thought occurred to me today: Both  [Heron's Formula]({% post_url 2017-10-21-herons-formula %}) and the Law of Cosines provide ways to find the area of a triangle with just its 3 sides. Does it makes sense to teach both and/or is there much efficiency difference in using them?
 
-**Heron's Formula **
+## Heron's Formula 
 
 Given a triangle with side lengths a,b and c.  Let $s = \dfrac{a + b + c}{2} $
 
@@ -19,7 +19,7 @@ Area = $ \sqrt{s \cdot (s - a) \cdot (s - b) \cdot (s -c) }  $
 
 This tends to be messy given the large product that you then need to find the square root of.
 
-**Law of Cosines:**
+## Law of Cosines
 
 Given the same triangle with side lengths a,b and c we can also find area via trigonometry.  (Note: *how often is this emphasized as possible?)*
 
@@ -33,7 +33,7 @@ Area =  $ \frac{1}{2} ab \cdot  \sin \theta = \dfrac{1}{4} \sqrt{ 4a^2b^2  -(
 
 Notably, if I kept simplifying the trigonometric version I would eventually end up with Heron's formula so they are not too far apart But in practice the arithmetic looks a bit different.
 
-**Why is this Happening?**
+## Why is this Happening?
 
 In one sense since the side lengths do uniquely determine the area of a triangle its not surprising that you get the same formula via both methods. On the other hand it still seemed mysterious to me at first.
 
@@ -65,7 +65,7 @@ It turns out we derive the law of Cosines from the same construction.
 
 In retrospect, its more surprising that the two forms look as different than they do and its mostly due to what terms are kept and how the trig approach preserves many of the intermediate steps Heron's Formula has condensed.
 
-Computation Example:  
+## Computation Example
 
 Taking the paradigmatic 13-14-15 triangle which has very friendly values.
 
