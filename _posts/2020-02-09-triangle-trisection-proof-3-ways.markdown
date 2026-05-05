@@ -179,11 +179,11 @@ Taking a look at the final 10x10 matrix, we can see  there is both a great deal 
 
 Linear algebra just reorganizes the area math so there is a fairly simple area ratios proof embedded in above. Now that I'm looking for it here's how it goes:
 
-* $ \|A_1\| = 2 \| A_0\| $  from the 1:2 ratio across AB
+* $ \|A_5\| = 2 \| A_4\| $  from the 1:2 ratio across AB
 
-* $ 2 \cdot ( \|A_0\| + \|A_1\|) = \|A_6\| + \| A_7\| + \|A_8\| $ from the 1:2 ratio across AC
+* $ 2 \cdot ( \|A_4\| + \|A_5\|) = \|A_1\| + \| A_2\| + \|A_3\| $ from the 1:2 ratio across BC
 
-So this combines to say $ \|\triangle{AIC}\| = \|A_6\| + \| A_7\| + \|A_8\| + \|A_0\|  = 2 \cdot( \|A_0\| + \|A_1\|) + \|A_0\| = 2 \cdot (\| A_0\| + 2\|A_0\|) + \|A_0\| = 7 \| A_0\| $ and this is also 1/3 of the entire triangle from the base  AI being 1/3 of AB . The same logic can be repeated symmetrically around the triangle.
+So this combines to say $ \|\triangle{ACG}\| = \|A_1\| + \| A_2\| + \|A_3\| + \|A_4\|  = 2 \cdot( \|A_4\| + \|A_5\|) + \|A_4\| = 2 \cdot (\| A_4\| + 2\|A_4\|) + \|A_4\| = 7 \| A_4\| $ and this is also 1/3 of the entire triangle from the base  AI being 1/3 of AB . The same logic can be repeated symmetrically around the triangle.
 
 The total area of the triangle is therefore $ 21 \|A_0\| $ and we can repeat the logic from the first proof to conclude the inner triangle must be $ 3 \| A_0 \| $ .
 
