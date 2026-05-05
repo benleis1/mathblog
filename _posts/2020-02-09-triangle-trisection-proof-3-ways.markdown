@@ -7,7 +7,7 @@ tags:
 author: me
 ---
 
-## Part I
+## Part I - My first method via triangle areas
 
 ![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/blogger_5fd057d3.JPG)
 
@@ -15,13 +15,21 @@ Given any triangle that  has each of its sides trisected as above.  Find the a
 
 I originally saw this problem a few years back over at: [http://furthermaths.org.uk/favourite](http://furthermaths.org.uk/favourite). And I found it a fun puzzle to work on myself as well as fairly confounding for the kids when I tried it out on them.
 
-A lot of my original thinking revolved around dissections of the triangles.  For example:
+A lot of my original thinking revolved around dissections of the triangles and applies this basic theorem
+
+<div class=boxed markdown=1>
+Given 2 triangles with the same altitude, their area's are proportional to their base lengths.
+</div>
+<p/>
+
+For example:
 
 - Each of the sub triangles AIC, BHC and ABD have a base that's one third of the side of the total triangle and since they all have the same height as the original triangle, they are all 1/3 of the total area.
 
+
 ![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/blogger_8f44efd2.JPG)
 
-Example: shaded ABD which is 1/3 of the total.
+Example: the area shaded triangle ABD is 1/3 of the total area of ABC.
 
 There are several other natural dissections that you can add onto this:  For any of the sub-triangle above you can add in some lines and divide it into thirds again:
 
@@ -57,94 +65,125 @@ And those relationships now let us subdivide ACI and find the purple section AIJ
 
 This can be repeated for all the purple triangles. Interestingly since the argument is the same *each ends of having the same area despite their different shapes*. And their areas' sum is $ 3 \cdot \frac{1}{21} $ Total Area which is $ \frac{1}{7}$ . From above we know this also the area of the inner brown triangle.
 
-## Part II
+## Part II - Linear Algebra
 
-What if you could reason about the subdivision in a totally different way using linear algebra? That surprising approach was exactly what @normal_subgroup tweeted the other day.  He starts with the same basic subdivisions I had played with. And then thinks of each sub piece's area as an unknown variable. All the area relations give us 10 equations in 10 unknowns and then we can turn it all into a matrix!
+What if you could reason about the subdivision in a totally different way using linear algebra? That surprising approach was exactly what @normal_subgroup tweeted the other day.  He starts with the same basic subdivisions I had played with. And then thinks of each sub piece's area as an unknown variable. All the area relations give us 10 equations in 10 unknowns and then we can turn it all into a matrix! *I rewrote this argument after the original tweets became inaccessible*
 
 ![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/blogger_5d0ce0e6.JPG)
 *Baseline dissection and sub triangles*
 
-**Note: these tweets have become damaged in the intervening years - you can skip to Post Relfection to see a synopsis**
-
-(5/n) The Linear Algebra Attitude:
+Dan's main process or as he calls it the "linear algebra attitude". 
 
 - write down connections
-
 - see if they’re enough to achieve the goal
+- if possible, find independent connections
 
-- if possible, find independent connections 
+What follows is a condensed version of the original tweets.
 
-1st connection: 2sA+2sB+2qB = T+sC+qA+qC
+### Initial Dissection 
 
-There are 2 other similar equations of the same “type”, as shown [pic.twitter.com/lLrsDg8KO4](https://t.co/lLrsDg8KO4)
-— Dan McQuillan (@normalsubgroup) [February 8, 2020](https://twitter.com/normalsubgroup/status/1226154048765800450?ref_src=twsrc%5Etfw)
+![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/basic.png )
 
-(6/14) This is *not* enough, so we draw a line to break up a quadrilateral into 2 new triangles (“n” is for “new”). 
+The first and most basic equation is that the sum of the areas of all the triangles is the total area of ABC which we will set to 1 without loss of generality.
 
-nC’ (respectively nC’’) is the area of a new triangle with C’ (respectively C’’).
+$$I_1 + I_2 + I_3 + I_4 + I_5 + I_6 + C = [ABC] = 1$$
 
-Thus qB=nC+nC’’ 
+### Connection 1
 
-This suggests a complete refinement of notation, without q: [pic.twitter.com/rP6RVrMnZW](https://t.co/rP6RVrMnZW)
-— Dan McQuillan (@normalsubgroup) [February 8, 2020](https://twitter.com/normalsubgroup/status/1226156419931680768?ref_src=twsrc%5Etfw)
+At this point there are 7 variables and 1 equation so we need to find 6 more in order to solve.
 
-(7/14) Adjusted notation means we will redo the type 1 equations, but that’s easy and can wait.
+So now we'll hunt for other connections.
 
-The exciting thing is that we get *two* new types of connections.
+![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/conn1.png )
 
-First, the “type 2” equations. As usual, the highlighted blue triangle has twice the area as the red one beside it: [pic.twitter.com/ufu02cRIZQ](https://t.co/ufu02cRIZQ)
-— Dan McQuillan (@normalsubgroup) [February 8, 2020](https://twitter.com/normalsubgroup/status/1226157803448000512?ref_src=twsrc%5Etfw)
+Like in my original proof Dan uses the 1:2 ratio of sides to find ratios of areas. 
+So for example on side AB we have:
 
-(8/14) the 3rd type, “type 3 equations” feel lucky at first, as we did not need to draw extra lines to see them! 
+$$ 2(I_1 + I_2 + I_3) = I_4 + I_5 + I_6 + C$$
 
-(If you tried this problem before, try it again now! Also, I have to shovel again, a lot of shoveling—and feeezing rain is mixed in it—argh!) [pic.twitter.com/DpTrgWG8yY](https://t.co/DpTrgWG8yY)
-— Dan McQuillan (@normalsubgroup) [February 8, 2020](https://twitter.com/normalsubgroup/status/1226159382578257920?ref_src=twsrc%5Etfw)
+And since this diagram is symmetrical there are 2 other variants of this equation and only three more equations are needed.
 
-(9/14) The Goal: proving (understanding) that
+### Connection 2
 
-7T=sum of all ten variables
+At this point Dan had to draw more lines to create further relationships and he also turned to the segments I chose in my first proof which split each of the quadrilaterals into triangles. (That's fairly natural since triangles are easier to reason about) 
 
-However (because linear algebra!) we rewrite as:
+![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/relabel.png )
 
-6T-(sum of other nine variables)=0
+This has added more triangles (we're up to 10 vs 7)  which I've relabeled in the diagram. There still are the original identified 4 relationships which rewritten as follows
 
-Arranging variables to make the matrix look nice helps. I’ll omit 0s from it, and leave “The Goal” in red at the top: [pic.twitter.com/VoJqG1nUYI](https://t.co/VoJqG1nUYI)
-— Dan McQuillan (@normalsubgroup) [February 8, 2020](https://twitter.com/normalsubgroup/status/1226204948054056962?ref_src=twsrc%5Etfw)
+$$A_1 + A_2 + A_3 + A_4 + A_5 + A_6 + A_7 + A_8 + A_9 +  C = 1$$
 
-(10/14) Now to rewrite the “type 1” equations with the new notation, and for the matrix.
+and the 3 relationships of the form:
 
-I’ll do the first one in detail and just summarize the results in the next tweet. It looks really nice! [pic.twitter.com/0Wjj23qm7f](https://t.co/0Wjj23qm7f)
-— Dan McQuillan (@normalsubgroup) [February 8, 2020](https://twitter.com/normalsubgroup/status/1226207810905616386?ref_src=twsrc%5Etfw)
+$$ 2(A_1 + A_2 + A_3 + A_4) = A_5 + A_6 + A_7 + A_8 = A_9 + C$$
 
-(11/14) This symmetric matrix has so much symmetry!
+What nice is now this now adds on 2 more sets of related triangles.
 
-The first row (red) is there to remember the goal; then 3 rows of type 1 equations, 3 rows of type 2 equations (rewritten) and 3 rows of type 3 equations.
+![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/conn2.png )
 
-Adding all type 1 and type 2 equations together gets us *really close* [pic.twitter.com/pWjYLoFvpE](https://t.co/pWjYLoFvpE)
-— Dan McQuillan (@normalsubgroup) [February 8, 2020](https://twitter.com/normalsubgroup/status/1226210382836125705?ref_src=twsrc%5Etfw)
+The red and blue triangles give us $ 2 \cdot A_4 = A_5 $ and 2 other variants of this on the other sides of the triangle.
 
-(12/14) So, it’s not hard to get the goal (1st row) from combining the other 9 rows. 
+![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/conn3.png )
 
-Sum of type 1 equations
+Then the slight larger red and blue triangle lead to 3 equations for the triangle ratios of the form $2\cdot(A_3 + A_4) = A_5  + A_6 + C$
 
-+ sum of type 2 equations
+So we now have enough equations to make a full 10x10 matrix. To fit the matrix form all of the 9 equalities of the form X = Y are instead written a X - Y = 0,
 
-+ twice the sum of type 3 equations
+Note 1st row is the overall areas, next 3 are from 3 connections in order.
 
-= The Goal
+$$ \begin{bmatrix} 
+1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1  \\ 
+2 & 2 & 2 & 2 & -1 & -1 & -1 & -1 & -1 & -1 \\
+2 & -1 & -1 & -1 & -1 & -1 & 2 & 2 & 2 & -1 \\
+-1 & -1 & -1 & 2 & 2 & 2 & 2 & -1 & -1 & -1 \\
+2 & -1 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+0 & 0 & 0 & 2 & -1 & 0 & 0 & 0 & 0 & 0 \\ 
+0 & 0 & 0 & 0 & 0 & 0 & 2 & -1 & 0 & 0 \\
 
-This is a proof. I prefer to see everything at a glimpse. That’s next. [pic.twitter.com/1nFvI9dwLa](https://t.co/1nFvI9dwLa)
-— Dan McQuillan (@normalsubgroup) [February 8, 2020](https://twitter.com/normalsubgroup/status/1226212401135128578?ref_src=twsrc%5Etfw)
+2 & -1 & -1 & 0 & 0 & 0 & 0 & 0 & 2 & -1 \\
+0 & 0 & 2 & 2 & -1 & -1 & 0  & 0 & 0 & -1 \\
+0 & 0 & 0 & 0 & 0 & 2 & 2 & -1 & -1 & -1 \\
+	
+\end{bmatrix}
+	
+\cdot \begin{bmatrix}
+A_1 \\
+A_2 \\
+A_3 \\
+A_4 \\
+A_5 \\
+A_6 \\
+A_7 \\
+A_8 \\
+A_9 \\
+C \\
+\end{bmatrix}
+= \begin{bmatrix}
+1 \\
+0 \\
+0 \\
+0 \\
+0 \\
+0 \\
+0 \\
+0 \\
+0 \\
+0 \\
+\end{bmatrix}
+$$
 
-## Post Reflection
+Taking a look at the final 10x10 matrix, we can see  there is both a great deal of symmetry and it already has a lot of zeros. The Gaussian elimination process to diagonalize falls out much quicker because of those properties.  (I'll leave that process as an exercise for the reader)
+
+
+## Refinement from above
 
 Linear algebra just reorganizes the area math so there is a fairly simple area ratios proof embedded in above. Now that I'm looking for it here's how it goes:
 
-1.  $ \|A_1\| = 2 \| A_0\| $  from the 1:2 ratio across AB
+* $ \|A_1\| = 2 \| A_0\| $  from the 1:2 ratio across AB
 
-2. $ 2 \cdot ( \|A_0\| + \|A_1\|) = \|A_6\| + \| A_7\| + \|A_8\| $ from the 1:2 ratio across AC
+* $ 2 \cdot ( \|A_0\| + \|A_1\|) = \|A_6\| + \| A_7\| + \|A_8\| $ from the 1:2 ratio across AC
 
-So this combines to say $ \|\triangle{AIC}\| = \|A_6\| + \| A_7\| + \|A_8\| + \|A_0\|  = 2 \cdot( \|A_0\| + \|A_1\|) + \|A_0\| = 2 \cdot (\| A_0\| + 2\|A_0\|) + \|A_0\| = 7 \| A_0\| $ and this is also 1/3 of the entire triangle from the base  AI being 1/3 of AB . The same logic can be repeated symmetrically. around the triangle.
+So this combines to say $ \|\triangle{AIC}\| = \|A_6\| + \| A_7\| + \|A_8\| + \|A_0\|  = 2 \cdot( \|A_0\| + \|A_1\|) + \|A_0\| = 2 \cdot (\| A_0\| + 2\|A_0\|) + \|A_0\| = 7 \| A_0\| $ and this is also 1/3 of the entire triangle from the base  AI being 1/3 of AB . The same logic can be repeated symmetrically around the triangle.
 
 The total area of the triangle is therefore $ 21 \|A_0\| $ and we can repeat the logic from the first proof to conclude the inner triangle must be $ 3 \| A_0 \| $ .
 
@@ -153,18 +192,19 @@ The total area of the triangle is therefore $ 21 \|A_0\| $ and we can repeat the
 ## Part III
 And then @MirceaSci chimed in with a really lovely translation visual proof of a way to produce a dissection showing the same result! **Note** this is an extension of the parallel line logic I used in Part I to find the crucial last  dissection but not a direction I would have thought of going. If one parallel lines adds clarity what if you add all the parallel lines?
 
-**Note: this tweet is also lost but the animation below is not**
-
 "I liked your thread a lot. But I kept thinking: "If the answer is so nice, maybe there's a faster proof?"
 
 So here's another proof:
 
 1) Up to affine transformation, assume we start off with an equilateral triangle.
 
+![]({{ site.baseurl }}/assets/img/triangle-trisection-proof-3-ways/translation.png )
+*Reconstruction of tweet image - showing the parallelogram and congruent triangles formed*
+
 2) Then stare at the below figure long enough. [pic.twitter.com/9LLiwkqSKz](https://t.co/9LLiwkqSKz)"
 — Mircea Petrache (@MirceaSci) [February 9, 2020](https://twitter.com/MirceaSci/status/1226327023536107523?ref_src=twsrc%5Etfw)
 
-@ilarrosac made a real nice animation of the affine transformation/dissection:
+@ilarrosac made a real nice animation of the transformation/dissection (without the affine transform to an equilateral triangle):
 
 
 <video width="100%" controls>
