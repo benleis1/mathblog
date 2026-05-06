@@ -207,7 +207,7 @@ So here's another proof:
 @ilarrosac made a real nice animation of the transformation/dissection (without the affine transform to an equilateral triangle):
 
 
-<video width="100%" controls>
+<video class="native-width" autoplay loop muted playsinline  controls>
   <source src="{{ '/assets/videos/triangle-disect.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
