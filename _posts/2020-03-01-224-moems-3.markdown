@@ -1,0 +1,23 @@
+---
+title: "2/24  Moems #3"
+date: 2020-03-01 21:13:00 +0000
+author: me
+---
+
+We spent another week catching up on MOEMS tests. This unfortunately doesn't make for exciting write ups because I'm not supposed to directly discuss the questions. However, I will make one note on the structure: I liked how this time reused many of the problem structures from #2.  I noticed already during the testing that  the increased familiarity helped. Even though the problems were a bit harder more of the students seemed to be able to solve them.
+
+I made one mistake, forgetting to print a puzzle for fast finishers which I will try to not repeat. On the other  hand, I also took advantage of going over one of the questions asked during test test when we were all done:
+
+*"Is zero even or odd?"*
+
+This is a great question to talk about so I  structured this as a loose debate with a survey of what everyone believed and then individual defenses of their position.
+
+Ideas:
+
+- The idea 0 was between -1 and 1 and they were both odd so it must be even
+- Zero is a multiple of 2.
+- Its of the form 2x
+
+One highlight of the day was a student whom I've observed being a bit down the last few weeks volunteered several demos on the whiteboard after we were done taking the exam. That gave me an opportunity to offer some authentic praise.
+
+Overall, we still have to cram in 2 more sections of the test before the end of the March and there is so much other stuff I want to cover. I'm already planning ahead for Pi Day and thinking about more art projects.   Plus there are persistent worries that we might get cancelled due to the Corona Virus ouitbreak.  Interesting times ...

@@ -1,0 +1,15 @@
+---
+title: "12/17 Math Olympiad 2"
+date: 2014-12-18 17:20:00 +0000
+author: me
+---
+
+So MOEMS released the January test last week and I realized that given our school schedule it would  be best to run the contest this week rather than scramble when everyone came back and on the first day of the new quarter.  Thus, I tabled my ideas for this week in favor of the contest.
+
+To start off with I had the kids play the game of 100. Where you break into pairs and each kid takes turn adding the number 1 - 10 to a sum, the first to get to 100 wins.  That went well and at least 3 kids came up with the idea that if they made it to 89 first they would win while I walked around and observed. I then had everyone talk about it. My next question was what if we play the game of 89? A few more kids finally arrived at the need to get to 78. I then repeated the question with the game of 78 and the recursion fell out very quickly then.
+
+Onto the test. I had more problems with chatting than last time and I may want to spread the kids out next time.  This time around I stressed about checking both your answers and the question itself to make sure you answered the right thing as well as signing your name. (I still had one girl forget to do so)  Also this test had some terminology like counting numbers instead of whole numbers and meets instead of games that a few kids didn't recognize. Overall there was one 3-d surface area question that I thought would be the most difficult which proved true.  It might be useful to practice such problems again in the future and talk about strategies more.
+
+At the end, we regrouped and talked through the answers to the problems together. At one point I had 3 kids up on the whiteboard trying to work out the surface area question which was fun to watch.  Interestingly when I graded the tests at home this turned out to be a hard one for the kids. I'm having an internal debate about whether to work more practice problems as a group next quarter vs. doing less structured explorations. I really want to go off and explore the Pythagorean theorem and the square root of 2.
+
+I'm also reluctantly coming to the conclusion that group snack is not that great of an idea. It still causes too much boisterous behavior. I'll stick with it for this year but probably not beyond that unless things improve.

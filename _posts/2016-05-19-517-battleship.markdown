@@ -1,0 +1,33 @@
+---
+title: "5/17 Battleship"
+date: 2016-05-19 04:46:00 +0000
+author: me
+---
+
+The kids surprised me twice today during Math Club. We started by going over the Math Counts problem of the week I tried out: [https://www.mathcounts.org/sites/default/files/images/potw/pdf/PoTW%20021516%20Solutions.pdf](https://www.mathcounts.org/sites/default/files/images/potw/pdf/PoTW%20021516%20Solutions.pdf)
+
+I had assumed that most of the kids wouldn't finish the four parter and I'd be lucky to get some discussions about even the first section. Instead I had kids volunteering to answer every part on the whiteboard and they even caught the leap year logic. I'll definitely have to try some more sets from here.
+
+Secondly: I decided to talk a bit about the Math Counts final problem: See: [517-battleship]({% post_url 2016-05-19-517-battleship %})  This was fun since everyone is in fourth and fifth grade, no one even had heard of Math Counts. So it was a good chance to broaden their horizons and we had the local connection with the winner being from Seattle. I'm hoping that a good number of  the kids will participate when they are old enough. I had expected to do a longer white board session with some breakout brainstorming. But about **30 seconds** in one of the kids came up with key insight and announced the answer. There was nothing more to do but have him explain the logic to the room and write up some of the numbers on the whiteboard.  This was another high point for me for the year.
+
+I found a new warm up logic puzzle which we tried out next: [https://www.brainbashers.com/showbattleships.asp?date=0506&puzz=A&size=15 ](https://www.brainbashers.com/showbattleships.asp?date=0506&puzz=A&size=15)  These puzzles are built around battleship and involve figuring out the ship locations given counts from the rows and columns.
+
+!![](http://www.mountainvistasoft.com/images/wpc2000-prob6.gif)
+
+Based on partial feedback these were a big hit and I'm going to bring another more difficult set next week.
+
+Finally, I gave the kids a choice on the main activity again. I printed up another set of AMC8 questions to try out and also brought more graph paper for those who wanted to finish last week's project and make their own coordinate plane connect the dot puzzles.
+
+![]({{ site.baseurl }}/assets/img/517-battleship/blogger_fc7dcdd0.jpg)
+
+![]({{ site.baseurl }}/assets/img/517-battleship/blogger_92dbdcc6.jpg)
+
+Some sample products.
+
+This session there was enough time for some to finish and I had a few that said they'd work on them and bring them back next time. On reflection the one improvement here is I need to provide more feedback for the sample AMC8 tests. I think I'm going to repackage them in groups of 5 with an answer key. What I'd really like to do is to treat them like a MOEMS test and have the group go over them together but that requires me to not run two simultaneous activities.
+
+For the problem of the week I went with an easier  @five_triangles geometry puzzle:
+
+![]({{ site.baseurl }}/assets/img/517-battleship/blogger_334f24ed.jpg)
+
+Find the length of AB.

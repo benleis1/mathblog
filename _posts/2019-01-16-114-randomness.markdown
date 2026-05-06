@@ -1,0 +1,45 @@
+---
+title: "1/14 Randomness"
+date: 2019-01-16 17:31:00 +0000
+author: me
+---
+
+Going into today I wanted to do something interesting and non-competitive especially for the new kids who just joined. I have  MOEMS test I need to do in the next few weeks and MLK day is coming up and there will be no club that day.  So I was brainstorming over the weekend but then this interesting tweet from @davidwees showed up:
+
+!![](https://pbs.twimg.com/media/Dwg7BXBV4AAe_TE.jpg)
+
+I myself was interested in ideas about determining randomness and the more I thought about this problem, the more I liked working a session around it.
+
+So we started off, by reviewing the POTW. This one was from mathcounts:
+
+"The first three terms of an infinite arithmetic sequence are 3.46, 2.47 and 1.48, in that order. What is the first integer term in this sequence?"
+When I had picked it, at first glance I thought it was more interesting than I found it after looking more closely. As expected I had several solutions from the kids but it wasn't complex enough to generate good discussion.  I'm going to continue using some of their questions anyway for problems of the week until the actual MathCounts competition in February since I don't plan to do much prep in club.
+
+At this point I jumped right in. I had all the kids grab a whiteboard and split into 2 groups. The first group I gave coins to and told them all to toss them 50 times and record what they generated. The second group was told to just make up a random sequence of heads and tails trying to be as random as possible.
+
+![]({{ site.baseurl }}/assets/img/114-randomness/blogger_f5743559.jpg)
+
+Once I had about 10 whiteboards worth of sequences we did a group gallery walk at the front of the room and for each one we voted on whether it was human or coin generated and why.  This was effective for bringing out the idea that truly random sequences have long runs of heads and tails in them.
+
+So next, I asked everyone to generate coin tosses and count the length of the longest run.  Again after all the groups had tallied enough results, we averaged the gathered data as a group and found the EV was about 5.  During the followup group discussion I talked a bit about  [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) simulations and offered extra points if anyone could write a program and bring it back to do this process automatically.
+
+I also had the kids hypothesize about a formula for how long the sequence would be for a given number of tosses. I had toyed with the idea of building a proof that its logarithmic as a group but since we were half way done I left that off for today.
+
+Then we started the second half which was working on circular table permutations. We'd done a problem like this on a previous MOEMS contest and I thought a deep dive would pair well here. Again in groups the kids considered:
+
+- How many ways could King Arthur and 20 knights sit around the round table?
+- How many ways could I arrange 21 keys on a chain and was it different than the previous problem?
+
+I had prepared a followup group of combinatorics questions from the Berkeley Math Circle: 
+
+[https://mathcircle.berkeley.edu/sites/default/files/archivedocs/1998_1999/lectures/9899lecturepdf/Paul3.pdf](https://mathcircle.berkeley.edu/sites/default/files/archivedocs/1998_1999/lectures/9899lecturepdf/Paul3.pdf)
+
+But by the the we finished working the problems above there were only 5 minutes left so instead I handed out this interesting Sudoku variant puzzle I found on the MAA site:
+
+[https://www.maa.org/sites/default/files/pdf/Mathhorizons/pdfs/Sudoku_MH_Apr18.pdf](https://www.maa.org/sites/default/files/pdf/Mathhorizons/pdfs/Sudoku_MH_Apr18.pdf)
+
+Overall: I was fairly happy. If I repeated I think I would focus solely on coin tosses and spend the last 20 minutes making a demonstration of the logarithmic nature of the process or exploring another aspect of the randomness with them. I also had a bit more trouble than usual getting everyone to quiet down and listen so I'm planning to emphasize this at the start of next week. This hasn't been bad all Fall so hopefully a little attention now will course correct things. Also I'm thinking about 2 new boys who I want to more fully integrate in the group and how to work about doing this.
+
+POTW:
+
+[https://www.mathcounts.org/resources/problem-of-the-week](https://www.mathcounts.org/resources/problem-of-the-week)

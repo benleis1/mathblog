@@ -1,0 +1,39 @@
+---
+title: "1/17 3rd Olympiad"
+date: 2017-01-19 04:57:00 +0000
+tags:
+  - moems
+author: me
+---
+
+We started this week with the pdf from further maths that I gave out as a problem of the week: [http://furthermaths.org.uk/docs/FMSP%20Problem%20Poster%201.pdf](http://furthermaths.org.uk/docs/FMSP%20Problem%20Poster%201.pdf). To my satisfaction half the kids worked the problem so I had a lot of choices on whom to choose to show their work on the whiteboard. Thus I had a kid demoing who usually doesn't volunteer.  This problem is a clever riff on the Pythagorean theorem. Along the way I interrupted several times to draw out a few key ideas from the group  via questions i.e. how the Pythagorean theorem worked, the formula for a triangle's area, and the formula for the area of a half circle.  My only idea for improvement would be to draw out the area arithmetic at the end on top of the student explaining it to make sure the logic was clear.
+
+MOEMS
+
+Despite it being only the second Math club meeting for the quarter MOEMS released the third Olympiad for us to take. This was a bit too early for some of the kids' tastes and I elicited a few groans when I told everyone what we would be doing. I would also have preferred at least one more week before taking this on.  I have several topics I'd like to broach including exponents and I also want to throw in some more recreational math activities. But once we started, everyone worked very diligently on the contest and it appeared on a  quick glance that many of the kids found solutions to  most of the questions. So the experiment with the middle school level after a rocky start seems to be going well.
+
+Some general notes:
+
+- The first problem was rather clumsy and included the expansion for (a + b)^2 and then asked the kids to evaluate it for 2 specific values. I thought this was a failure on two scores. It was most likely to result in blind plugging in of numbers and the phrasing actually ended up confusing some of the kids. Interestingly some of them skipped using the formula entirely and just tried grinding through the calculations in the expanded form. In general, I'd save this one for Algebra when everyone has more background context.
+- The last problem involved some combinatorics which even I missed in my quick try out. Basically there was some normal combinations to sum but then you had to recognize one case was double-counted.  As expected almost everyone missed the hitch,
+- Embarrassingly this was the first time I could properly have the group go over the solutions together on the whiteboard at the end.  As usual, the kids were enthusiastic about showing off their work and finding out if they had the correct solutions. (Never wait or delay talking about problems as a group if you have the time).
+
+Games
+
+To make up for jumping into the contest, I picked some really fun activities for everyone to try out while they waited finishing. First up: Median [https://gilkalai.wordpress.com/2017/01/14/the-median-game/](https://gilkalai.wordpress.com/2017/01/14/the-median-game/) was awesome.  This game needs no more than a pencil and paper to keep score and yet has some really interesting game theory embedded within it. It was a bit tricky accumulating groups of 3 as the kids finished the contest. But beyond that the rules were simple enough for them to get going and soon you started hearing a steady 1,2,3 countdown coming from the clusters.  A few kids didn't initially realize the scores were cumulative and asked why you'd ever want to choose an 8 or 1. I replied that sometimes you want to lose in order to keep your overall score in the middle which highlighted that point. So I think I'm going to reuse the game at the start of the next session and do a group play once so we can have a formal discussion about what strategies everyone came up with. This one is highly recommended.
+
+I also finally got around to trying out tiny polka dot from Math4Love: [https://www.kickstarter.com/projects/343941773/tiny-polka-dot-the-colorful-math-game-for-young-ki](https://www.kickstarter.com/projects/343941773/tiny-polka-dot-the-colorful-math-game-for-young-ki).  This is really multiple games in one. Many of them are leveled for slightly younger children so I wasn't sure how it would go over. While the memory style variants and simple arithmetic weren't very interesting, the kids reported the pyramid variation of tiny polka dots was difficult and fun to try.
+
+![]({{ site.baseurl }}/assets/img/117-3rd-olympiad/blogger_513292bd.jpg)
+
+In this version you need to form a pyramid of 4 - 3 - 2- 1 cards where each layer of 2 cards when subracted  is the next one above. Note: you can try this out without any cards.  The goal is to use some of the blue and orange  numbers cards (each  between  0-10)  to produce this arrangement. 
+
+![]({{ site.baseurl }}/assets/img/117-3rd-olympiad/blogger_1a8d5270.jpg)
+
+(Solution completed at home by the beta tester who found this interesting enough to keep working on his own.)
+
+This all made me think of a tweet I read reflecting how the teacher didn't regret not using "competitive games" anymore. In my experience, games including competitive ones are always popular so I wondered  "Why the lack of love?"  It turns out some some games are just not very game like. What was being described here was a timed relay that pitted teams of students against each other. These type activities are really still just math exercises where the only way to win is to go faster.  They succeed or not based on the strength of the problems chosen and suffer from the serious drawback that often most of the kids are just waiting their turn to go. Generally, I try to never let kids wait around because mine at least will always find some other way to entertain themselves. (It generally involves crumpling up paper and throwing it at each other.)  Math Club or a regular class for that matter is too short to intentionally miss using ever minute anyway.  For me a successful Math game involves strategy or logic of its own and must always focus on play.  The Mathematics is embedded in the rules and not ancillary Preferably everyone is involved as much as possible of the time. You win by figuring out the game works and developing better strategies. These type games can be competitive or cooperative and still usually everyone has fun.
+
+P.O.T.W:
+
+[http://cemc.uwaterloo.ca/resources/potw/2016-17/English/POTWC-16-NN-PA-14-P.pdf](http://cemc.uwaterloo.ca/resources/potw/2016-17/English/POTWC-16-NN-PA-14-P.pdf)

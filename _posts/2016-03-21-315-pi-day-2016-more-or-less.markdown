@@ -1,0 +1,28 @@
+---
+title: "3/15 Pi Day 2016 (more or less)"
+date: 2016-03-21 04:34:00 +0000
+tags:
+  - pi day
+author: me
+---
+
+One of these years Pi Day will actually occur on the day Math Club meets. Until that happens it also serves as a demonstration of  approximation for the kids. Luckily, this year one of my parents volunteered to bring in the pie so the only extra item  I took with me this week was a pie server.  We started with pie in the cafeteria and while the parent handed out the apple pie I frantically tried to get my laptop and video projector working. As it turned out a recent update had broken my wifi so I made an emergency dash up to the fourth floor. Fortunately one of the fourth grade teachers generously let us use her projector.
+
+In the end, I was able to show the following Buffon's Needle video from numberphile:
+
+I personally still find it fairly amazing how pi can show up in a monte carlo simulation just involving sticks. The real advantage of a video here is doing this in club would take half of our time and not be nearly as likely to produce as good of an estimate. Hopefully it was as interesting for the fourth and fifth graders. I ended up cutting it a bit short at the calculus section and just talked about the principles involved in general terms.
+
+We then walked down to our regular space and continued with the problem of the day discussion.  See:  [Temple Riddle](https://drive.google.com/open?id=1aHsFdAcXHe-XXA65NkGNjkoVf6U2tZj6pX42L7dKUEs) The most important part of this discussion was bringing out the strategies the kids used. So I emphasized every time kids used various charts and notation to dissect the cases.  I'd definitely like to do some more casework type logic puzzles later this year.
+
+Next I  recapped our circumference discussion from two weeks ago [(see here)]({% post_url 2016-02-25-223-prepping-for-pi-day %}) and asked what other basic formula involving pi could they think of. After one false start, a student volunteered the  area of a circle = pi * r^2.  Like the last session, I broke the kids up into groups and asked them to brainstorm for a few minutes for reasons why this was true. Of all the kid's ideas, my favorite one was to take all the rings from center out to the circumference and add them together. The boy with the idea didn't know how to carry through with that and I ended up telling him that it would definitely work but we'd also need calculus to show it. On reflection while an integral would work, its also not necessary.   You can imagine unrolling the circumferences of the circle from the center outwards. The one by the center would 0 in length and the one at the edge 2 * r * pi.  Effectively if you wave your hands a bit about the rate change being regular you'd find yourself with a triangle with a height of 2 * pi * r and a base of r. So I'll come back to the idea this week (I really want to give credit for some good thinking too). 
+
+![]({{ site.baseurl }}/assets/img/315-pi-day-2016-more-or-less/blogger_83a14962.jpg)
+
+What I actually used next instead is a visual proof I also really like where you cut the circle into pi slices and approximate a rectangle.
+
+!![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/CircleArea.svg/220px-CircleArea.svg.png)
+For the back half of the session I ended up handing out a pi worksheet from Math Counts . (Which I unfortunately can't link to). Finally for the problem of the week I used a recent problem from @five_triangles.
+
+![]({{ site.baseurl }}/assets/img/315-pi-day-2016-more-or-less/blogger_961695d0.jpg)
+
+The problem is to find the missing triangle's area. This is a great one for my kids since it doesn't need anything more than some logic and knowledge of the triangle and parallelogram area formulas.

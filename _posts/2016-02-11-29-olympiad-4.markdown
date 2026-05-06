@@ -1,0 +1,37 @@
+---
+title: "2/9 Olympiad #4"
+date: 2016-02-11 22:20:00 +0000
+author: me
+---
+
+This week started with the kids getting agonizingly close (19/20 problem of the week points) to a reward. I'm hoping this tension plus the fact I printed this weeks problem up will lead to high participation rates next time. However, despite this I had a really satisfying answer to last week's problem which was to think more about the maximum number of tokens in the 4x4 no-rectangles problem.  One of my fourth graders came up with the following pigeon-hole proof that it could not be higher than 9.
+
+1. You can have 8 tokens at most without having a column with  3 tokens in it.
+
+2. To get to ten you have to columns with 3 tokens in it. **[Not strictly true there is a subcase here with 4 tokens in a column that is also provable]**
+
+3. If you have 2 columns with 3 tokens in it they must overlap on two rows forming a rectangle.
+
+![]({{ site.baseurl }}/assets/img/29-olympiad-4/blogger_0169b652.jpg)
+
+This was probably my favorite moment so far this year.
+
+For our main activity of the day, the club took the 4th MOEMS Olympiad. Overall this problem set was the best yet of the year despite an unintentional ambiguity in one of the questions that required me to accept two different answers.  There were two interesting observations that came out of it.
+
+1. A surprisingly large number of the kids did not know the definition of adjacency. I would not have predicted this going in.
+
+2. As usual many did not know what a counting number is. This I chalk up to our school curriculum which does not use that term. I believe it uses natural numbers instead.
+
+Because the problems were a bit hard/more interesting fewer kids finished early. I brought some follow-up kenken problems for them to do anyway. We're now up to 5x5 medium versions.
+
+Finally, everyone was generally enthusiastic about discussing their answers after we were done with the contest.  I did reasonably well choosing different people to answer each problem but there were maybe 4-6 kids who did not raise their hand. I'm going to try to track this and get them up more in the following weeks.
+
+Problem of the Week:
+
+Decode the following equation. Each letter stands for a unique digit.
+
+Hint: we’ve talked about a key idea that you’ll need to use to figure this out in an earlier week.
+
+YE * ME = TTT.
+
+[I unfortunately didn't catch the fact I used * for the multiplication symbol which can be confusing if you aren't a professional programmer.]

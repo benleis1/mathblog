@@ -1,0 +1,53 @@
+---
+title: "2016 Year in Review"
+date: 2016-06-23 19:17:00 +0000
+tags:
+  - math club ideas
+  - digression
+  - brainstorming
+author: me
+---
+
+With another year under my belt, its time to look back and think about what I've learned over the process.  (Here's my review from last year: [the-year-in-review]({% post_url 2015-06-11-the-year-in-review %}))   In many ways this year was easier than the first one. I had a much clearer idea about what to expect, what kinds of activities I would use and what  I wanted to work on specifically with my own practice.  But there were plenty of new things to discover. For one, the kids were mostly fourth graders rather than fifth so I knew from the start I needed to gear things a bit younger than last year.
+
+Homework
+
+This was my original plan for the year: [how-to-make-homework-work]({% post_url 2015-07-01-how-to-make-homework-work %}) which I stuck with. Overall, the problem of the week format was successful. On average I had about half the kids work on a problem every week and I never lacked kids to demonstrate solutions on the whiteboard. An unexpected side benefit was that parents often worked together with kids over the weekend on the problems.   That was great for two reasons. First I think its awesome to have families think about (low pressure) math together. Secondly, and unexpectedly parents often talked to me about how much they enjoyed the problems.  I think this format ended up giving them more insight into what their kids were doing and deepened their connection to the club. I'm wondering if next year I should expand the idea and create some kind of visually appealing chart/graph to motivate everyone. 
+
+Snacks 
+
+This year I only provided snacks occasionally for celebrations like Pi day or the last meeting of the year and as a reward for the group when collectively enough problems had been completed.  This  was a complete improvement over last year.  First this was much less work for me both in logistics and in managing messes and cleanup. There's also a well known psychological principle that comes into play: [https://www.psychologytoday.com/blog/brain-wise/201311/use-unpredictable-rewards-keep-behavior-going](https://www.psychologytoday.com/blog/brain-wise/201311/use-unpredictable-rewards-keep-behavior-going) . Unexpected treats are special and get everyone excited.  Even the uncertainty of when the kids would cross another threshold for completed assignments led to the kids encouraging each other to work on the Problem of the Week. 
+
+Videos
+
+I experimented with short videos mostly from Numberphile during the second half of the year. As expected these were effective at captivating the kids. I don't want to overuse videos but I think I'll continue targeted shorts that are thematically interesting. They are particularly good at bridge/transitions.
+
+Contests
+
+I'm still not really satisfied with the format of off-site contests. They still are too speed focused and I worry about the effect on morale when kids don't win. Once again, although I'm unlikely to make a change I wonder if I should just focus on MOEMS, the Julia Robinson Festival, AMC and maybe purple comet.  I'm going to try to more mindfully give out practice sets to do at home for the few other contest if we go.
+
+Structure
+
+I've been doing a lot of sessions with the following format recently.  First a whiteboard session for the problem of the week, then a warm-up puzzle followed by a choice of 2 main activities. This worked well at the end of the year when I felt the kids needed more choices to stay engaged. But I still have an aspirational goal that more sessions look like the Julia Robinson Festival with the kids going deep on a problem set. This cuts against many of my curriculum choices at the end of the year where I looked for different activities to engage the kids where I felt I was losing them.  Part of why I picked the Ulam Spiral investigation was for its graphic qualities for instance. I'm going to spend the summer brainstorming for more new ideas for next year. This is especially important since I won't be able to repeat many of this years material if most of the fourth graders return.  
+
+Small tweaks
+
+Small changes can be effective. After one session, a parent who had been helping out remarked I think it would be useful to have the kids put their backpacks on the side of the room so they aren't distracted by them.   I hadn't though much about this, other than a few kids were fooling around with their packs at the beginning of the club. But I thought the idea was reasonable and tried it out for the rest of the quarter. Sure enough, it did help establish  a starting routine and made things a bit smoother.
+
+Future Goals
+
+I  have some concrete ideas:
+
+- Register for both the Elementary and Middle School divisions of MOEMS. Most of the fifth graders should be capable of the higher level.
+- Participate in AMC8. I had toyed with this idea last summer and then decided the fourth graders were not ready for it yet.
+
+And then some bigger practices to  work on:
+
+- Better questions.  There's plenty of room still to improve on what I ask the kids as I go around the room or when they ask for help. 
+- Getting everyone to participate. I've been tracking who I call on but its still not perfect. Drafting quieter kids works to some extent for this piece. The main part of what I use the other parent volunteers for is to focus on kids who are stuck and unengaged and draw them back in. I'd say this year I achieved on average 75-80% engagement per week at any point in time on activities but that leaves 20% to aim for.
+- Maximizing open-ended activities.  I want to figure out a structure to let the kids report back what they discover and build on each other's observations. Right now when I'm having the kids investigate something like Ulam's spiral I don't  consistently build in a time for the group to discuss what they find and/or go back and look for deeper patterns.  It's tempting to let kids keep working when they are productive but the larger conversations are easy to short at the end.
+- Fighting answer seeking and modelling persistence. The first, I'm going to attack directly in our charter talks to start off. The second I still have no great answer for.
+
+And last but not least I'm working on expanding to 2 groups one for the fourth graders and one for the fifth. I have permission to use another room and about 5 people have expressed interest in helping. This will be a huge step for me and hopefully if successful ensure the club will continue after I'm gone.
+
+Topic Maps for this year: [http://mymathclub.blogspot.com/p/2015-2016-activity-map.html](http://mymathclub.blogspot.com/p/2015-2016-activity-map.html)

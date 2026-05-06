@@ -1,0 +1,18 @@
+---
+title: "12.8  (Math) Game Day"
+date: 2015-12-09 03:57:00 +0000
+author: me
+---
+
+This will be a shorter post than usual since I left my camera at home, I have a math contest to talk about after Saturday and today was all about play.
+
+I was originally inspired for today's math club by this post: [http://3jlearneng.blogspot.com/2015/12/solveme-mobiles-and-blockblobs.html](http://3jlearneng.blogspot.com/2015/12/solveme-mobiles-and-blockblobs.html) where Joshua was playing the blob game with his kids.  I thought my fourth graders would also likely get a kick out of this.  We have only 2 sessions left and at first  was going to save this for next week. But then MOEMS released the next Olympiad and that will take up most of the time then so I decided to focus on games for the whole session this week instead. What I like to do is provide several stations so kids can find something that resonates with them so I rounded the set out with
+
+- The rectange Blob game from above.
+- Dots [http://www.math.ucla.edu/~tom/Games/dots&boxes.html](http://www.math.ucla.edu/~tom/Games/dots&boxes.html)
+- Pente an old favorite of mine that I first played at the same age.
+- Prime Climb
+
+I started by going around the room and explaining the rules for each game. I could tell this was going to be compelling because I had to keep corralling kids to move to the next game and not just start on the one I had explained. I then let everyone go and play.  As I thought this was 100% absorbing for the entire room and kids had to be pried out by their parents at the end of the session. My favorite moment was having one of the kids who ordinarily is very hard to motivate volunteering the rules for a variant on Dots that she plays at home. I will definitely plan for an all game session next quarter as well. Ultimately 9-11 year olds are still just kids regardless of their math aptitude and they need to play and see math as fun not just school problems.
+
+For the problem of the week I chose: [http://cemc.uwaterloo.ca/resources/potw/2015-16/POTWC-15-DP-12-P.pdf](http://cemc.uwaterloo.ca/resources/potw/2015-16/POTWC-15-DP-12-P.pdf)  This one I think will be a bit easier than the last several weeks.

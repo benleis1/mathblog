@@ -1,0 +1,35 @@
+---
+title: "12/15 Olympiad #2"
+date: 2015-12-17 05:01:00 +0000
+tags:
+  - moems
+author: me
+---
+
+Once they get started, the MOEMS Olympiads come quite frequently. This month's version surprised me because in my first glance I had thought we had only had one prior to winter break.  So despite it being the end of the quarter we did the contest today instead of just a wrap up celebration.  As I mentioned last week, I jiggled my scheduling and did the [Math Game Day]({% post_url 2015-12-09-128-math-game-day %}) then to compensate for this.
+
+Before starting even the review of the problem of the week, I had everyone who went to the Knights of Pi contest give a trip report to the rest of the room. Amusingly, the most fascinating piece of information was the fact pizza was served at the end. Hopefully, this can increase interest for the next contests we go to.
+
+This month's MOEM Olympiad was surprising for another reason. When I went through it before hand I thought it would be particularly easy.  Each question took me under a minute and they seemed fairly straightforward except perhaps the last one which was still amenable to a guess and check strategy.  Nevertheless, in practice, the kids didn't do quite as well on this one as last month.   To start off as usual I gave my normal advice before starting.
+
+- Sign your name on the answer sheet. 
+- **Always read the questions carefully and make sure to answer what they are asking.**
+- If you have extra time, go back over your answers carefully and try to solve things a second way if you have lots of time to double check.
+
+Sadly, I had one kid forget to sign his name and then a bunch of kids failed #2.  The first problem had a version of find the smallest 3 digit even number that is a multiple of X.  So imagine my surprise when I walked around the room to see a particular odd number as a common answer to the problem.  I mentioned this when we were going over the problems to the room in the hopes that we avoid this on future tests,  I'm not sure exactly why this was so difficult for so many kids to parse. In general, this made me think of [mathmistakes.org](http://mathmistakes.org/) and I might start an external conversation there to see what people think are the best ways to correct this bad habit. I'm also hoping that this month's experience will be in everyone's mind next time and I think I'll emphasize it again before we start the next round. That said, the great thing about math contests in elementary school is they are basically a low stakes chance to practice and get better.
+
+Also based on a survey only about half the room caught the distributive law / regrouping problem (There's always one of these every time.) The rest continued to do the problem mechanically left  to right.  I've gotten into the habit of telling the kids to keep an eye out for it and that still doesn't quite stick yet. I'm very tempted to sneak some more examples of simple problems that are easier to do with some reordering or factoring. 
+
+And now for something fun. I'm moving forward on my plan to produce a t-shirt for the club. For the post contest activity I had everyone draw ideas for the t-shirt design.
+
+![]({{ site.baseurl }}/assets/img/1215-olympiad-2/blogger_a46b7e89.jpg)
+
+![]({{ site.baseurl }}/assets/img/1215-olympiad-2/blogger_5acf04cf.jpg)
+
+![]({{ site.baseurl }}/assets/img/1215-olympiad-2/blogger_30e47679.jpg)
+
+I plan to have the kids vote on the design to actually use when we get back next quarter. Speaking of which after bumping the cap up, I have completely filled the club and will have 18 members next time.
+
+Today was also personally very satisfying. At the very end one of the boys gave me this box of candy which I find touching.  Along the same lines I had another boy beg his Dad to stay until the end rather than leave early when he came to pick him up. Moments like these make me feel like I'm on the right track. Now I just have to make sure to have my kids sign the notes on the gifts we've bought for their own teachers.
+
+![]({{ site.baseurl }}/assets/img/1215-olympiad-2/blogger_a591bc24.jpg)

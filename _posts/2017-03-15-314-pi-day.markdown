@@ -1,0 +1,38 @@
+---
+title: "3/14 Pi Day"
+date: 2017-03-15 18:06:00 +0000
+tags:
+  - pi day
+author: me
+---
+
+[](https://www.blogger.com/)
+
+![]({{ site.baseurl }}/assets/img/314-pi-day/blogger_1af0388d.jpg)
+
+Every 7 years or so accounting for leap years, Pi day actually occurs on a Tuesday. Yesterday was the first time that occurred while I've  been running the Math Club. Because most of the kids were here last year I did not go over my usual conceptual question "Why is the circumference of a circle in a constant ratio with its radius, and why such a funny value?"
+
+**Recap**
+
+- 2016 [315-pi-day-2016-more-or-less]({% post_url 2016-03-21-315-pi-day-2016-more-or-less %})
+- 2015 [310-pi-day-approximately]({% post_url 2015-03-11-310-pi-day-approximately %})
+
+I fall into the camp that its fun to celebrate as long as something mathematically meaningful occurs during the party. I also try to de-emphasize anything to do with memorizing digits. So due to all the apple pies being taken this year I picked up a strawberry rhubarb pie at the local super market which I served as everyone arrived in the cafeteria. This kept the mess to a containable minimum and as expected the kids were all very excited by the treat.
+
+Like last year I decided to also do a pi day themed video after the following one showed up in one of my feeds:
+
+After we were done I had another NASA packet to try out:
+
+![]({{ site.baseurl }}/assets/img/314-pi-day/blogger_383de5de.jpg)
+
+[https://www.jpl.nasa.gov/edu/teach/activity/pi-in-the-sky-3/?linkId=22251075](https://www.jpl.nasa.gov/edu/teach/activity/pi-in-the-sky-3/?linkId=22251075)
+
+I tried this type material once before ([space map session]({% post_url 2016-02-03-22-space-math %})).  Since some of the kids liked it before, I thought 20-25 minutes would be about the right amount of time to try a similar activity again. I'm not completely keen on the formula plugging involved but in watching the kids, its actually useful every once in a while to use real, messy physical values and reason a bit how to apply basic geometry.
+
+Overall everything went smoothly including setting up the video (cabling + wifi). The setup time did mean the kids fooled around for the 2 minutes before I could start but that just took a little extra talk to get the room's attention and settle in.
+
+P.O.T.W.
+
+A not too hard but perhaps counter-intuitive circle property from brilliant.org
+
+[https://drive.google.com/open?id=1Mk0TI47IyBdvebbEZM_5Z-j1_83Hoaa14xMqvJIgE3I](https://drive.google.com/open?id=1Mk0TI47IyBdvebbEZM_5Z-j1_83Hoaa14xMqvJIgE3I)

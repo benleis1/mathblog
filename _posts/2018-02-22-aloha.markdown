@@ -1,0 +1,11 @@
+---
+title: "Aloha"
+date: 2018-02-22 04:09:00 +0000
+author: me
+---
+
+![]({{ site.baseurl }}/assets/img/aloha/blogger_1e231af4.jpg)
+
+I'm on mid winter break with the kids for the week in Oahu.
+
+In the meantime check out my collected problems which are almost at 30 in total: [http://mymathclub.blogspot.com/p/collected-problems-2.html](http://mymathclub.blogspot.com/p/collected-problems-2.html)

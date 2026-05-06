@@ -1,0 +1,21 @@
+---
+title: "Only a Guest"
+date: 2019-08-11 19:38:00 +0000
+author: me
+---
+
+Only a Guest
+
+![]({{ site.baseurl }}/assets/img/only-a-guest/blogger_ce958a11.jpg)
+
+*One of the nicer setups I had from a few years back*
+
+Thinking back I've shared five different classroom spaces over the last five years. They've ranged the gamut from a windowless room lacking chairs and desks where everyone sat on the floor to a large sunlit  and carpeted classroom.  The common thread running through them all is they were not mine. From the moment I step in and see a teacher's desk covered in their papers I'm keenly conscious of  intruding on someone else's domain. I know its hard on them too. When we start up each year,  I talk about respecting the space with the kids. At the end of each day I spend the last few minutes making sure to clean up and leave things as we found them.  Before turning out the lights I always take a last walk around to check for a missed mess. My goal is to be a good partner and leave no trace.
+
+When I started I probably would have said that windows were my favorite part of a room. I still think sunlight makes any space cheerful even when its late spring and the room is starting to feel uncomfortably warm and slightly "stuffy" from all the teenage bodies.   But I've grown more pragmatic. What I really want nowadays is lots of whiteboards that are free for use by the kids and clean floors.  Experience has shown carpet seems great in the abstract but unless you're vacuuming every day it quickly turns grimy.
+
+However, I still occasionally daydream about what I'd do if  I had a room of my own.  One truth that seeing so many pictures of other rooms online drives home: How you decorate a space is an aesthetic choice that reflects your personality even in the extreme case if that message is "Presentation is not important to me."  Like all questions of style there really is no one correct way to do it.   In fact, what I notice the most about classrooms is how little I notice about them after the first day. Even the most elaborate display quickly fades into the background and becomes just part of the out of focus visual tone of the room. If you asked me to describe a classroom poster from High School, I would draw a blank. I can barely remember ones from my kids classrooms from last year.  What tends to draw my attention more is the student work displayed on the walls. I really like the rotating artwork and posters.  In September I'm always struck by how empty the walls look. In June, I can barely find a bare patch, every inch is covered in artifacts reflecting students personality. opinions, and creations.
+
+I'm something of a minimalist. I don't really enjoy clutter.  But I think in my fantasy I'd leave a lot of space open to put up student work especially large pieces of Math art. I'd probably seed the room with a few pre-made pieces think a platonic solid or such until that could happen. And here's the key: I think the style of a room should match what's actually happening day to day. I'd try to be deliberate about creating time to do projects aimed at the wall spaces all year long.  Also I'd want the walls to not be static and slowly changing over the year.  Familiarity makes everything fade into the background.  The goal would be for some small part of room  to be new every few weeks even if all there was time and energy to switch was a single display.  That sense colors my other ideas. I'm excited by various posters from time to time. I've thought about how cool a math history timeline would be or a problem or puzzle of the month.  Ultimately I think all of these ideas are good in moderation but likely to have muted impact. The goal is a mostly a clean space well setup for doing math  that highlights a few changing elements within it.
+
+Which brings me full circle: I'm only a guest and have no control over the walls. But that has also taught me something interesting.  A room is what I make of it.  No one pays attention to the posters when we're doing something cool with Islamic geometric tessellations. I can't put a timeline on the wall but  none the less I can do a day themed around Math history. Its me and the relationship with the kids that makes the space not the other way around.  What I value and want to share doesn't need anything permanent: just me showing up.

@@ -1,0 +1,47 @@
+---
+title: "1/24 Curve Ball "
+date: 2017-01-26 05:47:00 +0000
+tags:
+  - exponents
+author: me
+---
+
+Sometimes random events complicate the best of planning. I was on my way to work when I received an email from my co-coach Kristie that  her plane was delayed and she was not going to make it back to town in time.  So I ended up taking both the fourth and fifth graders for Math club but I didn't have enough time to really modify what I had setup for the afternoon.  Off the bat, I knew there wouldn't be enough desk space for all the kids, the fourth graders hadn't done the problem of the week but I needed to review it since the fifth graders had and I also had picked a fairly formal main activity. Despite these concerns and fretting that it wouldn't be as fun for everyone, the day worked out generally well and the kids maintained their focus belying my worries.
+
+P.O.T.W.
+
+See: [http://cemc.uwaterloo.ca/resources/potw/2016-17/English/POTWC-16-NN-PA-14-P.pdf](http://cemc.uwaterloo.ca/resources/potw/2016-17/English/POTWC-16-NN-PA-14-P.pdf)    Once again, about half the kids completed the sheet which is a success in my book. That allowed me to pre-choose one boy to demo that doesn't talk as much. (That's a persistent goal of mine: get everyone talking in front of their peers as much as possible.)   His solution was a good example of using a targeted guess and check algorithm to quickly solve a linear equation.  This is the kind of informal algebraic reasoning that most of the kids have already developed.  Next, I had one of those moments. After asking for any different strategies one of the girls came up and proceeded to write down a system of linear equations and very competently solve them via substitution.  This was both awesome and hard.  I was fairly sure most of the fourth graders didn't follow this let alone the rest of the fifth graders. But developing the groundwork for substitution was clearly not going to happen.  So I made a strategic choice. I asked if anyone had any followup questions about the algebra, gave a quick talk about multiple strategies and how over time everyone would gain more tools and then moved on.
+
+Warm-up
+
+Fortunately I had already decided to repeat the game of Median from last  week: [117-3rd-olympiad]({% post_url 2017-01-19-117-3rd-olympiad %})  This required re describing the rules for everyone who was seeing it for the first time. We then did a communal set of rounds as a group with three volunteers.  Finally, I broke everyone up into trios and had them play with the guidance that they should look for strategies.    This time around, many of the kids noticed that ties were the most common outcome.  The general idea that if you were ahead then you should aim to lose rounds also was brought out. I ended with asking a take home question "Is Median like tic-tac-toe where three experienced will always end up in a draw?"
+
+Task
+
+For the main task for the club I chose some work on exponents which I structured around a whiteboard discussion, small group investigation and problem set.  First I wrote some sample numeric exponents like 2^3 on the board and asked for definitions of what an exponent means. Fortunately, one girl almost immediately put out the idea it was a shorthand for multiplication. That let me expand the sample exponents on the whiteboard a few times. I also demo'ed with variables like x^4 to show they were no different. My main message was that exponents are just repeated multiplication and that you can usually expand them out if you're unsure of the semantics. We then went over some common cases which I used the expansions to show how they worked.
+
+1. What happens when you multiply two exponents.
+
+2. What happens when you divide two exponents.
+
+In each case I asked for hypotheses first and then had the kids give me the answer once I expanded on the board.
+
+Next:  I asked what they thought the 0th power would equal i.e. 2^0.  Again,  I received the correct answer. But this time, I asked for reasons why this was true which was a little harder. After waiting a while, one of the kids came up with idea that it fit the pattern which I emphasized on the whiteboard. I then introduced the formal argument using the rules for exponent division.
+
+Next up was negative exponents. Again I asked for ideas from the room. This proved more confusing. Many kids believed they would probably produce a negative number. So I went back to the pattern chart and asked if negative exponents followed the pattern what should they be using the example of 2^-1.    I then demonstrated the formal argument using division again.
+
+For the last portion I asked if we had tried all the integers was their anything else we could use as the power?  There were a few jokes but no ideas so I threw out what's $9^\frac{1}{2} $?  For this one I decided we would do an extended brainstorming session in groups. So I wrote some more rational exponent examples on the board and asked the kids to work in a group and use what they knew about exponent rules so far to come up with ideas.  When they came back to share, I got a lot of interesting but not quite correct ideas. Many found patterns that worked for the sample exponents but were not generally true. So to close this section off I guided everyone through this type logic:
+
+$2^\frac{1}{2} \cdot  2^\frac{1}{2} = 2^1 $ using the general exponent multiplication laws.  This implies if $x = 2^\frac{1}{2} $ that $x^2 = 2$ and therefore x is $\sqrt{2}$.
+
+Problem set:
+
+Finally for the last 15 minutes of this session I had photocopied the review problems from the exponent chapter in the AoPS pre-algebra book. I had everyone work on these and floated around the room helping out and correcting any misconceptions I saw. As usual I'm never quite satisfied with this format. I assume that since the kids like to work together they will mostly catch each other's errors and raise their hand if they need help. But I still worry about errors creeping through.  However, I don't want to bring an answer sheet because that quickly degenerates into a line of kids asking me to check their work which is not scalable.  So this is still one area for me to think about improving.
+
+P.O.T.W:
+
+!![](https://pbs.twimg.com/media/C2tgsccUQAE4Bzd.jpg)
+
+Looking forward
+
+After this week I want to switch tacks again and work on something more free-form. I'm leaning towards trying out the knight's tour problem after watching a program from Natural Math.

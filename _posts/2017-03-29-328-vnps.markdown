@@ -1,0 +1,36 @@
+---
+title: "3/28 #VNPS"
+date: 2017-03-29 03:40:00 +0000
+tags:
+  - management
+  - general philosophy
+author: me
+---
+
+Today was a fascinating learning experiment for me. I recently watched the following lecture:
+
+[https://www.bigmarker.com/GlobalMathDept/Building-Thinking-Classrooms](https://www.bigmarker.com/GlobalMathDept/Building-Thinking-Classrooms) by Peter Liljedahl.
+
+Several of the ideas seemed relevant but I was particularly interested in his talk about the value of whiteboards  or VNPS (Vertical Non-Permanent Surfaces in his parlance) for working problems. I've talked previously about how I've been learning to more effectively use the double whiteboards in the room this year. Like previous years, I always have the kids demonstrate the solutions to problems on them like the Problem of the Week and after Olympiads I've taken to writing the problems across all the boards and doing a review  by moving among them rather than erasing and I'm more mindful of switching orientation and moving between the front and back ones for various transitions. But for the most part most group work I give out is done at the desk pods in groups with paper and pencil. Liljedahl's research suggests you can get much more effective engagement having kids work standing up on the boards. This is something I hadn't considered although I have always noticed the kids are irresistibly drawn to try and write with the markers.
+
+So I decided to dive right in and try out an experiment. I looked through some of the suggested problems on his website: [http://www.peterliljedahl.com/teachers/good-problem](http://www.peterliljedahl.com/teachers/good-problem) and noticed the four 4's one.  I use the game of 24 cards from time to time and actually had tried this exact exercise 2 years ago: [62-pentagrams-and-some-inspirational-math]({% post_url 2015-06-03-62-pentagrams-and-some-inspirational-math %}). The problem involves using four fours and any operations you'd like to derive the numbers 1 .. 30. For example:  (4 / 4) + (4 - 4) = 1 and  ( 4 / 4 ) +  ( 4 / 4 ) = 2.  Last time, I wasn't entirely happy with how things went. That gave me a baseline to compare today with.  So after a quick review of the problem of the week I decided to dive in.  First I gave out a blue marker to everyone and told them to form into group on the board and then I talked through the challenge.
+
+Results
+
+![]({{ site.baseurl }}/assets/img/328-vnps/blogger_10af1c57.jpg)
+
+![]({{ site.baseurl }}/assets/img/328-vnps/blogger_4d17af8b.jpg)
+
+![]({{ site.baseurl }}/assets/img/328-vnps/blogger_e010c45c.jpg)
+
+![]({{ site.baseurl }}/assets/img/328-vnps/blogger_ef0dc5e5.jpg)
+
+In the end, I thought this was a total success. All the kids worked excitedly at the boards this time versus two years ago. There was a fair amount of cross communication between the sides of the room as answers were discovered, A few times. I thought a kid was sitting down in a char to disengage, but in each case they were only thinking and then got up and went back to the board to write down a new idea. Afterwards even though I had brought boards games for an end of the quarter celebration some of them  even continued to work on the problem looking for solutions to 31, 32 etc.   **I'm definitely going to keep playing with this format. Perhaps this is also part of the answer for middle school next year.**
+
+I actually had my end of quarter / game day activities planned as well for the day. Since the kids had seen all the materials (pente, prime climb, terzetto, rush hour,tiny polka dots) and were excited to play with them the previous experiment was even more impressive. There was very little attempts to break out during the 20 minutes or so. In addition to the above mentioned games I also had [https://en.wikipedia.org/wiki/Sprouts_(game)](https://en.wikipedia.org/wiki/Sprouts_(game)) in hand to try out on the board.  This game was new to the group I thought this would dove-tail well with the previous activity.
+
+![]({{ site.baseurl }}/assets/img/328-vnps/blogger_1c689c4c.jpg)
+
+![]({{ site.baseurl }}/assets/img/328-vnps/blogger_b86717d5.jpg)
+
+We were a bit short on time due to being temporarily locked out of the room in the beginning so rather than having the entire group play, I strategically pulled pairs of kids out showed them the rules and had them try it out. In the end I probably drew about half of the Math Club in. We will be looking at Sprouts more in the future to look for patterns and strategy.

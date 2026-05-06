@@ -1,0 +1,23 @@
+---
+title: "3/8 Olympiad #5"
+date: 2016-03-12 05:40:00 +0000
+author: me
+---
+
+We finally reached the last Math Olympiad for the year. Earlier in the week I had received a mail from MOEMS giving some corrections for the third problem. So I tried to explain the ambiguity to the kids at the start of the test and totally flubbed it. I managed to completely mis-describe the problem basically the opposite of what the clarification email indicated and it took a followup question from one of the kids for me to realize what I had done.  I recovered and fixed my mistake but it was a bit mortifying. Moral of the story: not enough prep this week. And the secondary lesson, sometimes things go south and you have to recover and keep going.
+
+Overall this was the trickiest of the five tests. I haven't checked the results yet but I expect them to be a bit lower. I'm also delayed because a followup email from MOEMS indicated they are doing an appeal process about the problem question and to suspend entering scores until they decide what to do. 
+
+For the quicker students I brought another medium kenken which I actually had printed a few weeks earlier and not used yet.  This was accidental but actually is a fairly useful practice. Keeping a few fun extra activities in your back pocket (or math bag in my case) gives you a little insurance if an activity goes faster than expected.
+
+I really liked our whiteboard session afterwards when we discussed the answers. The kids surprised me with 5 different strategies for the first problem, a new record.  I'm also having pretty good luck getting everyone to listen through 20 minutes of the other kids showing how to work the problems. The one thing now is I sometimes see a kid patiently waiting their turn to show their ideas but not really listening to whether someone before them does the same thing. I usually try to link these explanations together afterward. For example, "That's great ___ we've now seen 2 different people using the distributive law to get problem b"  *I'm not sure whether there is anything to do about this phenomena.*
+
+For the problem of the week I chose a riddle from the recent TED talks: [Temple Riddle](https://docs.google.com/document/d/1aHsFdAcXHe-XXA65NkGNjkoVf6U2tZj6pX42L7dKUEs/edit)
+
+After transcribing this it turned out to be quite wordy so we'll see how it goes. Also next Tuesday is the day after Pi Day. So I'm gearing up to celebrate. For sure we'll go over the area formula and how to derive it. I think we'll repeat the amazing race themed activity from last year.  If I borrow a projector again, there's a really fun numberphile video about Buffon's needle.  
+
+![]({{ site.baseurl }}/assets/img/38-olympiad-5/blogger_0bafbdb5.png)
+
+By coincidence I found this awesome area related problem this last week: [http://seekecho.blogspot.fr/2016/02/searching-for-rings.html](http://seekecho.blogspot.fr/2016/02/searching-for-rings.html)
+
+Oh and there will definitely be pie!

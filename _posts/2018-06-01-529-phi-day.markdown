@@ -1,0 +1,37 @@
+---
+title: "5/29 Phi Day"
+date: 2018-06-01 19:21:00 +0000
+tags:
+  - golden ratio
+author: me
+---
+
+This week I wanted to extend some of our talk about the [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio). For the last reference see:  [515-chaos-mod-arithmetic]({% post_url 2018-05-16-515-chaos-mod-arithmetic %})   I'm also not quite done testing out the weaving activity so this was easier to schedule right after a busy Memorial Day weekend.
+
+I had two videos in mind that I recently saw:
+
+I also had several group demos that I wanted to start off with. But I started by asking the room what they already knew about the golden ratio. As expected, Fibonacci numbers were mentioned and facts about famous art examples i.e. the Mona Lisa.
+
+That was a good bridge to start with a precise definition of the ratio and from there we covered:
+
+- Phi is not the same as the Fibonacci numbers and in fact for all such sequences defined by $ F_n = F_{n-1} + F_{n-2} $ the ratio $ \frac{F_n}{F_{n-1}}$  tend to approach the golden ratio.  This one you can test with your own generator numbers.  
+- Phi in the Pentagon. We derived the basic ratio  of the diagonal (upper center diagram) as a group.
+
+- The general properties of Phi based on its root equation $x^2 -x -1 = 0 $ i.e.
+
+$$ \Phi^2 = \Phi + 1 $$
+
+$$  \Phi =  1 + \frac{1}{\Phi} $$
+
+- The idea of finding spirals in a square.   I gave some demo with finding facts about the 10x10 grid. For example divide diagonally and you get its the sum of 2 triangle numbers. The challenge I gave out was for the kids to find a way to break it into a spiral.  Interestingly we found both ways of counting 10 + 9 + 9 + 8 + 8 vs. 10  +  8 + 10 .... which led to an interesting discussion ("You're both right - how can that be?")
+
+I worked these on the board with breaks for the kids to try things out at their tables.  We then watched the videos.  Overall while everyone watched attentively, the first spiral simulation was particularly appreciated,  I think doing both was a mistake and I should have only used the numberphile one. On reflection, there was  a little too much passive viewing  and I would build a final Phi investigation/activity in at the end instead if I repeat.  The general idea of breaking a rectangle into its spiral/continued fraction is probably enough for an entire day on its own.
+
+POTW adapted from Mike Lawler
+
+1.  Can you find a polynomial with all integer coefficients and one root equal to [](https://www.codecogs.com/eqnedit.php?latex=5%20%20%2B%20%5Csqrt%7B7%7D%0)?
+2. Can you find a polynomial with all integer coefficients and one root equal to [](https://www.codecogs.com/eqnedit.php?latex=%5Csqrt%7B5%7D%20%2B%20%5Csqrt%7B7%7D%0)?
+
+3.  Can you find a polynomial with all integer coefficients and one root equal to [](https://www.codecogs.com/eqnedit.php?latex=3%20%2B%20%5Csqrt%7B5%7D%20%20%2B%20%5Csqrt%7B7%7D%0)?
+
+[Notes: this was a bit too involved for a take home problem or perhaps its just the end of the year setting in. Next time it could probably be combined with the polynomial deltas to make a complete polynomial day.   In practice, I ended up carefully working part 1 as a group the next week and talked alot about conjugates and the relationship between roots and factors.]

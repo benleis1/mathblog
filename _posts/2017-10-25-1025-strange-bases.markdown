@@ -1,0 +1,39 @@
+---
+title: "10/25 Strange Bases"
+date: 2017-10-25 01:56:00 +0000
+tags:
+  - number theory
+author: me
+---
+
+This was a funny week. All the eighth graders were out on the class trip so Math Club skewed younger. That played a part in my planning. I aimed a bit less complex this time and hoped to draw all the sixth graders in.
+
+My main inspiration was an article by @RobJLow on  [balanced ternary](https://en.wikipedia.org/wiki/Balanced_ternary) number systems. This got me thinking about the [Global Math Project](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiQwpCQ0YrXAhVJyWMKHaDRCnsQFggoMAA&url=https%3A%2F%2Fwww.theglobalmathproject.org%2F&usg=AOvVaw2xoden72X7Sf5ptRM1l7bK) and the exploding dots work James Tanton has been doing. I've seen a lot of folks participating and it looked like it might be a fit.
+
+![]({{ site.baseurl }}/assets/img/1025-strange-bases/blogger_2f6257e1.jpg)
+
+Then last Friday, our official MathCounts team packet arrived with the lovely poster from my [last post]({% post_url 2017-10-23-this-years-math-count-poster %}).    My own son found the poster intriguing and I was fairly sure everyone else would too. So I started with a group whiteboard attempt at the problem.
+
+With closer to 9 kids,  I could have everyone work in to two groups up at the board. I brought in some magnets and tacked the poster in the middle.  We worked on the problem for about 10 minutes and  I circulated making sure to keep stragglers at the board working.   What was nice was the first group to solve was fairly collaborative so I could have the kids take turns explaining their thinking to the other half of the group. (This was a theme for today: making lots of opportunities for kids to demo to each other.)
+
+This week I remembered to tackle the P.O.T.W early on. After 3 or 4 kids presented it was clear we didn't have a solution yet to the problem:
+
+!![](http://blog.mrmeyer.com/wp-content/uploads/161027_3.png)
+
+So I made the executive decision to spend some more time engaging with it on the whiteboard. Once again, I had everyone come up. This time I seeded the groups with a few ideas after a few minutes like: try adding the origin of the circle and radii from there to all the points on the circumference.
+
+One of the topics I worked on a bit with several students was applying the Pythagorean Theorem to find hypotenuse side lengths. At the end, I lucked out and had two different solutions from two students that again I had each explain to the larger group.
+
+As a consequence, we were now half way into the time and just about to start working on my main focus: alternate bases. It  was  clear, we'd only have time for one of the two examples. So I  told the group "We can work on base 3/2 or a balanced ternary base system, which would you like to explore?"  The room voted for base 1.5, probably because it sounded less formal.
+
+In looking through the source material: I found Tanton's videos not quite to my taste and I wasn't sure if I'd have a projector. So I decided to focus on topic 9: [source link](http://gdaymath.com/lessons/explodingdots/9-1-welcome/) but work the material directly. I started by asking who had played with alternate base system before. Most of the room had some experience. I also asked if anyone had seen exploding dots (nope).  So I spent a few minutes explaining how the model worked on base 2 and then jumped right into base 3/2.
+
+First we started by counting up and recording the numbers. Here I enlisted one of the students as a scribe which freed me up to talk more. We then worked on what was the meaning of the place values, why were some values missing, and was there any pattern to the numbers. Just like the source material, I had the kids verify that the number worked and converted correctly back into the familiar decimal system. This all went fairly well. The back half of the exploration, we built multiplication and addition tables and figured out how to manipulate numbers in this system  With a minute to go we started to look for divisibility rules: like the one for multiples of 3.
+
+!![](http://gdaymath.com/wp-content/uploads/2017/04/ed4-4-300x82.png)
+
+All told this material worked really well. Building the tables up was particularly satisfying. If I had another half an hour, I would have loved to have broken into the second system but I think not rushing and digesting the topics we already had was necessary today.
+
+P.O.T.W
+
+I took a page out of the MathCounts manual so the kids would have an initial exposure to some of these style problems

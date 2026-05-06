@@ -1,0 +1,72 @@
+---
+title: "Countdown to 2019"
+date: 2018-12-31 21:31:00 +0000
+author: me
+---
+
+This is a  collated version of the series of tweets I put out over the last week or so.  I had a fun time reminiscing about all the mathematics I liked over the last year.
+
+I decided to do a countdown of mathy things I liked over last year and while I thought at first I would brainstorm a list of 7, it turns out I easily made it to past that point so ...
+— Benjamin Leis (@benjamin_leis) [December 23, 2018](https://twitter.com/benjamin_leis/status/1076970565708087296?ref_src=twsrc%5Etfw)
+
+Day 1
+
+I made a few new twitter contacts like [@ch_nira](https://twitter.com/ch_nira?ref_src=twsrc%5Etfw), [@peterrowlett](https://twitter.com/peterrowlett?ref_src=twsrc%5Etfw)  and [@christianp](https://twitter.com/christianp?ref_src=twsrc%5Etfw) and even got a little fun writing in of my own.: [https://t.co/98Zach3KY7](https://t.co/98Zach3KY7)   And as hinted at, I've been bringing pieces of it back to the math circle over the intervening months.
+— Benjamin Leis (@benjamin_leis) [December 23, 2018](https://twitter.com/benjamin_leis/status/1076972130665869312?ref_src=twsrc%5Etfw)
+
+Day 2
+
+This led to one of the best at home video based discussions of the year.  But there were really a surfeit of choices. So honorable mention to: [@standupmaths](https://twitter.com/standupmaths?ref_src=twsrc%5Etfw) 's  hysterically recursive unboxing "Fest. of The Spoken Nerd" dvd video: [https://t.co/9xz802iisv](https://t.co/9xz802iisv) and also this cool one
+— Benjamin Leis (@benjamin_leis) [December 24, 2018](https://twitter.com/benjamin_leis/status/1077259447171346432?ref_src=twsrc%5Etfw)
+
+on solving 2D equations [https://t.co/HGSzZ38J59](https://t.co/HGSzZ38J59) from [@3blue1brown](https://twitter.com/3blue1brown?ref_src=twsrc%5Etfw)  which was a big hit when I showed it to the group.
+— Benjamin Leis (@benjamin_leis) [December 24, 2018](https://twitter.com/benjamin_leis/status/1077259448740016128?ref_src=twsrc%5Etfw)
+
+Day 3
+
+[#mathcountdown](https://twitter.com/hashtag/mathcountdown?src=hash&ref_src=twsrc%5Etfw) Day 3. Today I picked my favorite new angle to an old topic: Vieta Formulas.   Motivated by [@benblumsmith](https://twitter.com/benblumsmith?ref_src=twsrc%5Etfw)  I wrote this [https://t.co/bV7Qg4xDbZ](https://t.co/bV7Qg4xDbZ) and  [https://t.co/x3t3OyFw5y](https://t.co/x3t3OyFw5y) on the subject.   I'm looking forward to integrating this into the math circle at some pt. [pic.twitter.com/2qzO9JZ1nT](https://t.co/2qzO9JZ1nT)
+— Benjamin Leis (@benjamin_leis) [December 25, 2018](https://twitter.com/benjamin_leis/status/1077658877225660416?ref_src=twsrc%5Etfw)
+
+Day 4
+
+"The “two cultures” I wish to discuss will be familiar to all professional mathematicians ...  mathematicians who regard their central
+
+aim as being to solve problems, and those who are more concerned with building and understanding theories."
+— Benjamin Leis (@benjamin_leis) [December 26, 2018](https://twitter.com/benjamin_leis/status/1077987562474459139?ref_src=twsrc%5Etfw)
+
+Day 5
+
+[@mathceyhun](https://twitter.com/MathCeyhun?ref_src=twsrc%5Etfw) [@CmonMattTHINK](https://twitter.com/CmonMattTHINK?ref_src=twsrc%5Etfw) [@Matematickcom](https://twitter.com/Matematickcom?ref_src=twsrc%5Etfw)   [@matematik_man](https://twitter.com/matematik_man?ref_src=twsrc%5Etfw)  [@MathGeoFD](https://twitter.com/MathGeoFD?ref_src=twsrc%5Etfw) [@HenkReuling](https://twitter.com/HenkReuling?ref_src=twsrc%5Etfw)     
+
+And my own problem repo: #4 [https://t.co/X3Q05prHcg](https://t.co/X3Q05prHcg) and #3 [https://t.co/5a0qzfAlp0](https://t.co/5a0qzfAlp0)
+— Benjamin Leis (@benjamin_leis) [December 27, 2018](https://twitter.com/benjamin_leis/status/1078335344708186112?ref_src=twsrc%5Etfw)
+
+Day 6
+
+Day 6:  Looking back I picked a lot of collective efforts for [#mathcountdown](https://twitter.com/hashtag/mathcountdown?src=hash&ref_src=twsrc%5Etfw). This selection is another example of the whole being greater than the sum of its parts. And in addition it explores math history, an area I've grown to have great affection for.   So onto [#noethember](https://twitter.com/hashtag/noethember?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/VsFSMjSkBR](https://t.co/VsFSMjSkBR)
+— Benjamin Leis (@benjamin_leis) [December 28, 2018](https://twitter.com/benjamin_leis/status/1078714744259760129?ref_src=twsrc%5Etfw)
+
+there are a few accounts like [@OnThisDayinMath](https://twitter.com/OnThisDayinMath?ref_src=twsrc%5Etfw)  that provide an interesting sliver of history all year long.
+— Benjamin Leis (@benjamin_leis) [December 28, 2018](https://twitter.com/benjamin_leis/status/1078714746524712961?ref_src=twsrc%5Etfw)
+
+Day 7
+
+So at the time I ended up writing [https://t.co/XNPpLt8xDA](https://t.co/XNPpLt8xDA)  and [https://t.co/aqtsHOFSp0](https://t.co/aqtsHOFSp0).  And as recently as lat week I was having a private conv. about the coherence of Alg2.  I suspect I'll come back to this again in 2019.
+— Benjamin Leis (@benjamin_leis) [December 29, 2018](https://twitter.com/benjamin_leis/status/1079075604257857536?ref_src=twsrc%5Etfw)
+
+Day 8
+
+I'm reaching the end of the [#mathcountdown](https://twitter.com/hashtag/mathcountdown?src=hash&ref_src=twsrc%5Etfw) (Day 8) .    For today, I picked my favorite new mathematical game: Manifold.   I just found out about it last month and it was a huge hit with the kids. [pic.twitter.com/BWQrSzmXDu](https://t.co/BWQrSzmXDu)
+— Benjamin Leis (@benjamin_leis) [December 30, 2018](https://twitter.com/benjamin_leis/status/1079456186833891328?ref_src=twsrc%5Etfw)
+
+Day 9
+
+[#mathCountdown](https://twitter.com/hashtag/mathCountdown?src=hash&ref_src=twsrc%5Etfw) Finale - Here's my own personal writing selections from the last year:   1st: [https://t.co/sUTiWgBaL7](https://t.co/sUTiWgBaL7)  was my favorite session from last year: an exploration of George Hart's Visible Math polyhedrons. Out of my comfort zone and very rewarding. [pic.twitter.com/mOcUtgdDAG](https://t.co/mOcUtgdDAG)
+— Benjamin Leis (@benjamin_leis) [December 31, 2018](https://twitter.com/benjamin_leis/status/1079777999740784656?ref_src=twsrc%5Etfw)
+
+3rd: a mostly photo montage of a very cool group theory exploration: [https://t.co/Rg3a25G4g6](https://t.co/Rg3a25G4g6)  I love the visual metaphor and I'm gearing up to use this fairly soon this winter.
+— Benjamin Leis (@benjamin_leis) [December 31, 2018](https://twitter.com/benjamin_leis/status/1079778002538356736?ref_src=twsrc%5Etfw)
+
+[](about:invalid#zClosurez)
+
+**Happy 2019!**

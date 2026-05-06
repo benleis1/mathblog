@@ -1,0 +1,40 @@
+---
+title: "2018 Year in Review"
+date: 2018-06-16 03:55:00 +0000
+author: me
+---
+
+![]({{ site.baseurl }}/assets/img/2018-year-in-review/blogger_3f1fd696.jpg)
+
+Unlike the last three years  ([2017]({% post_url 2017-06-15-2017-year-in-review %}),  [2016]({% post_url 2016-06-23-2016-year-in-review %}), [2015]({% post_url 2015-06-11-the-year-in-review %}))  I volunteered at the local Middle School for the first time.  So this year's reflection is all about that transition from working with upper elementary students to actual teenagers.   Going into the process I wondered whether they would be easier or harder to lead. I remember thinging "On one hand, they should be more mature and capable of greater focus on the other hand the teenage years can be stressful."   Likewise, because I planned to run one group for all the grades I was very worried about  how to provide accessible content that would be fun and interesting for everyone.
+
+Overall I ended the year very pleased. One of the most striking observations for me was the great shift in maturity (and height) between the sixth graders and eight graders.   Sixth grade to generalize is really part of elementary school and  eighth grade is basically high school.  The sixth graders in many ways were similar to what I've seen in the younger grades. They were enthusiastic, sometimes boisterous, loved to joke but also needed more compelling activities to stay on task. The older students by contrast required much less supervision and had a lot more focus and drive.  I ended up often relying on the eight graders as a backbone of maturity and leadership for the group as a whole. Next year will be interesting in this respect, since I expect most of the rising sixth graders to continue and to pull in a new group of rising fifth graders but I only have 1 current 7th grader. I'd really like to recruit a larger pool to anchor the group again.  My current idea is to reach out to the 8th grade Math teacher and see if I can have him give out a flier to his class.
+
+Groups and Questions
+
+However, one of the trends that did follow from the heterogeneous grouping was the older kids tended to work together. From time to time I gently encouraged some mixing but I think also this is understandable and a social fact  I need to keep in mind. I have to maintain enough of a balance of ages in the room so that no one grade dominates and the kids feel like there is a progression where they will have grade peers as they go forward. This sort of parallels how I feel about gender. Its important to maintain enough of a balance that both boys and girls feel comfortable in the room. After that is achieved, if I don't intervene the girls will tend to work more often with each other and vice versa. So I nudge from time to time but I'm still mostly wedded to the idea that in a club where everyone comes voluntarily I shouldn't obsessively force interactions and that regular classes fulfill this function.  If everyone is actively engaged I'm happy.
+
+Along these lines where I'm most  strongly considering a shift is in how I do questions. For the same reasons as groupings I don't normally cold call. Instead I try to actively track who has answered and call on other kids if possible. I also pull kids aside before hand and try to encourage them to go in front of the group. But even using these strategies I wasn't completely satisfied with participation in group discussions this year. There were clearly 4-5 kids who didn't want to talk and I think integrating them more fully in is worth some risks.  So I'm considering just announcing that I will call on everyone for group questions and white boarding as part of our club norms next year and explaining why.  I'm also going to dovetail this with some discussion about public mistakes since that is definitely part of this phenomena.  I still have to think about to this works for introverts (I definitely had some this year)
+
+Curriculum
+
+As I mentioned previously, in the beginning of the year I worried a lot about the huge potential gap in Mathematical backgrounds of the kids I would attract. In theory I could pull kids taking Math 6 all the way up to Algebra II. That encompasses a huge 5 year spread of classes. What happened in practice was almost everyone who joined had completed or was taking Algebra I.  This simplified my planning process quite a bit since I didn't worry as deeply about introducing too much Algebra along the way and I tried to tune for the general 3 year spread in classes.  However, I did have one Math 8 student where this didn't work out well. She was very quiet and reluctant to work with the other kids. Despite trying to work with her each week  I didn't realize until half way through that she felt lost at times and wasn't confident enough to ask questions. For me this was partly a reminder to ask more questions myself. But I think also narrowing the focus down will help here. If I change the club charter to be for kids at the Algebra I level or higher or at least comfortable with asking questions if an occasional Algebra concept is introduced I will be able to plan with better precision.   Long term, If I see more demand for a Pre-Algebra focused club I think it  would sense to find another adviser and run a second group. This split is very difficult to bridge otherwise.
+
+Based on specific feedback from the kids I was pleased several of the topics I took risks experimenting with like  the King Chicken problem from ([here]({% post_url 2018-05-30-522-cycles-and-circles %})) or the day on Polynomial Deltas from ( [here]({% post_url 2018-05-04-52-following-my-passion %}))  were well received.   That's encouraging because I have a full year of meetings to fill and some kids have been with me now 3 years in a row.  I'm thinking about how to mine more Math Circle topics from various books and also on the lookout for some more art projects to intersperse. Tessellation based images are one of the first to come to mind.  I think the math history day [(here)]({% post_url 2017-11-22-1121-the-intersection-of-history-and-mathematics %}) was also successful and I will think more about ways to bring history in from time to time.
+
+Contests
+
+I transitioned away from several local contests  I did not really like this year and replaced them with 3 new ones:
+
+- MathCounts
+- Purple Comet
+- UW Math Hour Olympiad
+
+In general these all were improvements.  For the most part I think I get more bang for the buck doing a contest during a club meeting. That maximizes participation which by itself is worth a lot. But in addition, it allows the potential for reviewing problems together afterwards as a group and de-emphasizes the award/ranking ceremonies.  If the kids win they of course love the trophies but for the most part I think the potential for discouragement remains high. In addition, we can still leverage all the benefits of competition in houses.  Calling something a contest still creates drive and excitement and often brings out the best work in students.  
+
+Despite being traditional in format Math Counts was a great success in particular. The kids mentioned it repeatedly when I asked for feedback.  The question banks are generally superior to the local ones so I'm mostly happy with it. However,  I did have some kids fixate on a rivalry with another school. So framing the competition and how we treat it remains an issue to work on next year.   
+
+Finally, I had one request for a training schedule for the various competitions. In the past I've assumed that the kids really wouldn't have the time or drive to do large amounts of additional practice at home so I haven't done more than send out links to old tests.  Next year I'm going to try an experiment and make a light suggested practice schedule for AMC8 on a spreadsheet and let the kids signoff on what they tried.  We'll see from there if there is more interest that I realized.
+
+This Year's Topic Map
+[http://mymathclub.blogspot.com/p/2017-2018-topic-map.html](http://mymathclub.blogspot.com/p/2017-2018-topic-map.html)

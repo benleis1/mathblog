@@ -1,0 +1,42 @@
+---
+title: "2018-2019 Year In Review"
+date: 2019-07-19 19:41:00 +0000
+author: me
+---
+
+This is a bit delayed but better late than never. My overall experience this year was definitely a continuation of last year: (See: [2018-year-in-review]({% post_url 2018-06-16-2018-year-in-review %}))
+
+I'm used to Middle School now so there are a lot less unknowns and I'm mostly consolidating my ideas and practices to continue improving. Thinking back my favorite moments this year revolved around days or moments when  there was particularly good flow.  Two examples that immediately came to mind were: [415-weve-found-a-correlation]({% post_url 2019-04-16-415-weve-found-a-correlation %}) and [123-origami-puzzles]({% post_url 2018-12-05-123-origami-puzzles %}).  I often find things I want to do and struggle on how to structure them so I maximize the engagement from all the kids. Simple tends to really be the best and since I only have one crack at an activity I always need to be mindful of how a task resembles something I've done in the past.  What's also really key is to balance the amount of setup time when we work as a group vs. breaking out into tables. Enough time has to be spent so everyone is confident about what we're doing and drawn in. But I balance this against the different pacing each student has and the need to keep everyone moving ahead. Going forward next year, I'm going to try to be especially focused on this piece.
+
+- Balancing PreAlgebra and Post Algebra
+
+This year I had a more normal balance of students with some in every class from Math 7 to Geometry.  Last year I only had Algebra and upwards. So the balance of activities I chose was a bit different. Some from a year ago like: [Polynomial Differences Session]({% post_url 2018-05-04-52-following-my-passion %}) that were really fun wouldn't work this time around. Instead I focused more heavily on topics outside the curriculum like tessellations or probability.  My one exception is  from time to time I took on geometry problems that drew on basic ideas that are covered in Math 6 - Math 8. So Pythagorean Theorem based ones were fine but Triangle Congruence or Power of the Point were not.
+
+This all works fine but I'm also accumulating Algebraic based things that I'd like to cover some day.  For example:  using polynomial division to find tangent lines.  My long term  goal remains to build up membership to the point I can split the group into pre-algebra and post-algebra sets.  By the numbers I am getting close. This year I flirted near 19 students the whole time. If I reached 12 or greater of each pool I think the split could work. Of course then I would need to have a second instructor.
+
+- Posters 
+
+I had the kids make posters three times this year.  These were usually practical sessions i.e. we needed posters to present at STEAM night. But at the same time I thought these moments always went really well. Posters are a blend of art/math and necessity and they tend to get everyone involved. I usually took about 30 minutes and had 3-4 boards to draw on.  The kids will be making more of them next year.  Speaking of which, the final poster session was to draw recruitment posters for next fall. My plan is to post them up in the building come September.
+
+- Art
+
+This year I did 2 MathArt projects focusing on ideas from Clarrissa Grandi:
+
+- [1022-recursive-art]({% post_url 2018-10-27-1022-recursive-art %})
+- [63-tesselations]({% post_url 2019-06-05-63-tesselations %})
+
+I really liked both of them for different reasons. On the first I had a few kids go home and write computer programs to automate the process which was very cool.  The Islamic geometric patterns were super compelling. With both however, I would heavily modify the powerpoint slide decks. In particular, the instructions on what to do were hard to communicate via the slides.  My instinct is to print a packet per table so people could go back and forth at their own pace and perhaps to write it up myself with more steps shown.
+
+- Take home Problems
+
+In the beginning of the year at the request of a few students I setup some self paced study guides for AMC prior to us taking the test.  Participation was mostly limited to the students that asked for it despite telling everyone about the resources. I mainly divided sample tests into blocks and setup a tracing shared spreadsheet as well as a form to report back questions and how the process was going. Looking forward I will continue doing this next year and try to integate the AoPS MathCounts Trainer as well later in the year.   I'd like to come up with ideas on how to broaden participation.
+
+Also I'm definitely going to experiment more with a 5 minute group trial of the problem of the week after its handed out to seed discussion for the next week.
+
+- Relationships
+
+I'm trying to get to know the teachers a bit better so I can more actively involve them in nudging students to join.  My goal for next year is to attend an early department meeting and introduce myself.
+
+Topic Map for the year
+
+[https://mymathclub.blogspot.com/p/2018-2019-topic-map.html](https://mymathclub.blogspot.com/p/2018-2019-topic-map.html)

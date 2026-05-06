@@ -1,0 +1,11 @@
+main:
+  - title: "Posts"
+    url: /
+  - title: "Tags"
+    url: /tags/
+  - title: "Archives"
+    url: /year-archive/
+  - title: "Resources"
+    url: /resources/
+  - title: "About"
+    url: /about/

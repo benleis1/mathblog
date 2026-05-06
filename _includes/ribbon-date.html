@@ -1,0 +1,9 @@
+{% assign date_obj = include.date | default: post.date | default: page.date %}
+<a href="{{ include.url | default: post.url | default: page.url | relative_url }}" class="ribbon">
+  <div class="top ribbon-piece">{{ date_obj | date: "%b" }}</div>
+  <div class="bottom ribbon-piece">{{ date_obj | date: "%d" }}</div>
+  <div class="tail">
+    <div class="left ribbon-piece"></div>
+    <div class="right ribbon-piece"></div>
+  </div>
+</a>

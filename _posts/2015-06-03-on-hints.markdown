@@ -1,0 +1,32 @@
+---
+title: "On Hints"
+date: 2015-06-03 20:29:00 +0000
+tags:
+  - digression
+  - general philosophy
+author: me
+---
+
+I've been reading the following thought provoking post by Michael Pershan @
+
+[https://problemproblems.wordpress.com/2015/05/28/minimalistic-hints-are-still-hints-or-if-youre-helping-youre-doing-the-work/](https://problemproblems.wordpress.com/2015/05/28/minimalistic-hints-are-still-hints-or-if-youre-helping-youre-doing-the-work/)
+
+and the one he references by Annie Fetter @  [http://mathforum.org/blogs/annie/2015/05/27/one-example-of-a-bad-hint/](http://mathforum.org/blogs/annie/2015/05/27/one-example-of-a-bad-hint/)
+
+Both are concerned with whether teachers should provide any hints when students get stuck. If I could summarize the thinking it goes something like this. Any hint cuts off mathematical thinking that the students would otherwise have done. It also encourages bad problem solving habits basically undermining future thinking if nothing is obvious and even further can lead to shallower understanding along with an undue emphasis on just answer-seeking. 
+
+I think these are really interesting perspectives and I've been musing how they relate to how I conduct the math club sessions. First, a full confession, I provide lots of hints and guidance during the hour. Among the things I do is walk and chat with the kids to see where they are in the problems. I then will often offer a suggestion: "Have you tried X?" Part of my motivation has been the worry that kids will just get stuck and make no progress when I want everyone to stay roughly on pace. There's also the exhaustion principle. If someone gets stuck for multiple minutes and doesn't see a way forward they are more likely to give up and start socializing or some other extraneous activity. On the other hand, if they can maintain flow, they will stay excited and focused on the math.  I've also found kids can be redirected back into the problems by one on one conversation which makes it useful for general classroom management. 
+
+The other general motivation is that I don't have the experience yet to know how each problem will go. By selecting a set of problems that are at the edge of their abilities I feel like I need to channel the kids to some extent to achieve what I've selected or alter my tasks over time.  I usually pre-plan some scaffolding ideas if the kids don't perform as I expected. 
+
+Finally  all the kids are not silently working away. They chat with their fellows and ask each for help and share strategies. So essentially if I'm not giving hints, they would propagate anyway through the room. Anything I say is generally going to be much less direct i.e. more of a hint/guidance than the entire process which is what they will usually tell each other.
+
+However, I do think there is a fundamental truth in Michael's ideas. Beyond solving individual problems, one goal for the club should be to develop problem solving and that includes how to handle getting stuck.  One easy change to make is to focus on asking questions when I'm checking on work. I think I do this anyway but I'm going to be more reflective about it.  I won't have a chance to apply this until next year. But I like the idea of making sure to always query what they're thinking first. *I'm not sure I'm brave enough yet to try out offering no direct help at all.  *We'll see next year.
+
+I haven't done a lot of talks about work habits directly preferring to model problem solving behaviors. But this seems like something that should be made more explicit at the beginning sessions. I'm imagining a group discussion about "What to do when I'm stuck?"
+
+Also I've been moving towards thinking more about progressive tasks which build on each other over the hour and leveling puzzles. I think this has been promising in letting the succession of math problems guide the kids towards deeper understanding. I'm going to continue with these moving forward. Its also worth realizing that my natural tendency is towards picking too much per session   (out of fear of running out of activities) and to tackle harder problems that I think will be fun. Balancing those instincts or at least being honest about when I'm over ambitious makes sense.
+
+Finally, I  mostly dropped the idea  of giving weekly problems to be done at home after the first quarter. The kids mostly didn't take a look at them and they seemed to not be successful. On the other hand, they offer the best chance to work on something over  a longer period time without any supports. The question is can I structure things to make them more utilized?
+
+**[Addendum: See [how-to-make-homework-work]({% post_url 2015-07-01-how-to-make-homework-work %}) for my continued evolution on the use of homework and problem solving.]**

@@ -1,0 +1,11 @@
+---
+title: "5/5 Missized Logic Puzzles"
+date: 2015-05-06 05:23:00 +0000
+tags:
+  - puzzles ciphers
+author: me
+---
+
+!![](http://www.puzzlersparadise.com/logicgrids/lostchild.jpg)
+
+I probably should have known better especially after my experiences with previous puzzles. For this week's warmup I planned for the math club to work on the following logic puzzle: [http://www.puzzlersparadise.com/article1008.html](http://www.puzzlersparadise.com/article1008.html).  I haven't tried these out with the club at all since a take home version I gave before we could really get started.  The plan was to do this for about 20 minutes and then to move onto a triangle number worksheet I've been planning for a few months. [See prev. blog post]  Because I was so wrapped up in the worksheet planning, I didn't test out the puzzle myself and also didn't think to do multiple levels of difficulty.  What happened in reality was that we spent the whole hour working through it. On the bright side, as soon as I handed it out, I heard comments like "I love these type problems". Except for a few holdouts some of whom gave into the charm by the end this activity was really successful.  A few times in the middle of the process I asked for a room vote on whether to table the puzzle and move onto the main task and the kids insisted we keep working.  So I'm saving the triangle numbers for next week and making a note for next time to find a simpler puzzle if its meant to be only a partial activity. Also for next week I'm going to have to do a longer discussion on problem solving strategies around what the kids discovered while working on it  than I originally planned. From my work I think the key is to stress boy/girl splits and finding their ages after which everything else falls out fairly quickly. We'll see how the kids actually thought about the problem though. The ultimate irony here is that I was worried about running out of material and actually prepped a few extra activities right before I left for the session just in case.

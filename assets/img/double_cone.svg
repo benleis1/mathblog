@@ -1,0 +1,72 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Light gray background -->
+  <rect width="800" height="800" fill="#D3D3D3"/>
+
+  <!-- Define gradients for the cones -->
+  <defs>
+    <!-- Upper cone gradient (darker blue at top, lighter at middle) -->
+    <linearGradient id="upperCone" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Lower cone gradient (lighter blue at middle, darker at bottom) -->
+    <linearGradient id="lowerCone" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Radial gradients for 3D effect on left side of upper cone -->
+    <radialGradient id="upperLeft" cx="30%" cy="50%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+    </radialGradient>
+
+    <!-- Radial gradients for 3D effect on right side of upper cone -->
+    <radialGradient id="upperRight" cx="70%" cy="50%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </radialGradient>
+
+    <!-- Radial gradients for 3D effect on left side of lower cone -->
+    <radialGradient id="lowerLeft" cx="30%" cy="50%">
+      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+    </radialGradient>
+
+    <!-- Radial gradients for 3D effect on right side of lower cone -->
+    <radialGradient id="lowerRight" cx="70%" cy="50%">
+      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+
+  <!-- Upper cone (inverted triangle) -->
+  <!-- Left side of upper cone -->
+  <path d="M 400 400 L 200 100 L 400 100 Z" fill="url(#upperLeft)" opacity="0.9"/>
+
+  <!-- Right side of upper cone -->
+  <path d="M 400 400 L 600 100 L 400 100 Z" fill="url(#upperRight)" opacity="0.9"/>
+
+  <!-- Lower cone -->
+  <!-- Left side of lower cone -->
+  <path d="M 400 400 L 200 700 L 400 700 Z" fill="url(#lowerLeft)" opacity="0.9"/>
+
+  <!-- Right side of lower cone -->
+  <path d="M 400 400 L 600 700 L 400 700 Z" fill="url(#lowerRight)" opacity="0.9"/>
+
+  <!-- Edge highlights for 3D effect -->
+  <line x1="400" y1="400" x2="200" y2="100" stroke="#60a5fa" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="400" x2="600" y2="100" stroke="#1e40af" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="400" x2="200" y2="700" stroke="#1e40af" stroke-width="2" opacity="0.5"/>
+  <line x1="400" y1="400" x2="600" y2="700" stroke="#60a5fa" stroke-width="2" opacity="0.5"/>
+
+  <!-- Ellipse at top of upper cone -->
+  <ellipse cx="400" cy="100" rx="200" ry="40" fill="#3b82f6" opacity="0.8"/>
+
+  <!-- Ellipse at bottom of lower cone -->
+  <ellipse cx="400" cy="700" rx="200" ry="40" fill="#1e3a8a" opacity="0.8"/>
+
+  <!-- Center point highlight -->
+  <circle cx="400" cy="400" r="5" fill="#60a5fa"/>
+</svg>

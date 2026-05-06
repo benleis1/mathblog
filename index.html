@@ -1,3 +1,32 @@
 ---
-layout: home
+layout: single
+author_profile: true
+classes: wide
 ---
+
+{%- for post in site.posts limit:10 -%}
+  <article>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p class="page__meta">{{ post.date | date: "%B %d, %Y" }}</p>
+    {%- assign paragraphs = post.content | split: '</p>' -%}
+    {%- assign para_count = 0 -%}
+    {%- assign has_content = false -%}
+    {%- for para in paragraphs -%}
+      {%- if has_content -%}
+        {%- if para contains '<h2' or para contains '<h3' -%}
+          {%- break -%}
+        {%- endif -%}
+      {%- endif -%}
+      {%- assign para_text = para | strip_html | strip -%}
+      {%- if para_count < 5 -%}
+        {%- if para contains '<img' or para_text.size > 20 -%}
+          {{ para }}</p>
+          {%- assign para_count = para_count | plus: 1 -%}
+          {%- assign has_content = true -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+    <p><a href="{{ post.url | relative_url }}" class="btn btn--primary">Read More</a></p>
+    <hr>
+  </article>
+{%- endfor -%}

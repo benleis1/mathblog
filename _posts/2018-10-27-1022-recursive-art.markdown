@@ -1,0 +1,45 @@
+---
+title: "10/22 Recursive Art"
+date: 2018-10-27 01:01:00 +0000
+tags:
+  - art
+author: me
+---
+
+![]({{ site.baseurl }}/assets/img/1022-recursive-art/blogger_d58aaecf.jpg)
+
+![]({{ site.baseurl }}/assets/img/1022-recursive-art/blogger_a4fd8245.jpg)
+
+![]({{ site.baseurl }}/assets/img/1022-recursive-art/blogger_4180ffa6.jpg)
+
+Since I'm behind blogging: this is a bit of an abbreviated summary of the last session. I decided I wanted to do some of the art projects from Clarissa Grandi's website:  [https://www.artfulmaths.com/mathematical-art-lessons.html](https://www.artfulmaths.com/mathematical-art-lessons.html)
+
+So after going over the previous problem of the week I put up the slide deck from her site. Its a bit cryptic at places so definitely go through it beforehand and get a feel for what she's trying to convey.
+
+- The method for constructing the diagrams
+- Examples in real life.
+- The idea about using different starter shapes.
+- Examples of the art generated.
+
+I then had the kids work on the equilateral triangle first but gave several variations to try out:
+
+- Scalene or right triangles: does the inner shape stay similar?
+- Squares, Pentagons, Hexagons: What happens?
+- Vary the length each iteration by a pattern: What happens?
+
+Also along the way: I went down a digression with several kids about whether they could create a computer program to generate the diagrams. I promised I would give extra problem of the week credit if anyone brought something in. Several kids seemed excited so we'll see if that blossoms into something. 
+
+Overall: It went pretty well but the free form nature of the exercise made me a bit nervous. I definitely liked having various questions in hand for the kids to investigate.
+
+**Problem of the Week:**
+
+This one I brought back from NWMath via Fawn Nguyen:
+
+Wanda the witch agrees to trade her magic broomstick with Casper the ghost for his gold chain. Casper, however is skeptical that the broom might not be magical at all, so he proposes a payment plan.
+
+His chain has 63 links in it (arranged in linear order, not closed up in a circle), and he wants to pay Wanda just one link per day. Wanda agrees to this but insists that Casper may cut no more than 3 links in the chain.
+
+What does Casper do?
+** Looking Ahead**
+
+I need to have the kids look at a sample AMC 8 test before the real one in November. I'm thinking about what format to use and am tempted to create some question banks and have the kids self select different ones.

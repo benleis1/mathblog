@@ -1,0 +1,33 @@
+---
+title: "3/1 Fold and Cut"
+date: 2016-03-02 22:10:00 +0000
+author: me
+---
+
+Even after two years, I'm still experimenting and searching for new material. Case in point, yesterday was notable for two changes.  I had decided after last week: [pi day prep]({% post_url 2016-02-25-223-prepping-for-pi-day %})  that I didn't want to immediately attack the area of a circle formula and instead needed something really different. Then over the week I came across some rave reviews of fold and cut activities from @mrhonner. I also remembered looking at a numberphile video on the subject a while back and thinking it was fairly compelling. So I decided that I would go that direction.   This involved a few logistical risks.
+
+- I don't have enough scissors/hole punches for all the kids. Therefore, I asked ahead for everyone to bring any they had. My parents are great but anytime I do something like this I have a semi-irrational fear that everyone will forget and I will be up the creek.
+- I also had another parent lend me their video projector. So for the first time I could try out using a video in the middle of the session.  However, I didn't have enough time to test the equipment or confirm that the school's WiFi filtering would allow access to youtube.  So I gambled that I had enough to keep the kids busy while I worked through the kinks and a fallback plan if it failed to work.
+- Anything with scissors and paper means **extra cleanup**. 
+
+So we started up with Gummi bears in the cafeteria to celebrate reaching our completed problem of the week goal. And then while discussing the the kids' solutions to the tessellation problem from last week I was lucky and the video hookup worked almost immediately. 
+
+![]({{ site.baseurl }}/assets/img/31-fold-and-cut/blogger_4ea04539.png)
+
+This was a good whiteboard discussion.  Everyone who demonstrated came up with the idea of finding a tiling pattern that could create the image. We had two competing answers: A hexagon with one black square vs. a hexagon with 2 black squares for the base pattern.  I asked the room for various ideas on which was correct but there was no consensus. I decided to point out/ask that there were 6 black triangles per hexagon and each one was shared between 3 hexagons. Rather than telling them the solution I then asked the kids to test each pattern at home. If the test tiles could be combined to create the floor pattern then they had the correct solution. 
+
+Moving on we turned off the lights and watched the following numberphile video on the fold and cut  theorem. 
+
+After an annoying and slightly off color 5 second ad, as expected the video went really well. I'm hoping I can borrow the projector again for Pi Day and show another one that would pair really well with the day's activities.
+
+We then broke out the scissors and punches for some experimentation of our own. I preprinted the following templates [pdf  file](https://drive.google.com/file/d/0Bw3BMDqKsMmXRXlXU2xqbXlFYms/view?usp=sharing)  from [Joel Hamkins](http://jdh.hamkins.org/math-for-nine-year-olds-fold-punch-cut/).  These also were a big hit. We worked on the 8 sheets for about 40 minutes. Most kids completed at least the first 5 pages. The hardest issue here was I had to assist in punching holes for some of the thicker patterns. (Who knew math club was also a test of physical grip strength)
+
+![]({{ site.baseurl }}/assets/img/31-fold-and-cut/blogger_bafd2c99.jpg)
+
+![]({{ site.baseurl }}/assets/img/31-fold-and-cut/blogger_df3845ce.jpg)
+
+![]({{ site.baseurl }}/assets/img/31-fold-and-cut/blogger_9f5c2840.jpg)
+
+This was actually quite messy and you can probably tell from the photos above. So as each parent arrived for pickup I asked to make sure that there child had cleaned up the holes. Despite my trepidation after a few minutes at the end the room was back to normal.
+
+![]({{ site.baseurl }}/assets/img/31-fold-and-cut/blogger_aaa10434.jpg)

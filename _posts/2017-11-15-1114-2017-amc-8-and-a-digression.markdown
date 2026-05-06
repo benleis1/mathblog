@@ -1,0 +1,53 @@
+---
+title: "11/14 2017 AMC 8 and a digression"
+date: 2017-11-15 16:56:00 +0000
+tags:
+  - geometry
+  - amc
+  - digression
+author: me
+---
+
+Math Club was super easy for me today. I paced outside the classroom while everyone took AMC8. 
+
+![]({{ site.baseurl }}/assets/img/1114-2017-amc-8-and-a-digression/blogger_716525c7.jpg)
+
+I was happy that the kids all were very focused. Hopefully we'll get good results and it was a positive experience for everyone. The problems are released in a few weeks. I'll come back to them if anything interesting appears.
+
+So to fill the week here's the problem I looked at last night before bed. Its interesting to see the vast difference in approaches between mine and another online. Once again this is why I love geometry.
+
+Thought Process:
+
+(Unusually this was a fairly linear process where each observation led farther forward.)
+
+- I immediately noticed the right triangle and thought about the Pythagorean Theorem.
+- Then it occurred to me that D was the incenter and it would be interesting to draw in all the altitudes from it and to connect it to C.
+- That also meant CD would bisect angle C into 2 45 degree angles. 
+- At about this point I noticed the square that formed.
+- I then started to think about the line AE and how it bisected the triangle and could be used with the angle bisector theorem.
+- I thought this was almost enough and I actually used 3 variables at this point to see how much I could combine. That didn't quite work so I actually plugged a sample number in just to watch how it played out.
+- At that point I went back to the picture and angle chased to find the similar triangles. That gave me a way to only use 2 variables and I was sure I was almost there.
+- I did some algebraic simplification and at this point I wasn't sure if I needed another equation/invariant. 
+- But I lucked out since I was looking for the sum of the 2 variables, everything was in place.
+
+![]({{ site.baseurl }}/assets/img/1114-2017-amc-8-and-a-digression/blogger_1274845f.PNG)
+
+Setup:  Note O is the incenter since its the intersection of the angle bisectors. So drop another one from point C.  This forms the 45-45-90 triangle CHO,   let r = CH  = HO = GO = the inradius, let x = DH .  We want to find r + x.
+
+1. After angle tracing triangle AGO is similar to DHO. so $\frac{AG}{GO}=\frac{HO}{DH}$
+
+   $AG=\frac{HO \cdot GO}{DH}  =  \frac{r^2}{x}$
+
+2. From the angle bisector theorem:   $\frac{AC}{CD}=\frac{AB}{BD}$
+
+ $ \frac{\frac{r^2 }{x} + r}{r +x}=\frac{\frac{r^2}{x} + x + 3}{3} $   which simplifies to: $3r = r^2 + x^2 + 3x$
+
+3. We also know from the Pythagorean theorem on triangle BHO that  $4^2 = r^2 + (x+3)^2$ which simplifies to $r^2 + x^2 = 7 - 6x$
+
+4. Substitute r^2+x^2 from the 2nd into the 1st equation: $3r = (7 - 6x) + 3x  = 7 - 3x$
+
+   $3(r+x)= 7$  or  **$r +x = \frac{7}{3}$ **and we're done.
+
+The Trig Approach:
+
+Another user @mathforpyp put this soln up. Notice how completely differently this works. I like to think of trig as a bulldozer for these type problems but applying it is actually a bit tricky. The key observation here which I didn't use above was the relationship between the angles  A and B.

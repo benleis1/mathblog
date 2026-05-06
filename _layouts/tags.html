@@ -1,0 +1,140 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<style>
+.tag-sort-toggle {
+  text-align: center;
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+.tag-sort-btn {
+  background: linear-gradient(145deg, #5ebdd9, #4a9ab5);
+  color: white;
+  border: none;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: all 0.3s;
+  box-shadow:
+    5px 5px 10px rgba(0, 0, 0, 0.2),
+    -2px -2px 8px rgba(255, 255, 255, 0.1),
+    inset 0 0 0 rgba(255, 255, 255, 0);
+}
+.tag-sort-btn:hover {
+  background: linear-gradient(145deg, #6bcbe7, #3d8ba8);
+  box-shadow:
+    3px 3px 8px rgba(0, 0, 0, 0.25),
+    -1px -1px 6px rgba(255, 255, 255, 0.15),
+    inset 0 0 0 rgba(255, 255, 255, 0);
+  transform: translateY(-1px);
+}
+.tag-sort-btn:active {
+  box-shadow:
+    2px 2px 5px rgba(0, 0, 0, 0.3),
+    inset 2px 2px 5px rgba(0, 0, 0, 0.2);
+  transform: translateY(1px);
+}
+.tag-sort-label {
+  font-size: 16px;
+  font-weight: 500;
+  color: #52adc8;
+}
+</style>
+
+<div class="tag-sort-toggle">
+  <button class="tag-sort-btn" id="tagSortBtn" onclick="toggleTagSort()" title="Toggle sort order">
+    ⇅
+  </button>
+  <span class="tag-sort-label" id="tagSortLabel">Sort by Count</span>
+</div>
+
+{% assign tags_max = 0 %}
+{% for tag in site.tags %}
+  {% if tag[1].size > tags_max %}
+    {% assign tags_max = tag[1].size %}
+  {% endif %}
+{% endfor %}
+
+{% assign sorted_tags = site.tags | sort %}
+
+<ul class="taxonomy__index" id="tagIndex">
+  {% for tag_item in sorted_tags %}
+    {% assign tag = tag_item[0] %}
+    {% assign posts = tag_item[1] %}
+    <li data-tag="{{ tag }}" data-count="{{ posts.size }}">
+      <a href="#{{ tag | slugify }}">
+        <strong>{{ tag }}</strong> <span class="taxonomy__count">{{ posts.size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+<div id="tagSections">
+  {% for tag_item in sorted_tags %}
+    {% assign tag = tag_item[0] %}
+    {% assign posts = tag_item[1] %}
+    <section id="{{ tag | slugify | downcase }}" class="taxonomy__section" data-tag="{{ tag }}" data-count="{{ posts.size }}">
+      <h2 class="archive__subtitle">{{ tag }}</h2>
+      <div class="entries-{{ page.entries_layout | default: 'list' }}">
+        {% for post in posts %}
+          {% include archive-single.html type=page.entries_layout %}
+        {% endfor %}
+      </div>
+      <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+    </section>
+  {% endfor %}
+</div>
+
+<script>
+let sortByCount = false;
+
+function toggleTagSort() {
+  sortByCount = !sortByCount;
+
+  const btn = document.getElementById('tagSortBtn');
+  const index = document.getElementById('tagIndex');
+  const sections = document.getElementById('tagSections');
+
+  // Sort index items
+  const indexItems = Array.from(index.children);
+  indexItems.sort((a, b) => {
+    if (sortByCount) {
+      // Sort by count (descending)
+      return parseInt(b.dataset.count) - parseInt(a.dataset.count);
+    } else {
+      // Sort alphabetically
+      return a.dataset.tag.localeCompare(b.dataset.tag);
+    }
+  });
+
+  // Re-append in new order
+  indexItems.forEach(item => index.appendChild(item));
+
+  // Sort section items
+  const sectionItems = Array.from(sections.children);
+  sectionItems.sort((a, b) => {
+    if (sortByCount) {
+      // Sort by count (descending)
+      return parseInt(b.dataset.count) - parseInt(a.dataset.count);
+    } else {
+      // Sort alphabetically
+      return a.dataset.tag.localeCompare(b.dataset.tag);
+    }
+  });
+
+  // Re-append in new order
+  sectionItems.forEach(item => sections.appendChild(item));
+
+  // Update label text
+  const label = document.getElementById('tagSortLabel');
+  label.textContent = sortByCount ? 'Sort Alphabetically' : 'Sort by Count';
+}
+</script>

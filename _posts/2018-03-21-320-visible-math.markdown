@@ -1,0 +1,74 @@
+---
+title: "3/20 Visible Math"
+date: 2018-03-21 20:56:00 +0000
+tags:
+  - art
+  - math art
+  - platonic solids
+  - geometry
+author: me
+---
+
+This week started with a walk through of the MathCounts problem that I gave out last week to do at home.
+
+Six standard six-sided dice are rolled, and the sum S is calculated. What is the probability that S × (42 – S ) 
+
+This was the last question in the sprint round at Chapters.  As I remember from the stats almost no one at the entire contest finished it correctly making it the hardest of the set.  I decided this would make for a good communal walk through because so many of the kids had seen it once and it hits a couple of different themes.   However, that's also the weakness of this problem. Conceptually its a bizarre hybrid  of a counting problem and a quadratic inequality neither of which naturally goes with each other.   I actually mentioned this to the kids. The phrase "franken-problem" might have been used.
+
+At any rate, I started with the basics and asked some background questions:
+
+- What is the range of values for the sum of the dice throws?
+- How many total combinations are there for 6 dice throws in a row?  Why?
+- What is the most common sum / what would a probability graph look like?
+
+This part was very approachable and the kids easily supplied various answers. So it was time for the quadratic inequality.  First I asked how many kids knew how to solve this algebraically? (Some of the room have not covered this at all)  It turns out even those kids with Algebra actually used guess and check anyway. There are only 31 values after all and its not too hard to just plug them in and see what happens.  The risk here is missing there is a range at both ends of the curve which I mentioned.
+
+I had one volunteer who brought the equation into almost standard form but no volunteers to finish the process. So I demoed the formal method myself.
+
+- Factor  to:  (S-33)(S-9) > 0
+- Do a parity check: both factors are positive in which case S > 33 or both factors are negative in which case S 
+*This felt new to the room and the work with signs of the inequality also exposed some conceptual weakness. So something to look for more problems to do in another context.*
+
+From here the problem becomes more standard and I had the kids do the case work on numbers of combinations for the 2 ranges.  We've been doing small amounts but could also use more combinatorics exposure.
+
+That covered, I was ready for the fun part of today.  I've been looking at George Hart's  [makingmathvisible.com](http://makingmathvisible.com/) site and was fascinated by some of the constructions. So I chose the sample one: [http://makingmathvisible.com/PaperTriangleBall/PaperTriangleBall.html](http://makingmathvisible.com/PaperTriangleBall/PaperTriangleBall.html) to try out. 
+
+Over the weekend I tested the templates and built my own ball:
+
+![]({{ site.baseurl }}/assets/img/320-visible-math/blogger_a6ab2f63.jpg)
+
+It was a bit tricky, my ball almost fell apart at one time and I misplaced a few triangles leading to a dead end all of which gave me some ideas for how to guide when the kids tried it out.  **Its really important to stress being precise when cutting the slots and also to work together when building the ball out to hold it together.**
+
+Beforehand I pre-printed the templates at a copy shop on 110 lb card stock paper. I also bought some thicker colored card stock which couldn't go through a copy machine and required tracing. I then mostly followed the lesson suggested on George Hart's site. We worked through discovering combinations of 3, 4 and five triangles first before really working as group. It took the kids the entire rest of the hour to build the balls once in white and then again in a multicolored version. 
+
+![]({{ site.baseurl }}/assets/img/320-visible-math/blogger_7f9c09ad.jpg)
+
+![]({{ site.baseurl }}/assets/img/320-visible-math/blogger_4d82c436.jpg)
+
+![]({{ site.baseurl }}/assets/img/320-visible-math/blogger_df778aba.jpg)
+
+![]({{ site.baseurl }}/assets/img/320-visible-math/blogger_5df169df.jpg)
+
+This last one above was the most hard fought version. This group was the least focused and sloppiest cutters. So there were a few weakened triangles in their set. I kept coming over for a bit and helping them move forward with advice for kids to help hold the structure in place etc. But then in between when I went to work with others it tended to collapse.  Finally, I decided I really wanted everyone to achieve success and I should stay in place until they finished. I had them substitute in some borrowed extra triangles from the other groups and basically guided them through the tricky middle stage when the ball is most unstable. They finished right at the end and there was a literal cheer from the group. (I was extremely relieved)
+
+The other groups actually made it through the multi-colored version where I had them try to create a symmetry in their use of color:
+
+![]({{ site.baseurl }}/assets/img/320-visible-math/blogger_ea80af59.jpg)
+
+![]({{ site.baseurl }}/assets/img/320-visible-math/blogger_fcb50469.jpg)
+
+![]({{ site.baseurl }}/assets/img/320-visible-math/blogger_20bbfaaf.jpg)
+
+![]({{ site.baseurl }}/assets/img/320-visible-math/blogger_4537053d.jpg)
+
+I was hoping to have enough time to discuss the extension questions about the combinatoric aspects of the colored balls but we ran the clock down.  As usual for me, I worried about the exact opposite case and had printed out the next template for early finishers which no one needed to use. [http://makingmathvisible.com/PaperSquareBall/PaperSquareBall.html](http://makingmathvisible.com/PaperSquareBall/PaperSquareBall.html)   I'm currently testing this at home.  (Someone has to use the card stock.) Based on that experience the second ball is quite a bit more difficult to assemble and I'd budget much more time for it / prepare for some dexterity challenges.  That said, overall, I highly recommend this project. It was definitely a crowd pleaser!
+
+![]({{ site.baseurl }}/assets/img/320-visible-math/blogger_ed5b98c0.jpg)
+
+(Its a bit like the 2nd death star right now)
+
+P.O.T.W:
+
+This one comes from Matt Enlow and is an interesting number theory experiment.
+
+[https://drive.google.com/open?id=1qIXjtkK-fpe21pFDtr5f0cLa10YABsy5e6n6iIZRLl0](https://drive.google.com/open?id=1qIXjtkK-fpe21pFDtr5f0cLa10YABsy5e6n6iIZRLl0)

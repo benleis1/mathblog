@@ -1,0 +1,32 @@
+---
+title: "1/26 Recycler"
+date: 2016-01-27 03:35:00 +0000
+author: me
+---
+
+It was another good week for participation. I had 8 responses to the problem of the week and almost everyone found the answer. Interestingly, this is officially classified as 7/8th grade but it was very approachable for my kids.
+
+"Determine the smallest perfect square that is greater than 4000 and a multiple of 392"
+This week I had one boy volunteer to demo the solution while we were waiting to go up. (I love that the kids are excited to show off their thinking)  Everyone started by factoring 392. Interestingly, most found the perfect square 7^2 within it but then proceeded to guess and check their way to the solution. This is pretty easy because if you start and multiply 49 by 8^2 you only have to go up through 12^2 before you find the answer double-checking if the square also contains 8 and is thus a multiple of 392.
+
+So if I were revising the problem, I'd push the lower threshold up quite a bit to bring out the emphasis on factoring. The approach I was expecting which no one bothered to do was to multiple one more 2 into 392 so it was a perfect square itself and then just methodically check multiplying it by squares to quickly find 3^2.   I think setting the floor to say 40000 would have encouraged more creative thinking here.
+
+From here, I brought out an activity I found out about from https://mikesmathpage.wordpress.com. Larry Guth's no rectangle puzzle: [activity](https://mikesmathpage.wordpress.com/2015/07/09/larry-guths-no-rectangles-problem/)
+
+The idea is very simple draw a 3x3 grid to start out with and place the most tokens (pente glass beads in my case) on the grid without forming any rectangles.
+
+![]({{ site.baseurl }}/assets/img/126-recycler/blogger_dbbf11ef.jpg)
+
+![]({{ site.baseurl }}/assets/img/126-recycler/blogger_c2609ef8.jpg)
+
+Mike was really excited about the activity and I believe brought it to Math Night at his son's school. I'm happy to report it worked really well for us as well. We spent about 15 minutes experimenting to find a maximum and trying to prove why that was the case. I then went over the pigeon hole principle idea and we did the extension to count how many combinations of layouts there were. Generally my students do not have much exposure to counting problems so I was only able to get them to partially develop this on their own. I was pleased that they knew the multiplication principle of combinations. This is definitely an area I'm planning to work on more in the future. One thought is just to go through some of the material from the AoPS pre-algebra chapter. I'll look around the web more to see if I can get some other source material.
+
+For the back half, this week I decided I wanted to reuse my triangle number worksheet from last year: [triangle-number-worksheet]({% post_url 2015-05-05-triangle-number-worksheet %})
+
+I made two small revisions this time. First  I added the multiple by 8  investigation. Secondly, I switched the graphic out to one that more clearly suggests the geometric interpretation of the general formula.  I was hoping that by stressing that there was a geometric approach out there I could channel the kids who found the pairing strategy to find it. Most of the room found the pairing approach again but the hinting didn't quite work. I did have several kids play with the idea of using the triangle formula direction i.e. 1/2 base * height.  Due to limited time I ended demoing the double triangle approach right before we had to go. If I repeat (and I totally will since I love triangle numbers) I will try to probe why this doesn't work more actively. In fact I may circle back next week to this idea since its an interesting avenue.
+
+Generally what I think is necessary here is just more playful geometry exercises. This is weak point in the curriculum and kids need more exposure to playing with shapes and figures. I plan to do something with Pascal's triangle sometime soon. I'll be very curious to see if the kids can pick out the triangle numbers hiding in its sides.
+
+Also during this exercise I had what the more I think about it was an exciting exchange with one boy who was struggling with the idea of abstraction. About 3 questions down I ask the kids to move from a particular solution for a specific triangle number to a general formula. This idea that the answer was not a number proved more challenging for him.  We talked a bit about what does a function mean, and how can it be an answer in of itself. I'm hoping this was a conceptual breakthrough moment.
+
+Finally, I decided to have the kids investigate the 4x4 and 5x5 grids for the no rectangle problem as the problem of the week. Now I'll have to work out the solution myself before I see them again.

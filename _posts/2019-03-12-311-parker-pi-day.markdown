@@ -1,0 +1,48 @@
+---
+title: "3/11 Parker Pi Day"
+date: 2019-03-12 20:35:00 +0000
+tags:
+  - pi day
+author: me
+---
+
+I've been using Matt Parker's videos on Pi day for several years now:
+
+- [2018 pi-day-1]({% post_url 2018-03-14-313-pi-day-1 %})
+- [2017 pi-day]({% post_url 2017-03-15-314-pi-day %}) 
+- [2016 pi day more-or-less]({% post_url 2016-03-21-315-pi-day-2016-more-or-less %}) 
+- [2015 pi-day-approximately]({% post_url 2015-03-11-310-pi-day-approximately %})
+
+But I was especially amused that this year that his approximation arrived at 3.11... which turns out to line up with exactly when we celebrated in Math club
+
+After my usual stern lecture about minimizing crumbs and streaks of fruit filling we started with some actual pie:
+
+![]({{ site.baseurl }}/assets/img/311-parker-pi-day/blogger_e12fe8dd.jpg)
+
+(Post Spoils)
+
+And then I finally found a reasonable video strategy (I'm now downloading them to a USB stick to get around the internet filters in the school and then reshowing them through the classroom projector) The only hitch is the load time was a bit slow which I didn't realize until the last of the several ones I chose. In the future, I will remember to stick to 1 video and/or preload.  But at any rate, we first watched Matt above which generated a lot of giggles especially around the book mangling sections.
+
+Next I decided to use @hpiccioto's excellent taxi-cab geometry sheet about "taxi - pi"
+
+[https://www.mathed.page/geometry-labs/labs/taxicab-geometry.pdf](https://www.mathed.page/geometry-labs/labs/taxicab-geometry.pdf) as a group activity.  I always bring graph paper anyway which is useful in cases like this:
+
+![]({{ site.baseurl }}/assets/img/311-parker-pi-day/blogger_2a525eb9.jpg)
+
+After about 10 minutes everyone had completed part 1 and mostly calculated taxi-pi's value  so we could briefly talk about it as a group. My main point was that we can think of geometry beyond Euclidean constraints and likewise versions of "pi" exist for many shapes not just circles.
+
+At this point it was time for the  other recent pi related video I really liked from 3blue1brown:
+
+This one is admittedly beyond the kids in terms of the physics so I told them to mostly focus on the conceptual parts.  It was also interestingly during this section that I hit the 5 minute delay loading the video so I went back to the whiteboard and asked some pi basics.
+
+- What are the basic formulas for circle circumference and area?
+- What ratio does pi encode?
+- Why is there a constant like pi?
+- How do we prove rather than show pi exists?
+- How does the area of a circle work?
+
+It turns out I'm glad I had to do this because everyone was very rusty on all of these questions.  Even after having gone over these questions multiple years with some of them myself the very basics cannot be taken for granted. [See prev. years for more detailed arguments on all of these points]   I'm not going to skip starting with this part again next time. And perhaps by itself this is an academic reason to celebrate pi day.
+
+Finally: I ended with another pi themed problem of the week:
+
+[https://www.cemc.uwaterloo.ca/resources/potw/2018-19/English/POTWD-18-MT-NA-22-P.pdf](https://www.cemc.uwaterloo.ca/resources/potw/2018-19/English/POTWD-18-MT-NA-22-P.pdf)

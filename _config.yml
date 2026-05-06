@@ -8,10 +8,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -19,80 +15,128 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Math Off The Grid
-tagline: My mathematical reflections
+tagline: Going off on tangents since 2014
 description: >- # this means to ignore newlines until "baseurl:"
   A blog exploring mathematical concepts and problem-solving techniques for math circles aimed at middle school and highschool
-baseurl: "/mathblog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/mathblog" 
+#url: "https://benleis1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Avatar (logo) - displayed above the blog title in the sidebar
-avatar: /assets/img/icos1.jpg
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mathoffthegrid.net" # the base hostname & protocol for your site, e.g. http://example.com
+
+locale: "en-US"
+
+# Site logo
+logo: "/assets/img/double_cone.png"
 
 # Author information
 author:
   name: Benjamin Leis
+  bio: "Going off on tangents since 2014"
+  location: "Seattle"
   email: benleis1@gmail.com
   links:
-    - https://github.com/benleis1
-
-# Social media
-github:
-  username: benleis1
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mathstodon.xyz/@benleis"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/benleis1"
 
 # Build settings
-theme: jekyll-theme-chirpy
+theme: minimal-mistakes-jekyll
 
-# Collections
-collections:
-  tabs:
-    output: true
-    sort_by: order
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Reading Files
+include:
+  - _pages
 
 # Pagination
 paginate: 10
-paginate_path: "/posts/page:num/"
+paginate_path: /page:num/
+show_excerpts: true
+
+# Excerpt settings
+# excerpt_separator: "\n\n"
 
 # Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-include-cache
 
 # Search
-search:
-  enabled: true
+search: true
+search_full_content: true
 
 jekyll-archives:
-#   enabled: [categories, tags]
-   enabled: [tags]
-   layouts:
-     category: category
-     tag: tag
-   permalinks:
-     category: /categories/:name/
-     tag: /tags/:name/
+  enabled:
+    - tags
+  layouts:
+    tag: archive-taxonomy
+  permalinks:
+    tag: /tags/:name/
+
+# Tag archive pages
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+
+# Social Sharing
+social:
+  type: Person
+  name: Benjamin Leis
+  links:
+    - "https://github.com/benleis1"
+    - "https://mathstodon.xyz/@benleis"
+
+# Social share buttons (only Mastodon and Bluesky)
+social_share:
+  - mastodon
+  - bluesky
+
+# Site Footer
+footer:
+  links:
+    - label: "RSS Feed"
+      icon: "fas fa-fw fa-rss-square"
+      url: "/feed.xml"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mathstodon.xyz/@benleis"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/benleis1"
 
 # Default settings
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: post
-      author: me
+      layout: single
+      author_profile: false
+      read_time: true
       comments: true
+      share: true
+      related: true
       toc: true
-      math: true
-      mermaid: false
+      toc_sticky: true
+      show_date: true
+  # _pages
   - scope:
-      path: ""
-      type: tabs
+      path: "_pages"
+      type: pages
     values:
-      layout: page
-  - scope:
-      path: assets/img/favicons
-    values:
-      swcache: true
+      layout: single
+      author_profile: true
+      wide: true
+
 
 # Exclude from processing
 exclude:
@@ -110,9 +154,26 @@ exclude:
 # Timezone
 timezone: America/New_York
 
+# Kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter_opts:
+    disable: true
+
+# Repository (needed for Minimal Mistakes)
+repository: benleis1/mathblog
+
 # Comments
 comments:
-  provider: utterances
+  provider: "utterances"
   utterances:
-    repo: benleis1/mathblog  # Update with your actual repo name if different
-    issue_term: pathname  # Maps comments to blog post URL path
+    repo: "benleis1/mathblog"
+    issue-term: "pathname"
+    theme: "github-light"
+
+# hookup google analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-FPS94V5QG0" 
+    anonymize_ip: true           # Optional: for better privacy compliance
