@@ -40,6 +40,7 @@ Type the snippet and press tab
 * frontmatter
 * mdimage
 * mdlink
+* mdvideo
 
 ### Using Math
 

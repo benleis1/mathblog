@@ -111,11 +111,11 @@ At this point Dan had to draw more lines to create further relationships and he 
 
 This has added more triangles (we're up to 10 vs 7)  which I've relabeled in the diagram. There still are the original identified 4 relationships which rewritten as follows
 
-$$A_1 + A_2 + A_3 + A_4 + A_5 + A_6 + A_7 + A_8 + A_9 +  C = 1$$
+$$A_1 + A_2 + A_3 + A_4 + A_5 + A_6 + A_7 + A_8 + A_9 + C = 1$$
 
 and the 3 relationships of the form:
 
-$$ 2(A_1 + A_2 + A_3 + A_4) = A_5 + A_6 + A_7 + A_8 = A_9 + C$$
+$$ 2(A_1 + A_2 + A_3 + A_4) = A_5 + A_6 + A_7 + A_8 + A_9 + C$$
 
 What nice is now this now adds on 2 more sets of related triangles.
 
