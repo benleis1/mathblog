@@ -130,3 +130,9 @@ a.ribbon:hover .ribbon-piece {
   -webkit-transform: rotate(25deg);
   transform: rotate(25deg);
 }
+
+.native-width {
+  width: auto;
+  height: auto;
+  max-width: 100%; /* Ensures it doesn't overflow on mobile */
+}
