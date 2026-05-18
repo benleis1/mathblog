@@ -24,7 +24,7 @@ But this isn't entirely satisfying because it basically presumes that answer and
 ## Trying to prove the configuration 
 One of the central things the above process used was the inscribed right angles embedded in the circle at D and G. This seemed like an important part of the solution. I tried out a bunch of variants including adding lines through the center of the circle to middle of the squares and to the outer corners. Nothing seemed to prove that interior angle was 45 like I hoped. So I turned to a different approach: trying to prove uniqueness of the solution and settling for a known solution for existence. 
 
-## The Sprirograph Approach
+## The Spirograph Approach
 Imagine taking the smaller box and rotating it fully around the circle. Because the box is rigid and a fixed length you end up tracing a smaller circle like below
 
 
