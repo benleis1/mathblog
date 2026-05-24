@@ -12,9 +12,9 @@ I just ran into a few very simple extensions of the angle bisector theorem which
 
 ## Sub-segment Lengths
 
-![]({{ site.baseurl }}/assets/img/theres-more-to-the-angle-bisector-theorem/part1.PNG){:width=80%}
+![]({{ site.baseurl }}/assets/img/theres-more-to-the-angle-bisector-theorem/part1.PNG){:width="80%"}
 
-If DB is the angle bisector of triangle ABC and side AC = b, side BC = a and side AB = c
+If d is the angle bisector of a triangle with side lengths a, b and c,
 
 Then   $ m= \dfrac{a \cdot b}{a+c} $ and $ n = \dfrac{b \cdot c}{a+c} $
 
@@ -25,13 +25,13 @@ This is proved as following:
 - Then substitute in n = b - m   to get $ m = (b - m) \dfrac{a}{c} $
 - Solve for m:    $ (1 + \dfrac{a}{c}) \cdot m = \dfrac{ab}{c} $
 
-- That then simplifies to $ m = \dfrac{a \cdot b}{a+c} $ 
+- That then simplifies to $ m = \dfrac{a \cdot b}{a+c} $
 
 ## Bisector Length
 
 A second also useful extension is that we can derive an expression for the bisector BD in terms of  other segments
 
-![]({{ site.baseurl }}/assets/img/theres-more-to-the-angle-bisector-theorem/blogger_b88bc56f.PNG)
+![]({{ site.baseurl }}/assets/img/theres-more-to-the-angle-bisector-theorem/part2.PNG){:width="70%"}
 
 - Let  side AC =  a,   BC = a, BD = d, AC = b AD = b and CD = n as labelled above.
 - Using [Stewart's Theorem](https://en.wikipedia.org/wiki/Stewart%27s_theorem) we get $ a^2 \cdot m + c^2 \cdot n = b (m \cdot n + d^2) $ but this can be simplified.
@@ -44,9 +44,9 @@ $$ d^2 = a \cdot c  -  m \cdot n $$
 
 ## Exterior Angle Bisector Theorem
 
-![]({{ site.baseurl }}/assets/img/theres-more-to-the-angle-bisector-theorem/blogger_8e5053b6.PNG)
+![]({{ site.baseurl }}/assets/img/theres-more-to-the-angle-bisector-theorem/part3.PNG){:width="60%"}
 
-It turns out there is also an exterior angle bisector theorem!  
+It turns out there is also an exterior angle bisector theorem!
 
 - Given a triangle ABC, let angle BAC = x and angle ABC = y.  Then bisect the exterior angle of B as show above and project down to point E.
 - Then create a parallel line AF to BC.
@@ -65,7 +65,7 @@ $\dfrac{d}{a} = \dfrac{b+d}{c}$
 
 Its probably not too surprising that we can apply Stewart's law again and get a formula for all the lengths above:
 
-We start with:  $e^2 \cdot b + c^2 \cdot d = (b + d)(b\cdot d + a^2) $
+We start with Stewart's theorem for $\triangle{ABE}$  --> $e^2 \cdot b + c^2 \cdot d = (b + d)(b\cdot d + a^2) $
 
 - From the ratio above we have $ d = \dfrac{a(b+d)}{c} $
 
