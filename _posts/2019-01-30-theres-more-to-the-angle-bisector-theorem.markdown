@@ -12,7 +12,7 @@ I just ran into a few very simple extensions of the angle bisector theorem which
 
 ## Sub-segment Lengths
 
-![]({{ site.baseurl }}/assets/img/theres-more-to-the-angle-bisector-theorem/blogger_a9b90f3e.PNG)
+![]({{ site.baseurl }}/assets/img/theres-more-to-the-angle-bisector-theorem/part1.PNG){:width=80%}
 
 If DB is the angle bisector of triangle ABC and side AC = b, side BC = a and side AB = c
 
