@@ -4,12 +4,13 @@ date: 2019-01-30 01:45:00 +0000
 tags:
   - angle bisector theorem
   - geometry
+  - stewarts theorem
 author: me
 ---
 
 I just ran into a few very simple extensions of the angle bisector theorem which I've never noticed before. Since I couldn't easily find this anywhere online it seems interesting enough to note here.
 
-Subsegment Lengths
+## Sub-segment Lengths
 
 ![]({{ site.baseurl }}/assets/img/theres-more-to-the-angle-bisector-theorem/blogger_a9b90f3e.PNG)
 
@@ -26,14 +27,14 @@ This is proved as following:
 
 - That then simplifies to $ m = \dfrac{a \cdot b}{a+c} $ 
 
-Bisector Length
+## Bisector Length
 
 A second also useful extension is that we can derive an expression for the bisector BD in terms of  other segments
 
 ![]({{ site.baseurl }}/assets/img/theres-more-to-the-angle-bisector-theorem/blogger_b88bc56f.PNG)
 
 - Let  side AC =  a,   BC = a, BD = d, AC = b AD = b and CD = n as labelled above.
-- Using [Stewart's Theorem](https://en.wikipedia.org/wiki/Stewart%27s_theorem) we get $ a^2 \cdot m + c^2 \cdot n = b (m \cdot n + d^2) $ but this can simplified.
+- Using [Stewart's Theorem](https://en.wikipedia.org/wiki/Stewart%27s_theorem) we get $ a^2 \cdot m + c^2 \cdot n = b (m \cdot n + d^2) $ but this can be simplified.
 - From the angle bisector theorem $ a = \dfrac{cn}{m} $ and $ c  = \dfrac{am}{n} $
 - Substituting those into the left hand side we get:  $ acn + acm = b (m \cdot n + d^2) $
 - Combine:   $ acn + acm  = (m + n)ac = abc $
@@ -41,7 +42,7 @@ A second also useful extension is that we can derive an expression for the bisec
 
 $$ d^2 = a \cdot c  -  m \cdot n $$
 
-Exterior Angle Bisector Theorem
+## Exterior Angle Bisector Theorem
 
 ![]({{ site.baseurl }}/assets/img/theres-more-to-the-angle-bisector-theorem/blogger_8e5053b6.PNG)
 
@@ -60,7 +61,7 @@ So Triangle ABF turns out to be isosceles and AF = AB = c.  Since triangle AFE 
 
 $\dfrac{d}{a} = \dfrac{b+d}{c}$
 
-Exterior Bisector Lengths
+## Exterior Bisector Lengths
 
 Its probably not too surprising that we can apply Stewart's law again and get a formula for all the lengths above:
 
