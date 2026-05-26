@@ -5,7 +5,11 @@ toc: true
 author_profile: false
 permalink: /resources/
 ---
-## Problem Sets
+## My Collected Problems
+Historically, I've kept copies of problems I like although I've had issues with broken images over time. The current set is
+here: [Current Problems Link]({% link _pages/problems-5.md %})
+
+## Third Party Problem Sets
 
 **MOEMS past tests.**
 <http://www.moems.org>
