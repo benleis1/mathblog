@@ -19,6 +19,7 @@ permalink: /problems-5/
 <style>
   .notes {
       display: none;
+	  white-space: pre-wrap;
   }
 </style>
 
@@ -268,3 +269,12 @@ ABCD is a paralellogram. Prove that if the areas of the red regions are equal, t
 Find all the solutions to the following equation
 $$3^x \cdot 2^{\frac{x}{x+2}} = 6$$
 
+## Number Theory [**]
+
+Find all positive integers such that $x^4 - 38x^2 + 169$ is prime
+
+<div class="notes">
+* Factorize into the form $(x^2 +ax +b)(x^2 + cx + d)$
+* One of the factors must be 1 for the whole expression to be prime.
+
+</div>
