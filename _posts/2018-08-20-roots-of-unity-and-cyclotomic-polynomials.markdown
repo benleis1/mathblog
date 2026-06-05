@@ -15,7 +15,9 @@ for this post I wanted to record my hopefully simpler conceptual framework.
   
 ## Motivation
 
-Factor:  $ x^6 - 1$ 
+<div class="boxed">
+Factor:  $ x^6 - 1$
+</div>
 
 I don't remember when I first saw this  question but what was interesting about it was there were two paths.
 
@@ -58,10 +60,6 @@ $x^6 - 1 = (x^3)^2 - 1 = (x^3 - 1)(x^3 + 1) = (x - 1)(x^2 + x + 1)(x + 1)(x^2- x
   Solutions: $ (1,0), (-1,0) $
 
   
-
-  
-
-  
   ![]({{ site.baseurl }}/assets/img/roots-of-unity-and-cyclotomic-polynomials/blogger_93d4d322.PNG)
   
   
@@ -97,15 +95,15 @@ The reason for the symmetry and spacing comes directly from [De Moivre's Theore
 $(\cos(x) + i \sin(x))^n = \cos(nx) + i \sin(nx) $
   
     
-Consider sets of the form $ 2 \pi $ divided into n equal segments i.e. :$ 0, 1 \cdot \frac{2 \pi}{n},  2 \cdot \frac{2 \pi}{n}, 3 \cdot \frac{2 \pi}{n} $ ... $ (n-2) \cdot \frac{2 \pi}{n} , (n-1) \cdot  \frac{2 \pi}{n} $
+Consider a unit circle with a circumference $ 2 \pi $ divided into n equal segments and a point at:  $0, 1 \cdot \frac{2 \pi}{n},  2 \cdot \frac{2 \pi}{n}, 3 \cdot \frac{2 \pi}{n} $ ... $ (n-2) \cdot \frac{2 \pi}{n} , (n-1) \cdot  \frac{2 \pi}{n} $
 
     
-When you apply De Moivre's theorem to each of these element raised to the nth power you get:
+When you apply De Moivre's theorem to each of these elements raised to the nth power you get:
 
 $ 1, \cos(2 \pi )  + i sin (2 \pi),   \cos(4 \pi )  + i sin
     (4 \pi) ... \cos((2n-1) \cdot 2 \pi )  + i sin ((2n - 1) \cdot2 \pi$
 
-and since the trigonometric are cyclic with period $ 2 \pi $ these are all
+and since the trigonometric functions are cyclic with period $ 2 \pi $ these are all
 equivalent and equal to 1.
 
     
@@ -143,8 +141,8 @@ One way to visualize this fact is to just add the vectors that comprise roots up
     
 
 Example: The circle with 7th roots of unity is in the lower part of the
-    picture. Starting from point A or the trivial root of 1 I've added the the
-    other ones in green (B,C etc)  and reformed another heptagon.  One
+    picture. Starting from point A or the trivial root of 1 I've added the vectors to
+    other ones in green (B maps to H, C maps to I etc)  and reformed another heptagon.  One
     interesting and general result that's apparent from this is that apex of the
     heptagon is at x = 1/2.
 

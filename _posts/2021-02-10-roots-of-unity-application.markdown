@@ -15,7 +15,7 @@ One of my first thoughts on seeing a problem like this is this must involves roo
   quadrants 1 and 2 as shown below: Each of these points is an 2nth root of unity
   i.e. satisfies the equation $x^{2n} = 1 $
 
-  ![]({{ site.baseurl }}/assets/img/roots-of-unity-application/blogger_20859625.PNG)
+![]({{ site.baseurl }}/assets/img/roots-of-unity-application/blogger_20859625.PNG)
 
   We know a lot about how to manipulate the complex roots but less about
   individual parts like the sin so first we're going to take advantage of the
@@ -24,7 +24,7 @@ One of my first thoughts on seeing a problem like this is this must involves roo
    Note: geometrically the conjugates are just the reflections across the
   horizontal access.
 
-  ![]({{ site.baseurl }}/assets/img/roots-of-unity-application/blogger_568bcec5.PNG)
+![]({{ site.baseurl }}/assets/img/roots-of-unity-application/blogger_568bcec5.PNG)
 
 $   \omega = \cos \theta + i \sin \theta $
 $ \overline{\omega} = \cos \theta -  i \sin \theta $
