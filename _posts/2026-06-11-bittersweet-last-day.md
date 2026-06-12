@@ -42,3 +42,7 @@ Also last week I judged at the UW Math Olympiad which was a first for me.  Overa
 # Summer
 
 I have nothing particular, mathwise planned for the Summer. As I said above, I know I will be eager to jump back in by the Fall but I'm hoping to find interesting topics to blog here now that I have things up and running again on Jekyll+github
+
+![]({{ site.baseurl }}/assets/img/last-day/gift.jpg ){:width="30%"}
+	
+	Puzzle Box that I gave out to everyone. These went over surprisingly well.
