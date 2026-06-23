@@ -1,7 +1,7 @@
 ---
 title: "Focal chords in a parabola"
 date: 2026-06-23
-tags: [parabola]
+tags: [parabola, directrix, focus]
 author: me
 math: true
 ---

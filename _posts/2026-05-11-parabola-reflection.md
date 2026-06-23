@@ -1,7 +1,7 @@
 ---
 title: "Reflective Property of a Parabola"
 date: 2026-05-11
-tags: [parabola, reflection]
+tags: [parabola, reflection, directrix, focus]
 author: me
 math: true
 ---
