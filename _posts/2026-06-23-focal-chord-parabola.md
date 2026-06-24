@@ -21,7 +21,7 @@ So to start let's graph out the basic layout.
 
 * We have a chord AB that goes through the focus at F.
 * I've added in the segments DF and CF from the focus to the perpendiculars and the perpendicular bisectors of both segments which are the respective tangents to A and B.
-* Also from the definition of a parabola, AF = AD and BF = DC.
+* Also from the definition of a parabola, AF = AD and BF = BC.
 
 # Initial angle chase
 
