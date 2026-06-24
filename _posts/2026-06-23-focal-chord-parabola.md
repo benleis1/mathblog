@@ -8,7 +8,7 @@ math: true
 # Intro
 The following problem came up on reddit:
 
-> Show that the lines tangent to the parabola at the ends of a focal chord intersect at right angles.
+> Show that the lines tangent to the parabola at the ends of a focal chord intersect at right angles on the directrix.
 	
 This has a nice proof based on the groundwork from [post]({% post_url 2026-05-11-parabola-reflection %}){:width="60%"}
 
