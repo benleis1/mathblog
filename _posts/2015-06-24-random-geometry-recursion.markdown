@@ -1,9 +1,7 @@
 ---
 title: "Random Geometry Recursion"
 date: 2015-06-24 18:41:00 +0000
-tags:
-  - digression
-  - geometry
+tags: [digression, geometry]
 author: me
 ---
 

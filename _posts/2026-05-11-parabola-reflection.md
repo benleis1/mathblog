@@ -5,6 +5,7 @@ tags: [parabola, reflection, directrix, focus]
 author: me
 math: true
 ---
+# Reflective Property of a Parabola
 ![]({{ site.baseurl }}/assets/img/parabola-reflect/reflection.png )
 
 We've been going the reflective property for a parabola in class and I wanted to make my own  diagram to illustrate a few nice points (and all without calculus).

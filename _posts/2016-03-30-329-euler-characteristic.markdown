@@ -2,7 +2,7 @@
 title: "3/29 Euler Characteristic"
 date: 2016-03-30 03:51:00 +0000
 tags:
-  - euler characcteristic
+  - euler characteristic
 author: me
 ---
 
