@@ -11,7 +11,6 @@ As the curriculum sequence is normally presented, we don't usually consider tang
 <p/>
 Our test parabola $ 2x^2 + 3x + 2$ and the point P at $(-\frac{1}{2},1)$
 
-
 # Algebra
 
 With only the tools from Algebra I, we can already attack this problem.
