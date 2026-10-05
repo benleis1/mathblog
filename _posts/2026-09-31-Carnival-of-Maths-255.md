@@ -13,7 +13,7 @@ math: true
 Welcome to the 255th Carnival of Mathematics  For all the other carnivals future and past, visit [The Aperiodical ](https://aperiodical.com/carnival-of-mathematics/)where you can also submit future posts. . I'm really excited to be hosting again after a several year gap on my newly re-platformed blog.  As is traditional, let's start with a few facts about 255 courtesy of the Wikipedia.
 
 * Its factorization makes it a [sphenic number](https://en.wikipedia.org/wiki/Sphenic_number) .
-* Since 255 = 28 – 1, it is a [Mersenne number](https://en.wikipedia.org/wiki/Mersenne_number) (though not a pernicious one), and the fifth such number not to be a prime number.
+* Since $$255 = 2^8 – 1$$, it is a [Mersenne number](https://en.wikipedia.org/wiki/Mersenne_number) (though not a pernicious one), and the fifth such number not to be a prime number.
 * It is a [perfect totient number](https://en.wikipedia.org/wiki/Perfect_totient_number),  the smallest such number to be neither a power of three nor thrice a prime.
 * Since 255 is the product of the first three Fermat primes, the regular 255-gon is constructible.
 
@@ -157,7 +157,7 @@ fictionalized." [Link](https://www.johndcook.com/blog/2026/09/22/nathaniel-bowdi
 
 # Epilogue
 
-Thanks for reading this month. In a fraught moment i n human history this has been a welcome distraction compiling.
+Thanks for reading this month. In a fraught moment in human history it has been a welcome distraction compiling all of this cool mathematics.
 
 
 
